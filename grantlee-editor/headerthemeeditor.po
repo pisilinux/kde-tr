@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-27 03:06+0100\n"
+"POT-Creation-Date: 2021-04-23 00:19+0000\n"
 "PO-Revision-Date: 2017-06-19 12:02+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -44,28 +44,28 @@ msgstr "&Düzenle"
 msgid "&Display"
 msgstr "&Görüntüle"
 
-#: main.cpp:31
+#: main.cpp:36
 #, kde-format
 msgid "Header Theme Editor"
 msgstr "Başlık Tema Düzenleyici"
 
-#: main.cpp:33
+#: main.cpp:38
 #, kde-format
 msgid "Messageviewer Header Theme Editor"
 msgstr "Messageviewer Başlık Teması Düzenleyicisi"
 
-#: main.cpp:35
+#: main.cpp:40
 #, fuzzy, kde-format
 #| msgid "Copyright © 2013-2017 headerthemeeditor authors"
 msgid "Copyright © 2013-2021 headerthemeeditor authors"
 msgstr "Telif Hakkı © 2013, -2017 headerthemeeditor yazarları"
 
-#: main.cpp:36
+#: main.cpp:41
 #, kde-format
 msgid "Laurent Montel"
 msgstr "Laurent Montel"
 
-#: main.cpp:36
+#: main.cpp:41
 #, kde-format
 msgid "Maintainer"
 msgstr "Projeyi Yürüten"

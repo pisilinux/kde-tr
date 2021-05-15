@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2021-01-03 02:29+0100\n"
+"POT-Creation-Date: 2021-05-15 00:18+0000\n"
 "PO-Revision-Date: 2015-05-19 10:17+0000\n"
 "Last-Translator: Necdet <necdetyucel@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -54,31 +54,29 @@ msgstr "Birçok efekt ve geçiş."
 msgid "Color scopes"
 msgstr "Renk kapsamları"
 
-#. (itstool) path: ul/li
-#: org.kde.kdenlive.appdata.xml:15
-msgid "Basic DVD Wizard"
-msgstr "Temel DVD Sihirbazı"
-
 #. (itstool) path: screenshot/caption
-#: org.kde.kdenlive.appdata.xml:30
+#: org.kde.kdenlive.appdata.xml:29
 #, fuzzy
 #| msgid "Kdenlive"
 msgid "Kdenlive Timeline"
 msgstr "Kdenlive"
 
 #. (itstool) path: screenshot/caption
-#: org.kde.kdenlive.appdata.xml:34
+#: org.kde.kdenlive.appdata.xml:33
 #, fuzzy
 #| msgid "Kdenlive"
 msgid "Kdenlive Audio Adjustments"
 msgstr "Kdenlive"
 
 #. (itstool) path: screenshot/caption
-#: org.kde.kdenlive.appdata.xml:38
+#: org.kde.kdenlive.appdata.xml:37
 #, fuzzy
 #| msgid "Kdenlive"
 msgid "Kdenlive Effects"
 msgstr "Kdenlive"
+
+#~ msgid "Basic DVD Wizard"
+#~ msgstr "Temel DVD Sihirbazı"
 
 #, fuzzy
 #~| msgid "Kdenlive"

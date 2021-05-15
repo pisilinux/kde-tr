@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-multimedia-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-20 00:38+0000\n"
+"POT-Creation-Date: 2021-05-04 00:27+0000\n"
 "PO-Revision-Date: 2015-05-18 21:56+0000\n"
 "Last-Translator: Necdet <necdetyucel@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/extragear-"
@@ -31,7 +31,7 @@ msgctxt "GenericName"
 msgid "Camera"
 msgstr "Kamera"
 
-#: src/org.kde.kamoso.desktop:91
+#: src/org.kde.kamoso.desktop:92
 msgctxt "Comment"
 msgid "Use your webcam to take pictures or make videos"
 msgstr "Web kameranızı fotoğraf çekmek ve videolar oluşturmak için kullanın"

@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeutils-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-18 00:39+0000\n"
+"POT-Creation-Date: 2021-04-21 12:58+0000\n"
 "PO-Revision-Date: 2014-06-08 14:02+0000\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/kdeutils-k-tr/"
@@ -29,12 +29,12 @@ msgctxt "Name"
 msgid "Filelight"
 msgstr "Filelight"
 
-#: misc/org.kde.filelight.desktop:59
+#: misc/org.kde.filelight.desktop:60
 msgctxt "GenericName"
 msgid "Disk Usage Statistics"
 msgstr "Disk Kullanımı İstatistikleri"
 
-#: misc/org.kde.filelight.desktop:117
+#: misc/org.kde.filelight.desktop:118
 msgctxt "Comment"
 msgid "View disk usage information"
 msgstr "Disk kullanımını görüntüle"

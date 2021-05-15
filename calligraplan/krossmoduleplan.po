@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calligra-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-18 08:40+0100\n"
+"POT-Creation-Date: 2020-10-16 02:21+0200\n"
 "PO-Revision-Date: 2015-02-08 13:35+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -40,17 +40,17 @@ msgctxt "(qtundo-format)"
 msgid "Add external appointment"
 msgstr "Dış atama ekle"
 
-#: Project.cpp:650 Project.cpp:657
+#: Project.cpp:650 Project.cpp:658
 msgctxt "(qtundo-format)"
 msgid "Clear external appointments"
 msgstr "Dış atamayı temizle"
 
-#: Project.cpp:664
+#: Project.cpp:665
 msgctxt "(qtundo-format)"
 msgid "Clear all external appointments"
 msgstr "Dış atamaların tümünü temizle"
 
-#: Resource.cpp:102
+#: Resource.cpp:104
 msgctxt "(qtundo-format)"
 msgid "Set resource team members"
 msgstr "Kaynağın takım üyelerini ayarla"

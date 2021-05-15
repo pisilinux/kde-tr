@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.gcompris.appdata\n"
-"POT-Creation-Date: 2019-11-07 07:46+0100\n"
+"POT-Creation-Date: 2019-06-03 02:42+0200\n"
 "PO-Revision-Date: 2017-07-31 15:22+0000\n"
 "Last-Translator: Mesutcan <mesutcank@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"

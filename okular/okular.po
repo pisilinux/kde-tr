@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdegraphics-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-07 01:41+0000\n"
+"POT-Creation-Date: 2021-05-11 00:18+0000\n"
 "PO-Revision-Date: 2017-10-23 08:39+0000\n"
 "Last-Translator: İşbaran <isbaran@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -42,7 +42,7 @@ msgstr ""
 "tulliana@gmail.com, gorkem@kde.org, kaya@kuzeykutbu.org, "
 "ayhanyalcinsoy@gmail.com, volkangezer@gmail.com"
 
-#: aboutdata.h:22 part/annotationwidgets.cpp:425
+#: aboutdata.h:22 part/annotationwidgets.cpp:424
 #, kde-format
 msgid "Okular"
 msgstr "Okular"
@@ -351,7 +351,7 @@ msgstr ""
 msgid "The page print size is invalid"
 msgstr "Sayfa yazdırma boyutu"
 
-#: core/document.cpp:4918 part/part.cpp:1104
+#: core/document.cpp:4918 part/part.cpp:1105
 #, kde-format
 msgid "Could not open '%1'. File does not exist"
 msgstr "'%1' açılamadı. Dosya yok"
@@ -567,117 +567,117 @@ msgstr "Kaynak: %1"
 msgid "&Default Font:"
 msgstr "&Öntanımlı Yazı Tipi:"
 
-#: part/annotationactionhandler.cpp:137
+#: part/annotationactionhandler.cpp:146
 #, fuzzy, kde-format
 #| msgid "Red"
 msgctxt "@item:inlistbox Color name"
 msgid "Red"
 msgstr "Kırmızı"
 
-#: part/annotationactionhandler.cpp:138
+#: part/annotationactionhandler.cpp:147
 #, kde-format
 msgctxt "@item:inlistbox Color name"
 msgid "Orange"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:139
+#: part/annotationactionhandler.cpp:148
 #, fuzzy, kde-format
 #| msgid "Yellow"
 msgctxt "@item:inlistbox Color name"
 msgid "Yellow"
 msgstr "Sarı"
 
-#: part/annotationactionhandler.cpp:140
+#: part/annotationactionhandler.cpp:149
 #, fuzzy, kde-format
 #| msgid "Green"
 msgctxt "@item:inlistbox Color name"
 msgid "Green"
 msgstr "Yeşil"
 
-#: part/annotationactionhandler.cpp:141
+#: part/annotationactionhandler.cpp:150
 #, kde-format
 msgctxt "@item:inlistbox Color name"
 msgid "Cyan"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:142
+#: part/annotationactionhandler.cpp:151
 #, fuzzy, kde-format
 #| msgid "Blue"
 msgctxt "@item:inlistbox Color name"
 msgid "Blue"
 msgstr "Mavi"
 
-#: part/annotationactionhandler.cpp:143
+#: part/annotationactionhandler.cpp:152
 #, kde-format
 msgctxt "@item:inlistbox Color name"
 msgid "Magenta"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:144
+#: part/annotationactionhandler.cpp:153
 #, fuzzy, kde-format
 #| msgid "White"
 msgctxt "@item:inlistbox Color name"
 msgid "White"
 msgstr "Beyaz"
 
-#: part/annotationactionhandler.cpp:145
+#: part/annotationactionhandler.cpp:154
 #, kde-format
 msgctxt "@item:inlistbox Color name"
 msgid "Gray"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:146
+#: part/annotationactionhandler.cpp:155
 #, fuzzy, kde-format
 #| msgid "Black"
 msgctxt "@item:inlistbox Color name"
 msgid "Black"
 msgstr "Siyah"
 
-#: part/annotationactionhandler.cpp:235 part/annotationactionhandler.cpp:626
+#: part/annotationactionhandler.cpp:244 part/annotationactionhandler.cpp:692
 #, fuzzy, kde-format
 #| msgid "&Pen Width:"
 msgctxt "@item:inlistbox"
 msgid "Width %1"
 msgstr "&Kalem Genişliği:"
 
-#: part/annotationactionhandler.cpp:241
+#: part/annotationactionhandler.cpp:250
 #, fuzzy, kde-format
 #| msgid "%1:"
 msgctxt "@item:inlistbox"
 msgid "%1%"
 msgstr "%1:"
 
-#: part/annotationactionhandler.cpp:285
+#: part/annotationactionhandler.cpp:294
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Annotation line width (No annotation selected)"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:286
+#: part/annotationactionhandler.cpp:295
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Annotation color (No annotation selected)"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:287
+#: part/annotationactionhandler.cpp:296
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Annotation fill color (No annotation selected)"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:288
+#: part/annotationactionhandler.cpp:297
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Annotation opacity (No annotation selected)"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:289
+#: part/annotationactionhandler.cpp:298
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Annotation font (No annotation selected)"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:290
+#: part/annotationactionhandler.cpp:299
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -685,7 +685,7 @@ msgid ""
 "selected)"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:291
+#: part/annotationactionhandler.cpp:300
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -693,61 +693,61 @@ msgid ""
 "selected)"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:292
+#: part/annotationactionhandler.cpp:301
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
 "Advanced settings for the current annotation tool (No annotation selected)"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:297
+#: part/annotationactionhandler.cpp:306
 #, fuzzy, kde-format
 #| msgid "Annotation Options"
 msgctxt "@info:tooltip"
 msgid "Annotation line width"
 msgstr "Bilgi Notu Seçenekleri"
 
-#: part/annotationactionhandler.cpp:299
+#: part/annotationactionhandler.cpp:308
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Annotation line width (Current annotation has no line width)"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:303
+#: part/annotationactionhandler.cpp:312
 #, fuzzy, kde-format
 #| msgid "Annotation tools"
 msgctxt "@info:tooltip"
 msgid "Annotation text color"
 msgstr "Bilgi notu araçları"
 
-#: part/annotationactionhandler.cpp:305
+#: part/annotationactionhandler.cpp:314
 #, fuzzy, kde-format
 #| msgid "Annotation tools"
 msgctxt "@info:tooltip"
 msgid "Annotation border color"
 msgstr "Bilgi notu araçları"
 
-#: part/annotationactionhandler.cpp:307
+#: part/annotationactionhandler.cpp:316
 #, fuzzy, kde-format
 #| msgid "Annotation tools"
 msgctxt "@info:tooltip"
 msgid "Annotation color"
 msgstr "Bilgi notu araçları"
 
-#: part/annotationactionhandler.cpp:311
+#: part/annotationactionhandler.cpp:320
 #, fuzzy, kde-format
 #| msgid "Annotation tools"
 msgctxt "@info:tooltip"
 msgid "Annotation fill color"
 msgstr "Bilgi notu araçları"
 
-#: part/annotationactionhandler.cpp:313
+#: part/annotationactionhandler.cpp:322
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Annotation fill color (Current annotation has no fill color)"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:317
+#: part/annotationactionhandler.cpp:326
 #, fuzzy, kde-format
 #| msgid "Annotation"
 #| msgid_plural "%1 Annotations"
@@ -755,25 +755,25 @@ msgctxt "@info:tooltip"
 msgid "Annotation font"
 msgstr "%1 Bilgi notu"
 
-#: part/annotationactionhandler.cpp:319
+#: part/annotationactionhandler.cpp:328
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Annotation font (Current annotation has no font)"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:323
+#: part/annotationactionhandler.cpp:332
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Constrain line angle to 15° steps"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:325
+#: part/annotationactionhandler.cpp:334
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Constrain shape ratio to 1:1"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:327
+#: part/annotationactionhandler.cpp:336
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -781,52 +781,59 @@ msgid ""
 "current annotation)"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:330
+#: part/annotationactionhandler.cpp:339
 #, fuzzy, kde-format
 #| msgid "Annotation Options"
 msgctxt "@info:tooltip"
 msgid "Annotation opacity"
 msgstr "Bilgi Notu Seçenekleri"
 
-#: part/annotationactionhandler.cpp:331
+#: part/annotationactionhandler.cpp:340
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Add the current annotation to the quick annotations menu"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:332
+#: part/annotationactionhandler.cpp:341
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Advanced settings for the current annotation tool"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:383
+#: part/annotationactionhandler.cpp:419
 #, fuzzy, kde-format
 #| msgid "Color:"
 msgctxt "@action:intoolbar Current annotation config option"
 msgid "Color"
 msgstr "Renk:"
 
-#: part/annotationactionhandler.cpp:385
+#: part/annotationactionhandler.cpp:421
 #, fuzzy, kde-format
 #| msgid "Color:"
 msgctxt "@action:intoolbar Current annotation config option"
 msgid "Fill Color"
 msgstr "Renk:"
 
-#: part/annotationactionhandler.cpp:386
+#: part/annotationactionhandler.cpp:422
 #, kde-format
 msgctxt "@item:inlistbox Color name"
 msgid "Transparent"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:396
+#: part/annotationactionhandler.cpp:432
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Custom Color..."
 msgstr ""
 
-#: part/annotationactionhandler.cpp:432
+#: part/annotationactionhandler.cpp:489
+#, fuzzy, kde-format
+#| msgid "&Selection Tool"
+msgctxt "@title:window"
+msgid "Select color"
+msgstr "&Seçim Aracı"
+
+#: part/annotationactionhandler.cpp:536
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -834,150 +841,150 @@ msgid ""
 "Okular"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:432
+#: part/annotationactionhandler.cpp:536
 #, fuzzy, kde-format
 #| msgid "Experimental"
 msgctxt "@title:window"
 msgid "Experimental feature"
 msgstr "Deneysel"
 
-#: part/annotationactionhandler.cpp:477
-#, fuzzy, kde-format
-#| msgid "&Selection Tool"
-msgctxt "@title:window"
-msgid "Select color"
-msgstr "&Seçim Aracı"
-
-#: part/annotationactionhandler.cpp:515
+#: part/annotationactionhandler.cpp:546
 #, fuzzy, kde-format
 #| msgid "Annotations"
 msgid "&Annotations"
 msgstr "Bilgi Notları"
 
-#: part/annotationactionhandler.cpp:516
+#: part/annotationactionhandler.cpp:547
 #, kde-format
 msgctxt "@action:intoolbar Hide the toolbar"
 msgid "Hide"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:520
+#: part/annotationactionhandler.cpp:549
+#, fuzzy, kde-format
+#| msgid "Create annotation tool"
+msgctxt "@action:intoolbar Show the builtin annotation toolbar"
+msgid "Show more annotation tools"
+msgstr "Bilgi notu aracı oluştur"
+
+#: part/annotationactionhandler.cpp:554
 #, fuzzy, kde-format
 #| msgid "Highlighter"
 msgctxt "@action:intoolbar Annotation tool"
 msgid "Highlighter"
 msgstr "Vurgulayıcı"
 
-#: part/annotationactionhandler.cpp:521
+#: part/annotationactionhandler.cpp:555
 #, fuzzy, kde-format
 #| msgid "Underline"
 msgctxt "@action:intoolbar Annotation tool"
 msgid "Underline"
 msgstr "Altı çizili"
 
-#: part/annotationactionhandler.cpp:522
+#: part/annotationactionhandler.cpp:556
 #, fuzzy, kde-format
 #| msgid "Squiggle"
 msgctxt "@action:intoolbar Annotation tool"
 msgid "Squiggle"
 msgstr "Eğri"
 
-#: part/annotationactionhandler.cpp:523
+#: part/annotationactionhandler.cpp:557
 #, fuzzy, kde-format
 #| msgid "Strike Out"
 msgctxt "@action:intoolbar Annotation tool"
 msgid "Strike Out"
 msgstr "Üzeri çizili"
 
-#: part/annotationactionhandler.cpp:525
+#: part/annotationactionhandler.cpp:559
 #, fuzzy, kde-format
 #| msgid "Caret Properties"
 msgctxt "@action:intoolbar Annotation tool"
 msgid "Typewriter"
 msgstr "Düzeltme Özellikleri"
 
-#: part/annotationactionhandler.cpp:526
+#: part/annotationactionhandler.cpp:560
 #, fuzzy, kde-format
 #| msgid "Inline Note"
 msgctxt "@action:intoolbar Annotation tool"
 msgid "Inline Note"
 msgstr "İç Not"
 
-#: part/annotationactionhandler.cpp:527
+#: part/annotationactionhandler.cpp:561
 #, fuzzy, kde-format
 #| msgid "Pop-up Note"
 msgctxt "@action:intoolbar Annotation tool"
 msgid "Popup Note"
 msgstr "Açılabilir Not"
 
-#: part/annotationactionhandler.cpp:528
+#: part/annotationactionhandler.cpp:562
 #, fuzzy, kde-format
 #| msgid "Freehand Line"
 msgctxt "@action:intoolbar Annotation tool"
 msgid "Freehand Line"
 msgstr "Serbest Çizim Çizgisi"
 
-#: part/annotationactionhandler.cpp:530
+#: part/annotationactionhandler.cpp:564
 #, fuzzy, kde-format
 #| msgid "Straight Line"
 msgctxt "@action:intoolbar Annotation tool"
 msgid "Straight line"
 msgstr "Düz Çizgi"
 
-#: part/annotationactionhandler.cpp:531
+#: part/annotationactionhandler.cpp:565
 #, kde-format
 msgctxt "@action:intoolbar Annotation tool"
 msgid "Arrow"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:532
+#: part/annotationactionhandler.cpp:566
 #, fuzzy, kde-format
 #| msgid "Rectangle"
 msgctxt "@action:intoolbar Annotation tool"
 msgid "Rectangle"
 msgstr "Dikdörtgen"
 
-#: part/annotationactionhandler.cpp:533
+#: part/annotationactionhandler.cpp:567
 #, fuzzy, kde-format
 #| msgid "Ellipse"
 msgctxt "@action:intoolbar Annotation tool"
 msgid "Ellipse"
 msgstr "Elips"
 
-#: part/annotationactionhandler.cpp:534
+#: part/annotationactionhandler.cpp:568
 #, fuzzy, kde-format
 #| msgid "Polygon"
 msgctxt "@action:intoolbar Annotation tool"
 msgid "Polygon"
 msgstr "Çokgen"
 
-#: part/annotationactionhandler.cpp:536
+#: part/annotationactionhandler.cpp:569
 #, fuzzy, kde-format
 #| msgid "Geometrical shape"
 msgctxt "@action"
 msgid "Geometrical shapes"
 msgstr "Geometrik şekil"
 
-#: part/annotationactionhandler.cpp:580
+#: part/annotationactionhandler.cpp:619
 #, fuzzy, kde-format
 #| msgid "Stamp"
 msgctxt "@action"
 msgid "Stamp"
 msgstr "Damga"
 
-#: part/annotationactionhandler.cpp:597
+#: part/annotationactionhandler.cpp:643
 #, fuzzy, kde-format
 #| msgid "Annotations"
 msgctxt "@action:intoolbar Show list of quick annotation tools"
 msgid "Quick Annotations"
 msgstr "Bilgi Notları"
 
-#: part/annotationactionhandler.cpp:598
+#: part/annotationactionhandler.cpp:651
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Choose an annotation tool from the quick annotations"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:604
+#: part/annotationactionhandler.cpp:670
 #, fuzzy, kde-format
 #| msgctxt "Add an annotation to the page"
 #| msgid "add annotation"
@@ -986,7 +993,7 @@ msgctxt ""
 msgid "Add to Quick Annotations"
 msgstr "bilgi notu ekle"
 
-#: part/annotationactionhandler.cpp:607
+#: part/annotationactionhandler.cpp:673
 #, kde-format
 msgctxt ""
 "@action:intoolbar When checked keep the current annotation tool active after "
@@ -994,14 +1001,14 @@ msgctxt ""
 msgid "Keep Active"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:608
+#: part/annotationactionhandler.cpp:674
 #, fuzzy, kde-format
 #| msgid "Create annotation tool"
 msgctxt "@info:tooltip"
 msgid "Keep the annotation tool active after use"
 msgstr "Bilgi notu aracı oluştur"
 
-#: part/annotationactionhandler.cpp:613
+#: part/annotationactionhandler.cpp:679
 #, kde-format
 msgctxt ""
 "@action When checked, line annotations are constrained to 15° steps, shape "
@@ -1009,35 +1016,35 @@ msgctxt ""
 msgid "Constrain Ratio and Angle of Annotation Tools"
 msgstr ""
 
-#: part/annotationactionhandler.cpp:619
+#: part/annotationactionhandler.cpp:685
 #, fuzzy, kde-format
 #| msgid "Font:"
 msgctxt "@action:intoolbar Current annotation config option"
 msgid "Font"
 msgstr "Yazı tipi:"
 
-#: part/annotationactionhandler.cpp:620
+#: part/annotationactionhandler.cpp:686
 #, fuzzy, kde-format
 #| msgid "Annotation Options"
 msgctxt "@action:intoolbar Current annotation advanced settings"
 msgid "Annotation Settings"
 msgstr "Bilgi Notu Seçenekleri"
 
-#: part/annotationactionhandler.cpp:623
+#: part/annotationactionhandler.cpp:689
 #, fuzzy, kde-format
 #| msgid "Fit Width"
 msgctxt "@action:intoolbar Current annotation config option"
 msgid "Line width"
 msgstr "Genişliğe Sığdır"
 
-#: part/annotationactionhandler.cpp:632
+#: part/annotationactionhandler.cpp:698
 #, fuzzy, kde-format
 #| msgid "&Opacity:"
 msgctxt "@action:intoolbar Current annotation config option"
 msgid "Opacity"
 msgstr "&Matlık:"
 
-#: part/annotationmodel.cpp:318 part/part.cpp:2948
+#: part/annotationmodel.cpp:318 part/part.cpp:2949
 #, kde-format
 msgid "Page %1"
 msgstr "Sayfa %1"
@@ -1059,7 +1066,7 @@ msgstr "Açılabilir &Not Aç"
 msgid "&Delete"
 msgstr "&Sil"
 
-#: part/annotationpopup.cpp:101 part/annotationpopup.cpp:126 part/part.cpp:776
+#: part/annotationpopup.cpp:101 part/annotationpopup.cpp:126 part/part.cpp:777
 #: part/propertiesdialog.cpp:57
 #, kde-format
 msgid "&Properties"
@@ -1174,13 +1181,13 @@ msgstr "Bilgi Notu Özellikleri"
 msgid "Modified: %1"
 msgstr "Değiştirildi: %1"
 
-#: part/annotationwidgets.cpp:56
+#: part/annotationwidgets.cpp:55
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Select a custom stamp symbol from file"
 msgstr ""
 
-#: part/annotationwidgets.cpp:154
+#: part/annotationwidgets.cpp:153
 #, fuzzy, kde-format
 #| msgctxt "Annotation tool"
 #| msgid "Put a stamp symbol"
@@ -1188,202 +1195,202 @@ msgctxt "@title:window file chooser"
 msgid "Select custom stamp symbol"
 msgstr "Bir damga sembolü koy"
 
-#: part/annotationwidgets.cpp:154
+#: part/annotationwidgets.cpp:153
 #, kde-format
 msgid ""
 "*.ico *.png *.xpm *.svg *.svgz | Icon Files (*.ico *.png *.xpm *.svg *.svgz)"
 msgstr ""
 
-#: part/annotationwidgets.cpp:158
+#: part/annotationwidgets.cpp:157
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Could not load the file <filename>%1</filename>"
 msgstr ""
 
-#: part/annotationwidgets.cpp:158
+#: part/annotationwidgets.cpp:157
 #, kde-format
 msgctxt "@title:window"
 msgid "Invalid file"
 msgstr ""
 
-#: part/annotationwidgets.cpp:261
+#: part/annotationwidgets.cpp:260
 #, kde-format
 msgid "&Color:"
 msgstr "&Renk:"
 
-#: part/annotationwidgets.cpp:270
+#: part/annotationwidgets.cpp:269
 #, fuzzy, kde-format
 #| msgid "%"
 msgctxt "Suffix for the opacity level, eg '80%'"
 msgid "%"
 msgstr "%"
 
-#: part/annotationwidgets.cpp:271 part/editdrawingtooldialog.cpp:70
+#: part/annotationwidgets.cpp:270 part/editdrawingtooldialog.cpp:70
 #, kde-format
 msgid "&Opacity:"
 msgstr "&Matlık:"
 
-#: part/annotationwidgets.cpp:358
+#: part/annotationwidgets.cpp:357
 #, fuzzy, kde-format
 #| msgid "Icon"
 msgid "Icon:"
 msgstr "Simge"
 
-#: part/annotationwidgets.cpp:359
+#: part/annotationwidgets.cpp:358
 #, kde-format
 msgid "Comment"
 msgstr "Açıklama"
 
-#: part/annotationwidgets.cpp:360
+#: part/annotationwidgets.cpp:359
 #, kde-format
 msgid "Help"
 msgstr "Yardım"
 
-#: part/annotationwidgets.cpp:361
+#: part/annotationwidgets.cpp:360
 #, kde-format
 msgid "Insert"
 msgstr "Ekle"
 
-#: part/annotationwidgets.cpp:362
+#: part/annotationwidgets.cpp:361
 #, kde-format
 msgid "Key"
 msgstr "Anahtar"
 
-#: part/annotationwidgets.cpp:363
+#: part/annotationwidgets.cpp:362
 #, fuzzy, kde-format
 #| msgid "New Paragraph"
 msgid "New paragraph"
 msgstr "Yeni Paragraf"
 
-#: part/annotationwidgets.cpp:364
+#: part/annotationwidgets.cpp:363
 #, kde-format
 msgid "Note"
 msgstr "Not"
 
-#: part/annotationwidgets.cpp:365
+#: part/annotationwidgets.cpp:364
 #, kde-format
 msgid "Paragraph"
 msgstr "Paragraf"
 
-#: part/annotationwidgets.cpp:373
+#: part/annotationwidgets.cpp:372
 #, kde-format
 msgid "Font:"
 msgstr "Yazı tipi:"
 
-#: part/annotationwidgets.cpp:382
+#: part/annotationwidgets.cpp:381
 #, fuzzy, kde-format
 #| msgid "&Color:"
 msgid "Text &color:"
 msgstr "&Renk:"
 
-#: part/annotationwidgets.cpp:389
+#: part/annotationwidgets.cpp:388
 #, fuzzy, kde-format
 #| msgid "Align:"
 msgid "&Align:"
 msgstr "Hizala:"
 
-#: part/annotationwidgets.cpp:390
+#: part/annotationwidgets.cpp:389
 #, kde-format
 msgid "Left"
 msgstr "Sol"
 
-#: part/annotationwidgets.cpp:391
+#: part/annotationwidgets.cpp:390
 #, kde-format
 msgid "Center"
 msgstr "Ortala"
 
-#: part/annotationwidgets.cpp:392
+#: part/annotationwidgets.cpp:391
 #, kde-format
 msgid "Right"
 msgstr "Sağ"
 
-#: part/annotationwidgets.cpp:400
+#: part/annotationwidgets.cpp:399
 #, fuzzy, kde-format
 #| msgid "Border Width:"
 msgid "Border &width:"
 msgstr "Kenarlık Genişliği:"
 
-#: part/annotationwidgets.cpp:409
+#: part/annotationwidgets.cpp:408
 #, kde-format
 msgid "Approved"
 msgstr "Onaylanmış"
 
-#: part/annotationwidgets.cpp:410
+#: part/annotationwidgets.cpp:409
 #, kde-format
 msgid "As Is"
 msgstr "Olduğu Gibi"
 
-#: part/annotationwidgets.cpp:411
+#: part/annotationwidgets.cpp:410
 #, kde-format
 msgid "Confidential"
 msgstr "Güvenilir"
 
-#: part/annotationwidgets.cpp:412
+#: part/annotationwidgets.cpp:411
 #, kde-format
 msgid "Departmental"
 msgstr "Kısmi"
 
-#: part/annotationwidgets.cpp:413
+#: part/annotationwidgets.cpp:412
 #, kde-format
 msgid "Draft"
 msgstr "Taslak"
 
-#: part/annotationwidgets.cpp:414
+#: part/annotationwidgets.cpp:413
 #, kde-format
 msgid "Experimental"
 msgstr "Deneysel"
 
-#: part/annotationwidgets.cpp:415
+#: part/annotationwidgets.cpp:414
 #, kde-format
 msgid "Final"
 msgstr "Son"
 
-#: part/annotationwidgets.cpp:416
+#: part/annotationwidgets.cpp:415
 #, kde-format
 msgid "For Comment"
 msgstr "Yorum İçin"
 
-#: part/annotationwidgets.cpp:417
+#: part/annotationwidgets.cpp:416
 #, kde-format
 msgid "For Public Release"
 msgstr "Genel Sürüm İçin"
 
-#: part/annotationwidgets.cpp:418
+#: part/annotationwidgets.cpp:417
 #, kde-format
 msgid "Not Approved"
 msgstr "İzin Verilmemiş"
 
-#: part/annotationwidgets.cpp:419
+#: part/annotationwidgets.cpp:418
 #, kde-format
 msgid "Not For Public Release"
 msgstr "Genel Sürüm için Değil"
 
-#: part/annotationwidgets.cpp:420
+#: part/annotationwidgets.cpp:419
 #, kde-format
 msgid "Sold"
 msgstr "Satılmış"
 
-#: part/annotationwidgets.cpp:421
+#: part/annotationwidgets.cpp:420
 #, kde-format
 msgid "Top Secret"
 msgstr "Çok Gizli"
 
-#: part/annotationwidgets.cpp:422
+#: part/annotationwidgets.cpp:421
 #, kde-format
 msgid "Bookmark"
 msgstr "Yer İmlerine Ekle"
 
-#: part/annotationwidgets.cpp:423
+#: part/annotationwidgets.cpp:422
 #, kde-format
 msgid "Information"
 msgstr "Bilgi"
 
-#: part/annotationwidgets.cpp:424
+#: part/annotationwidgets.cpp:423
 #, kde-format
 msgid "KDE"
 msgstr "KDE"
 
-#: part/annotationwidgets.cpp:443
+#: part/annotationwidgets.cpp:442
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -1391,213 +1398,213 @@ msgid ""
 "visible in PDF readers other than Okular.</warning>"
 msgstr ""
 
-#: part/annotationwidgets.cpp:454
+#: part/annotationwidgets.cpp:453
 #, fuzzy, kde-format
 #| msgid "Stamp Symbol"
 msgid "Stamp symbol:"
 msgstr "Damga Sembolü"
 
-#: part/annotationwidgets.cpp:502 part/annotationwidgets.cpp:564
-#: part/annotationwidgets.cpp:627 part/annotationwidgets.cpp:701
-#: part/annotationwidgets.cpp:780
+#: part/annotationwidgets.cpp:501 part/annotationwidgets.cpp:563
+#: part/annotationwidgets.cpp:626 part/annotationwidgets.cpp:700
+#: part/annotationwidgets.cpp:779
 #, fuzzy, kde-format
 #| msgid "&Pen Width:"
 msgid "&Width:"
 msgstr "&Kalem Genişliği:"
 
-#: part/annotationwidgets.cpp:507
+#: part/annotationwidgets.cpp:506
 #, kde-format
 msgid "Line start:"
 msgstr ""
 
-#: part/annotationwidgets.cpp:509
+#: part/annotationwidgets.cpp:508
 #, kde-format
 msgid "Line end:"
 msgstr ""
 
-#: part/annotationwidgets.cpp:512
+#: part/annotationwidgets.cpp:511
 #, kde-format
 msgid "Square"
 msgstr ""
 
-#: part/annotationwidgets.cpp:513
+#: part/annotationwidgets.cpp:512
 #, kde-format
 msgid "Circle"
 msgstr ""
 
-#: part/annotationwidgets.cpp:514
+#: part/annotationwidgets.cpp:513
 #, kde-format
 msgid "Diamond"
 msgstr ""
 
-#: part/annotationwidgets.cpp:515
+#: part/annotationwidgets.cpp:514
 #, kde-format
 msgid "Open Arrow"
 msgstr ""
 
-#: part/annotationwidgets.cpp:516
+#: part/annotationwidgets.cpp:515
 #, kde-format
 msgid "Closed Arrow"
 msgstr ""
 
-#: part/annotationwidgets.cpp:517
+#: part/annotationwidgets.cpp:516
 #, fuzzy, kde-format
 #| msgctxt "Symbol for caret annotations"
 #| msgid "None"
 msgid "None"
 msgstr "Hiçbiri"
 
-#: part/annotationwidgets.cpp:518
+#: part/annotationwidgets.cpp:517
 #, kde-format
 msgid "Butt"
 msgstr ""
 
-#: part/annotationwidgets.cpp:519
+#: part/annotationwidgets.cpp:518
 #, kde-format
 msgid "Right Open Arrow"
 msgstr ""
 
-#: part/annotationwidgets.cpp:520
+#: part/annotationwidgets.cpp:519
 #, kde-format
 msgid "Right Closed Arrow"
 msgstr ""
 
-#: part/annotationwidgets.cpp:521
+#: part/annotationwidgets.cpp:520
 #, kde-format
 msgid "Slash"
 msgstr ""
 
-#: part/annotationwidgets.cpp:534
+#: part/annotationwidgets.cpp:533
 #, fuzzy, kde-format
 #| msgid "Leader Line Length:"
 msgid "Leader line length:"
 msgstr "Baş Satır Uzunluğu:"
 
-#: part/annotationwidgets.cpp:536
+#: part/annotationwidgets.cpp:535
 #, fuzzy, kde-format
 #| msgid "Leader Line Extensions Length:"
 msgid "Leader line extensions length:"
 msgstr "Baş Satır Genişleme Uzunluğu:"
 
-#: part/annotationwidgets.cpp:550 part/annotationwidgets.cpp:694
+#: part/annotationwidgets.cpp:549 part/annotationwidgets.cpp:693
 #, kde-format
 msgid "Enabled"
 msgstr ""
 
-#: part/annotationwidgets.cpp:554 part/annotationwidgets.cpp:698
+#: part/annotationwidgets.cpp:553 part/annotationwidgets.cpp:697
 #, fuzzy, kde-format
 #| msgid "Save file"
 msgid "Shape fill:"
 msgstr "Dosyayı kaydet"
 
-#: part/annotationwidgets.cpp:654 part/annotationwidgets.cpp:688
+#: part/annotationwidgets.cpp:653 part/annotationwidgets.cpp:687
 #, kde-format
 msgid "Type:"
 msgstr "Tür:"
 
-#: part/annotationwidgets.cpp:656 part/guiutils.cpp:89
+#: part/annotationwidgets.cpp:655 part/guiutils.cpp:87
 #, kde-format
 msgid "Highlight"
 msgstr "Vurgulama"
 
-#: part/annotationwidgets.cpp:657 part/guiutils.cpp:92
-#: part/pageviewannotator.cpp:1306
+#: part/annotationwidgets.cpp:656 part/guiutils.cpp:90
+#: part/pageviewannotator.cpp:1322
 #, kde-format
 msgid "Squiggle"
 msgstr "Eğri"
 
-#: part/annotationwidgets.cpp:658 part/guiutils.cpp:95
-#: part/pageviewannotator.cpp:1314
+#: part/annotationwidgets.cpp:657 part/guiutils.cpp:93
+#: part/pageviewannotator.cpp:1330
 #, kde-format
 msgid "Underline"
 msgstr "Altı çizili"
 
-#: part/annotationwidgets.cpp:659 part/pageviewannotator.cpp:1312
+#: part/annotationwidgets.cpp:658 part/pageviewannotator.cpp:1328
 #, kde-format
 msgid "Strike out"
 msgstr "Üzeri çizili"
 
-#: part/annotationwidgets.cpp:703 part/pageviewannotator.cpp:1304
+#: part/annotationwidgets.cpp:702 part/pageviewannotator.cpp:1320
 #, kde-format
 msgid "Rectangle"
 msgstr "Dikdörtgen"
 
-#: part/annotationwidgets.cpp:704 part/pageviewannotator.cpp:1292
+#: part/annotationwidgets.cpp:703 part/pageviewannotator.cpp:1308
 #, kde-format
 msgid "Ellipse"
 msgstr "Elips"
 
-#: part/annotationwidgets.cpp:748
+#: part/annotationwidgets.cpp:747
 #, fuzzy, kde-format
 #| msgid "File Attachment Symbol"
 msgid "File attachment symbol:"
 msgstr "Dosya Eklentisi Sembolü"
 
-#: part/annotationwidgets.cpp:751
+#: part/annotationwidgets.cpp:750
 #, kde-format
 msgctxt "Symbol for file attachment annotations"
 msgid "Graph"
 msgstr "Grafik"
 
-#: part/annotationwidgets.cpp:752
+#: part/annotationwidgets.cpp:751
 #, kde-format
 msgctxt "Symbol for file attachment annotations"
 msgid "Push Pin"
 msgstr "İğne"
 
-#: part/annotationwidgets.cpp:753
+#: part/annotationwidgets.cpp:752
 #, kde-format
 msgctxt "Symbol for file attachment annotations"
 msgid "Paperclip"
 msgstr "Ataç"
 
-#: part/annotationwidgets.cpp:754
+#: part/annotationwidgets.cpp:753
 #, kde-format
 msgctxt "Symbol for file attachment annotations"
 msgid "Tag"
 msgstr "Etiket"
 
-#: part/annotationwidgets.cpp:763
+#: part/annotationwidgets.cpp:762
 #, kde-format
 msgctxt "'File' as normal file, that can be opened, saved, etc.."
 msgid "File"
 msgstr "Dosya"
 
-#: part/annotationwidgets.cpp:767 part/embeddedfilesdialog.cpp:90
+#: part/annotationwidgets.cpp:766 part/embeddedfilesdialog.cpp:90
 #, kde-format
 msgctxt "Not available size"
 msgid "N/A"
 msgstr "Erişilemez"
 
-#: part/annotationwidgets.cpp:768
+#: part/annotationwidgets.cpp:767
 #, kde-format
 msgid "No description available."
 msgstr "Hiç tanımlama yok."
 
-#: part/annotationwidgets.cpp:776
+#: part/annotationwidgets.cpp:775
 #, fuzzy, kde-format
 #| msgid "&Name:"
 msgid "Name:"
 msgstr "&İsim:"
 
-#: part/annotationwidgets.cpp:787
+#: part/annotationwidgets.cpp:786
 #, kde-format
 msgid "Description:"
 msgstr "Açıklama:"
 
-#: part/annotationwidgets.cpp:845
+#: part/annotationwidgets.cpp:844
 #, fuzzy, kde-format
 #| msgid "Caret Symbol"
 msgid "Caret symbol:"
 msgstr "Düzeltme Sembolü"
 
-#: part/annotationwidgets.cpp:847
+#: part/annotationwidgets.cpp:846
 #, kde-format
 msgctxt "Symbol for caret annotations"
 msgid "None"
 msgstr "Hiçbiri"
 
-#: part/annotationwidgets.cpp:848
+#: part/annotationwidgets.cpp:847
 #, kde-format
 msgctxt "Symbol for caret annotations"
 msgid "P"
@@ -1668,12 +1675,12 @@ msgstr[1] ""
 "\n"
 "%2 yer imi"
 
-#: part/bookmarklist.cpp:131 part/part.cpp:402
+#: part/bookmarklist.cpp:131 part/part.cpp:403
 #, kde-format
 msgid "Bookmarks"
 msgstr "Yer İmleri"
 
-#: part/bookmarklist.cpp:136 part/searchwidget.cpp:40 part/side_reviews.cpp:127
+#: part/bookmarklist.cpp:136 part/searchwidget.cpp:40 part/side_reviews.cpp:126
 #: part/toc.cpp:46
 #, fuzzy, kde-format
 #| msgid "S&earch:"
@@ -1690,13 +1697,13 @@ msgstr "Sadece şimdiki belge"
 msgid "Go to This Bookmark"
 msgstr "Bu Yer İmine Git"
 
-#: part/bookmarklist.cpp:252 part/bookmarklist.cpp:279 part/part.cpp:710
-#: part/part.cpp:2340
+#: part/bookmarklist.cpp:252 part/bookmarklist.cpp:279 part/part.cpp:711
+#: part/part.cpp:2341
 #, kde-format
 msgid "Rename Bookmark"
 msgstr "Yer İmini Yeniden Adlandır"
 
-#: part/bookmarklist.cpp:253 part/part.cpp:2148 part/part.cpp:2950
+#: part/bookmarklist.cpp:253 part/part.cpp:2149 part/part.cpp:2951
 #, kde-format
 msgid "Remove Bookmark"
 msgstr "Yer İmini Kaldır"
@@ -2208,104 +2215,116 @@ msgctxt "@option:check Config dialog, general page"
 msgid "Show hints and info messages"
 msgstr "İ&puçlarını ve bilgi mesajlarını göster"
 
-#: part/dlggeneral.cpp:62
+#: part/dlggeneral.cpp:61
+#, kde-format
+msgctxt "@option:check Config dialog, general page"
+msgid "Notify about embedded files, forms, or signatures"
+msgstr ""
+
+#: part/dlggeneral.cpp:68
 #, fuzzy, kde-format
 #| msgid "Display document title in titlebar if available"
 msgctxt "@option:check Config dialog, general page"
 msgid "Display document title in titlebar if available"
 msgstr "Mevcutsa belge başlığını başlık çubuğunda göster"
 
-#: part/dlggeneral.cpp:68
+#: part/dlggeneral.cpp:74
 #, fuzzy, kde-format
 #| msgid "Display file name only"
 msgctxt "item:inlistbox Config dialog, general page"
 msgid "Display file name only"
 msgstr "Yalnızca dosya ismini göster"
 
-#: part/dlggeneral.cpp:69
+#: part/dlggeneral.cpp:75
 #, fuzzy, kde-format
 #| msgid "Display full file path"
 msgctxt "item:inlistbox Config dialog, general page"
 msgid "Display full file path"
 msgstr "Tam dosya yolunu göster"
 
-#: part/dlggeneral.cpp:71
+#: part/dlggeneral.cpp:77
 #, fuzzy, kde-format
 #| msgid "When not displaying document title:"
 msgctxt "label:listbox Config dialog, general page"
 msgid "When not displaying document title:"
 msgstr "Belge başlığı görüntülenmediği zaman:"
 
-#: part/dlggeneral.cpp:86
+#: part/dlggeneral.cpp:92
 #, fuzzy, kde-format
 #| msgid "Use custom background color"
 msgctxt "@label:listbox Config dialog, general page"
 msgid "Use custom background color:"
 msgstr "Özel arkaplan rengi kullan"
 
-#: part/dlggeneral.cpp:108
+#: part/dlggeneral.cpp:114
 #, fuzzy, kde-format
 #| msgid "Program Features"
 msgctxt "@title:group Config dialog, general page"
 msgid "Program features:"
 msgstr "Uygulama Özellikleri"
 
-#: part/dlggeneral.cpp:115
+#: part/dlggeneral.cpp:121
 #, fuzzy, kde-format
 #| msgid "Open new files in &tabs"
 msgctxt "@option:check Config dialog, general page"
 msgid "Open new files in tabs"
 msgstr "Yeni dosyaları &sekme olarak aç"
 
-#: part/dlggeneral.cpp:120
+#: part/dlggeneral.cpp:126
 #, kde-format
 msgctxt "@option:check Config dialog, general page"
 msgid "Switch to existing tab if file is already open"
 msgstr ""
 
-#: part/dlggeneral.cpp:133
+#: part/dlggeneral.cpp:139
 #, fuzzy, kde-format
 #| msgid "&Obey DRM limitations"
 msgctxt "@option:check Config dialog, general page"
 msgid "Obey DRM limitations"
 msgstr "&DRM sınırlamalarına uy"
 
-#: part/dlggeneral.cpp:142
+#: part/dlggeneral.cpp:148
 #, fuzzy, kde-format
 #| msgid "&Reload document on file change"
 msgctxt "@option:check Config dialog, general page"
 msgid "Reload document on file change"
 msgstr "&Dosya değiştirildiğinde belgeyi yeniden yükle"
 
-#: part/dlggeneral.cpp:149
+#: part/dlggeneral.cpp:155
 #, fuzzy, kde-format
 #| msgid "Show backend selection dialog"
 msgctxt "@option:check Config dialog, general page"
 msgid "Show backend selection dialog"
 msgstr "Arka uç seçim penceresini göster"
 
-#: part/dlggeneral.cpp:156
+#: part/dlggeneral.cpp:162
 #, fuzzy, kde-format
 #| msgid "Right to left reading direction"
 msgctxt "@option:check Config dialog, general page"
 msgid "Right to left reading direction"
 msgstr "Sağdan sol okuma yönü"
 
-#: part/dlggeneral.cpp:173
+#: part/dlggeneral.cpp:168
+#, kde-format
+msgctxt "@option:check Config dialog, general page"
+msgid "Open in continuous mode by default"
+msgstr ""
+
+#: part/dlggeneral.cpp:184
 #, fuzzy, kde-format
 #| msgid "Overview &columns:"
 msgctxt "@label:spinbox Config dialog, general page"
 msgid "Overview columns:"
 msgstr "Gözden geçirme &sütunları:"
 
-#: part/dlggeneral.cpp:180
+#: part/dlggeneral.cpp:191
 #, fuzzy, kde-format
 #| msgid "%"
 msgctxt "Page Up/Down overlap, spinbox suffix"
 msgid "%"
 msgstr "%"
 
-#: part/dlggeneral.cpp:181
+#: part/dlggeneral.cpp:192
 #, fuzzy, kde-format
 #| msgid ""
 #| "Defines how much of the current viewing area will still be visible when "
@@ -2318,42 +2337,42 @@ msgstr ""
 "Page Up/Page down tuşlarına basıldığında görüntüleme alanının ne kadarının "
 "görünmeye devam edeceğini belirler."
 
-#: part/dlggeneral.cpp:183
+#: part/dlggeneral.cpp:194
 #, fuzzy, kde-format
 #| msgid "&Page Up/Down overlap:"
 msgctxt "@label:spinbox Config dialog, general page"
 msgid "Page Up/Down overlap:"
 msgstr "&Page Up/Down alan kaplaması:"
 
-#: part/dlggeneral.cpp:187
+#: part/dlggeneral.cpp:198
 #, fuzzy, kde-format
 #| msgid "100%"
 msgctxt "item:inlistbox Config dialog, general page, default zoom"
 msgid "100%"
 msgstr "% 100"
 
-#: part/dlggeneral.cpp:188
+#: part/dlggeneral.cpp:199
 #, fuzzy, kde-format
 #| msgid "Fit Width"
 msgctxt "item:inlistbox Config dialog, general page, default zoom"
 msgid "Fit Width"
 msgstr "Genişliğe Sığdır"
 
-#: part/dlggeneral.cpp:189
+#: part/dlggeneral.cpp:200
 #, fuzzy, kde-format
 #| msgid "Fit Page"
 msgctxt "item:inlistbox Config dialog, general page, default zoom"
 msgid "Fit Page"
 msgstr "Sayfayı Sığdır"
 
-#: part/dlggeneral.cpp:190
+#: part/dlggeneral.cpp:201
 #, fuzzy, kde-format
 #| msgid "Auto Fit"
 msgctxt "item:inlistbox Config dialog, general page, default zoom"
 msgid "Auto Fit"
 msgstr "Otomatik Sığdır"
 
-#: part/dlggeneral.cpp:191
+#: part/dlggeneral.cpp:202
 #, fuzzy, kde-format
 #| msgid ""
 #| "Defines the default zoom mode for files which were never opened before.\n"
@@ -2366,7 +2385,7 @@ msgstr ""
 "Daha önce açılmamış olan dosyalar için öntanımlı bütüyme kipini tanımlar.\n"
 "Daha önce açılan dosyalara önceki büyütme miktarı uygulanır."
 
-#: part/dlggeneral.cpp:193
+#: part/dlggeneral.cpp:204
 #, fuzzy, kde-format
 #| msgid "&Default Zoom:"
 msgctxt "label:listbox Config dialog, general page, default zoom"
@@ -2748,7 +2767,7 @@ msgctxt ""
 msgid "<h3>Drawing Tools</h3>"
 msgstr "Çizim Aracı: %1"
 
-#: part/dlgpresentation.cpp:156
+#: part/dlgpresentation.cpp:173
 #, fuzzy, kde-format
 #| msgctxt "@label:listbox The current screen, for the presentation mode"
 #| msgid "Current Screen"
@@ -2756,7 +2775,7 @@ msgctxt "@item:inlistbox Config dialog, presentation page, preferred screen"
 msgid "Current Screen"
 msgstr "Geçerli Ekran"
 
-#: part/dlgpresentation.cpp:157
+#: part/dlgpresentation.cpp:174
 #, fuzzy, kde-format
 #| msgctxt "@label:listbox The default screen for the presentation mode"
 #| msgid "Default Screen"
@@ -2764,7 +2783,7 @@ msgctxt "@item:inlistbox Config dialog, presentation page, preferred screen"
 msgid "Default Screen"
 msgstr "Öntanımlı Ekran"
 
-#: part/dlgpresentation.cpp:163
+#: part/dlgpresentation.cpp:180
 #, fuzzy, kde-format
 #| msgctxt "@label:listbox %1 is the screen number (0, 1, ...)"
 #| msgid "Screen %1"
@@ -2775,7 +2794,7 @@ msgctxt ""
 msgid "Screen %1 (%2 %3 %4)"
 msgstr "Ekran %1"
 
-#: part/dlgpresentation.cpp:185
+#: part/dlgpresentation.cpp:192
 #, kde-format
 msgctxt ""
 "@item:inlistbox Config dialog, presentation page, preferred screen. %1 is "
@@ -2808,32 +2827,32 @@ msgstr "&Tür:"
 msgid "Appearance"
 msgstr "Görünüm"
 
-#: part/editannottooldialog.cpp:91 part/guiutils.cpp:69
-#: part/pageviewannotator.cpp:226 part/pageviewannotator.cpp:1300
+#: part/editannottooldialog.cpp:91 part/guiutils.cpp:67
+#: part/pageviewannotator.cpp:225 part/pageviewannotator.cpp:1316
 #, kde-format
 msgid "Pop-up Note"
 msgstr "Açılabilir Not"
 
-#: part/editannottooldialog.cpp:92 part/guiutils.cpp:74
-#: part/pageviewannotator.cpp:209 part/pageviewannotator.cpp:1298
+#: part/editannottooldialog.cpp:92 part/guiutils.cpp:72
+#: part/pageviewannotator.cpp:208 part/pageviewannotator.cpp:1314
 #, kde-format
 msgid "Inline Note"
 msgstr "İç Not"
 
-#: part/editannottooldialog.cpp:93 part/guiutils.cpp:106
-#: part/pageviewannotator.cpp:1296
+#: part/editannottooldialog.cpp:93 part/guiutils.cpp:104
+#: part/pageviewannotator.cpp:1312
 #, kde-format
 msgid "Freehand Line"
 msgstr "Serbest Çizim Çizgisi"
 
-#: part/editannottooldialog.cpp:94 part/guiutils.cpp:79
-#: part/pageviewannotator.cpp:1310
+#: part/editannottooldialog.cpp:94 part/guiutils.cpp:77
+#: part/pageviewannotator.cpp:1326
 #, kde-format
 msgid "Straight Line"
 msgstr "Düz Çizgi"
 
-#: part/editannottooldialog.cpp:95 part/guiutils.cpp:81
-#: part/pageviewannotator.cpp:1302
+#: part/editannottooldialog.cpp:95 part/guiutils.cpp:79
+#: part/pageviewannotator.cpp:1318
 #, kde-format
 msgid "Polygon"
 msgstr "Çokgen"
@@ -2848,14 +2867,14 @@ msgstr "Metin biçimlendirme"
 msgid "Geometrical shape"
 msgstr "Geometrik şekil"
 
-#: part/editannottooldialog.cpp:98 part/guiutils.cpp:103
-#: part/pageviewannotator.cpp:1308
+#: part/editannottooldialog.cpp:98 part/guiutils.cpp:101
+#: part/pageviewannotator.cpp:1324
 #, kde-format
 msgid "Stamp"
 msgstr "Damga"
 
-#: part/editannottooldialog.cpp:99 part/guiutils.cpp:72
-#: part/pageviewannotator.cpp:214 part/pageviewannotator.cpp:1316
+#: part/editannottooldialog.cpp:99 part/guiutils.cpp:70
+#: part/pageviewannotator.cpp:213 part/pageviewannotator.cpp:1332
 #, kde-format
 msgid "Typewriter"
 msgstr ""
@@ -2962,12 +2981,12 @@ msgctxt "@action:inmenu"
 msgid "&View..."
 msgstr "Görünüm..."
 
-#: part/fileprinterpreview.cpp:134
+#: part/fileprinterpreview.cpp:118
 #, kde-format
 msgid "Could not load print preview part"
 msgstr "Yazdırma önizlemesi programcığı yüklenemedi"
 
-#: part/fileprinterpreview.cpp:146
+#: part/fileprinterpreview.cpp:130
 #, kde-format
 msgid "Print Preview"
 msgstr "Yazdırma Önizlemesi"
@@ -3041,127 +3060,127 @@ msgstr "*|Tüm Dosyalar"
 msgid "Signature Properties"
 msgstr "Düzeltme Özellikleri"
 
-#: part/guiutils.cpp:79
+#: part/guiutils.cpp:77
 #, fuzzy, kde-format
 #| msgid "Straight Line Properties"
 msgid "Straight Line with Comment"
 msgstr "Düz Çizgi Özellikleri"
 
-#: part/guiutils.cpp:81
+#: part/guiutils.cpp:79
 #, kde-format
 msgid "Polygon with Comment"
 msgstr ""
 
-#: part/guiutils.cpp:84
+#: part/guiutils.cpp:82
 #, fuzzy, kde-format
 #| msgid "For Comment"
 msgid "Geometry with Comment"
 msgstr "Yorum İçin"
 
-#: part/guiutils.cpp:84
+#: part/guiutils.cpp:82
 #, kde-format
 msgid "Geometry"
 msgstr "Yerleşim"
 
-#: part/guiutils.cpp:89
+#: part/guiutils.cpp:87
 #, fuzzy, kde-format
 #| msgctxt "Annotation tool"
 #| msgid "Highlight text"
 msgid "Highlight with Comment"
 msgstr "Metni vurgula"
 
-#: part/guiutils.cpp:92
+#: part/guiutils.cpp:90
 #, fuzzy, kde-format
 #| msgctxt "Annotation tool"
 #| msgid "Squiggle text"
 msgid "Squiggle with Comment"
 msgstr "Kıvrımlı metin"
 
-#: part/guiutils.cpp:95
+#: part/guiutils.cpp:93
 #, fuzzy, kde-format
 #| msgctxt "Annotation tool"
 #| msgid "Underline text"
 msgid "Underline with Comment"
 msgstr "Altı çizili metin"
 
-#: part/guiutils.cpp:98
+#: part/guiutils.cpp:96
 #, fuzzy, kde-format
 #| msgctxt "Annotation tool"
 #| msgid "Strike out text"
 msgid "Strike Out with Comment"
 msgstr "Üzeri çizili metin"
 
-#: part/guiutils.cpp:98
+#: part/guiutils.cpp:96
 #, kde-format
 msgid "Strike Out"
 msgstr "Üzeri çizili"
 
-#: part/guiutils.cpp:103
+#: part/guiutils.cpp:101
 #, kde-format
 msgid "Stamp with Comment"
 msgstr ""
 
-#: part/guiutils.cpp:106
+#: part/guiutils.cpp:104
 #, fuzzy, kde-format
 #| msgid "Freehand Line Properties"
 msgid "Freehand Line with Comment"
 msgstr "Serbest Çizim Çizgi Özellikleri"
 
-#: part/guiutils.cpp:109
+#: part/guiutils.cpp:107
 #, kde-format
 msgid "Caret"
 msgstr "Düzeltme"
 
-#: part/guiutils.cpp:112
+#: part/guiutils.cpp:110
 #, kde-format
 msgid "File Attachment"
 msgstr "Dosya Eklentisi"
 
-#: part/guiutils.cpp:115
+#: part/guiutils.cpp:113
 #, kde-format
 msgid "Sound"
 msgstr "Ses"
 
-#: part/guiutils.cpp:118
+#: part/guiutils.cpp:116
 #, kde-format
 msgid "Movie"
 msgstr "Film"
 
-#: part/guiutils.cpp:121
+#: part/guiutils.cpp:119
 #, kde-format
 msgctxt "Caption for a screen annotation"
 msgid "Screen"
 msgstr "Ekran"
 
-#: part/guiutils.cpp:124
+#: part/guiutils.cpp:122
 #, kde-format
 msgctxt "Caption for a widget annotation"
 msgid "Widget"
 msgstr "Gereç"
 
-#: part/guiutils.cpp:127
+#: part/guiutils.cpp:125
 #, kde-format
 msgctxt "Caption for a rich media annotation"
 msgid "Rich Media"
 msgstr "Zengin Ortam"
 
-#: part/guiutils.cpp:139
+#: part/guiutils.cpp:137
 #, kde-format
 msgctxt "Unknown author"
 msgid "Unknown"
 msgstr "Bilinmeyen"
 
-#: part/guiutils.cpp:156 part/presentationwidget.cpp:369
+#: part/guiutils.cpp:154 part/presentationwidget.cpp:369
 #, kde-format
 msgid "Author: %1"
 msgstr "Yazar: %1"
 
-#: part/guiutils.cpp:217 part/propertiesdialog.cpp:231
+#: part/guiutils.cpp:194 part/propertiesdialog.cpp:231
 #, kde-format
 msgid "Where do you want to save %1?"
 msgstr "%1 belgesini nereye kaydetmek istiyorsunuz?"
 
-#: part/guiutils.cpp:228 part/propertiesdialog.cpp:241
+#: part/guiutils.cpp:205 part/propertiesdialog.cpp:241
 #, kde-format
 msgid "Could not open \"%1\" for writing. File was not saved."
 msgstr "\"%1\" yazmak için açılamadı. Dosya kaydedilmedi."
@@ -3188,7 +3207,7 @@ msgstr "Düzenli İfade"
 msgid "S&earch:"
 msgstr "A&ra:"
 
-#: part/layers.cpp:38 part/part.cpp:2191
+#: part/layers.cpp:38 part/part.cpp:2192
 #, kde-format
 msgid "Layers"
 msgstr "Katmanlar"
@@ -3199,163 +3218,163 @@ msgctxt "Layouted like: '5 [pages] of 10'"
 msgid "of"
 msgstr " "
 
-#: part/pageview.cpp:528
+#: part/pageview.cpp:537
 #, kde-format
 msgid "Zoom"
 msgstr "Büyüt"
 
-#: part/pageview.cpp:540
+#: part/pageview.cpp:549
 #, kde-format
 msgid "Zoom to 100%"
 msgstr ""
 
-#: part/pageview.cpp:551
+#: part/pageview.cpp:560
 #, kde-format
 msgid "Rotate &Right"
 msgstr "&Sağa Döndür"
 
-#: part/pageview.cpp:552
+#: part/pageview.cpp:561
 #, kde-format
 msgctxt "Rotate right"
 msgid "Right"
 msgstr "Sağ"
 
-#: part/pageview.cpp:556
+#: part/pageview.cpp:565
 #, kde-format
 msgid "Rotate &Left"
 msgstr "S&ola Döndür"
 
-#: part/pageview.cpp:557
+#: part/pageview.cpp:566
 #, kde-format
 msgctxt "Rotate left"
 msgid "Left"
 msgstr "Sol"
 
-#: part/pageview.cpp:561
+#: part/pageview.cpp:570
 #, kde-format
 msgid "Original Orientation"
 msgstr "Asıl Yön"
 
-#: part/pageview.cpp:567
+#: part/pageview.cpp:576
 #, kde-format
 msgid "&Trim View"
 msgstr "&Kırpılmış Görünüm"
 
-#: part/pageview.cpp:571
+#: part/pageview.cpp:580
 #, kde-format
 msgid "&Trim Margins"
 msgstr "&Kenarları Düzelt"
 
-#: part/pageview.cpp:578
+#: part/pageview.cpp:587
 #, kde-format
 msgid "Trim To &Selection"
 msgstr "Seçimi K&ırp"
 
-#: part/pageview.cpp:584
+#: part/pageview.cpp:593
 #, kde-format
 msgid "Fit &Width"
 msgstr "G&enişliğe Sığdır"
 
-#: part/pageview.cpp:588
+#: part/pageview.cpp:597
 #, kde-format
 msgid "Fit &Page"
 msgstr "Say&fayı Sığdır"
 
-#: part/pageview.cpp:592
+#: part/pageview.cpp:601
 #, kde-format
 msgid "&Auto Fit"
 msgstr "&Otomatik Sığdır"
 
-#: part/pageview.cpp:596
+#: part/pageview.cpp:605
 #, kde-format
 msgid "Fit Wi&ndow to Page"
 msgstr "Pencereyi Say&faya Sığdır"
 
-#: part/pageview.cpp:603
+#: part/pageview.cpp:612
 #, kde-format
 msgid "&View Mode"
 msgstr "&Görünüm Kipi"
 
-#: part/pageview.cpp:615
+#: part/pageview.cpp:624
 #, fuzzy, kde-format
 #| msgid "Single Page"
 msgctxt "@item:inmenu"
 msgid "&Single Page"
 msgstr "Tek Sayfa"
 
-#: part/pageview.cpp:616
+#: part/pageview.cpp:625
 #, fuzzy, kde-format
 #| msgid "Facing Pages"
 msgctxt "@item:inmenu"
 msgid "&Facing Pages"
 msgstr "Dönen Sayfalar"
 
-#: part/pageview.cpp:617
+#: part/pageview.cpp:626
 #, fuzzy, kde-format
 #| msgid "Facing Pages (Center First Page)"
 msgctxt "@item:inmenu"
 msgid "Facing Pages (&Center First Page)"
 msgstr "Dönen Sayfalar (İlk Sayfayı Ortala)"
 
-#: part/pageview.cpp:620
+#: part/pageview.cpp:629
 #, fuzzy, kde-format
 #| msgid "Overview"
 msgctxt "@item:inmenu"
 msgid "&Overview"
 msgstr "Gözden Geçirme"
 
-#: part/pageview.cpp:632
+#: part/pageview.cpp:641
 #, kde-format
 msgid "&Continuous"
 msgstr "&Sürekli"
 
-#: part/pageview.cpp:639
+#: part/pageview.cpp:648
 #, fuzzy, kde-format
 #| msgid "Right to left reading direction"
 msgctxt "@action page layout"
 msgid "Use Right to Left Reading Direction"
 msgstr "Sağdan sol okuma yönü"
 
-#: part/pageview.cpp:648
+#: part/pageview.cpp:657
 #, fuzzy, kde-format
 #| msgctxt "Browse Tool"
 #| msgid "Browse"
 msgid "&Browse"
 msgstr "Gözat"
 
-#: part/pageview.cpp:656
+#: part/pageview.cpp:665
 #, fuzzy, kde-format
 #| msgid "Zoom"
 msgid "&Zoom"
 msgstr "Büyüt"
 
-#: part/pageview.cpp:664
+#: part/pageview.cpp:673
 #, kde-format
 msgid "&Toggle Change Colors"
 msgstr "&Renk Değişimini Değiştir"
 
-#: part/pageview.cpp:678
+#: part/pageview.cpp:687
 #, fuzzy, kde-format
 #| msgctxt "Text Selection Tool"
 #| msgid "Text Selection"
 msgid "Area &Selection"
 msgstr "Metin Seçimi"
 
-#: part/pageview.cpp:687
+#: part/pageview.cpp:694
 #, fuzzy, kde-format
 #| msgctxt "Text Selection Tool"
 #| msgid "Text Selection"
 msgid "&Text Selection"
 msgstr "Metin Seçimi"
 
-#: part/pageview.cpp:695
+#: part/pageview.cpp:701
 #, fuzzy, kde-format
 #| msgctxt "Table Selection Tool"
 #| msgid "Table Selection"
 msgid "T&able Selection"
 msgstr "Tablo Seçimi"
 
-#: part/pageview.cpp:703
+#: part/pageview.cpp:708
 #, kde-format
 msgid "&Magnifier"
 msgstr "&Büyüteç"
@@ -3367,215 +3386,215 @@ msgctxt "@action"
 msgid "Selection Tools"
 msgstr "Seçim Araçları"
 
-#: part/pageview.cpp:720
+#: part/pageview.cpp:748
 #, kde-format
 msgid "Digitally &Sign..."
 msgstr ""
 
-#: part/pageview.cpp:726
+#: part/pageview.cpp:754
 #, kde-format
 msgid "Speak Whole Document"
 msgstr "Tüm Belgeyi Oku"
 
-#: part/pageview.cpp:731
+#: part/pageview.cpp:759
 #, kde-format
 msgid "Speak Current Page"
 msgstr "Geçerli Sayfayı Oku"
 
-#: part/pageview.cpp:736
+#: part/pageview.cpp:764
 #, kde-format
 msgid "Stop Speaking"
 msgstr "Okumayı Durdur"
 
-#: part/pageview.cpp:741
+#: part/pageview.cpp:769
 #, kde-format
 msgid "Pause/Resume Speaking"
 msgstr ""
 
-#: part/pageview.cpp:753
+#: part/pageview.cpp:781
 #, kde-format
 msgid "Scroll Up"
 msgstr "Yukarı Kaydır"
 
-#: part/pageview.cpp:759
+#: part/pageview.cpp:787
 #, kde-format
 msgid "Scroll Down"
 msgstr "Aşağı Kaydır"
 
-#: part/pageview.cpp:765
+#: part/pageview.cpp:793
 #, kde-format
 msgid "Scroll Page Up"
 msgstr "Sayfayı Yukarı Kaydır"
 
-#: part/pageview.cpp:771
+#: part/pageview.cpp:799
 #, kde-format
 msgid "Scroll Page Down"
 msgstr "Sayfayı Aşağı Kaydır"
 
-#: part/pageview.cpp:777
+#: part/pageview.cpp:805
 #, kde-format
 msgid "Show Forms"
 msgstr "Formları Göster"
 
-#: part/pageview.cpp:1230
+#: part/pageview.cpp:1258
 #, kde-format
 msgid " Loaded a one-page document."
 msgid_plural " Loaded a %1-page document."
 msgstr[0] " %1 sayfalık bir belge yüklendi."
 msgstr[1] " %1 sayfalık bir belge yüklendi."
 
-#: part/pageview.cpp:2435
+#: part/pageview.cpp:2444
 #, fuzzy, kde-format
 #| msgid "Copy to Clipboard"
 msgid "Copy Table Contents to Clipboard"
 msgstr "Panoya Kopyala"
 
-#: part/pageview.cpp:2440 part/pageview.cpp:2752 part/pageview.cpp:2890
-#: part/pageview.cpp:2944
+#: part/pageview.cpp:2449 part/pageview.cpp:2761 part/pageview.cpp:2899
+#: part/pageview.cpp:2953
 #, kde-format
 msgid "Copy forbidden by DRM"
 msgstr "Kopyalama DRM tarafından yasaklandı"
 
-#: part/pageview.cpp:2746
+#: part/pageview.cpp:2755
 #, kde-format
 msgid "Text (1 character)"
 msgid_plural "Text (%1 characters)"
 msgstr[0] "Metin (%1 karakter)"
 msgstr[1] "Metin (%1 karakter)"
 
-#: part/pageview.cpp:2747 part/pageview.cpp:2764
+#: part/pageview.cpp:2756 part/pageview.cpp:2773
 #, kde-format
 msgid "Copy to Clipboard"
 msgstr "Panoya Kopyala"
 
-#: part/pageview.cpp:2756 part/pageview.cpp:2940
+#: part/pageview.cpp:2765 part/pageview.cpp:2949
 #, kde-format
 msgid "Speak Text"
 msgstr "Metni Seslendir"
 
-#: part/pageview.cpp:2763
+#: part/pageview.cpp:2772
 #, kde-format
 msgid "Image (%1 by %2 pixels)"
 msgstr "Resim (%1 x %2 nokta)"
 
-#: part/pageview.cpp:2765
+#: part/pageview.cpp:2774
 #, kde-format
 msgid "Save to File..."
 msgstr "Dosyaya Kaydet..."
 
-#: part/pageview.cpp:2784
+#: part/pageview.cpp:2793
 #, kde-format
 msgid "Image [%1x%2] copied to clipboard."
 msgstr "[%1x%2] resmi panoya kopyalandı."
 
-#: part/pageview.cpp:2787
+#: part/pageview.cpp:2796
 #, kde-format
 msgid "Save file"
 msgstr "Dosyayı kaydet"
 
-#: part/pageview.cpp:2787
+#: part/pageview.cpp:2796
 #, kde-format
 msgid "Images (*.png *.jpeg)"
 msgstr "Resimler (*.png *.jpeg)"
 
-#: part/pageview.cpp:2789
+#: part/pageview.cpp:2798
 #, kde-format
 msgid "File not saved."
 msgstr "Dosya kaydedilmedi."
 
-#: part/pageview.cpp:2799
+#: part/pageview.cpp:2808
 #, kde-format
 msgid "Image [%1x%2] saved to %3 file."
 msgstr "[%1x%2] resmi %3 dosyasına kaydedildi."
 
-#: part/pageview.cpp:2936
+#: part/pageview.cpp:2945
 #, kde-format
 msgid "Copy Text"
 msgstr "Metni Kopyala"
 
-#: part/pageview.cpp:2955
+#: part/pageview.cpp:2964
 #, kde-format
 msgid "Go to '%1'"
 msgstr "'%1' sayfasına git"
 
-#: part/pageview.cpp:3865 part/part.cpp:2954
+#: part/pageview.cpp:3873 part/part.cpp:2955
 #, kde-format
 msgid "Fit Width"
 msgstr "Genişliğe Sığdır"
 
-#: part/pageview.cpp:3865
+#: part/pageview.cpp:3873
 #, kde-format
 msgid "Fit Page"
 msgstr "Sayfayı Sığdır"
 
-#: part/pageview.cpp:3865
+#: part/pageview.cpp:3873
 #, kde-format
 msgid "Auto Fit"
 msgstr "Otomatik Sığdır"
 
-#: part/pageview.cpp:4170
+#: part/pageview.cpp:4178
 #, kde-format
 msgid "Search for '%1' with"
 msgstr "'%1' ifadesini şununla ara"
 
-#: part/pageview.cpp:4184
+#: part/pageview.cpp:4192
 #, kde-format
 msgid "Configure Web Shortcuts..."
 msgstr "Web Kısayollarını Yapılandır..."
 
-#: part/pageview.cpp:4209
+#: part/pageview.cpp:4217
 #, kde-format
 msgid "Follow This Link"
 msgstr "Bu Bağlantıyı Takip Et"
 
-#: part/pageview.cpp:4212
+#: part/pageview.cpp:4220
 #, kde-format
 msgid "Play this Sound"
 msgstr "Bu Sesi Çal"
 
-#: part/pageview.cpp:4214
+#: part/pageview.cpp:4222
 #, kde-format
 msgid "Stop Sound"
 msgstr "Sesi Durdur"
 
-#: part/pageview.cpp:4220
+#: part/pageview.cpp:4228
 #, kde-format
 msgid "Copy Link Address"
 msgstr "Bağlantı Adresini Kopyala"
 
-#: part/pageview.cpp:4240
+#: part/pageview.cpp:4248
 #, fuzzy, kde-format
 #| msgid "Search for '%1' with"
 msgid "Search for '%1' in this document"
 msgstr "'%1' ifadesini şununla ara"
 
-#: part/pageview.cpp:4655
+#: part/pageview.cpp:4668
 #, kde-format
 msgid "Welcome"
 msgstr "Hoş Geldiniz"
 
-#: part/pageview.cpp:4775
+#: part/pageview.cpp:4784
 #, kde-format
 msgid "Select zooming area. Right-click to zoom out."
 msgstr ""
 "Büyütülecek alanı seçin. Küçültmek için farenin sağ düğmesine tıklayın."
 
-#: part/pageview.cpp:4785
+#: part/pageview.cpp:4794
 #, kde-format
 msgid "Click to see the magnified view."
 msgstr "Büyütülmüş görünümü görmek için tıklayın."
 
-#: part/pageview.cpp:4797
+#: part/pageview.cpp:4806
 #, kde-format
 msgid "Draw a rectangle around the text/graphics to copy."
 msgstr "Kopyalamak için metnin/grafiğin etrafına bir dikdörtgen çizin."
 
-#: part/pageview.cpp:4808
+#: part/pageview.cpp:4817
 #, kde-format
 msgid "Select text"
 msgstr "Metin seç"
 
-#: part/pageview.cpp:4819
+#: part/pageview.cpp:4828
 #, kde-format
 msgid ""
 "Draw a rectangle around the table, then click near edges to divide up; press "
@@ -3584,34 +3603,34 @@ msgstr ""
 "Tablonun etrafına bir dikdörtgen çizin, kenarlıkların yanına tıklayarak "
 "ayırın, temizlemek için Esc tuşuna basın."
 
-#: part/pageview.cpp:4828
+#: part/pageview.cpp:4837
 #, kde-format
 msgid "You have unsaved changes. Please save the document before signing it."
 msgstr ""
 
-#: part/pageview.cpp:4832
+#: part/pageview.cpp:4841
 #, kde-format
 msgid "Draw a rectangle to insert the signature field"
 msgstr ""
 
-#: part/pageview.cpp:4969
+#: part/pageview.cpp:4978
 #, kde-format
 msgid "Draw a rectangle around the page area you wish to keep visible"
 msgstr ""
 "Görünür olarak tutmak istediğiniz sayfa alanının etrafına bir dikdörtgen "
 "çizin"
 
-#: part/pageviewannotator.cpp:207 part/pageviewannotator.cpp:212
+#: part/pageviewannotator.cpp:206 part/pageviewannotator.cpp:211
 #, kde-format
 msgid "New Text Note"
 msgstr "Yeni Metin Notu"
 
-#: part/pageviewannotator.cpp:207 part/pageviewannotator.cpp:212
+#: part/pageviewannotator.cpp:206 part/pageviewannotator.cpp:211
 #, kde-format
 msgid "Text of the new note:"
 msgstr "Yeni notun metni:"
 
-#: part/pageviewannotator.cpp:349
+#: part/pageviewannotator.cpp:348
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -3620,17 +3639,17 @@ msgid ""
 "interface> and draw a bigger rectangle."
 msgstr ""
 
-#: part/pageviewannotator.cpp:351
+#: part/pageviewannotator.cpp:350
 #, kde-format
 msgid "Start over"
 msgstr ""
 
-#: part/pageviewannotator.cpp:352
+#: part/pageviewannotator.cpp:351
 #, kde-format
 msgid "Sign"
 msgstr ""
 
-#: part/pageviewannotator.cpp:383
+#: part/pageviewannotator.cpp:382
 #, kde-format
 msgid ""
 "There are no available signing certificates.<br/>For more information, "
@@ -3638,36 +3657,36 @@ msgid ""
 "the manual."
 msgstr ""
 
-#: part/pageviewannotator.cpp:389
+#: part/pageviewannotator.cpp:388
 #, kde-format
 msgid ""
 "All your signing certificates are either not valid yet or are past their "
 "validity date."
 msgstr ""
 
-#: part/pageviewannotator.cpp:395
+#: part/pageviewannotator.cpp:394
 #, kde-format
 msgid "Select certificate to sign with"
 msgstr ""
 
-#: part/pageviewannotator.cpp:395
+#: part/pageviewannotator.cpp:394
 #, fuzzy, kde-format
 #| msgid "Configure Viewer"
 msgid "Certificates:"
 msgstr "Göstericiyi Yapılandır"
 
-#: part/pageviewannotator.cpp:404
+#: part/pageviewannotator.cpp:403
 #, kde-format
 msgid "Enter password (if any) to unlock certificate: %1"
 msgstr ""
 
-#: part/pageviewannotator.cpp:406
+#: part/pageviewannotator.cpp:405
 #, kde-format
 msgid "Enter certificate password"
 msgstr ""
 
-#: part/pageviewannotator.cpp:1039 part/part.cpp:2470 part/part.cpp:2471
-#: part/part.cpp:3106
+#: part/pageviewannotator.cpp:1039 part/part.cpp:2471 part/part.cpp:2472
+#: part/part.cpp:3107
 #, kde-format
 msgctxt "File type name and pattern"
 msgid "%1 (%2)"
@@ -3692,91 +3711,91 @@ msgctxt "%1 is a file path"
 msgid "Could not sign. Invalid certificate password or could not write to '%1'"
 msgstr ""
 
-#: part/pageviewannotator.cpp:1163
+#: part/pageviewannotator.cpp:1173
 #, fuzzy, kde-format
 #| msgctxt "Add an annotation to the page"
 #| msgid "add annotation"
 msgid "Bookmark annotation"
 msgstr "bilgi notu ekle"
 
-#: part/pageviewannotator.cpp:1163
+#: part/pageviewannotator.cpp:1173
 #, kde-format
 msgid "Insert a custom name for the annotation:"
 msgstr ""
 
-#: part/pageviewannotator.cpp:1221
+#: part/pageviewannotator.cpp:1232
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Draw an ellipse (drag to select a zone)"
 msgstr "Bir çember çiz (bir alan seçmek için sürükleyin)"
 
-#: part/pageviewannotator.cpp:1223
+#: part/pageviewannotator.cpp:1234
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Highlight text"
 msgstr "Metni vurgula"
 
-#: part/pageviewannotator.cpp:1225
+#: part/pageviewannotator.cpp:1236
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Draw a freehand line"
 msgstr "Serbest çizim çizgisi çiz"
 
-#: part/pageviewannotator.cpp:1227
+#: part/pageviewannotator.cpp:1238
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Inline Text Annotation (drag to select a zone)"
 msgstr "İç Metin Bilg Notu (bir alan seçmek için fare işaretçisini sürükleyin)"
 
-#: part/pageviewannotator.cpp:1229
+#: part/pageviewannotator.cpp:1240
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Put a pop-up note"
 msgstr "Açılan bir not ekle"
 
-#: part/pageviewannotator.cpp:1231
+#: part/pageviewannotator.cpp:1242
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Draw a polygon (click on the first point to close it)"
 msgstr "Birçokgen çiz (kapatmak için ilk noktaya tuklayın)"
 
-#: part/pageviewannotator.cpp:1233
+#: part/pageviewannotator.cpp:1244
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Draw a rectangle"
 msgstr "Bir dikdörtgen çiz"
 
-#: part/pageviewannotator.cpp:1235
+#: part/pageviewannotator.cpp:1246
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Squiggle text"
 msgstr "Kıvrımlı metin"
 
-#: part/pageviewannotator.cpp:1237
+#: part/pageviewannotator.cpp:1248
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Put a stamp symbol"
 msgstr "Bir damga sembolü koy"
 
-#: part/pageviewannotator.cpp:1239
+#: part/pageviewannotator.cpp:1250
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Draw a straight line"
 msgstr "Düz bir çizgi çiz"
 
-#: part/pageviewannotator.cpp:1241
+#: part/pageviewannotator.cpp:1252
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Strike out text"
 msgstr "Üzeri çizili metin"
 
-#: part/pageviewannotator.cpp:1243
+#: part/pageviewannotator.cpp:1254
 #, kde-format
 msgctxt "Annotation tool"
 msgid "Underline text"
 msgstr "Altı çizili metin"
 
-#: part/pageviewannotator.cpp:1245
+#: part/pageviewannotator.cpp:1256
 #, fuzzy, kde-format
 #| msgctxt "Annotation tool"
 #| msgid "Inline Text Annotation (drag to select a zone)"
@@ -3784,19 +3803,19 @@ msgctxt "Annotation tool"
 msgid "Typewriter Annotation (drag to select a zone)"
 msgstr "İç Metin Bilg Notu (bir alan seçmek için fare işaretçisini sürükleyin)"
 
-#: part/pageviewannotator.cpp:1294
+#: part/pageviewannotator.cpp:1310
 #, kde-format
 msgid "Highlighter"
 msgstr "Vurgulayıcı"
 
-#: part/pageviewannotator.cpp:1594
+#: part/pageviewannotator.cpp:1595
 #, fuzzy, kde-format
 #| msgctxt "Add an annotation to the page"
 #| msgid "add annotation"
 msgid "Add favorite annotation"
 msgstr "bilgi notu ekle"
 
-#: part/pageviewannotator.cpp:1594
+#: part/pageviewannotator.cpp:1595
 #, fuzzy, kde-format
 #| msgctxt "Change an annotation's size"
 #| msgid "adjust annotation"
@@ -3840,17 +3859,17 @@ msgstr "&Yer İmleri"
 msgid "Viewer Toolbar"
 msgstr "Gösterici Araç Çubuğu"
 
-#: part/part.cpp:392 part/thumbnaillist.cpp:51
+#: part/part.cpp:393 part/thumbnaillist.cpp:51
 #, kde-format
 msgid "Thumbnails"
 msgstr "Küçük Resimler"
 
-#: part/part.cpp:398 part/preferencesdialog.cpp:51 part/side_reviews.cpp:101
+#: part/part.cpp:399 part/preferencesdialog.cpp:51 part/side_reviews.cpp:100
 #, kde-format
 msgid "Annotations"
 msgstr "Bilgi Notları"
 
-#: part/part.cpp:440
+#: part/part.cpp:441
 #, kde-format
 msgid ""
 "This document contains annotations or form data that were saved internally "
@@ -3859,7 +3878,7 @@ msgid ""
 "edit the document."
 msgstr ""
 
-#: part/part.cpp:447
+#: part/part.cpp:448
 #, kde-format
 msgid ""
 "This document has embedded files. <a href=\"okular:/embeddedfiles\">Click "
@@ -3869,228 +3888,228 @@ msgstr ""
 "görmek için buraya tıklayın</a> ya da Dosya -> Gömülü Dosyalar menüsüne "
 "tıklayın."
 
-#: part/part.cpp:668
+#: part/part.cpp:669
 #, kde-format
 msgctxt "Previous page"
 msgid "Previous"
 msgstr "Önceki"
 
-#: part/part.cpp:669
+#: part/part.cpp:670
 #, kde-format
 msgid "Go back to the Previous Page"
 msgstr "Önceki Sayfaya Dön"
 
-#: part/part.cpp:670
+#: part/part.cpp:671
 #, kde-format
 msgid "Moves to the previous page of the document"
 msgstr "Önceki sayfaya gider"
 
-#: part/part.cpp:680
+#: part/part.cpp:681
 #, kde-format
 msgctxt "Next page"
 msgid "Next"
 msgstr "Sonraki"
 
-#: part/part.cpp:681
+#: part/part.cpp:682
 #, kde-format
 msgid "Advance to the Next Page"
 msgstr "Sonraki Sayfaya Git"
 
-#: part/part.cpp:682
+#: part/part.cpp:683
 #, kde-format
 msgid "Moves to the next page of the document"
 msgstr "Sonraki sayfaya gider"
 
-#: part/part.cpp:693
+#: part/part.cpp:694
 #, kde-format
 msgid "Beginning of the document"
 msgstr "Belgenin başlangıcı"
 
-#: part/part.cpp:694
+#: part/part.cpp:695
 #, kde-format
 msgid "Moves to the beginning of the document"
 msgstr "Belgenin başlangıcına gider"
 
-#: part/part.cpp:698
+#: part/part.cpp:699
 #, kde-format
 msgid "End of the document"
 msgstr "Belgenin sonu"
 
-#: part/part.cpp:699
+#: part/part.cpp:700
 #, kde-format
 msgid "Moves to the end of the document"
 msgstr "Belgenin sonuna gider"
 
-#: part/part.cpp:712
+#: part/part.cpp:713
 #, kde-format
 msgid "Rename the current bookmark"
 msgstr "Geçerli yer imini yeniden adlandır"
 
-#: part/part.cpp:716
+#: part/part.cpp:717
 #, kde-format
 msgid "Previous Bookmark"
 msgstr "Önceki Yer İmi"
 
-#: part/part.cpp:718
+#: part/part.cpp:719
 #, kde-format
 msgid "Go to the previous bookmark"
 msgstr "Önceki yer imine git"
 
-#: part/part.cpp:722
+#: part/part.cpp:723
 #, kde-format
 msgid "Next Bookmark"
 msgstr "Sonraki Yer İmi"
 
-#: part/part.cpp:724
+#: part/part.cpp:725
 #, kde-format
 msgid "Go to the next bookmark"
 msgstr "Sonraki yer imine git"
 
-#: part/part.cpp:751
+#: part/part.cpp:752
 #, kde-format
 msgid "Configure Okular..."
 msgstr "Okular Uygulamasını Yapılandır..."
 
-#: part/part.cpp:754
+#: part/part.cpp:755
 #, kde-format
 msgid "Configure Viewer..."
 msgstr "Göstericiyi Yapılandır..."
 
-#: part/part.cpp:760
+#: part/part.cpp:761
 #, kde-format
 msgid "Configure Viewer Backends..."
 msgstr "Gösterici Arka Uçlarını Yapılandır..."
 
-#: part/part.cpp:762
+#: part/part.cpp:763
 #, kde-format
 msgid "Configure Backends..."
 msgstr "Arka Uçları Yapılandır..."
 
-#: part/part.cpp:798
+#: part/part.cpp:799
 #, kde-format
 msgid "About Backend"
 msgstr "Arka Uç Hakkında"
 
-#: part/part.cpp:803
+#: part/part.cpp:804
 #, kde-format
 msgid "Reloa&d"
 msgstr "&Yeniden Yükle"
 
-#: part/part.cpp:805
+#: part/part.cpp:806
 #, kde-format
 msgid "Reload the current document from disk."
 msgstr "Şimdiki belgeyi sabit diskten yeniden yükle."
 
-#: part/part.cpp:811
+#: part/part.cpp:812
 #, kde-format
 msgid "Close &Find Bar"
 msgstr "&Arama Çubuğunu Kapat"
 
-#: part/part.cpp:816
+#: part/part.cpp:817
 #, kde-format
 msgid "Page Number"
 msgstr "Sayfa Numarası"
 
-#: part/part.cpp:852
+#: part/part.cpp:853
 #, fuzzy, kde-format
 #| msgid "Speak Current Page"
 msgid "Select All Text on Current Page"
 msgstr "Geçerli Sayfayı Oku"
 
-#: part/part.cpp:865
+#: part/part.cpp:866
 #, fuzzy, kde-format
 #| msgid "Show &Page Bar"
 msgid "Show S&idebar"
 msgstr "&Sayfa Çubuğunu Göster"
 
-#: part/part.cpp:873
+#: part/part.cpp:875
 #, kde-format
 msgid "Show &Page Bar"
 msgstr "&Sayfa Çubuğunu Göster"
 
-#: part/part.cpp:879
+#: part/part.cpp:881
 #, fuzzy, kde-format
 #| msgid "Show &Navigation Panel"
 msgid "Show &Signatures Panel"
 msgstr "&Gezinme Panelini Göster"
 
-#: part/part.cpp:889
+#: part/part.cpp:891
 #, kde-format
 msgid "&Embedded Files"
 msgstr "&Gömülü Dosyalar"
 
-#: part/part.cpp:895
+#: part/part.cpp:897
 #, kde-format
 msgid "E&xport As"
 msgstr "Dışarıya A&ktar"
 
-#: part/part.cpp:907
+#: part/part.cpp:909
 #, kde-format
 msgid "S&hare"
 msgstr "P&aylaş"
 
-#: part/part.cpp:916
+#: part/part.cpp:918
 #, kde-format
 msgid "P&resentation"
 msgstr "&Sunum"
 
-#: part/part.cpp:923
+#: part/part.cpp:925
 #, kde-format
 msgid "Open Con&taining Folder"
 msgstr ""
 
-#: part/part.cpp:929
+#: part/part.cpp:931
 #, kde-format
 msgid "&Import PostScript as PDF..."
 msgstr "&PostScript Dosyalarını PDF olarak İçeriye Aktar..."
 
-#: part/part.cpp:933
+#: part/part.cpp:935
 #, kde-format
 msgid "Switch Blackscreen Mode"
 msgstr "Siyah Ekran Kipine Geç"
 
-#: part/part.cpp:941
+#: part/part.cpp:943
 #, fuzzy, kde-format
 #| msgid "Erase Drawings"
 msgid "Erase Drawing"
 msgstr "Çizimleri Sil"
 
-#: part/part.cpp:946
+#: part/part.cpp:948
 #, kde-format
 msgid "Configure Annotations..."
 msgstr "Bilgi Notlarını Yapılandır..."
 
-#: part/part.cpp:951
+#: part/part.cpp:953
 #, kde-format
 msgid "Play/Pause Presentation"
 msgstr "Sunumu Oynat/Duraklat"
 
-#: part/part.cpp:1111
+#: part/part.cpp:1112
 #, kde-format
 msgid "Could not open '%1' (%2) "
 msgstr "'%1' (%2) açılamadı"
 
-#: part/part.cpp:1161
+#: part/part.cpp:1162
 #, kde-format
 msgid "The loading of %1 has been canceled."
 msgstr "%1 belgesini yükleme işlemi iptal edildi."
 
-#: part/part.cpp:1177
+#: part/part.cpp:1178
 #, kde-format
 msgid "Could not open %1. Reason: %2"
 msgstr "%1 açılamadı. Sebep: %2"
 
-#: part/part.cpp:1205
+#: part/part.cpp:1206
 #, kde-format
 msgid "Configure Viewer Backends"
 msgstr "Gösterici Arka Uçlarını Yapılandır"
 
-#: part/part.cpp:1207
+#: part/part.cpp:1208
 #, kde-format
 msgid "Configure Backends"
 msgstr "Arka Uçları Yapılandır"
 
-#: part/part.cpp:1287
+#: part/part.cpp:1288
 #, kde-format
 msgid ""
 "The program \"ps2pdf\" was not found, so Okular can not import PS files "
@@ -4099,42 +4118,42 @@ msgstr ""
 "\"ps2pdf\" uygulaması bulunamadı. Bu nedenle Okular PS dosyalarını içeriye "
 "aktaramayacak."
 
-#: part/part.cpp:1287
+#: part/part.cpp:1288
 #, kde-format
 msgid "ps2pdf not found"
 msgstr "ps2pdf bulunamadı"
 
-#: part/part.cpp:1292
+#: part/part.cpp:1293
 #, kde-format
 msgid "PostScript files (%1)"
 msgstr "PostScript dosyaları (%1)"
 
-#: part/part.cpp:1307
+#: part/part.cpp:1308
 #, kde-format
 msgid "Importing PS file as PDF (this may take a while)..."
 msgstr "PS dosyası PDF olarak içeriye aktarılıyor"
 
-#: part/part.cpp:1428
+#: part/part.cpp:1429
 #, kde-format
 msgid "Please enter the password to read the document:"
 msgstr "Belgeyi okumak için lütfen parolayı girin:"
 
-#: part/part.cpp:1430
+#: part/part.cpp:1431
 #, kde-format
 msgid "Incorrect password. Try again:"
 msgstr "Yanlış parola. Tekrar deneyin:"
 
-#: part/part.cpp:1435
+#: part/part.cpp:1436
 #, kde-format
 msgid "Document Password"
 msgstr "Belge Parolası"
 
-#: part/part.cpp:1538
+#: part/part.cpp:1539
 #, kde-format
 msgid "This document has XFA forms, which are currently <b>unsupported</b>."
 msgstr "Bu belgede şu anda <b>desteklenmeyen</b> XFA formları bulunmaktadır."
 
-#: part/part.cpp:1545
+#: part/part.cpp:1546
 #, kde-format
 msgid ""
 "This document has forms. Click on the button to interact with them, or use "
@@ -4143,63 +4162,63 @@ msgstr ""
 "Bu belgenin formları var. Bu formlarla etkileşmek için düğmelere tıklayın ya "
 "da Görünüm -> Formları Göster menüsünü kullanın."
 
-#: part/part.cpp:1565
+#: part/part.cpp:1566
 #, kde-format
 msgid ""
 "All editing and interactive features for this document are disabled. Please "
 "save a copy and reopen to edit this document."
 msgstr ""
 
-#: part/part.cpp:1579
+#: part/part.cpp:1580
 #, fuzzy, kde-format
 #| msgid "Printing this document is not allowed."
 msgid "This document is digitally signed."
 msgstr "Bu belgenin yazdırılmasına izin verilmiyor."
 
-#: part/part.cpp:1582
+#: part/part.cpp:1583
 #, fuzzy, kde-format
 #| msgid "Printing this document is not allowed."
 msgid ""
 "This document is digitally signed. There have been changes since last signed."
 msgstr "Bu belgenin yazdırılmasına izin verilmiyor."
 
-#: part/part.cpp:1586
+#: part/part.cpp:1587
 #, kde-format
 msgid ""
 "This document is digitally signed. Some of the signatures could not be "
 "validated properly."
 msgstr ""
 
-#: part/part.cpp:1663
+#: part/part.cpp:1664
 #, kde-format
 msgid ""
 "This document wants to be shown full screen.\n"
 "Leave normal mode and enter presentation mode?"
 msgstr ""
 
-#: part/part.cpp:1665
+#: part/part.cpp:1666
 #, kde-format
 msgid "Request to Change Viewing Mode"
 msgstr ""
 
-#: part/part.cpp:1666
+#: part/part.cpp:1667
 #, fuzzy, kde-format
 #| msgid "Exit Presentation Mode"
 msgid "Enter Presentation Mode"
 msgstr "Sunum Kipinden Çık"
 
-#: part/part.cpp:1667
+#: part/part.cpp:1668
 #, kde-format
 msgid "Deny Request"
 msgstr ""
 
-#: part/part.cpp:1753
+#: part/part.cpp:1754
 #, fuzzy, kde-format
 #| msgid "Could not open %1"
 msgid "Could not open %1. %2"
 msgstr "%1 açılamadı"
 
-#: part/part.cpp:1782
+#: part/part.cpp:1783
 #, kde-format
 msgid ""
 "There are unsaved changes, and the file '%1' has been modified by another "
@@ -4207,23 +4226,23 @@ msgid ""
 "<br>Do you want to continue reloading the file?"
 msgstr ""
 
-#: part/part.cpp:1783 part/part.cpp:1790 part/part.cpp:2511
+#: part/part.cpp:1784 part/part.cpp:1791 part/part.cpp:2512
 #, kde-format
 msgid "File Changed"
 msgstr ""
 
-#: part/part.cpp:1784
+#: part/part.cpp:1785
 #, fuzzy, kde-format
 #| msgid "&Continuous"
 msgid "Continue Reloading"
 msgstr "&Sürekli"
 
-#: part/part.cpp:1785
+#: part/part.cpp:1786
 #, kde-format
 msgid "Abort Reloading"
 msgstr ""
 
-#: part/part.cpp:1789
+#: part/part.cpp:1790
 #, kde-format
 msgid ""
 "There are unsaved changes, and the file '%1' has been modified by another "
@@ -4231,18 +4250,18 @@ msgid ""
 "<br>Do you want to continue closing the file?"
 msgstr ""
 
-#: part/part.cpp:1791
+#: part/part.cpp:1792
 #, fuzzy, kde-format
 #| msgid "&Continuous"
 msgid "Continue Closing"
 msgstr "&Sürekli"
 
-#: part/part.cpp:1792
+#: part/part.cpp:1793
 #, kde-format
 msgid "Abort Closing"
 msgstr ""
 
-#: part/part.cpp:1797
+#: part/part.cpp:1798
 #, fuzzy, kde-format
 #| msgid "Do you want to save your annotation changes or discard them?"
 msgid "Do you want to save your changes to \"%1\" or discard them?"
@@ -4250,12 +4269,12 @@ msgstr ""
 "Bilgi notlarında yaptığınız değişiklikleri kaydetmek mi iptal etmek mi "
 "istiyorsunuz?"
 
-#: part/part.cpp:1797
+#: part/part.cpp:1798
 #, kde-format
 msgid "Close Document"
 msgstr "Belgeyi Kapat"
 
-#: part/part.cpp:1916
+#: part/part.cpp:1917
 #, kde-format
 msgid ""
 "This link points to a close document action that does not work when using "
@@ -4264,7 +4283,7 @@ msgstr ""
 "Bu bağlantı, gömülü göstericide çalışmayan, bir belgeyi kapat eylemine "
 "işaret ediyor."
 
-#: part/part.cpp:1921
+#: part/part.cpp:1922
 #, kde-format
 msgid ""
 "This link points to a quit application action that does not work when using "
@@ -4273,61 +4292,61 @@ msgstr ""
 "Bu bağlantı, gömülü göstericide çalışmayan, bir uygulamadan çık eylemine "
 "işaret ediyor."
 
-#: part/part.cpp:2011 part/part.cpp:2028
+#: part/part.cpp:2012 part/part.cpp:2029
 #, kde-format
 msgid "Reloading the document..."
 msgstr "Belge tekrar yükleniyor..."
 
-#: part/part.cpp:2171 part/toc.cpp:41
+#: part/part.cpp:2172 part/toc.cpp:41
 #, kde-format
 msgid "Contents"
 msgstr "İçindekiler"
 
-#: part/part.cpp:2200 part/signaturepanel.cpp:50
+#: part/part.cpp:2201 part/signaturepanel.cpp:50
 #, kde-format
 msgid "Signatures"
 msgstr ""
 
-#: part/part.cpp:2227
+#: part/part.cpp:2228
 #, kde-format
 msgid "Go to Page"
 msgstr "Sayfaya Git"
 
-#: part/part.cpp:2250
+#: part/part.cpp:2251
 #, kde-format
 msgid "&Page:"
 msgstr "Sa&yfa:"
 
-#: part/part.cpp:2340
+#: part/part.cpp:2341
 #, kde-format
 msgid "Enter the new name of the bookmark:"
 msgstr "Yer iminin yeni adını girin:"
 
-#: part/part.cpp:2386
+#: part/part.cpp:2387
 #, kde-format
 msgid "Rename this Bookmark"
 msgstr "Bu Yer imini Yeniden Adlandır"
 
-#: part/part.cpp:2389
+#: part/part.cpp:2390
 #, kde-format
 msgid "Remove this Bookmark"
 msgstr "Bu Yer İmini Kaldır"
 
-#: part/part.cpp:2478 part/revisionviewer.cpp:47
+#: part/part.cpp:2479 part/revisionviewer.cpp:47
 #, fuzzy, kde-format
 #| msgctxt "@action:inmenu"
 #| msgid "&Save As..."
 msgid "Save As"
 msgstr "&Farklı Kaydet..."
 
-#: part/part.cpp:2511
+#: part/part.cpp:2512
 #, kde-format
 msgid ""
 "The file '%1' has been modified by another program, which means it can no "
 "longer be saved."
 msgstr ""
 
-#: part/part.cpp:2519
+#: part/part.cpp:2520
 #, kde-format
 msgid ""
 "The current document is protected with a password.<br />In order to save, "
@@ -4335,43 +4354,43 @@ msgid ""
 "your undo/redo history will be lost.<br />Do you want to continue?"
 msgstr ""
 
-#: part/part.cpp:2520 part/part.cpp:2552
+#: part/part.cpp:2521 part/part.cpp:2553
 #, kde-format
 msgid "Save - Warning"
 msgstr ""
 
-#: part/part.cpp:2537
+#: part/part.cpp:2538
 #, kde-format
 msgid "Could not open the temporary file for saving."
 msgstr "Geçici dosya kaydetmek için açılamadı."
 
-#: part/part.cpp:2552
+#: part/part.cpp:2553
 #, kde-format
 msgid ""
 "After saving, the current document format requires the file to be reloaded. "
 "Your undo/redo history will be lost.<br />Do you want to continue?"
 msgstr ""
 
-#: part/part.cpp:2564 part/part.cpp:2630 part/part.cpp:2649 part/part.cpp:3121
+#: part/part.cpp:2565 part/part.cpp:2631 part/part.cpp:2650 part/part.cpp:3122
 #, kde-format
 msgid "File could not be saved in '%1'. Try to save it to another location."
 msgstr "Dosya '%1' içine kaydedilemedi. Başka bir yere kaydetmeyi deneyin."
 
-#: part/part.cpp:2576
+#: part/part.cpp:2577
 #, fuzzy, kde-format
 #| msgctxt "Edit an form's text contents"
 #| msgid "edit form contents"
 msgid "Filled form contents"
 msgstr "form içeriklerini düzenle"
 
-#: part/part.cpp:2578
+#: part/part.cpp:2579
 #, fuzzy, kde-format
 #| msgctxt "remove a collection of annotations from the page"
 #| msgid "remove annotations"
 msgid "User annotations"
 msgstr "bilgi notlarını kaldır"
 
-#: part/part.cpp:2582
+#: part/part.cpp:2583
 #, kde-format
 msgid ""
 "You are about to save changes, but the current file format does not support "
@@ -4379,17 +4398,17 @@ msgid ""
 "format to preserve them."
 msgstr ""
 
-#: part/part.cpp:2586 part/part.cpp:2608
+#: part/part.cpp:2587 part/part.cpp:2609
 #, kde-format
 msgid "Warning"
 msgstr ""
 
-#: part/part.cpp:2587 part/part.cpp:2609
+#: part/part.cpp:2588 part/part.cpp:2610
 #, kde-format
 msgid "Save as Okular document archive..."
 msgstr ""
 
-#: part/part.cpp:2599
+#: part/part.cpp:2600
 #, kde-format
 msgid ""
 "You are about to save changes, but the current file format does not support "
@@ -4398,7 +4417,7 @@ msgid ""
 "discard these elements."
 msgstr ""
 
-#: part/part.cpp:2602
+#: part/part.cpp:2603
 #, kde-format
 msgid ""
 "You are about to save changes, but the current file format does not support "
@@ -4407,23 +4426,23 @@ msgid ""
 "these elements as well as the undo/redo history."
 msgstr ""
 
-#: part/part.cpp:2604
+#: part/part.cpp:2605
 #, fuzzy, kde-format
 #| msgid "&Continuous"
 msgid "Continue"
 msgstr "&Sürekli"
 
-#: part/part.cpp:2604
+#: part/part.cpp:2605
 #, kde-format
 msgid "Continue losing changes"
 msgstr ""
 
-#: part/part.cpp:2632
+#: part/part.cpp:2633
 #, kde-format
 msgid "File could not be saved in '%1'. %2"
 msgstr "Dosya '%1' içerisine kaydedilemedi. %2"
 
-#: part/part.cpp:2668
+#: part/part.cpp:2669
 #, kde-format
 msgid ""
 "Okular cannot copy %1 to the specified location.\n"
@@ -4434,7 +4453,7 @@ msgstr ""
 "\n"
 "Belge artık yok."
 
-#: part/part.cpp:2696
+#: part/part.cpp:2697
 #, fuzzy, kde-format
 #| msgid "File could not be saved in '%1'. Try to save it to another location."
 msgid ""
@@ -4442,49 +4461,49 @@ msgid ""
 "location."
 msgstr "Dosya '%1' içine kaydedilemedi. Başka bir yere kaydetmeyi deneyin."
 
-#: part/part.cpp:2937
+#: part/part.cpp:2938
 #, fuzzy, kde-format
 #| msgid "End Presentation"
 msgid "Expand whole section"
 msgstr "Sunumu Bitir"
 
-#: part/part.cpp:2938
+#: part/part.cpp:2939
 #, kde-format
 msgid "Collapse whole section"
 msgstr ""
 
-#: part/part.cpp:2939
+#: part/part.cpp:2940
 #, kde-format
 msgid "Expand all"
 msgstr ""
 
-#: part/part.cpp:2940
+#: part/part.cpp:2941
 #, kde-format
 msgid "Collapse all"
 msgstr ""
 
-#: part/part.cpp:2952
+#: part/part.cpp:2953
 #, kde-format
 msgid "Add Bookmark"
 msgstr "Yer İmi Ekle"
 
-#: part/part.cpp:2961
+#: part/part.cpp:2962
 #, kde-format
 msgid "Tools"
 msgstr "Araçlar"
 
-#: part/part.cpp:3158
+#: part/part.cpp:3159
 #, kde-format
 msgctxt "@title:window"
 msgid "Print"
 msgstr "Yazdır"
 
-#: part/part.cpp:3222
+#: part/part.cpp:3223
 #, kde-format
 msgid "Printing this document is not allowed."
 msgstr "Bu belgenin yazdırılmasına izin verilmiyor."
 
-#: part/part.cpp:3229
+#: part/part.cpp:3230
 #, kde-format
 msgid ""
 "Could not print the document. Unknown error. Please report to bugs.kde.org"
@@ -4492,7 +4511,7 @@ msgstr ""
 "Bu belge yazdırılamıyor. Bilinmeyen hata. Lütfen bugs.kde.org adresinden "
 "hata raporlayınız."
 
-#: part/part.cpp:3231
+#: part/part.cpp:3232
 #, kde-format
 msgid ""
 "Could not print the document. Detailed error is \"%1\". Please report to "
@@ -4501,17 +4520,17 @@ msgstr ""
 "Belge yazdırılamıyor. Detaylı hata \"%1\". Lütfen bugs.kde.org adresinden "
 "hata raporlayınız."
 
-#: part/part.cpp:3308
+#: part/part.cpp:3309
 #, kde-format
 msgid "Go to the place you were before"
 msgstr "Daha önce bulunduğunuz yere gider"
 
-#: part/part.cpp:3312
+#: part/part.cpp:3313
 #, kde-format
 msgid "Go to the place you were after"
 msgstr "Daha sonra bulunduğunuz yere gider"
 
-#: part/part.cpp:3337
+#: part/part.cpp:3338
 #, kde-format
 msgid ""
 "<qt><strong>File Error!</strong> Could not create temporary file "
@@ -4520,7 +4539,7 @@ msgstr ""
 "<qt><strong>Dosya Hatası!</strong> Geçici dosya oluşturulamadı <nobr><strong>"
 "%1</strong></nobr>.</qt>"
 
-#: part/part.cpp:3349
+#: part/part.cpp:3350
 #, kde-format
 msgid ""
 "<qt><strong>File Error!</strong> Could not open the file <nobr><strong>%1</"
@@ -4529,7 +4548,7 @@ msgstr ""
 "<qt><strong>Dosya Hatası!</strong> Sıkıştırmasını açmak için <nobr><strong>"
 "%1</strong></nobr> dosyası açılamadı. Dosya yüklenmeycek.</qt>"
 
-#: part/part.cpp:3353
+#: part/part.cpp:3354
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>This error typically occurs if you do not have enough permissions to "
@@ -4547,7 +4566,7 @@ msgstr ""
 "sonra 'Özellikler' sekmesini seçerseniz, sahiplik ve izinleri kontrol "
 "edebilirsiniz.</qt>"
 
-#: part/part.cpp:3374
+#: part/part.cpp:3375
 #, kde-format
 msgid ""
 "<qt><strong>File Error!</strong> Could not uncompress the file <nobr><strong>"
@@ -4556,7 +4575,7 @@ msgstr ""
 "<qt><strong>Dosya Hatası!</strong> <nobr><strong>%1</strong></nobr> "
 "dosyasının sıkıştırması açılamadı. Dosya yüklenmeyecek.</qt>"
 
-#: part/part.cpp:3378
+#: part/part.cpp:3379
 #, kde-format
 msgid ""
 "<qt>This error typically occurs if the file is corrupt. If you want to be "
@@ -4565,27 +4584,27 @@ msgstr ""
 "<qt>Bu hata genellikle dosya bozuksa meydana gelir. Emin olmak istiyorsanız, "
 "dosyayı komut satırında elle açmayı deneyin.</qt>"
 
-#: part/part.cpp:3404
+#: part/part.cpp:3405
 #, kde-format
 msgid "No Bookmarks"
 msgstr "Yer İmi Yok"
 
-#: part/part.cpp:3475
+#: part/part.cpp:3476
 #, kde-format
 msgid "There was a problem sharing the document: %1"
 msgstr "Belge paylaşılırken bir hata oluştu: %1"
 
-#: part/part.cpp:3475 part/part.cpp:3481
+#: part/part.cpp:3476 part/part.cpp:3482
 #, kde-format
 msgid "Share"
 msgstr "Paylaş"
 
-#: part/part.cpp:3479
+#: part/part.cpp:3480
 #, kde-format
 msgid "Document shared successfully"
 msgstr "Belge paylaşımı başarılı"
 
-#: part/part.cpp:3481
+#: part/part.cpp:3482
 #, kde-format
 msgid "You can find the shared document at: <a href=\"%1\">%1</a>"
 msgstr "Paylaşılan belgeyi şurada bulabilirsiniz: <a href=\"%1\">%1</a>"
@@ -4621,7 +4640,7 @@ msgid "Main Toolbar"
 msgstr "Ana Araç Çubuğu"
 
 #. i18n: ectx: ToolBar (annotationToolBar)
-#: part/part.rc:113
+#: part/part.rc:116
 #, fuzzy, kde-format
 #| msgid "Annotation tools"
 msgid "Annotation Toolbar"
@@ -5012,7 +5031,7 @@ msgstr "Herhangi Bir Kelimeyi Eşle"
 msgid "Filter Options"
 msgstr "Filtre Seçenekleri"
 
-#: part/side_reviews.cpp:68
+#: part/side_reviews.cpp:67
 #, fuzzy, kde-format
 #| msgid ""
 #| "<div align=center><h3>No annotations</h3>To create new annotations press "
@@ -5025,28 +5044,28 @@ msgstr ""
 "düğmesine basın ya da <i>Araçlar -&gt; Gözden Geçir</i> menüsüne tıklayın.</"
 "div>"
 
-#: part/side_reviews.cpp:140
+#: part/side_reviews.cpp:139
 #, kde-format
 msgid "Group by Page"
 msgstr "Sayfaya göre Grupla"
 
-#: part/side_reviews.cpp:145
+#: part/side_reviews.cpp:144
 #, kde-format
 msgid "Group by Author"
 msgstr "Yazara göre Grupla"
 
-#: part/side_reviews.cpp:153
+#: part/side_reviews.cpp:152
 #, fuzzy, kde-format
 #| msgid "Show reviews for current page only"
 msgid "Show annotations for current page only"
 msgstr "Sadece geçerli sayfa için gözden geçirmeleri göster"
 
-#: part/side_reviews.cpp:163
+#: part/side_reviews.cpp:162
 #, kde-format
 msgid "Expand all elements"
 msgstr ""
 
-#: part/side_reviews.cpp:165
+#: part/side_reviews.cpp:164
 #, kde-format
 msgid "Collapse all elements"
 msgstr ""
@@ -5352,7 +5371,7 @@ msgstr ""
 msgid "View Certificate..."
 msgstr ""
 
-#: part/thumbnaillist.cpp:991
+#: part/thumbnaillist.cpp:983
 #, kde-format
 msgid "Show bookmarked pages only"
 msgstr "Sadece yer imli sayfaları göster"
@@ -5549,23 +5568,23 @@ msgstr "Desteklenen tüm dosyalar (%1)"
 msgid "Open Document"
 msgstr "Belge Aç"
 
-#: shell/shell.cpp:612
+#: shell/shell.cpp:616
 #, kde-format
 msgid "Confirm Close"
 msgstr "Kapatmayı Onayla"
 
-#: shell/shell.cpp:616
+#: shell/shell.cpp:620
 #, kde-format
 msgid "Close Tabs"
 msgstr "Sekmeleri Kapat"
 
-#: shell/shell.cpp:623
+#: shell/shell.cpp:627
 #, kde-format
 msgid "You are about to close %1 tabs. Are you sure you want to continue?"
 msgstr ""
 "%1 sekmeyi kapatmak üzeresiniz. Devam etmek istediğinizden emin misiniz?"
 
-#: shell/shell.cpp:625
+#: shell/shell.cpp:629
 #, kde-format
 msgid "Warn me when I attempt to close multiple tabs"
 msgstr "Çok sayıda sekmeyi kapatmaya çalıştığımda beni uyar"

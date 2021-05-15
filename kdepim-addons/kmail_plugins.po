@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-23 02:57+0100\n"
+"POT-Creation-Date: 2021-04-16 00:20+0000\n"
 "PO-Revision-Date: 2017-04-04 10:36+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -339,6 +339,14 @@ msgstr ""
 msgid "Path:"
 msgstr "Yol:"
 
+#: mailmergeplugin/widgets/mailmergepreviewdialog.cpp:16
+#: mailmergeplugin/widgets/selectattachmentdialog.cpp:18
+#, fuzzy, kde-format
+#| msgid "Attachment"
+msgctxt "@title:window"
+msgid "Attachment"
+msgstr "Eklenti"
+
 #: mailmergeplugin/widgets/mailmergewidget.cpp:36
 #, kde-format
 msgid "Source:"
@@ -373,13 +381,6 @@ msgstr "&Kaldır"
 #, kde-format
 msgid "Mod&ify..."
 msgstr "&Değiştir..."
-
-#: mailmergeplugin/widgets/selectattachmentdialog.cpp:18
-#, fuzzy, kde-format
-#| msgid "Attachment"
-msgctxt "@title:window"
-msgid "Attachment"
-msgstr "Eklenti"
 
 #: mailmergeplugin/widgets/selectattachmentdialog.cpp:30
 #, kde-format

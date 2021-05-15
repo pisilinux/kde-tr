@@ -1,0 +1,45 @@
+#
+# Translators:
+# Muhammet Kara <muhammetk@gmail.com>, 2007
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-utils-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-21 00:40+0000\n"
+"PO-Revision-Date: 2017-08-27 19:53+0000\n"
+"Last-Translator: Serdar <syigitisk@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/extragear-utils-"
+"k-tr/language/tr/)\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: curconvd/org.kde.curconvd.desktop:7
+msgctxt "Name"
+msgid "CurConvD"
+msgstr ""
+
+#: curconvd/org.kde.curconvd.desktop:34
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Currency converter and calculator"
+msgctxt "GenericName"
+msgid "Currency conversion service"
+msgstr "Para birimi dönüştürücüsü ve hesaplayıcısı"
+
+#: keurocalc/org.kde.keurocalc.desktop:8
+msgctxt "Name"
+msgid "KEuroCalc"
+msgstr "KEuroCalc"
+
+#: keurocalc/org.kde.keurocalc.desktop:58
+msgctxt "GenericName"
+msgid "Currency converter and calculator"
+msgstr "Para birimi dönüştürücüsü ve hesaplayıcısı"
+
+#: keurocalc/org.kde.keurocalc.desktop:95
+msgctxt "Keywords"
+msgid "converter;euro;money;cash;calculator;"
+msgstr "dönüştürücü;avro;para;nakit;hesaplayıcı;"

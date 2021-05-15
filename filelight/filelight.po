@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeutils-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-14 09:13+0100\n"
+"POT-Creation-Date: 2021-04-30 00:21+0000\n"
 "PO-Revision-Date: 2017-10-03 15:02+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -228,12 +228,12 @@ msgctxt "Go to forward in the history of paths viewed"
 msgid "Forward"
 msgstr "İleri"
 
-#: src/main.cpp:43
+#: src/main.cpp:53
 #, kde-format
 msgid "Graphical disk-usage information"
 msgstr "Grafiksel disk kullanımı bilgileri"
 
-#: src/main.cpp:45
+#: src/main.cpp:55
 #, kde-format
 msgid ""
 "(C) 2006 Max Howell\n"
@@ -242,77 +242,77 @@ msgstr ""
 "(C) 2006 Max Howell\n"
 "(C) 2008-2014 Martin Sandsmark"
 
-#: src/main.cpp:50
+#: src/main.cpp:60
 #, kde-format
 msgid "Martin Sandsmark"
 msgstr "Martin Sandsmark"
 
-#: src/main.cpp:50
+#: src/main.cpp:60
 #, kde-format
 msgid "Maintainer"
 msgstr "Projeyi yürüten"
 
-#: src/main.cpp:51
+#: src/main.cpp:61
 #, kde-format
 msgid "Max Howell"
 msgstr "Max Howell"
 
-#: src/main.cpp:51
+#: src/main.cpp:61
 #, kde-format
 msgid "Original author"
 msgstr "Asıl yazar"
 
-#: src/main.cpp:52
+#: src/main.cpp:62
 #, kde-format
 msgid "Lukas Appelhans"
 msgstr "Lukas Appelhans"
 
-#: src/main.cpp:52
+#: src/main.cpp:62
 #, kde-format
 msgid "Help and support"
 msgstr "Yardım ve destek"
 
-#: src/main.cpp:53
+#: src/main.cpp:63
 #, kde-format
 msgid "Steffen Gerlach"
 msgstr "Steffen Gerlach"
 
-#: src/main.cpp:53
+#: src/main.cpp:63
 #, kde-format
 msgid "Inspiration"
 msgstr "Esinlenme"
 
-#: src/main.cpp:54
+#: src/main.cpp:64
 #, kde-format
 msgid "Mike Diehl"
 msgstr "Mike Diehl"
 
-#: src/main.cpp:54
+#: src/main.cpp:64
 #, kde-format
 msgid "Original documentation"
 msgstr "Özgün belgelendirme"
 
-#: src/main.cpp:55
+#: src/main.cpp:65
 #, kde-format
 msgid "Sune Vuorela"
 msgstr "Sune Vuorela"
 
-#: src/main.cpp:55 src/main.cpp:56
+#: src/main.cpp:65 src/main.cpp:66
 #, kde-format
 msgid "Icon"
 msgstr "Simge"
 
-#: src/main.cpp:56
+#: src/main.cpp:66
 #, kde-format
 msgid "Nuno Pinheiro"
 msgstr "Nuno Pinheiro"
 
-#: src/main.cpp:63
+#: src/main.cpp:73
 #, kde-format
 msgid "Path or URL to scan"
 msgstr "Taranacak yol veya URL"
 
-#: src/main.cpp:63
+#: src/main.cpp:73
 #, kde-format
 msgid "[url]"
 msgstr "[url]"
@@ -384,22 +384,22 @@ msgctxt "filedialog type filter"
 msgid "SVG Files (*.svg);;All Files(*)"
 msgstr ""
 
-#: src/mainWindow.cpp:378
+#: src/mainWindow.cpp:379
 #, kde-format
 msgid "The entered URL cannot be parsed; it is invalid."
 msgstr "Girilen adres ayrıştırılamadı; geçersiz."
 
-#: src/mainWindow.cpp:382
+#: src/mainWindow.cpp:383
 #, kde-format
 msgid "Filelight only accepts absolute paths, eg. /%1"
 msgstr "Filelight sadece tam yolları kabul eder, /%1 gibi"
 
-#: src/mainWindow.cpp:386
+#: src/mainWindow.cpp:387
 #, kde-format
 msgid "Folder not found: %1"
 msgstr "Dizin bulunamadı: %1"
 
-#: src/mainWindow.cpp:390
+#: src/mainWindow.cpp:391
 #, kde-format
 msgid ""
 "Unable to enter: %1\n"
@@ -408,39 +408,39 @@ msgstr ""
 "Girilemedi: %1\n"
 "Bu konuma erişim hakkınız yok."
 
-#: src/mainWindow.cpp:410
+#: src/mainWindow.cpp:411
 #, kde-format
 msgid "Aborting Scan..."
 msgstr "Tarama İptal Ediliyor..."
 
-#: src/mainWindow.cpp:477
+#: src/mainWindow.cpp:478
 #, kde-format
 msgid "Scanning: %1"
 msgstr "Taranıyor: %1"
 
-#: src/mainWindow.cpp:510
+#: src/mainWindow.cpp:511
 #, kde-format
 msgid "Scan completed, generating map..."
 msgstr "Tarama tamamlandı, harita oluşturuluyor..."
 
-#: src/mainWindow.cpp:520
+#: src/mainWindow.cpp:521
 #, kde-format
 msgid "Scan failed: %1"
 msgstr "Tarama başarısız oldu: %1"
 
-#: src/mainWindow.cpp:542
+#: src/mainWindow.cpp:543
 #, kde-format
 msgid "No files."
 msgstr "Dosya yok."
 
-#: src/mainWindow.cpp:543
+#: src/mainWindow.cpp:544
 #, kde-format
 msgid "1 file"
 msgid_plural "%1 files"
 msgstr[0] "%1 dosya"
 msgstr[1] "%1 dosya"
 
-#: src/progressBox.cpp:76
+#: src/progressBox.cpp:82
 #, fuzzy, kde-format
 #| msgid "%1 File"
 #| msgid_plural "%1 Files"

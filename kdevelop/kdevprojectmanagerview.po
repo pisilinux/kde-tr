@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-kdevelop-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-17 07:46+0200\n"
+"POT-Creation-Date: 2020-08-30 02:14+0200\n"
 "PO-Revision-Date: 2021-04-20 15:16+0200\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -161,25 +161,25 @@ msgctxt "@info:tooltip"
 msgid "Remove currently selected item from the build set."
 msgstr "Seçili ögeyi inşa setinden kaldır."
 
-#: projectmanagerview.cpp:84 projectmanagerviewplugin.cpp:198
+#: projectmanagerview.cpp:85 projectmanagerviewplugin.cpp:198
 #, kde-format
 msgctxt "@title:window"
 msgid "Projects"
 msgstr "Projeler"
 
-#: projectmanagerview.cpp:101
+#: projectmanagerview.cpp:104
 #, kde-format
 msgctxt "@action"
 msgid "Locate Current Document"
 msgstr "Şimdiki Belgeyi Konumlandır"
 
-#: projectmanagerview.cpp:102
+#: projectmanagerview.cpp:105
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Locates the current document in the project tree and selects it."
 msgstr "Geçerli belgeyi proje ağacında bulur ve seçer."
 
-#: projectmanagerview.cpp:109
+#: projectmanagerview.cpp:117
 #, kde-format
 msgctxt "@action"
 msgid "Show Build Targets"
@@ -340,11 +340,10 @@ msgid "Create Folder in %1"
 msgstr "%1 içerisinde Dizin Oluştur"
 
 #: projectmanagerviewplugin.cpp:556
-#, fuzzy, kde-format
-#| msgid "Folder Name"
+#, kde-format
 msgctxt "@label:textbox"
 msgid "Folder name:"
-msgstr "Dizin Adı"
+msgstr "Klasör adı:"
 
 #: projectmanagerviewplugin.cpp:608
 #, kde-format
@@ -446,15 +445,11 @@ msgstr "(dal yok)"
 #~ msgid "&Add to Target"
 #~ msgstr "Hedefe &Ekle"
 
-#~ msgid "..."
-#~ msgstr "..."
-
 #~ msgid "Project Manager"
 #~ msgstr "Proje Yönetici"
 
-#~ msgctxt "@title:menu"
-#~ msgid "Run"
-#~ msgstr "Çalıştır"
+#~ msgid "..."
+#~ msgstr "..."
 
 #~ msgctxt "@action"
 #~ msgid "Build"
@@ -467,6 +462,15 @@ msgstr "(dal yok)"
 #~ msgctxt "@action"
 #~ msgid "Clean"
 #~ msgstr "Temizle"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Run"
+#~ msgstr "Çalıştır"
+
+#, fuzzy
+#~| msgid "Projects"
+#~ msgid "Projects View"
+#~ msgstr "Projeler"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"

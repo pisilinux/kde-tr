@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdepim-runtime-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-27 03:07+0100\n"
+"POT-Creation-Date: 2021-05-01 00:20+0000\n"
 "PO-Revision-Date: 2014-11-12 01:00+0200\n"
 "Last-Translator: Kaan Ozdincer <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -55,7 +55,7 @@ msgid "Incidence with uid '%1' not found."
 msgstr "Kullanıcı kimliği '%1' olan olay bulunamadı."
 
 #: shared/icalresourcebase.cpp:46 shared/icalresourcebase.cpp:77
-#: shared/icalresourcebase.h:81
+#: shared/icalresourcebase.h:83
 #, kde-format
 msgid "Calendar not loaded."
 msgstr "Takvim yüklenmedi."
@@ -65,12 +65,12 @@ msgstr "Takvim yüklenmedi."
 msgid "Failed to save calendar file to %1"
 msgstr "Takvim dosyası %1 konumuna kaydedilemedi"
 
-#: shared/icalresourcebase.h:85
+#: shared/icalresourcebase.h:87
 #, kde-format
 msgid "Unable to retrieve added item %1."
 msgstr "Eklenen %1 ögesi getirilemedi."
 
-#: shared/icalresourcebase.h:85
+#: shared/icalresourcebase.h:87
 #, kde-format
 msgid "Unable to retrieve modified item %1."
 msgstr "Değiştirilen %1 ögesi getirilemedi."

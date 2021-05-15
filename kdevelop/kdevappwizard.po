@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-kdevelop-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-17 07:46+0200\n"
+"POT-Creation-Date: 2020-10-18 02:19+0200\n"
 "PO-Revision-Date: 2021-03-12 12:58+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -66,10 +66,9 @@ msgid "Could not create project from template."
 msgstr "Şablondan yeni proje oluşturulamadı."
 
 #: appwizardplugin.cpp:140
-#, fuzzy, kde-format
-#| msgid "Please see the Version Control toolview"
+#, kde-format
 msgid "Please see the Version Control tool view."
-msgstr "Lütfen Sürüm Kontrol araçlarını inceleyiniz."
+msgstr "Lütfen Sürüm Kontrol aracı görünümüne göz atın."
 
 #: appwizardplugin.cpp:142
 #, kde-format
@@ -82,37 +81,42 @@ msgstr "Sürüm Kontrol Sistemi Hatası"
 msgid "Could not initialize DVCS repository"
 msgstr "DVCS deposu başlatılamadı"
 
-#: appwizardplugin.cpp:166
+#: appwizardplugin.cpp:167
+#, kde-format
+msgid "Could not check status of the DVCS repository"
+msgstr "DVCS deposunun durumu kontrol edilemedi"
+
+#: appwizardplugin.cpp:180
 #, kde-format
 msgid "Could not add files to the DVCS repository"
 msgstr "Dosyalar DVCS deposuna eklenemedi"
 
-#: appwizardplugin.cpp:173
+#: appwizardplugin.cpp:188
 #, kde-format
 msgid "Could not import project into %1."
 msgstr "Proje %1 konumuna aktarılamadı."
 
-#: appwizardplugin.cpp:190
+#: appwizardplugin.cpp:205
 #, kde-format
 msgid "Could not import project"
 msgstr "Proje içeriye aktarılamadı"
 
-#: appwizardplugin.cpp:198
+#: appwizardplugin.cpp:213
 #, kde-format
 msgid "Could not checkout imported project"
 msgstr "İçeriye aktarılan proje alınamadı"
 
-#: appwizardplugin.cpp:323
+#: appwizardplugin.cpp:338
 #, kde-format
 msgid "Could not create new project"
 msgstr "Yeni proje oluşturulamadı"
 
-#: appwizardplugin.cpp:458
+#: appwizardplugin.cpp:473
 #, kde-format
 msgid "The file %1 cannot be created."
 msgstr "%1 dosyası oluşturulamadı."
 
-#: appwizardplugin.cpp:561
+#: appwizardplugin.cpp:576
 #, kde-format
 msgid "Project Templates"
 msgstr "Proje Şablonları"
@@ -227,7 +231,9 @@ msgstr "Sürüm kontrol sistemi:"
 #~ msgid "Project"
 #~ msgstr "Proje"
 
-#~ msgid "Application Name:"
+#, fuzzy
+#~| msgid "Application Name:"
+#~ msgid "Application Wizard"
 #~ msgstr "Uygulama Adı:"
 
 #~ msgid "KSqueezedTextLabel"

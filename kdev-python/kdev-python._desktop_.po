@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-01 01:44+0000\n"
+"POT-Creation-Date: 2021-01-19 01:57+0000\n"
 "PO-Revision-Date: 2017-10-03 14:05+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
@@ -17,7 +17,7 @@ msgctxt "Name"
 msgid "Django 1.11"
 msgstr "Django 1.11"
 
-#: app_templates/django_project/django_project.kdevtemplate:31
+#: app_templates/django_project/django_project.kdevtemplate:32
 msgctxt "Comment"
 msgid "A Django project with one application"
 msgstr "Uygulama ile birlikte bir Django projesi"
@@ -27,7 +27,7 @@ msgctxt "Name"
 msgid "Simple Qt GUI application using Designer"
 msgstr "Designer kullanarak Basit Bir QT GUI uygulaması"
 
-#: app_templates/qtdesigner_app/qtdesigner_app.kdevtemplate:30
+#: app_templates/qtdesigner_app/qtdesigner_app.kdevtemplate:31
 msgctxt "Comment"
 msgid ""
 "An example application using Qt Designer. If you edit mainwindow.ui, "
@@ -41,7 +41,7 @@ msgctxt "Name"
 msgid "Simple Python Application"
 msgstr "Basit Python Uygulaması"
 
-#: app_templates/simple_pythonapp/simple_pythonapp.kdevtemplate:30
+#: app_templates/simple_pythonapp/simple_pythonapp.kdevtemplate:31
 msgctxt "Comment"
 msgid "Generate filestructure to start a Python application"
 msgstr "Bir Python uygulaması başlatmak için dosya yapısını oluştur"

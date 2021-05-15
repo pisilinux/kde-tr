@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sieveeditor\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-17 01:50+0000\n"
+"POT-Creation-Date: 2021-04-20 00:19+0000\n"
 "PO-Revision-Date: 2017-10-23 09:26+0000\n"
 "Last-Translator: İşbaran <isbaran@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
@@ -89,33 +89,33 @@ msgstr "İçe Aktarma İşlemi Devam Ediyor..."
 msgid "Finish"
 msgstr "Tamamlandı"
 
-#: main.cpp:38
+#: main.cpp:43
 #, kde-format
 msgid "KSieve Editor"
 msgstr "KSieve Düzenleyicisi"
 
-#: main.cpp:40
+#: main.cpp:45
 #, kde-format
 msgid "Sieve Editor"
 msgstr "Sieve Düzenleyicisi"
 
-#: main.cpp:42
+#: main.cpp:47
 #, fuzzy, kde-format
 #| msgid "Copyright © 2013-2017 sieveeditor authors"
 msgid "Copyright © 2013-2021 sieveeditor authors"
 msgstr "Telif Hakkı © 2013-2017 sieveeditor yazarları"
 
-#: main.cpp:43
+#: main.cpp:48
 #, kde-format
 msgid "Laurent Montel"
 msgstr "Laurent Montel"
 
-#: main.cpp:43
+#: main.cpp:48
 #, kde-format
 msgid "Maintainer"
 msgstr "Proje Yürütücüsü"
 
-#: main.cpp:51
+#: main.cpp:56
 #, kde-format
 msgid "Lists the available options for user feedback"
 msgstr ""

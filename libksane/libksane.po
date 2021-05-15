@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdegraphics-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-08 02:33+0100\n"
+"POT-Creation-Date: 2021-05-15 00:16+0000\n"
 "PO-Revision-Date: 2017-04-13 15:00+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Lokalize 2.0\n"
 
-#: ../ksanetwain/ktwain_widget.cpp:36
+#: ../ksanetwain/ktwain_widget.cpp:37
 #, kde-format
 msgid "Open scan dialog"
 msgstr "Tarama penceresini aç"
@@ -167,7 +167,7 @@ msgstr "Tam"
 msgid "???"
 msgstr "???"
 
-#: ksanedevicedialog.cpp:50
+#: ksanedevicedialog.cpp:45
 #, kde-format
 msgid ""
 "<html>The SANE (Scanner Access Now Easy) system could not find any device."
@@ -180,101 +180,101 @@ msgstr ""
 "tarayıcı yapılandırmasını denetleyin.<br>SANE hakkında ayrıntılı bilgi için "
 "<a href='http://www.sane-project.org/'>SANE anasayfasına</a> bakın.</html>"
 
-#: ksanedevicedialog.cpp:72
+#: ksanedevicedialog.cpp:67
 #, kde-format
 msgid "Reload devices list"
 msgstr "Aygıt listesini yeniden yükle"
 
-#: ksanedevicedialog.cpp:100
+#: ksanedevicedialog.cpp:91
 #, kde-format
 msgid "Looking for devices. Please wait."
 msgstr "Aygıtlar aranıyor. Lütfen bekleyin."
 
-#: ksanedevicedialog.cpp:138
+#: ksanedevicedialog.cpp:126
 #, kde-format
 msgid "Sorry. No devices found."
 msgstr "Üzgünüm. Hiçbir aygıt bulunamadı."
 
-#: ksanedevicedialog.cpp:148
+#: ksanedevicedialog.cpp:136
 #, kde-format
 msgid "Found devices:"
 msgstr "Bulunan aygıtlar:"
 
-#: ksaneviewer.cpp:106 ksanewidget.cpp:123
+#: ksaneviewer.cpp:101 ksanewidget.cpp:155
 #, kde-format
 msgid "Zoom In"
 msgstr "Büyüt"
 
-#: ksaneviewer.cpp:109 ksanewidget.cpp:129
+#: ksaneviewer.cpp:104 ksanewidget.cpp:161
 #, kde-format
 msgid "Zoom Out"
 msgstr "Küçült"
 
-#: ksaneviewer.cpp:112 ksanewidget.cpp:135
+#: ksaneviewer.cpp:107 ksanewidget.cpp:167
 #, kde-format
 msgid "Zoom to Selection"
 msgstr "Seçime Büyüt"
 
-#: ksaneviewer.cpp:115 ksanewidget.cpp:141
+#: ksaneviewer.cpp:110 ksanewidget.cpp:173
 #, kde-format
 msgid "Zoom to Fit"
 msgstr "Ekrana Sığdır"
 
-#: ksaneviewer.cpp:118 ksanewidget.cpp:147
+#: ksaneviewer.cpp:113 ksanewidget.cpp:179
 #, kde-format
 msgid "Clear Selections"
 msgstr "Seçimleri Temizle"
 
-#: ksanewidget.cpp:98
+#: ksanewidget.cpp:130
 #, kde-format
 msgid "Waiting for the scan to start."
 msgstr "Taramanın başlaması bekleniyor."
 
-#: ksanewidget.cpp:110
+#: ksanewidget.cpp:142
 #, kde-format
 msgid "Cancel current scan operation"
 msgstr "Geçerli tarama işlemini iptal et"
 
-#: ksanewidget.cpp:158
+#: ksanewidget.cpp:190
 #, fuzzy, kde-format
 #| msgid "Scan Preview Image"
 msgid "Scan Preview Image (%1)"
 msgstr "Önizleme Resmini Tara"
 
-#: ksanewidget.cpp:159
+#: ksanewidget.cpp:191
 #, kde-format
 msgctxt "Preview button text"
 msgid "Preview"
 msgstr "Önizleme"
 
-#: ksanewidget.cpp:164
+#: ksanewidget.cpp:196
 #, fuzzy, kde-format
 #| msgid "Scan Final Image"
 msgid "Scan Final Image (%1)"
 msgstr "Sonuç Resmini Tara"
 
-#: ksanewidget.cpp:165
+#: ksanewidget.cpp:197
 #, kde-format
 msgctxt "Final scan button text"
 msgid "Scan"
 msgstr "Tara"
 
-#: ksanewidget.cpp:208
+#: ksanewidget.cpp:240
 #, kde-format
 msgid "Basic Options"
 msgstr "Temel Seçenekler"
 
-#: ksanewidget.cpp:214
+#: ksanewidget.cpp:246
 #, kde-format
 msgid "Scanner Specific Options"
 msgstr "Tarayıcıya Özel Seçenekler"
 
-#: ksanewidget.cpp:366
+#: ksanewidget.cpp:400
 #, kde-format
 msgid "Authentication required for resource: %1"
 msgstr "Bu kaynak için yetkilendirme gerekiyor: %1"
 
-#: ksanewidget.cpp:648
+#: ksanewidget.cpp:716
 #, kde-format
 msgid ""
 "The image data contained 16 bits per color, but the color depth has been "
@@ -283,131 +283,116 @@ msgstr ""
 "Resim verileri her renk için 18 bit içeriyor ama renk derinliği her renk "
 "için 8 bit ile sınırlandırılmış."
 
-#: ksanewidget_p.cpp:521
+#: ksanewidget_p.cpp:554
 #, kde-format
 msgid "Separate color intensity tables"
 msgstr "Renk yoğunluğu tablolarını ayır"
 
-#: ksanewidget_p.cpp:539
-#, kde-format
-msgid "Invert colors"
-msgstr "Renkleri tersine çevir"
-
-#: ksanewidget_p.cpp:545
+#: ksanewidget_p.cpp:580
 #, kde-format
 msgid "Scan Area Size"
 msgstr ""
 
-#: ksanewidget_p.cpp:550
+#: ksanewidget_p.cpp:585
 #, fuzzy, kde-format
 #| msgctxt "SpinBox parameter unit (Millimeter)"
 #| msgid " mm"
 msgid " mm"
 msgstr " mm"
 
-#: ksanewidget_p.cpp:550
+#: ksanewidget_p.cpp:585
 #, kde-format
 msgid " inch"
 msgstr ""
 
-#: ksanewidget_p.cpp:552
+#: ksanewidget_p.cpp:587
 #, kde-format
 msgid "Width"
 msgstr ""
 
-#: ksanewidget_p.cpp:557
+#: ksanewidget_p.cpp:592
 #, kde-format
 msgid "Height"
 msgstr ""
 
-#: ksanewidget_p.cpp:562
+#: ksanewidget_p.cpp:597
 #, kde-format
 msgid "X Offset"
 msgstr ""
 
-#: ksanewidget_p.cpp:567
+#: ksanewidget_p.cpp:602
 #, kde-format
 msgid "Y Offset"
 msgstr ""
 
-#: ksanewidget_p.cpp:1304
+#: ksanewidget_p.cpp:1322
 #, kde-format
 msgctxt "This is compared to the option string returned by sane"
 msgid "Transparency"
 msgstr "Şeffaflık"
 
-#: ksanewidget_p.cpp:1306
+#: ksanewidget_p.cpp:1324
 #, kde-format
 msgctxt "This is compared to the option string returned by sane"
 msgid "Negative"
 msgstr "Negatif"
 
-#: ksanewidget_p.cpp:1357
+#: ksanewidget_p.cpp:1375
 #, kde-format
 msgctxt "@title:window"
 msgid "General Error"
 msgstr "Genel Hata"
 
-#: ksanewidget_p.cpp:1360
+#: ksanewidget_p.cpp:1378
 #, kde-format
 msgctxt "@title:window"
 msgid "Information"
 msgstr "Bilgi"
 
-#: ksanewidget_p.cpp:1435
+#: ksanewidget_p.cpp:1457
 #, kde-format
 msgid "Custom"
 msgstr ""
 
-#: ksanewidget_p.cpp:1460
+#: ksanewidget_p.cpp:1482
 #, kde-format
 msgctxt "Page size landscape"
 msgid " Landscape"
 msgstr ""
 
-#: options/ksaneoptcombo.cpp:138
+#: options/ksaneinvertoption.cpp:60
 #, kde-format
-msgid "%1 Pixel"
-msgid_plural "%1 Pixels"
-msgstr[0] "%1 Piksel"
-msgstr[1] "%1 Piksel"
+msgid "Invert colors"
+msgstr "Renkleri tersine çevir"
 
-#: options/ksaneoptcombo.cpp:139
+#: options/ksaneinvertoption.cpp:65
 #, kde-format
-msgid "%1 Bit"
-msgid_plural "%1 Bits"
-msgstr[0] "%1 Bit"
-msgstr[1] "%1 Bit"
+msgid "Invert the colors of the scanned image."
+msgstr ""
 
-#: options/ksaneoptcombo.cpp:140
+#: options/ksanepagesizeoption.cpp:99
 #, kde-format
-msgid "%1 mm"
-msgid_plural "%1 mm"
-msgstr[0] "%1 mm"
-msgstr[1] "%1 mm"
+msgctxt "Page size landscape"
+msgid "Landscape %1"
+msgstr ""
 
-#: options/ksaneoptcombo.cpp:141
+#: options/ksanepagesizeoption.cpp:174
 #, kde-format
-msgid "%1 DPI"
-msgid_plural "%1 DPI"
-msgstr[0] "%1 DPI"
-msgstr[1] "%1 DPI"
+msgid "Scan area size"
+msgstr ""
 
-#: options/ksaneoptcombo.cpp:142
+#: options/ksanepagesizeoption.cpp:179
 #, kde-format
-msgid "%1 %"
-msgid_plural "%1 %"
-msgstr[0] "% %1"
-msgstr[1] "% %1"
+msgid "Select a predefined page size for the scanning area."
+msgstr ""
 
-#: options/ksaneoptcombo.cpp:143
+#: widgets/ksaneoptionwidget.cpp:68
 #, kde-format
-msgid "%1 µs"
-msgid_plural "%1 µs"
-msgstr[0] "%1 ns"
-msgstr[1] "%1 ns"
+msgctxt "Label for a scanner option"
+msgid "%1:"
+msgstr "%1:"
 
-#: options/ksaneoptcombo.cpp:152
+#: widgets/labeledcombo.cpp:170 widgets/labeledcombo.cpp:198
 #, kde-format
 msgctxt "Parameter and Unit"
 msgid "%1 Pixel"
@@ -415,7 +400,7 @@ msgid_plural "%1 Pixels"
 msgstr[0] "%1 Piksel"
 msgstr[1] "%1 Piksel"
 
-#: options/ksaneoptcombo.cpp:153
+#: widgets/labeledcombo.cpp:173 widgets/labeledcombo.cpp:201
 #, kde-format
 msgctxt "Parameter and Unit"
 msgid "%1 Bit"
@@ -423,31 +408,101 @@ msgid_plural "%1 Bits"
 msgstr[0] "%1 Bit"
 msgstr[1] "%1 Bit"
 
-#: options/ksaneoptcombo.cpp:154
+#: widgets/labeledcombo.cpp:176 widgets/labeledcombo.cpp:204
 #, kde-format
 msgctxt "Parameter and Unit (Millimeter)"
 msgid "%1 mm"
 msgstr "%1 mm"
 
-#: options/ksaneoptcombo.cpp:155
+#: widgets/labeledcombo.cpp:179 widgets/labeledcombo.cpp:207
 #, kde-format
 msgctxt "Parameter and Unit (Dots Per Inch)"
 msgid "%1 DPI"
 msgstr "%1 DPI"
 
-#: options/ksaneoptcombo.cpp:156
+#: widgets/labeledcombo.cpp:182 widgets/labeledcombo.cpp:210
 #, kde-format
 msgctxt "Parameter and Unit (Percentage)"
 msgid "%1 %"
 msgstr "% %1"
 
-#: options/ksaneoptcombo.cpp:157
+#: widgets/labeledcombo.cpp:185 widgets/labeledcombo.cpp:213
 #, kde-format
 msgctxt "Parameter and Unit (Microseconds)"
 msgid "%1 µs"
 msgstr "%1 ns"
 
-#: options/ksaneoption.cpp:355
+#: widgets/labeledcombo.cpp:188 widgets/labeledcombo.cpp:216
+#, fuzzy, kde-format
+#| msgctxt "Label for a scanner option"
+#| msgid "%1:"
+msgid "%1"
+msgstr "%1:"
+
+#: widgets/labeledentry.cpp:54
+#, kde-format
+msgctxt "Label for button to reset text in a KLineEdit"
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: widgets/labeledentry.cpp:56
+#, kde-format
+msgctxt "Label for button to write text in a KLineEdit to sane"
+msgid "Set"
+msgstr "Ayarla"
+
+#: widgets/labeledfslider.cpp:42
+#, kde-format
+msgctxt "Double numbers. SpinBox parameter unit"
+msgid " Pixels"
+msgstr " Piksel"
+
+#: widgets/labeledfslider.cpp:45
+#, kde-format
+msgctxt "Double numbers. SpinBox parameter unit"
+msgid " Bits"
+msgstr " Bit"
+
+#: widgets/labeledfslider.cpp:48
+#, kde-format
+msgctxt "Double numbers. SpinBox parameter unit (Millimeter)"
+msgid " mm"
+msgstr " mm"
+
+#: widgets/labeledfslider.cpp:51
+#, kde-format
+msgctxt "Double numbers. SpinBox parameter unit (Dots Per Inch)"
+msgid " DPI"
+msgstr " DPI"
+
+#: widgets/labeledfslider.cpp:54
+#, kde-format
+msgctxt "Double numbers. SpinBox parameter unit (Percentage)"
+msgid " %"
+msgstr " %"
+
+#: widgets/labeledfslider.cpp:57
+#, kde-format
+msgctxt "Double numbers. SpinBox parameter unit (Microseconds)"
+msgid " µs"
+msgstr " ns"
+
+#: widgets/labeledgamma.cpp:53
+#, kde-format
+msgid "Brightness"
+msgstr "Parlaklık"
+
+#: widgets/labeledgamma.cpp:56
+#, kde-format
+msgid "Contrast"
+msgstr "Karşıtlık"
+
+#: widgets/labeledgamma.cpp:59
+#, kde-format
+msgid "Gamma"
+msgstr "Gama"
+
+#: widgets/labeledslider.cpp:44
 #, kde-format
 msgctxt "SpinBox parameter unit"
 msgid " Pixel"
@@ -455,7 +510,7 @@ msgid_plural " Pixels"
 msgstr[0] " Piksel"
 msgstr[1] " Piksel"
 
-#: options/ksaneoption.cpp:356
+#: widgets/labeledslider.cpp:47
 #, kde-format
 msgctxt "SpinBox parameter unit"
 msgid " Bit"
@@ -463,7 +518,7 @@ msgid_plural " Bits"
 msgstr[0] " Bit"
 msgstr[1] " Bit"
 
-#: options/ksaneoption.cpp:357
+#: widgets/labeledslider.cpp:50
 #, fuzzy, kde-format
 #| msgctxt "SpinBox parameter unit (Millimeter)"
 #| msgid " mm"
@@ -473,7 +528,7 @@ msgid_plural " mm"
 msgstr[0] " mm"
 msgstr[1] " mm"
 
-#: options/ksaneoption.cpp:358
+#: widgets/labeledslider.cpp:53
 #, fuzzy, kde-format
 #| msgctxt "SpinBox parameter unit (Dots Per Inch)"
 #| msgid " DPI"
@@ -483,7 +538,7 @@ msgid_plural " DPI"
 msgstr[0] " DPI"
 msgstr[1] " DPI"
 
-#: options/ksaneoption.cpp:359
+#: widgets/labeledslider.cpp:56
 #, fuzzy, kde-format
 #| msgctxt "SpinBox parameter unit (Percentage)"
 #| msgid " %"
@@ -493,7 +548,7 @@ msgid_plural " %"
 msgstr[0] " %"
 msgstr[1] " %"
 
-#: options/ksaneoption.cpp:360
+#: widgets/labeledslider.cpp:59
 #, fuzzy, kde-format
 #| msgctxt "SpinBox parameter unit (Microseconds)"
 #| msgid " µs"
@@ -503,71 +558,32 @@ msgid_plural " µs"
 msgstr[0] " ns"
 msgstr[1] " ns"
 
-#: options/ksaneoption.cpp:369
-#, kde-format
-msgctxt "Double numbers. SpinBox parameter unit"
-msgid " Pixels"
-msgstr " Piksel"
+#~ msgid "%1 Pixel"
+#~ msgid_plural "%1 Pixels"
+#~ msgstr[0] "%1 Piksel"
+#~ msgstr[1] "%1 Piksel"
 
-#: options/ksaneoption.cpp:370
-#, kde-format
-msgctxt "Double numbers. SpinBox parameter unit"
-msgid " Bits"
-msgstr " Bit"
+#~ msgid "%1 Bit"
+#~ msgid_plural "%1 Bits"
+#~ msgstr[0] "%1 Bit"
+#~ msgstr[1] "%1 Bit"
 
-#: options/ksaneoption.cpp:371
-#, kde-format
-msgctxt "Double numbers. SpinBox parameter unit (Millimeter)"
-msgid " mm"
-msgstr " mm"
+#~ msgid "%1 mm"
+#~ msgid_plural "%1 mm"
+#~ msgstr[0] "%1 mm"
+#~ msgstr[1] "%1 mm"
 
-#: options/ksaneoption.cpp:372
-#, kde-format
-msgctxt "Double numbers. SpinBox parameter unit (Dots Per Inch)"
-msgid " DPI"
-msgstr " DPI"
+#~ msgid "%1 DPI"
+#~ msgid_plural "%1 DPI"
+#~ msgstr[0] "%1 DPI"
+#~ msgstr[1] "%1 DPI"
 
-#: options/ksaneoption.cpp:373
-#, kde-format
-msgctxt "Double numbers. SpinBox parameter unit (Percentage)"
-msgid " %"
-msgstr " %"
+#~ msgid "%1 %"
+#~ msgid_plural "%1 %"
+#~ msgstr[0] "% %1"
+#~ msgstr[1] "% %1"
 
-#: options/ksaneoption.cpp:374
-#, kde-format
-msgctxt "Double numbers. SpinBox parameter unit (Microseconds)"
-msgid " µs"
-msgstr " ns"
-
-#: widgets/ksaneoptionwidget.cpp:43
-#, kde-format
-msgctxt "Label for a scanner option"
-msgid "%1:"
-msgstr "%1:"
-
-#: widgets/labeledentry.cpp:38
-#, kde-format
-msgctxt "Label for button to reset text in a KLineEdit"
-msgid "Reset"
-msgstr "Sıfırla"
-
-#: widgets/labeledentry.cpp:40
-#, kde-format
-msgctxt "Label for button to write text in a KLineEdit to sane"
-msgid "Set"
-msgstr "Ayarla"
-
-#: widgets/labeledgamma.cpp:30
-#, kde-format
-msgid "Brightness"
-msgstr "Parlaklık"
-
-#: widgets/labeledgamma.cpp:33
-#, kde-format
-msgid "Contrast"
-msgstr "Karşıtlık"
-
-#: widgets/labeledgamma.cpp:36
-#, kde-format
-msgid "Gamma"
-msgstr "Gama"
+#~ msgid "%1 µs"
+#~ msgid_plural "%1 µs"
+#~ msgstr[0] "%1 ns"
+#~ msgstr[1] "%1 ns"

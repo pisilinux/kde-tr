@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-kdevelop-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-17 07:46+0200\n"
+"POT-Creation-Date: 2020-12-23 02:25+0100\n"
 "PO-Revision-Date: 2017-05-15 12:25+0000\n"
 "Last-Translator: İşbaran <isbaran@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -20,12 +20,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Lokalize 1.5\n"
 
-#: executescriptplugin.cpp:92
+#: executescriptplugin.cpp:76
 #, kde-format
 msgid "No valid executable specified"
 msgstr "Çalıştırılabilir dosya belirtilmedi"
 
-#: executescriptplugin.cpp:102
+#: executescriptplugin.cpp:86
 #, kde-format
 msgid ""
 "There is a quoting error in the script for the launch configuration '%1'. "
@@ -34,7 +34,7 @@ msgstr ""
 "'%1' başlatma yapılandırma betiğinde alıntılama hatası var. Başlatma "
 "durduruluyor."
 
-#: executescriptplugin.cpp:107
+#: executescriptplugin.cpp:91
 #, kde-format
 msgid ""
 "A shell meta character was included in the script for the launch "
@@ -43,14 +43,14 @@ msgstr ""
 "'%1' başlatma yapılandırmasının betiğinde desteklenmeyen bir kabuk joker "
 "karakteri var. Başlatma iptal edildi."
 
-#: executescriptplugin.cpp:124
+#: executescriptplugin.cpp:108
 #, kde-format
 msgid "No remote host set for launch configuration '%1'. Aborting start."
 msgstr ""
 "'%1' başlatma yapılandırmasında uzak istemci belirtilmemiş. Başlatma iptal "
 "edildi."
 
-#: executescriptplugin.cpp:147
+#: executescriptplugin.cpp:131
 #, kde-format
 msgid ""
 "There is a quoting error in the arguments for the launch configuration '%1'. "
@@ -59,7 +59,7 @@ msgstr ""
 "'%1' başlatma yapılandırması için değişkenlerde alıntılama hatası var. "
 "Başlatma iptal edildi."
 
-#: executescriptplugin.cpp:151
+#: executescriptplugin.cpp:135
 #, kde-format
 msgid ""
 "A shell meta character was included in the arguments for the launch "
@@ -68,12 +68,12 @@ msgstr ""
 "'%1' başlatma yapılandırması için değişkenlerde desteklenmeyen bir kabuk "
 "joker karakteri var. Başlatma iptal edildi."
 
-#: executescriptplugin.cpp:204
+#: executescriptplugin.cpp:188
 #, kde-format
 msgid "No valid interpreter specified"
 msgstr "Geçerli bir yorumlayıcı belirtilmedi"
 
-#: executescriptplugin.cpp:214
+#: executescriptplugin.cpp:198
 #, kde-format
 msgid ""
 "There is a quoting error in the interpreter for the launch configuration "
@@ -82,7 +82,7 @@ msgstr ""
 "'%1' başlatma yapılandırması için yorumlayıcıda alıntılama hatası var. "
 "Başlatma iptal edildi."
 
-#: executescriptplugin.cpp:219
+#: executescriptplugin.cpp:203
 #, kde-format
 msgid ""
 "A shell meta character was included in the interpreter for the launch "
@@ -91,26 +91,26 @@ msgstr ""
 "'%1' yapılandırmasına erişmesi için yorumlayıcıya, henüz desteklenmeyen, "
 "kabuk joker karakteri eklenmiş. Başlatma iptal edildi."
 
-#: scriptappconfig.cpp:96
+#: scriptappconfig.cpp:95
 #, fuzzy, kde-format
 #| msgid "Type or select an interpreter"
 msgctxt "@info:placeholder"
 msgid "Type or select an interpreter..."
 msgstr "Bir yorumlayıcı girin veya seçin"
 
-#: scriptappconfig.cpp:131
+#: scriptappconfig.cpp:128
 #, fuzzy, kde-format
 #| msgid "Configure Script Application"
 msgctxt "@title:tab"
 msgid "Configure Script Application"
 msgstr "Betik Uygulamasını Yapılandır"
 
-#: scriptappconfig.cpp:141
+#: scriptappconfig.cpp:138
 #, kde-format
 msgid "Executes Script Applications"
 msgstr "Betik Uygulamalarını Çalıştırır"
 
-#: scriptappconfig.cpp:151 scriptappconfig.cpp:201
+#: scriptappconfig.cpp:148 scriptappconfig.cpp:198
 #, kde-format
 msgid "Script Application"
 msgstr "Betik Uygulaması"

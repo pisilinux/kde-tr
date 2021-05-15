@@ -17,7 +17,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdepim\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-19 01:58+0000\n"
+"POT-Creation-Date: 2021-03-26 01:37+0000\n"
 "PO-Revision-Date: 2017-10-03 14:27+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -49,7 +49,7 @@ msgctxt "Name"
 msgid "Plugins"
 msgstr "Eklentiler"
 
-#: src/configuration/kaddressbook_config_plugins.desktop:83
+#: src/configuration/kaddressbook_config_plugins.desktop:84
 msgctxt "X-KDE-Keywords"
 msgid "kaddressbook, configure, settings, plugins"
 msgstr "kaddressbook, yapılandır, ayarlar, eklentiler"

@@ -17,7 +17,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeedu-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-19 00:25+0000\n"
+"POT-Creation-Date: 2021-04-12 00:26+0000\n"
 "PO-Revision-Date: 2017-05-16 09:30+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -27,22 +27,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Lokalize 2.0\n"
-
-#: plasmoid/engine/plasma-dataengine-parley.desktop:2
-#: plasmoid/plasma_parley.desktop:2 src/org.kde.parley.desktop:2
-msgctxt "Name"
-msgid "Parley"
-msgstr "Parley"
-
-#: plasmoid/engine/plasma-dataengine-parley.desktop:57
-msgctxt "Comment"
-msgid "Vocabulary data for Plasmoids"
-msgstr "Plazmidler için sözcük hazinesi verileri"
-
-#: plasmoid/plasma_parley.desktop:57
-msgctxt "Comment"
-msgid "Vocabulary Cards"
-msgstr "Kelime Kartları"
 
 #: plugins/example.desktop:7
 msgctxt "Name"
@@ -104,6 +88,11 @@ msgid "This script fetches sound files from https://commons.wikimedia.org."
 msgstr ""
 "Bu betik, http://commons.wikimedia.org adresinden ses dosyaları getirir."
 
+#: src/org.kde.parley.desktop:2
+msgctxt "Name"
+msgid "Parley"
+msgstr "Parley"
+
 #: src/org.kde.parley.desktop:64
 msgctxt "Comment"
 msgid "A program to help you memorize things."
@@ -133,6 +122,14 @@ msgstr "Gri"
 msgctxt "Description"
 msgid "A simple gray theme."
 msgstr "Basit gri bir tema."
+
+#~ msgctxt "Comment"
+#~ msgid "Vocabulary data for Plasmoids"
+#~ msgstr "Plazmidler için sözcük hazinesi verileri"
+
+#~ msgctxt "Comment"
+#~ msgid "Vocabulary Cards"
+#~ msgstr "Kelime Kartları"
 
 #~ msgctxt "Name"
 #~ msgid "Google Images (online image fetching)"

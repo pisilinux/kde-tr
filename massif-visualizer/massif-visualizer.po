@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-sdk-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-30 07:40+0200\n"
+"POT-Creation-Date: 2019-05-20 02:52+0200\n"
 "PO-Revision-Date: 2017-06-02 15:52+0000\n"
 "Last-Translator: Mete <metebilgin48@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/extragear-sdk-k-"
@@ -110,12 +110,12 @@ msgstr "Mevcut Görselleştirmeyi Kaydet"
 msgid "Images (*.png *.jpg *.tiff *.svg)"
 msgstr "Resimler (*.png *.jpg *.tiff *.svg)"
 
-#: app/charttab.cpp:491
+#: app/charttab.cpp:490
 #, kde-format
 msgid "Error, failed to save the image to %1."
 msgstr "Hata, görseli %1 üzerine kaydetme başarısız oldu."
 
-#: app/charttab.cpp:503
+#: app/charttab.cpp:501
 #, kde-format
 msgid "Massif Chart Print Preview"
 msgstr "Massif Grafik Yazırdırma Önizlemesi"
@@ -284,12 +284,12 @@ msgstr "Arnold Dumas"
 msgid "Multiple document interface, bug fixes"
 msgstr "Çoklu belge arayüzü, hata ayıklamaları"
 
-#: app/main.cpp:60
+#: app/main.cpp:58
 #, kde-format
 msgid "Files to load"
 msgstr "Yüklenecek dosyalar"
 
-#: app/main.cpp:60
+#: app/main.cpp:58
 #, kde-format
 msgid "[FILE...]"
 msgstr "[DOSYA...]"

@@ -1,0 +1,86 @@
+#
+# Translators:
+# obsoleteman <tulliana@gmail.com>, 2012
+# Volkan Gezer <volkangezer@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-sysadmin-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-19 00:26+0000\n"
+"PO-Revision-Date: 2014-06-08 13:52+0000\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/extragear-"
+"sysadmin-k-tr/language/tr/)\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: utils/plasma-runner-installer/plasma-runner-installer.desktop:2
+msgctxt "Name"
+msgid "Installer"
+msgstr "Yükleyici"
+
+#: utils/plasma-runner-installer/plasma-runner-installer.desktop:48
+msgctxt "Comment"
+msgid "Suggests the installation of not-installed applications"
+msgstr "Kurulu olmayan uygulamaları kurmanızı önerir"
+
+#: utils/qapt-deb-installer/qapt-deb-installer.desktop:2
+msgctxt "Name"
+msgid "QApt Package Installer"
+msgstr "QApt Paket Yükleyici"
+
+#: utils/qapt-deb-installer/qapt-deb-installer.desktop:47
+msgctxt "GenericName"
+msgid "Package Installer"
+msgstr "Paket Yükleyici"
+
+#: utils/qapt-deb-installer/qapt-deb-installer.desktop:92
+msgctxt "Comment"
+msgid "Install and view software packages"
+msgstr "Yazılım paketlerini kurun ve görüntüleyin"
+
+#: utils/qapt-deb-thumbnailer/debthumbnailer.desktop:3
+msgctxt "Name"
+msgid "Debian Package Files"
+msgstr "Debian Paket Dosyaları"
+
+#~ msgctxt "Name"
+#~ msgid "Kubuntu"
+#~ msgstr "Kubuntu"
+
+#~ msgctxt "Name"
+#~ msgid "Update package information"
+#~ msgstr "Paket bilgisini güncelle"
+
+#~ msgctxt "Description"
+#~ msgid "To update the software catalog you need to authenticate."
+#~ msgstr "Yazılım kataloğunu güncellemek için kimlik doğrulamanız gerekiyor."
+
+#~ msgctxt "Name"
+#~ msgid "Install or remove packages"
+#~ msgstr "Yazılım paketlerini kur veya kaldır"
+
+#~ msgctxt "Description"
+#~ msgid "To install or remove software you need to authenticate."
+#~ msgstr "Yazılım yüklemek veya kaldırmak için kimlik doğrulamanız gerekiyor."
+
+#~ msgctxt "Name"
+#~ msgid "Change software configuration"
+#~ msgstr "Yazılım yapılandırmasını değiştir"
+
+#~ msgctxt "Description"
+#~ msgid "To change software settings you need to authenticate."
+#~ msgstr "Yazılım ayarlarını değiştirmek için kimlik doğrulamanız gerekiyor."
+
+#~ msgctxt "Name"
+#~ msgid "Cancel the task of another user"
+#~ msgstr "Diğer kullanıcının görevlerini iptal et"
+
+#~ msgctxt "Description"
+#~ msgid "To cancel someone else's software changes you need to authenticate."
+#~ msgstr ""
+#~ "Diğer bir kişinin yazılım değişikliklerini iptal etmek için kimlik "
+#~ "doğrulamanız gerekiyor."

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-27 03:07+0100\n"
+"POT-Creation-Date: 2021-04-13 00:18+0000\n"
 "PO-Revision-Date: 2017-04-04 09:32+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -37,7 +37,7 @@ msgstr "Seçili Metni Otomatik Düzelt"
 msgid "Insert Email..."
 msgstr ""
 
-#: insertshorturl/insertshorturlconfigurewidget.cpp:28
+#: insertshorturl/insertshorturlconfigurewidget.cpp:29
 #, kde-format
 msgid "Select Short URL server:"
 msgstr ""
@@ -64,7 +64,7 @@ msgid "An error occurred: \"%1\""
 msgstr ""
 
 #: insertshorturl/shorturlengineplugin/shorturlengineinterface.cpp:32
-#: insertshorturl/shorturlengineplugin/tinyurlengineplugin/tinyurlengineinterface.cpp:54
+#: insertshorturl/shorturlengineplugin/tinyurlengineplugin/tinyurlengineinterface.cpp:50
 #, kde-format
 msgid ""
 "Error reported by server:\n"
@@ -93,7 +93,7 @@ msgstr "Ekle"
 msgid "Insert Non Breaking Space"
 msgstr "Ayrılamaz Boşluk Ekle"
 
-#: quicktext/quicktextconfiguredialog.cpp:24
+#: quicktext/quicktextconfiguredialog.cpp:25
 #, kde-format
 msgctxt "@title:window"
 msgid "Configure quick text"

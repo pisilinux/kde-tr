@@ -1,0 +1,218 @@
+#
+# Translators:
+# obsoleteman <tulliana@gmail.com>, 2010,2012.
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-sysadmin-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-28 00:47+0000\n"
+"PO-Revision-Date: 2015-05-19 12:08+0000\n"
+"Last-Translator: Necdet <necdetyucel@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: src/org.kde.muon.desktop:2
+msgctxt "Name"
+msgid "Muon Package Manager"
+msgstr "Muon Paket Yöneticisi"
+
+#: src/org.kde.muon.desktop:55
+msgctxt "GenericName"
+msgid "Package Manager"
+msgstr "Paket Yöneticisi"
+
+#: src/org.kde.muon.desktop:106
+msgctxt "X-KDE-Keywords"
+msgid "program,software,repository,archive,package,install,remove,update,deb"
+msgstr "uygulama,yazılım,depo,arşiv,paket,yükle,kaldır,güncelle,deb"
+
+#~ msgctxt "Name"
+#~ msgid "Application dashboard"
+#~ msgstr "Uygulama paneli"
+
+#~ msgctxt "Comment"
+#~ msgid "Intended as Application dashboard default"
+#~ msgstr "Uygulama paneli öntanımlıı olarak amaçlandı"
+
+#~ msgctxt "Name"
+#~ msgid "Muon Discover"
+#~ msgstr "Muon Keşfet"
+
+#~ msgctxt "GenericName"
+#~ msgid "Software Center"
+#~ msgstr "Yazılım Merkezi"
+
+#~ msgctxt "Keywords"
+#~ msgid ""
+#~ "program;software;repository;package;install;remove;update;apps;"
+#~ "applications;"
+#~ msgstr ""
+#~ "uygulama;yazılım;depo;paket;kur;kaldır;güncelle;uygulamalar;yüklemeler;"
+
+#~ msgctxt "Comment"
+#~ msgid "Install and browse applications in Chakra"
+#~ msgstr "Uygulamalara Chakra içerisinde gözat ve yükle"
+
+#~ msgctxt "Name"
+#~ msgid "Akabei Backend"
+#~ msgstr "Akabei Arka Ucu"
+
+#~ msgctxt "GenericName"
+#~ msgid "Chakra Support"
+#~ msgstr "Chakra Desteği"
+
+#~ msgctxt "Name"
+#~ msgid "Muon Akabei Notifier"
+#~ msgstr "Muon Akabei Bildirici"
+
+#~ msgctxt "Comment"
+#~ msgid "Muon Application Backend Notifier"
+#~ msgstr "Muon Uygulama Arka Uç Bildirici"
+
+#~ msgctxt "Name"
+#~ msgid "Upgrade Available"
+#~ msgstr "Dağıtım Yükseltmesi Var"
+
+#~ msgctxt "Comment"
+#~ msgid "A new version of Kubuntu is available"
+#~ msgstr "Kubuntu'nun yeni sürümü var"
+
+#~ msgctxt "Comment"
+#~ msgid "Install and browse applications in APT"
+#~ msgstr "Uygulamalara APT içerisinde gözat ve yükle"
+
+#~ msgctxt "Name"
+#~ msgid "Applications Backend"
+#~ msgstr "Uygulama Arka uçları"
+
+#~ msgctxt "GenericName"
+#~ msgid "APT Support"
+#~ msgstr "APT Desteği"
+
+#~ msgctxt "Name"
+#~ msgid "Bodega Wallpapers"
+#~ msgstr "Bodega Duvar Kağıtları"
+
+#~ msgctxt "GenericName"
+#~ msgid "Wallpapers"
+#~ msgstr "Duvar Kağıtları"
+
+#~ msgctxt "Comment"
+#~ msgid "Install new, awesome wallpapers for your KDE!"
+#~ msgstr "KDE'niz için yeni harika duvar kağıtları yükleyin!"
+
+#~ msgctxt "Name"
+#~ msgid "Dummy"
+#~ msgstr "Dummy"
+
+#~ msgctxt "GenericName"
+#~ msgid "Dummy"
+#~ msgstr "Dummy"
+
+#~ msgctxt "Comment"
+#~ msgid "It's some dummy backend for testing purposes"
+#~ msgstr "Test amaçları için bazı sahte arka uçları"
+
+#~ msgctxt "Name"
+#~ msgid "Comics"
+#~ msgstr "Çizgi Romanlar"
+
+#~ msgctxt "GenericName"
+#~ msgid "Comics"
+#~ msgstr "Çizgi Romanlar"
+
+#~ msgctxt "Comment"
+#~ msgid "Install comic stripes to be used from the comics plasmoid"
+#~ msgstr ""
+#~ "Çizgi Romanları plasmoid'inde kullanılmak üzere çizgi roman şeritleri "
+#~ "indirin"
+
+#~ msgctxt "Name"
+#~ msgid "Plasmoids"
+#~ msgstr "Plasmoid'ler"
+
+#~ msgctxt "GenericName"
+#~ msgid "Plasmoids"
+#~ msgstr "Plasmoid'ler"
+
+#~ msgctxt "Comment"
+#~ msgid "Install plasmoids and raise the power of your workspace!"
+#~ msgstr "Plasmoid'ler yükleyerek çalışma alanınızın gücünü arttırın!"
+
+#~ msgctxt "Name"
+#~ msgid "Correct"
+#~ msgstr "Doğru"
+
+#~ msgctxt "Name"
+#~ msgid "Wrong"
+#~ msgstr "Hatalı"
+
+#~ msgctxt "Comment"
+#~ msgid "Install and browse applications in PackageKit"
+#~ msgstr "Uygulamalara PackageKit içerisinde gözat ve yükle"
+
+#~ msgctxt "Name"
+#~ msgid "PackageKit Support"
+#~ msgstr "PackageKit Desteği"
+
+#~ msgctxt "GenericName"
+#~ msgid "Applications Backend"
+#~ msgstr "Uygulama Arka Uçları"
+
+#~ msgctxt "Comment"
+#~ msgid "Muon"
+#~ msgstr "Muon"
+
+#~ msgctxt "Name"
+#~ msgid "Updates Are Available"
+#~ msgstr "Güncelleştirmeler Var"
+
+#~ msgctxt "Comment"
+#~ msgid "Updates Available"
+#~ msgstr "Güncelleştirmeler Var"
+
+#~ msgctxt "Name"
+#~ msgid "Muon Notifier"
+#~ msgstr "Muon Bildirici"
+
+#~ msgctxt "Name"
+#~ msgid "Updates"
+#~ msgstr "Güncellemeler"
+
+#~ msgctxt "Comment"
+#~ msgid "Helps you keep your system up to date"
+#~ msgstr "Sisteminizi güncel tutmanıza yardım eder"
+
+#~ msgctxt "Name"
+#~ msgid "Muon Update Manager"
+#~ msgstr "Muon Güncelleştirme Yöneticisi"
+
+#~ msgctxt "GenericName"
+#~ msgid "Update Manager"
+#~ msgstr "Güncelleştirme Yöneticisi"
+
+#~ msgctxt "Name"
+#~ msgid "Install More..."
+#~ msgstr "Daha Fazla Yükle..."
+
+#~ msgctxt "Name"
+#~ msgid "Muon Software Center"
+#~ msgstr "Muon Yazılım Merkezi"
+
+#~ msgctxt "Name"
+#~ msgid "Muon Application Notifier"
+#~ msgstr "Muon Uygulama Bildirici"
+
+#~ msgctxt "Name"
+#~ msgid "Muon PackageKit Notifier"
+#~ msgstr "Muon PackageKit Bildirici"
+
+#~ msgctxt "Name"
+#~ msgid "Muon Backend"
+#~ msgstr "Muon Arkaucu"

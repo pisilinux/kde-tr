@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: knotes\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-01 02:56+0100\n"
+"POT-Creation-Date: 2021-05-10 00:21+0000\n"
 "PO-Revision-Date: 2017-10-03 14:35+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -34,7 +34,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "gorkem@kde.org, volkangezer@gmail.com"
 
-#: apps/knotes_options.h:14
+#: apps/knotes_options.h:13
 #, kde-format
 msgid "Suppress creation of a new note on a non-unique instance."
 msgstr "Biricik olmayan bir not oluşturulduğunda bilgi ver."
@@ -117,135 +117,135 @@ msgid "Settings"
 msgstr "Ayarlar"
 
 #. i18n: ectx: Menu (knotes_context)
-#: apps/main.cpp:39 data/knotesappui.rc:5 data/knotesappui.rc:6
+#: apps/main.cpp:44 data/knotesappui.rc:5 data/knotesappui.rc:6
 #: kontactplugin/knotes_part.cpp:74 kontactplugin/knotes_plugin.cpp:42
 #: kontactplugin/knoteseditdialog.cpp:53
 #, kde-format
 msgid "KNotes"
 msgstr "KNotes"
 
-#: apps/main.cpp:41
+#: apps/main.cpp:46
 #, kde-format
 msgid "KDE Notes"
 msgstr "KDE Notları"
 
-#: apps/main.cpp:43
+#: apps/main.cpp:48
 #, fuzzy, kde-format
 #| msgid "Copyright © 1997–2017 KNotes authors"
 msgid "Copyright © 1997–2021 KNotes authors"
 msgstr "Telif Hakkı © 1997–2017 KNotes yazarları"
 
-#: apps/main.cpp:63 kontactplugin/kcmknotessummary.cpp:49
+#: apps/main.cpp:68 kontactplugin/kcmknotessummary.cpp:45
 #, kde-format
 msgid "Laurent Montel"
 msgstr "Laurent Montel"
 
-#: apps/main.cpp:63
+#: apps/main.cpp:68
 #, kde-format
 msgid "Maintainer"
 msgstr "Projeyi Yürüten"
 
-#: apps/main.cpp:64
+#: apps/main.cpp:69
 #, kde-format
 msgid "Guillermo Antonio Amaral Bastidas"
 msgstr "Guillermo Antonio Amaral Bastidas"
 
-#: apps/main.cpp:64 apps/main.cpp:65
+#: apps/main.cpp:69 apps/main.cpp:70
 #, kde-format
 msgid "Previous Maintainer"
 msgstr "Önceki Geliştirici"
 
-#: apps/main.cpp:65
+#: apps/main.cpp:70
 #, kde-format
 msgid "Michael Brade"
 msgstr "Michael Brade"
 
-#: apps/main.cpp:66
+#: apps/main.cpp:71
 #, kde-format
 msgid "Bernd Johannes Wuebben"
 msgstr "Bernd Johannes Wuebben"
 
-#: apps/main.cpp:66
+#: apps/main.cpp:71
 #, kde-format
 msgid "Original KNotes Author"
 msgstr "KNotes Asıl Yazarı"
 
-#: apps/main.cpp:67
+#: apps/main.cpp:72
 #, kde-format
 msgid "Wynn Wilkes"
 msgstr "Wynn Wilkes"
 
-#: apps/main.cpp:67
+#: apps/main.cpp:72
 #, kde-format
 msgid "Ported KNotes to KDE 2"
 msgstr "KNotes'u KDE 2'ye taşıdı"
 
-#: apps/main.cpp:68
+#: apps/main.cpp:73
 #, kde-format
 msgid "Daniel Martin"
 msgstr "Daniel Martin"
 
-#: apps/main.cpp:68
+#: apps/main.cpp:73
 #, kde-format
 msgid "Network Interface"
 msgstr "Ağ Arayüzü"
 
-#: apps/main.cpp:69
+#: apps/main.cpp:74
 #, kde-format
 msgid "Bo Thorsen"
 msgstr "Bo Thorsen"
 
-#: apps/main.cpp:69
+#: apps/main.cpp:74
 #, kde-format
 msgid "Started KDE Resource Framework Integration"
 msgstr "KDE Kaynak Altyapısı Bütünleştirmesi Başladı"
 
-#: apps/main.cpp:70
+#: apps/main.cpp:75
 #, kde-format
 msgid "Bera Debajyoti"
 msgstr "Bera Debajyoti"
 
-#: apps/main.cpp:70
+#: apps/main.cpp:75
 #, kde-format
 msgid "Idea and initial code for the new look & feel"
 msgstr "Yeni görünüm ve biçim için yeni fikir ve ilk kodlar"
 
-#: apps/main.cpp:71
+#: apps/main.cpp:76
 #, kde-format
 msgid "Matthias Ettrich"
 msgstr "Matthias Ettrich"
 
-#: apps/main.cpp:72
+#: apps/main.cpp:77
 #, kde-format
 msgid "David Faure"
 msgstr "David Faure"
 
-#: apps/main.cpp:73
+#: apps/main.cpp:78
 #, kde-format
 msgid "Matthias Kiefer"
 msgstr "Matthias Kiefer"
 
-#: apps/main.cpp:74
+#: apps/main.cpp:79
 #, kde-format
 msgid "Luboš Luňák"
 msgstr "Luboš Luňák"
 
-#: apps/main.cpp:75
+#: apps/main.cpp:80
 #, kde-format
 msgid "Dirk A. Mueller"
 msgstr "Dirk A. Mueller"
 
-#: apps/main.cpp:76
+#: apps/main.cpp:81
 #, kde-format
 msgid "Carsten Pfeiffer"
 msgstr "Carsten Pfeiffer"
 
-#: apps/main.cpp:77
+#: apps/main.cpp:82
 #, kde-format
 msgid "Harri Porten"
 msgstr "Harri Porten"
 
-#: apps/main.cpp:78
+#: apps/main.cpp:83
 #, kde-format
 msgid "Espen Sand"
 msgstr "Espen Sand"
@@ -450,22 +450,22 @@ msgstr "Aramada Sonuç bulunamadı."
 msgid "Show Note"
 msgstr "Notu Göster..."
 
-#: knoteconfigmodule.cpp:80
+#: knoteconfigmodule.cpp:81
 #, kde-format
 msgid "Show number of notes in tray icon"
 msgstr "Çekmece simgesinde not sayısını göster"
 
-#: knoteconfigmodule.cpp:87
+#: knoteconfigmodule.cpp:88
 #, kde-format
 msgid "Default Title:"
 msgstr "Ö&ntanımlı Başlık:"
 
-#: knoteconfigmodule.cpp:94
+#: knoteconfigmodule.cpp:95
 #, kde-format
 msgid "<a href=\"whatsthis\">How does this work?</a>"
 msgstr "<a href=\"whatsthis\">Bu nasıl çalışır?</a>"
 
-#: knoteconfigmodule.cpp:128
+#: knoteconfigmodule.cpp:129
 #, kde-format
 msgid ""
 "<qt><p>You can customize title note. You can use:</p><ul><li>%d current date "
@@ -476,12 +476,12 @@ msgstr ""
 "p><ul><li>%d geçerli tarih (kısa biçim)</li><li>%l geçerli tarih (uzun "
 "biçim)</li><li>%t geçerli saat</li></ul></qt>"
 
-#: knoteconfigmodule.cpp:150
+#: knoteconfigmodule.cpp:151
 #, kde-format
 msgid "Theme:"
 msgstr "Tema:"
 
-#: knoteconfigmodule.cpp:160
+#: knoteconfigmodule.cpp:161
 #, kde-format
 msgid "Download new printing themes"
 msgstr "Yeni yazdırma temaları indir"
@@ -581,17 +581,17 @@ msgstr "Tarih Ekle"
 msgid "Insert Checkmark"
 msgstr "Onay İşareti Ekle"
 
-#: kontactplugin/kcmknotessummary.cpp:44
+#: kontactplugin/kcmknotessummary.cpp:40
 #, kde-format
 msgid "kcmknotessummary"
 msgstr "kcmknotessummary"
 
-#: kontactplugin/kcmknotessummary.cpp:46
+#: kontactplugin/kcmknotessummary.cpp:42
 #, kde-format
 msgid "Notes Summary Configuration Dialog"
 msgstr "Not Özeti Yapılandırma Penceresi"
 
-#: kontactplugin/kcmknotessummary.cpp:48
+#: kontactplugin/kcmknotessummary.cpp:44
 #, fuzzy, kde-format
 #| msgid "Copyright © 2013-2017 Laurent Montel <montel@kde.org>"
 msgid "Copyright © 2013-2021 Laurent Montel <montel@kde.org>"
@@ -1044,19 +1044,19 @@ msgstr "Alarm:"
 msgid "Note is locked"
 msgstr "Not kilitli"
 
-#: print/knoteprinter.cpp:116
+#: print/knoteprinter.cpp:117
 #, kde-format
 msgid "Print Note"
 msgid_plural "Print %1 notes"
 msgstr[0] "Notu Yazdır"
 msgstr[1] "%1 Notu Yazdır"
 
-#: print/knoteprinter.cpp:123
+#: print/knoteprinter.cpp:124
 #, kde-format
 msgid "Printing theme was not found."
 msgstr "Yazdırma teması bulunamadı."
 
-#: print/knoteprinter.cpp:123
+#: print/knoteprinter.cpp:124
 #, kde-format
 msgid "Printing error"
 msgstr "Yazdırma hatası"

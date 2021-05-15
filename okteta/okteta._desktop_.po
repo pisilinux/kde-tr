@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdesdk-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-28 06:50+0000\n"
+"POT-Creation-Date: 2021-03-28 01:42+0000\n"
 "PO-Revision-Date: 2014-11-12 01:13+0200\n"
 "Last-Translator: Kaan Ozdincer <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -143,7 +143,7 @@ msgctxt "Name"
 msgid "Okteta"
 msgstr "Okteta"
 
-#: program/org.kde.okteta.desktop:51
+#: program/org.kde.okteta.desktop:50
 msgctxt "GenericName"
 msgid "Hex Editor"
 msgstr "Bayt Düzenleyici"

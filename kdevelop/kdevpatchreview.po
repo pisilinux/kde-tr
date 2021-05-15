@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-kdevelop-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-17 07:46+0200\n"
+"POT-Creation-Date: 2021-03-28 03:20+0200\n"
 "PO-Revision-Date: 2017-05-15 13:43+0000\n"
 "Last-Translator: İşbaran <isbaran@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -275,7 +275,7 @@ msgctxt "@title:group"
 msgid "Changes"
 msgstr "Değişiklikler"
 
-#: patchreviewtoolview.cpp:87
+#: patchreviewtoolview.cpp:88
 #, kde-format
 msgctxt "%1: number of changed hunks, %2: file name"
 msgid "%2 (1 hunk)"
@@ -283,13 +283,13 @@ msgid_plural "%2 (%1 hunks)"
 msgstr[0] "%2 (1 parça)"
 msgstr[1] "%2 (%1 parça)"
 
-#: patchreviewtoolview.cpp:227
+#: patchreviewtoolview.cpp:228
 #, kde-format
 msgid "<qt>You can find the new request at:<br /><a href='%1'>%1</a> </qt>"
 msgstr ""
 "<qt>Yeni isteği bu konumda bulabilirsiniz:<br /><a href='%1'>%1</a> </qt>"
 
-#: patchreviewtoolview.cpp:230
+#: patchreviewtoolview.cpp:231
 #, kde-format
 msgid ""
 "Couldn't export the patch.\n"
@@ -298,33 +298,33 @@ msgstr ""
 "Yama dışa aktarılamadı.\n"
 "%1"
 
-#: patchreviewtoolview.cpp:261
+#: patchreviewtoolview.cpp:262
 #, fuzzy, kde-format
 #| msgid "Select All"
 msgctxt "@action"
 msgid "Select All"
 msgstr "Tümünü Seç"
 
-#: patchreviewtoolview.cpp:263
+#: patchreviewtoolview.cpp:264
 #, fuzzy, kde-format
 #| msgid "Deselect All"
 msgctxt "@action"
 msgid "Deselect All"
 msgstr "Tümünün Seçimini Kaldır"
 
-#: patchreviewtoolview.cpp:567
+#: patchreviewtoolview.cpp:568
 #, kde-format
 msgid "Running tests: %p%"
 msgstr "Çalışan testler: %p%"
 
-#: patchreviewtoolview.cpp:595
+#: patchreviewtoolview.cpp:600
 #, kde-format
 msgid "Test passed"
 msgid_plural "All %1 tests passed"
 msgstr[0] "Test geçildi"
 msgstr[1] "Tüm %1 testleri geçildi"
 
-#: patchreviewtoolview.cpp:599
+#: patchreviewtoolview.cpp:604
 #, kde-format
 msgid "Test results: %1 passed, %2 failed, %3 errors"
 msgstr "Test sonuçları: %1 geçildi, %2 başarısız oldu, %3 hata aldı"

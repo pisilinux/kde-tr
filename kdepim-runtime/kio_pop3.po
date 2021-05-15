@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdepimlibs-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-27 03:07+0100\n"
+"POT-Creation-Date: 2021-05-01 00:20+0000\n"
 "PO-Revision-Date: 2014-11-12 01:06+0200\n"
 "Last-Translator: Kaan Ozdincer <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -23,17 +23,17 @@ msgstr ""
 "X-Generator: Lokalize 1.4\n"
 "(http: //www.transifex.com/projects/p/kdepimlibs-k-tr/language/tr/)\n"
 
-#: pop3.cpp:207
+#: pop3.cpp:209
 #, kde-format
 msgid "The server said: \"%1\""
 msgstr "Sunucunun yanıtı: \"%1\""
 
-#: pop3.cpp:229
+#: pop3.cpp:231
 #, kde-format
 msgid "The server terminated the connection."
 msgstr "Sunucu bağlantıyı kesti."
 
-#: pop3.cpp:231
+#: pop3.cpp:233
 #, kde-format
 msgid ""
 "Invalid response from server:\n"
@@ -42,17 +42,17 @@ msgstr ""
 "Sunucudan geçersiz bir yanıt alındı:\n"
 "\"%1\""
 
-#: pop3.cpp:269
+#: pop3.cpp:271
 #, kde-format
 msgid "Could not send to server.\n"
 msgstr "Sunucuya gönderilemedi.\n"
 
-#: pop3.cpp:322 pop3.cpp:377 pop3.cpp:554
+#: pop3.cpp:324 pop3.cpp:379 pop3.cpp:556
 #, kde-format
 msgid "No authentication details supplied."
 msgstr "Kimlik doğrulama ayrıntıları sağlanmadı."
 
-#: pop3.cpp:357
+#: pop3.cpp:359
 #, kde-format
 msgid ""
 "Login via APOP failed. The server %1 may not support APOP, although it "
@@ -65,12 +65,12 @@ msgstr ""
 "\n"
 "%2"
 
-#: pop3.cpp:414
+#: pop3.cpp:416
 #, kde-format
 msgid "An error occurred during authentication: %1"
 msgstr "Kimlik doğrulama işlemi sırasında bir hata oluştu: %1"
 
-#: pop3.cpp:527
+#: pop3.cpp:529
 #, kde-format
 msgid ""
 "Login via SASL (%1) failed. The server may not support %2, or the password "
@@ -83,7 +83,7 @@ msgstr ""
 "\n"
 "%3"
 
-#: pop3.cpp:538
+#: pop3.cpp:540
 #, kde-format
 msgid ""
 "Your POP3 server (%1) does not support SASL.\n"
@@ -92,7 +92,7 @@ msgstr ""
 "Kullandığınız POP3 sunucusu (%1) SASL desteklemiyor.\n"
 "Farklı bir kimlik denetim yöntemi seçin."
 
-#: pop3.cpp:571 pop3.cpp:630
+#: pop3.cpp:573 pop3.cpp:632
 #, kde-format
 msgid ""
 "Could not login to %1.\n"
@@ -101,7 +101,7 @@ msgstr ""
 "%1 makinesine giriş yapılamadı.\n"
 "\n"
 
-#: pop3.cpp:583
+#: pop3.cpp:585
 #, kde-format
 msgid ""
 "Could not login to %1. The password may be wrong.\n"
@@ -112,12 +112,12 @@ msgstr ""
 "\n"
 "%2"
 
-#: pop3.cpp:631
+#: pop3.cpp:633
 #, kde-format
 msgid "The server terminated the connection immediately."
 msgstr "Sunucu bağlantıyı kesti."
 
-#: pop3.cpp:632
+#: pop3.cpp:634
 #, kde-format
 msgid ""
 "Server does not respond properly:\n"
@@ -126,7 +126,7 @@ msgstr ""
 "Sunucu iletişime düzgün yanıt vermiyor:\n"
 "%1\n"
 
-#: pop3.cpp:660
+#: pop3.cpp:662
 #, kde-format
 msgid ""
 "Your POP3 server (%1) does not support APOP.\n"
@@ -135,7 +135,7 @@ msgstr ""
 "Kullanmak istediğiniz POP3 sunucusu (%1) APOP desteklemiyor.\n"
 "Lütfen farklı bir kimlik doğrulama yöntemi kullanın."
 
-#: pop3.cpp:679
+#: pop3.cpp:681
 #, kde-format
 msgid ""
 "Your POP3 server claims to support TLS but negotiation was unsuccessful.\n"
@@ -145,7 +145,7 @@ msgstr ""
 "başarısız oldu.\n"
 "POP hesap ayarları penceresinden TLS'yi kapatabilirsiniz."
 
-#: pop3.cpp:688
+#: pop3.cpp:690
 #, kde-format
 msgid ""
 "Your POP3 server (%1) does not support TLS. Disable TLS, if you want to "
@@ -154,40 +154,40 @@ msgstr ""
 "Kullandığınız POP3 sunucusu (%1) TLS desteklemiyor. Şifreleme yapmadan "
 "bağlantı kurmak için TLS desteğini kapatın."
 
-#: pop3.cpp:698
+#: pop3.cpp:700
 #, kde-format
 msgid "Username and password for your POP3 account:"
 msgstr "POP3 hesabı için kullanıcı adı ve parolanızı girin:"
 
-#: pop3.cpp:875 pop3.cpp:883 pop3.cpp:1028
+#: pop3.cpp:877 pop3.cpp:885 pop3.cpp:1030
 #, kde-format
 msgid "Unexpected response from POP3 server."
 msgstr "POP3 sunucudan beklenmeyen yanıt."
 
-#: pop3.cpp:889
+#: pop3.cpp:891
 #, kde-format
 msgid ""
 "Error during communication with the POP3 server while trying to list mail: %1"
 msgstr "%1 e-postası listelenirken POP3 sunucuyla iletişimde hata oluştu"
 
-#: pop3.cpp:992
+#: pop3.cpp:994
 #, kde-format
 msgid ""
 "Error during communication with the POP3 server while trying to download "
 "mail: %1"
 msgstr "%1 e-postası indirilirken POP3 sunucuyla iletişimde hata oluştu"
 
-#: pop3.cpp:1057
+#: pop3.cpp:1059
 #, kde-format
 msgid "The POP3 command 'STAT' failed"
 msgstr "POP3 komutu 'STAT' başarısız oldu"
 
-#: pop3.cpp:1062
+#: pop3.cpp:1064
 #, kde-format
 msgid "Invalid POP3 response, should have at least one space."
 msgstr "Geçersiz POP3 yanıtı, en az bir boşluk içermeli."
 
-#: pop3.cpp:1070
+#: pop3.cpp:1072
 #, kde-format
 msgid "Invalid POP3 STAT response."
 msgstr "Geçersiz POP3 STAT yanıtı."

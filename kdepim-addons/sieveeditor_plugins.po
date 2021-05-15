@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sieveeditor_plugins\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-28 13:54+0000\n"
+"POT-Creation-Date: 2021-04-13 00:18+0000\n"
 "PO-Revision-Date: 2017-06-19 12:16+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
@@ -53,16 +53,16 @@ msgid "Error during creating folder: %1"
 msgstr "Klasör oluşturulurken hata: %1"
 
 #: imapfoldercompletion/selectimapfolderdialog.cpp:21
+#, kde-format
+msgid "Create Folder..."
+msgstr "Klasör Oluştur..."
+
+#: imapfoldercompletion/selectimapfolderdialog.cpp:23
 #, fuzzy, kde-format
 #| msgid "Select IMAP folder"
 msgctxt "@title:window"
 msgid "Select IMAP folder"
 msgstr "IMAP klasörü seç"
-
-#: imapfoldercompletion/selectimapfolderdialog.cpp:33
-#, kde-format
-msgid "Create Folder..."
-msgstr "Klasör Oluştur..."
 
 #: imapfoldercompletion/selectimapfoldertreeview.cpp:39
 #, kde-format
@@ -74,12 +74,12 @@ msgstr "Klasör listesi yüklenemedi"
 msgid "Loading in progress..."
 msgstr "Yükleme işlemi sürüyor..."
 
-#: imapfoldercompletion/selectimapfolderwidget.cpp:41
+#: imapfoldercompletion/selectimapfolderwidget.cpp:42
 #, kde-format
 msgid "Search..."
 msgstr "Ara..."
 
-#: imapfoldercompletion/selectimapfolderwidget.cpp:47
+#: imapfoldercompletion/selectimapfolderwidget.cpp:48
 #, fuzzy, kde-format
 #| msgid "Select IMAP folder"
 msgid "Refresh IMAP Folder List"

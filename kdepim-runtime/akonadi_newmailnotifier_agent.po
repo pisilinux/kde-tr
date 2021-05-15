@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdepim-runtime-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-09 03:10+0100\n"
+"POT-Creation-Date: 2021-04-27 00:18+0000\n"
 "PO-Revision-Date: 2017-10-23 09:20+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "X-Generator: Lokalize 2.0\n"
 "X-POOTLE-MTIME: 1413102278.000000\n"
 
-#: newmailnotifieragent.cpp:331
+#: newmailnotifieragent.cpp:336
 #, kde-format
 msgctxt ""
 "%2 = name of mail folder; %3 = name of Akonadi POP3/IMAP/etc resource (as "
@@ -32,7 +32,7 @@ msgid_plural "%1 new emails in %2 from \"%3\""
 msgstr[0] "%2 dizininde %3 kişisinden bir yeni e-posta"
 msgstr[1] "%2 dizininde %3 kişisinden %1 yeni e-posta"
 
-#: newmailnotifieragent.cpp:349
+#: newmailnotifieragent.cpp:354
 #, kde-format
 msgid "New mail arrived"
 msgstr "Yeni e-posta geldi"
@@ -160,7 +160,7 @@ msgstr "Yeni posta bildirimi yap."
 #: newmailnotifiersettingswidget.cpp:128
 #, fuzzy, kde-format
 #| msgid "Copyright (C) 2013-2017 Laurent Montel"
-msgid "Copyright (C) 2013-2020 Laurent Montel"
+msgid "Copyright (C) 2013-2021 Laurent Montel"
 msgstr "Telif Hakkı (C) 2013-2017 Laurent Montel"
 
 #: newmailnotifiersettingswidget.cpp:131
@@ -185,7 +185,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "volkangezer@gmail.com"
 
-#: newmailnotifiershowmessagejob.cpp:41
+#: newmailnotifiershowmessagejob.cpp:40
 #, kde-format
 msgid "Unable to start KMail application."
 msgstr "KMail uygulaması başlatılamıyor."

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-27 03:07+0100\n"
+"POT-Creation-Date: 2021-05-02 00:19+0000\n"
 "PO-Revision-Date: 2017-10-03 14:30+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -24,7 +24,7 @@ msgctxt "@title:window"
 msgid "Configure \"Automatic Add Contacts\" Plugin"
 msgstr "\"Kişilere Otomatik Ekle\" Eklentisini Yapılandır"
 
-#: automaticaddcontacts/automaticaddcontactsjob.cpp:100
+#: automaticaddcontacts/automaticaddcontactsjob.cpp:99
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -34,25 +34,25 @@ msgstr ""
 "Yeni kişi eklemeden önce bir adres defteri oluşturmalısınız. Bir adres "
 "defteri oluşturmak ister misiniz?"
 
-#: automaticaddcontacts/automaticaddcontactsjob.cpp:101
+#: automaticaddcontacts/automaticaddcontactsjob.cpp:100
 #, kde-format
 msgctxt "@title:window"
 msgid "No Address Book Available"
 msgstr "Adres Defteri Mevcut Değil"
 
-#: automaticaddcontacts/automaticaddcontactsjob.cpp:104
+#: automaticaddcontacts/automaticaddcontactsjob.cpp:103
 #, fuzzy, kde-format
 #| msgid "Add Address Book"
 msgctxt "@title:window"
 msgid "Add Address Book"
 msgstr "Adres Defteri Ekle"
 
-#: automaticaddcontacts/automaticaddcontactstabwidget.cpp:30
+#: automaticaddcontacts/automaticaddcontactstabwidget.cpp:27
 #, kde-format
 msgid "Automatic Add Contacts"
 msgstr "Kişilere Otomatik Ekle"
 
-#: automaticaddcontacts/automaticaddcontactstabwidget.cpp:40
+#: automaticaddcontacts/automaticaddcontactstabwidget.cpp:41
 #, kde-format
 msgid "Select the addressbook in which to store contacts:"
 msgstr "Kişilerin depolanacağı adres defterini seçin:"
@@ -67,14 +67,19 @@ msgstr "E-postayı HTML olarak göndermek istiyor musunuz?"
 msgid "Send email as plain text"
 msgstr "E-postayı düz metin olarak gönder"
 
-#: checkbeforesend/checkbeforesendupdatesmtpdialog.cpp:17
+#: checkbeforesend/checkbeforesendupdatesmtpdialog.cpp:16
+#, kde-format
+msgid "Update SMTP server"
+msgstr "SMTP sunucusunu güncelle"
+
+#: checkbeforesend/checkbeforesendupdatesmtpdialog.cpp:18
 #, fuzzy, kde-format
 #| msgid "Check SMTP server"
 msgctxt "@title:window"
 msgid "Check SMTP server"
 msgstr "SMTP sunucusunu denetle"
 
-#: checkbeforesend/checkbeforesendupdatesmtpdialog.cpp:21
+#: checkbeforesend/checkbeforesendupdatesmtpdialog.cpp:22
 #, kde-format
 msgid ""
 "Do you want to send the email with a different SMTP than the one defined in "
@@ -83,11 +88,6 @@ msgstr ""
 "E-postayı geçerli kimlikte tanımlı olan yerine başka bir SMTP ile mi "
 "göndermek istiyorsunuz?"
 
-#: checkbeforesend/checkbeforesendupdatesmtpdialog.cpp:26
-#, kde-format
-msgid "Update SMTP server"
-msgstr "SMTP sunucusunu güncelle"
-
 #: checkbeforesend/configurewidget/checkbeforesendconfiguredialog.cpp:14
 #, fuzzy, kde-format
 #| msgid "Configure \"Check Before Send Mail\" Plugin"
@@ -95,34 +95,34 @@ msgctxt "@title:window"
 msgid "Configure \"Check Before Send Mail\" Plugin"
 msgstr "\"Göndermeden Önce Denetle\" Eklentisini Yapılandır"
 
-#: checkbeforesend/configurewidget/checkbeforesendconfigurewidget.cpp:24
+#: checkbeforesend/configurewidget/checkbeforesendconfigurewidget.cpp:19
 #, kde-format
 msgid "Send as plain text"
 msgstr "Düz metin olarak gönder"
 
-#: checkbeforesend/configurewidget/checkbeforesendconfigurewidget.cpp:29
+#: checkbeforesend/configurewidget/checkbeforesendconfigurewidget.cpp:20
 #, kde-format
 msgid "Use SMTP server defined in identity"
 msgstr "Kimlikte tanımlı SMTP sunucusunu kullan"
 
-#: checkbeforesend/configurewidget/checkbeforesendconfigurewidget.cpp:34
+#: checkbeforesend/configurewidget/checkbeforesendconfigurewidget.cpp:21
 #, kde-format
 msgid "Check duplicated emails addresses"
 msgstr "Yinelenmiş eposta adreslerini kontrol et"
 
-#: checkbeforesend/configurewidget/checkbeforesendconfigurewidget.cpp:39
+#: checkbeforesend/configurewidget/checkbeforesendconfigurewidget.cpp:22
 #, kde-format
 msgid "Check send attachment"
 msgstr "Gönderilen eki kontrol et"
 
-#: checkbeforesend/duplicateemails/checkduplicateemailsdialog.cpp:20
+#: checkbeforesend/duplicateemails/checkduplicateemailsdialog.cpp:21
 #, fuzzy, kde-format
 #| msgid "Duplicated emails"
 msgctxt "@title:window"
 msgid "Duplicated emails"
 msgstr "Yinelenmiş e-postalar"
 
-#: checkbeforesend/duplicateemails/checkduplicateemailsdialog.cpp:22
+#: checkbeforesend/duplicateemails/checkduplicateemailsdialog.cpp:23
 #, kde-format
 msgid "These emails are duplicated. Do you want to send email?"
 msgstr "Bu e-postalar yinelenmiş. E-posta göndermek istiyor musunuz?"
@@ -133,14 +133,14 @@ msgctxt "emails (number of emails)"
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
-#: checkbeforesend/sendattachments/checkattachmentdialog.cpp:18
+#: checkbeforesend/sendattachments/checkattachmentdialog.cpp:19
 #, fuzzy, kde-format
 #| msgid "Check Attachment"
 msgctxt "@title:window"
 msgid "Check Attachment"
 msgstr "Eki Kontrol Et"
 
-#: checkbeforesend/sendattachments/checkattachmentdialog.cpp:21
+#: checkbeforesend/sendattachments/checkattachmentdialog.cpp:22
 #, kde-format
 msgid "Do you want to send some attachment?"
 msgstr "Birkaç eklenti göndermek ister misiniz?"
@@ -181,7 +181,7 @@ msgid "Mod&ify..."
 msgstr "&Değiştir..."
 
 #: confirm-address/confirmaddressconfiguretabwidget.cpp:48
-#: confirm-address/confirmaddressemailentrydialog.cpp:20
+#: confirm-address/confirmaddressemailentrydialog.cpp:21
 #, kde-format
 msgid "Enter new domain name:"
 msgstr "Yeni bir alan adı girin:"
@@ -209,16 +209,16 @@ msgid "Do you want to remove this email address?"
 msgstr "E-postayı HTML olarak göndermek istiyor musunuz?"
 
 #: confirm-address/confirmaddressdialog.cpp:20
+#, kde-format
+msgid "Add Selected Emails to WhiteList"
+msgstr "Seçili E-Postaları Beyaz Listeye Ekle"
+
+#: confirm-address/confirmaddressdialog.cpp:22
 #, fuzzy, kde-format
 #| msgid "Confirm Addresses"
 msgctxt "@title:window"
 msgid "Confirm Addresses"
 msgstr "Adresleri Onayla"
-
-#: confirm-address/confirmaddressdialog.cpp:33
-#, kde-format
-msgid "Add Selected Emails to WhiteList"
-msgstr "Seçili E-Postaları Beyaz Listeye Ekle"
 
 #: confirm-address/confirmaddressdialog.cpp:84
 #, kde-format

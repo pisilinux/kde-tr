@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-kdevelop-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-17 07:46+0200\n"
+"POT-Creation-Date: 2020-10-31 02:16+0100\n"
 "PO-Revision-Date: 2017-05-16 07:12+0000\n"
 "Last-Translator: Mete <metebilgin48@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -233,7 +233,7 @@ msgstr "'%1' için herhangi bir belgelendirme bulunamadı"
 msgid "QtHelp Home Page"
 msgstr "QtHelp Ana Sayfası"
 
-#: qthelpqtdoc.cpp:153
+#: qthelpqtdoc.cpp:155
 #, kde-format
 msgid "QtHelp"
 msgstr "Qt Yardım"

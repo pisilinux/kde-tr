@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: applications-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-10 01:44+0000\n"
+"POT-Creation-Date: 2021-04-26 00:23+0000\n"
 "PO-Revision-Date: 2017-06-29 09:21+0000\n"
 "Last-Translator: Mete <metebilgin48@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -158,18 +158,18 @@ msgstr "Sonucu Farklı Kaydet"
 msgid "Unable to save results."
 msgstr "Sonuçlar kaydedilemedi."
 
-#: kfindtreeview.cpp:496
+#: kfindtreeview.cpp:495
 #, kde-format
 msgid "KFind Results File"
 msgstr "KFind Sonuç Dosyası"
 
-#: kfindtreeview.cpp:517
+#: kfindtreeview.cpp:510
 #, kde-format
 msgctxt "%1=filename"
 msgid "Results were saved to: %1"
 msgstr "Sonuçların kaydedildiği dosya: %1"
 
-#: kfindtreeview.cpp:605 kftabdlg.cpp:426
+#: kfindtreeview.cpp:600 kftabdlg.cpp:426
 #, kde-format
 msgid "&Properties"
 msgstr "Ö&zellikler"
@@ -303,7 +303,7 @@ msgstr "En Çok"
 msgid "Equal To"
 msgstr "Eşit"
 
-#: kftabdlg.cpp:223 kftabdlg.cpp:884
+#: kftabdlg.cpp:223 kftabdlg.cpp:879
 #, kde-format
 msgid "Byte"
 msgid_plural "Bytes"
@@ -512,7 +512,7 @@ msgstr "Ayarla"
 msgid "Do Not Set"
 msgstr "Ayarlama"
 
-#: kftabdlg.cpp:874
+#: kftabdlg.cpp:869
 #, kde-format
 msgctxt ""
 "during the previous minute(s)/hour(s)/...; dynamic context 'type': 'i' "
@@ -522,7 +522,7 @@ msgid_plural "&during the previous"
 msgstr[0] "önce&ki sırasında"
 msgstr[1] "önce&ki sırasında"
 
-#: kftabdlg.cpp:875
+#: kftabdlg.cpp:870
 #, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "minute"
@@ -530,7 +530,7 @@ msgid_plural "minutes"
 msgstr[0] "dakika"
 msgstr[1] "dakika"
 
-#: kftabdlg.cpp:876
+#: kftabdlg.cpp:871
 #, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "hour"
@@ -538,7 +538,7 @@ msgid_plural "hours"
 msgstr[0] "saat"
 msgstr[1] "saat"
 
-#: kftabdlg.cpp:877
+#: kftabdlg.cpp:872
 #, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "day"
@@ -546,7 +546,7 @@ msgid_plural "days"
 msgstr[0] "gün"
 msgstr[1] "gün"
 
-#: kftabdlg.cpp:878
+#: kftabdlg.cpp:873
 #, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "month"
@@ -554,7 +554,7 @@ msgid_plural "months"
 msgstr[0] "ay"
 msgstr[1] "ay"
 
-#: kftabdlg.cpp:879
+#: kftabdlg.cpp:874
 #, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "year"
@@ -562,7 +562,7 @@ msgid_plural "years"
 msgstr[0] "yıl"
 msgstr[1] "yıl"
 
-#: kquery.cpp:591
+#: kquery.cpp:587
 #, kde-format
 msgctxt "@title:window"
 msgid "Error while using locate"

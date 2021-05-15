@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeutils-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-23 02:36+0200\n"
+"POT-Creation-Date: 2021-05-11 00:22+0000\n"
 "PO-Revision-Date: 2017-10-03 15:01+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/kdeutils-k-tr/"
@@ -60,7 +60,7 @@ msgstr ""
 msgid "could not execute %1"
 msgstr "[%1] çalıştırılamadı"
 
-#: src/kcmdf.cpp:51
+#: src/kcmdf.cpp:55
 #, kde-format
 msgid ""
 "A right mouse button click opens a context menu to mount/unmount a device or "

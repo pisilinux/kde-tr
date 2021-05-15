@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeedu-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-30 02:44+0000\n"
+"POT-Creation-Date: 2021-04-01 00:25+0000\n"
 "PO-Revision-Date: 2017-05-16 09:27+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/kdeedu-k-tr/"
@@ -25,6 +25,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: src/apps/behaim/org.kde.marble.behaim.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Marble Part"
+msgctxt "Name"
+msgid "Marble Behaim"
+msgstr "Marble Part"
 
 #: src/apps/marble-kde/marble_geo.desktop:4
 #: src/apps/marble-kde/marble_worldwind.desktop:4

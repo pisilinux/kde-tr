@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libksieve\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-12 03:02+0100\n"
+"POT-Creation-Date: 2021-05-02 00:19+0000\n"
 "PO-Revision-Date: 2017-10-03 14:31+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -92,7 +92,7 @@ msgstr ""
 msgid "Sieve Manager"
 msgstr "Sieve Ayrıştırması"
 
-#: kmanagesieve/sessionthread.cpp:302
+#: kmanagesieve/sessionthread.cpp:298
 #, kde-format
 msgid ""
 "Authentication failed.\n"
@@ -144,7 +144,7 @@ msgstr "\"%2\" uygulamasında \"%1\" ögesi bulunamadı"
 msgid "More information"
 msgstr "Daha fazla bilgi"
 
-#: ksieveui/autocreatescripts/commonwidgets/selectconvertparameterwidget.cpp:33
+#: ksieveui/autocreatescripts/commonwidgets/selectconvertparameterwidget.cpp:34
 #, kde-format
 msgid ""
 "Not enough arguments for SelectConvertParameterWidget. Expected 2 arguments."
@@ -152,13 +152,13 @@ msgstr ""
 "SelectConvertParameterWidget için yeterli parametre yok. 2 parametre "
 "bekleniyordu."
 
-#: ksieveui/autocreatescripts/commonwidgets/selectconvertparameterwidget.cpp:38
+#: ksieveui/autocreatescripts/commonwidgets/selectconvertparameterwidget.cpp:39
 #, kde-format
 msgid "Too many arguments for SelectConvertParameterWidget, \"%1\""
 msgstr "SelectConvertParameterWidget için çok fazla parametre, \"%1\""
 
-#: ksieveui/autocreatescripts/commonwidgets/selectconvertparameterwidget.cpp:61
-#: ksieveui/autocreatescripts/commonwidgets/selectconvertparameterwidget.cpp:72
+#: ksieveui/autocreatescripts/commonwidgets/selectconvertparameterwidget.cpp:62
+#: ksieveui/autocreatescripts/commonwidgets/selectconvertparameterwidget.cpp:73
 #, kde-format
 msgid " px"
 msgstr " px"
@@ -308,7 +308,7 @@ msgid "Break"
 msgstr "Kes"
 
 #: ksieveui/autocreatescripts/sieveactions/sieveactionbreak.cpp:32
-#: ksieveui/autocreatescripts/sieveforeverypartwidget.cpp:44
+#: ksieveui/autocreatescripts/sieveforeverypartwidget.cpp:45
 #, kde-format
 msgid "Name (optional):"
 msgstr "İsim (isteğe bağlı):"
@@ -782,7 +782,7 @@ msgstr ""
 "Bu eklenti \":seconds\" parametresini böyle daha özelleşmiş durumlar için "
 "tanımlar."
 
-#: ksieveui/autocreatescripts/sieveactions/widgets/addresslineedit.cpp:23
+#: ksieveui/autocreatescripts/sieveactions/widgets/addresslineedit.cpp:24
 #, kde-format
 msgid "Define Email Address..."
 msgstr ""
@@ -1440,14 +1440,14 @@ msgstr "Hafta günü"
 msgid "Select multiple headers..."
 msgstr "Birden fazla başlığı seç..."
 
-#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:29
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:32
 #, fuzzy, kde-format
 #| msgid "Headers"
 msgctxt "@title:window"
 msgid "Headers"
 msgstr "Başlıklar"
 
-#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:49
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectheadertypecombobox.cpp:51
 #, kde-format
 msgid "Add new header:"
 msgstr "Yeni başlık ekle:"
@@ -1531,12 +1531,12 @@ msgstr "Altlardan biri"
 msgid "Parameters"
 msgstr "Parametreler"
 
-#: ksieveui/autocreatescripts/sieveconditions/widgets/selectrelationalmatchtype.cpp:56
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectrelationalmatchtype.cpp:57
 #, kde-format
 msgid "Value"
 msgstr "Değer"
 
-#: ksieveui/autocreatescripts/sieveconditions/widgets/selectrelationalmatchtype.cpp:57
+#: ksieveui/autocreatescripts/sieveconditions/widgets/selectrelationalmatchtype.cpp:58
 #, kde-format
 msgid "Count"
 msgstr "Sayaç"
@@ -1599,7 +1599,7 @@ msgstr "GB"
 msgid "Please select an condition."
 msgstr "Lütfen bir durum seçin."
 
-#: ksieveui/autocreatescripts/sieveeditorgraphicalmodewidget.cpp:34
+#: ksieveui/autocreatescripts/sieveeditorgraphicalmodewidget.cpp:28
 #, kde-format
 msgid "Sieve Script"
 msgstr "Sieve Betiği"
@@ -1609,7 +1609,7 @@ msgstr "Sieve Betiği"
 msgid "Error during importing script. Do you want to switch to text mode?"
 msgstr "Betiği içe aktarırken hata. Metin kipine geçmek istiyor musunuz?"
 
-#: ksieveui/autocreatescripts/sieveforeverypartwidget.cpp:40
+#: ksieveui/autocreatescripts/sieveforeverypartwidget.cpp:30
 #, kde-format
 msgid "Add ForEveryPart loop"
 msgstr "HerParçaİçin döngüsü ekle"
@@ -1754,7 +1754,7 @@ msgstr "\"elsif\" bloğu"
 msgid "\"else\" block"
 msgstr "\"else\" bloğu"
 
-#: ksieveui/autocreatescripts/sievescriptdescriptiondialog.cpp:22
+#: ksieveui/autocreatescripts/sievescriptdescriptiondialog.cpp:23
 #, fuzzy, kde-format
 #| msgid "Description"
 msgctxt "@title:window"
@@ -1800,8 +1800,8 @@ msgid "Delete Script"
 msgstr "Betiği Sil"
 
 #: ksieveui/autocreatescripts/sievescriptlistbox.cpp:150
-#: ksieveui/widgets/managesievewidget.cpp:420
-#: ksieveui/widgets/managesievewidget.cpp:448
+#: ksieveui/widgets/managesievewidget.cpp:419
+#: ksieveui/widgets/managesievewidget.cpp:447
 #, kde-format
 msgid "Rename Script"
 msgstr "Betiği Yeniden Adlandır"
@@ -1918,7 +1918,7 @@ msgstr "\"Elsif\" Bloğu"
 msgid "Block \"Else\""
 msgstr "\"Else\" Bloğu"
 
-#: ksieveui/autocreatescripts/sievescriptparsingerrordialog.cpp:23
+#: ksieveui/autocreatescripts/sievescriptparsingerrordialog.cpp:24
 #, fuzzy, kde-format
 #| msgid "Sieve Parsing Error"
 msgctxt "@title:window"
@@ -2524,7 +2524,7 @@ msgstr "Devre Dışı Bırak"
 
 #: ksieveui/managesievescriptsdialog.cpp:171
 #: ksieveui/managesievescriptsdialog.cpp:260
-#: ksieveui/widgets/managesievewidget.cpp:506
+#: ksieveui/widgets/managesievewidget.cpp:505
 #, kde-format
 msgid "Sieve Error"
 msgstr "Sieve Hatası"
@@ -3038,22 +3038,22 @@ msgstr "Korunmuş isim kullanamazsın."
 msgid "Script name already used \"%1\"."
 msgstr "\"%1\" betik ismi halen kullanılıyor."
 
-#: ksieveui/widgets/managesievewidget.cpp:420
+#: ksieveui/widgets/managesievewidget.cpp:419
 #, kde-format
 msgid "Script Name:"
 msgstr "Betik Adı:"
 
-#: ksieveui/widgets/managesievewidget.cpp:484
+#: ksieveui/widgets/managesievewidget.cpp:483
 #, kde-format
 msgid "Really delete script \"%1\" from the server?"
 msgstr "\"%1\" betiği sunucudan gerçekten silinsin mi?"
 
-#: ksieveui/widgets/managesievewidget.cpp:485
+#: ksieveui/widgets/managesievewidget.cpp:484
 #, kde-format
 msgid "Delete Sieve Script Confirmation"
 msgstr "Sieve Betiği Silme Doğrulaması"
 
-#: ksieveui/widgets/managesievewidget.cpp:503
+#: ksieveui/widgets/managesievewidget.cpp:502
 #, kde-format
 msgid ""
 "Deleting the script failed.\n"
@@ -3064,7 +3064,7 @@ msgstr ""
 "Sunucu cevabı:\n"
 "%1"
 
-#: ksieveui/widgets/managesievewidget.cpp:555
+#: ksieveui/widgets/managesievewidget.cpp:554
 #, kde-format
 msgid "Failed to fetch the list of scripts"
 msgstr "Betiklerin listesi alınamadı"

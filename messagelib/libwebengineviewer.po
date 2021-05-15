@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libwebengineviewer\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-05 03:00+0100\n"
+"POT-Creation-Date: 2021-04-10 00:20+0000\n"
 "PO-Revision-Date: 2017-06-19 13:05+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
@@ -79,6 +79,36 @@ msgstr "Tümce bulunamadı"
 #, kde-format
 msgid "Save HTML Page"
 msgstr "HTML Sayfasını Kaydet"
+
+#: widgets/submittedformwidgets/submittedformwarningwidget.cpp:21
+#, kde-format
+msgid "Submit form is not allowed in mailer. Please open url in a browser."
+msgstr ""
+
+#: widgets/tracking/trackingdetailsdialog.cpp:25
+#, kde-format
+msgctxt "@title:window"
+msgid "Details"
+msgstr ""
+
+#: widgets/tracking/trackingwarningwidget.cpp:20
+#, kde-format
+msgid ""
+"Some Mail Tracker was found and was blocked.<a href=\"mailtrackingdetails"
+"\">(Details...)"
+msgstr ""
+
+#: widgets/tracking/trackingwarningwidget.cpp:41
+#, kde-format
+msgid "Details:"
+msgstr ""
+
+#: widgets/tracking/trackingwarningwidget.cpp:47
+#, kde-format
+msgid "1 tracker from the company %2 (%3)"
+msgid_plural "%1 trackers from the company %2 (%3)"
+msgstr[0] ""
+msgstr[1] ""
 
 #: widgets/zoomactionmenu.cpp:130
 #, kde-format

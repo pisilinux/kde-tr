@@ -1021,32 +1021,6 @@ msgstr "Metin Genişliğine Sığdır"
 #~ msgid "Postcard"
 #~ msgstr "Posta kodu:"
 
-#~ msgctxt "KReportPageFormat|"
-#~ msgid "Screen"
-#~ msgstr "Ekran"
-
-#, fuzzy
-#~| msgctxt "KRPos|"
-#~| msgid "Position"
-#~ msgctxt "KReportPosition|"
-#~ msgid "Position"
-#~ msgstr "Konum"
-
-#~ msgctxt "KReportSection|"
-#~ msgid "Height"
-#~ msgstr "Yükseklik"
-
-#~ msgctxt "KReportSection|"
-#~ msgid "Background Color"
-#~ msgstr "Arkaplan Rengi"
-
-#, fuzzy
-#~| msgctxt "KRSize|"
-#~| msgid "Size"
-#~ msgctxt "KReportSize|"
-#~ msgid "Size"
-#~ msgstr "Boyut"
-
 #~ msgctxt "KReportItemField|"
 #~ msgid "Data Source"
 #~ msgstr "Veri Kaynağı"
@@ -1062,6 +1036,32 @@ msgstr "Metin Genişliğine Sığdır"
 #~ msgctxt "Scripting::Text|"
 #~ msgid "$Unable to read %1"
 #~ msgstr "%1 okunamadı"
+
+#~ msgctxt "KReportPageFormat|"
+#~ msgid "Screen"
+#~ msgstr "Ekran"
+
+#~ msgctxt "KReportSection|"
+#~ msgid "Height"
+#~ msgstr "Yükseklik"
+
+#~ msgctxt "KReportSection|"
+#~ msgid "Background Color"
+#~ msgstr "Arkaplan Rengi"
+
+#, fuzzy
+#~| msgctxt "KRPos|"
+#~| msgid "Position"
+#~ msgctxt "KReportPosition|"
+#~ msgid "Position"
+#~ msgstr "Konum"
+
+#, fuzzy
+#~| msgctxt "KRSize|"
+#~| msgid "Size"
+#~ msgctxt "KReportSize|"
+#~ msgid "Size"
+#~ msgstr "Boyut"
 
 #~ msgctxt "KReportPageFormat|"
 #~ msgid "ISO A3"

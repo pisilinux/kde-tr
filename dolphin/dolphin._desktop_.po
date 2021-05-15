@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-22 02:03+0000\n"
+"POT-Creation-Date: 2021-04-24 00:32+0000\n"
 "PO-Revision-Date: 2015-06-19 17:23+0000\n"
 "Last-Translator: Necdet <necdetyucel@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
@@ -17,17 +17,17 @@ msgctxt "Name"
 msgid "Dolphin View"
 msgstr "Dolphin Görünümü"
 
-#: src/dolphinpart.desktop.in:71
+#: src/dolphinpart.desktop.in:72
 msgctxt "Name"
 msgid "Icons"
 msgstr "Simgeler"
 
-#: src/dolphinpart.desktop.in:126
+#: src/dolphinpart.desktop.in:128
 msgctxt "Name"
 msgid "Compact"
 msgstr "Sıkışık"
 
-#: src/dolphinpart.desktop.in:180
+#: src/dolphinpart.desktop.in:183
 msgctxt "Name"
 msgid "Details"
 msgstr "Ayrıntılar"
@@ -37,7 +37,7 @@ msgctxt "Name"
 msgid "Dolphin"
 msgstr "Dolphin"
 
-#: src/org.kde.dolphin.desktop:57
+#: src/org.kde.dolphin.desktop:58
 msgctxt "GenericName"
 msgid "File Manager"
 msgstr "Dosya Yöneticisi"
@@ -47,24 +47,24 @@ msgctxt "Name"
 msgid "Dolphin General"
 msgstr "Dolphin Genel"
 
-#: src/settings/kcm/kcmdolphingeneral.desktop:51
+#: src/settings/kcm/kcmdolphingeneral.desktop:52
 msgctxt "Comment"
 msgid "This service allows configuration of general Dolphin settings."
 msgstr "Bu servis genel Dolphin ayarlarını yapılandırmanızı sağlar."
 
-#: src/settings/kcm/kcmdolphingeneral.desktop:110
+#: src/settings/kcm/kcmdolphingeneral.desktop:112
 msgctxt "Name|Random file browsing settings."
 msgid "General"
 msgstr "Genel"
 
-#: src/settings/kcm/kcmdolphingeneral.desktop:159
+#: src/settings/kcm/kcmdolphingeneral.desktop:162
 msgctxt "Comment"
 msgid "Configure general file manager settings"
 msgstr "Genel dosya yöneticisi ayarlarını yapılandır"
 
-#: src/settings/kcm/kcmdolphingeneral.desktop:208
-#: src/settings/kcm/kcmdolphinnavigation.desktop:209
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:205
+#: src/settings/kcm/kcmdolphingeneral.desktop:212
+#: src/settings/kcm/kcmdolphinnavigation.desktop:213
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:209
 msgctxt "X-KDE-Keywords"
 msgid "file manager"
 msgstr "dosya yöneticisi"
@@ -74,17 +74,17 @@ msgctxt "Name"
 msgid "Dolphin Navigation"
 msgstr "Dolphin Gezintisi"
 
-#: src/settings/kcm/kcmdolphinnavigation.desktop:51
+#: src/settings/kcm/kcmdolphinnavigation.desktop:52
 msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin navigation."
 msgstr "Bu servis Dolphin gezintisini yapılandırmanızı sağlar."
 
-#: src/settings/kcm/kcmdolphinnavigation.desktop:109
+#: src/settings/kcm/kcmdolphinnavigation.desktop:111
 msgctxt "Name"
 msgid "Navigation"
 msgstr "Gezinti"
 
-#: src/settings/kcm/kcmdolphinnavigation.desktop:159
+#: src/settings/kcm/kcmdolphinnavigation.desktop:162
 msgctxt "Comment"
 msgid "Configure file manager navigation"
 msgstr "Dosya yöneticisi gezintisini yapılandır"
@@ -94,17 +94,17 @@ msgctxt "Name"
 msgid "Dolphin View Modes"
 msgstr "Dolphin Görünüm Kipleri"
 
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:50
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:51
 msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin view modes."
 msgstr "Bu servis Dolphin görünüm kiplerini yapılandırmanızı sağlar."
 
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:107
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:109
 msgctxt "Name"
 msgid "View Modes"
 msgstr "Görünüm Kipleri"
 
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:156
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:159
 msgctxt "Comment"
 msgid "Configure file manager view modes"
 msgstr "Dosya yöneticisi görünüm ayarlarını yapılandır"

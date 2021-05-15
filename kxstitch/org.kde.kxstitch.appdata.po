@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.kxstitch.appdata\n"
-"POT-Creation-Date: 2016-11-15 11:28+0000\n"
+"POT-Creation-Date: 2015-11-02 07:54+0000\n"
 "PO-Revision-Date: 2017-06-19 03:56+0000\n"
 "Last-Translator: Mete <metebilgin48@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
@@ -10,6 +10,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1497844575.000000\n"
 
 #. (itstool) path: component/name
 #: org.kde.kxstitch.appdata.xml:5

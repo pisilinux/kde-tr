@@ -1396,8 +1396,8 @@ msgstr "Panel araç kutusu"
 #~| msgctxt "Name"
 #~| msgid "Plasma Themes"
 #~ msgctxt "Name"
-#~msgid "Global Theme"
-#~msgstr "Plasma Temaları"
+#~ msgid "Global Theme"
+#~ msgstr "Plasma Temaları"
 
 #, fuzzy
 #~| msgctxt "Comment"
@@ -1414,8 +1414,8 @@ msgstr "Panel araç kutusu"
 #~| msgctxt "Name"
 #~| msgid "Plasma Themes"
 #~ msgctxt "Name"
-#~msgid "Global Themes"
-#~msgstr "Plasma Temaları"
+#~ msgid "Global Themes"
+#~ msgstr "Plasma Temaları"
 
 #, fuzzy
 #~| msgctxt "Name"

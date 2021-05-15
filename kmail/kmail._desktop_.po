@@ -17,7 +17,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdepim\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-11 01:49+0000\n"
+"POT-Creation-Date: 2021-05-11 00:27+0000\n"
 "PO-Revision-Date: 2017-04-04 09:24+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -199,6 +199,96 @@ msgctxt "Comment"
 msgid "A viewer/extractor for TNEF files"
 msgstr "TNEF dosyaları için bir görüntüleyici/çıkartıcı"
 
+#: src/configuredialog/data/kmail_config_accounts.desktop:15
+msgctxt "Name"
+msgid "Accounts"
+msgstr "Hesaplar"
+
+#: src/configuredialog/data/kmail_config_accounts.desktop:87
+msgctxt "Comment"
+msgid "Setup for Sending and Receiving Messages"
+msgstr "Gönderilen ve Gelen Mesajlar için Yapılandırma"
+
+#: src/configuredialog/data/kmail_config_accounts.desktop:151
+msgctxt "X-KDE-Keywords"
+msgid "kmail,accounts"
+msgstr "kmail,hesaplar"
+
+#: src/configuredialog/data/kmail_config_appearance.desktop:15
+msgctxt "Name"
+msgid "Appearance"
+msgstr "Görünüm"
+
+#: src/configuredialog/data/kmail_config_appearance.desktop:89
+msgctxt "Comment"
+msgid "Customize Visual Appearance"
+msgstr "Görsel Görünümü Özelleştir"
+
+#: src/configuredialog/data/kmail_config_appearance.desktop:154
+msgctxt "X-KDE-Keywords"
+msgid "kmail,appearance"
+msgstr "kmail,görünüm"
+
+#: src/configuredialog/data/kmail_config_composer.desktop:15
+msgctxt "Name"
+msgid "Composer"
+msgstr "Düzenleyici"
+
+#: src/configuredialog/data/kmail_config_composer.desktop:82
+msgctxt "Comment"
+msgid "Message Composer Settings"
+msgstr "İleti Oluşturucu Ayarları"
+
+#: src/configuredialog/data/kmail_config_composer.desktop:131
+msgctxt "X-KDE-Keywords"
+msgid "kmail,composer"
+msgstr "kmail,yeni e-posta yaz"
+
+#: src/configuredialog/data/kmail_config_misc.desktop:15
+msgctxt "Name"
+msgid "Misc"
+msgstr "Çeşitli"
+
+#: src/configuredialog/data/kmail_config_misc.desktop:85
+msgctxt "Comment"
+msgid "Settings that don't fit elsewhere"
+msgstr "Diğer bölümlere uymayan yapılandırma seçenekleri"
+
+#: src/configuredialog/data/kmail_config_misc.desktop:149
+msgctxt "X-KDE-Keywords"
+msgid "kmail,misc"
+msgstr "kmail,diğer"
+
+#: src/configuredialog/data/kmail_config_plugins.desktop:15
+msgctxt "Name"
+msgid "Plugins"
+msgstr "Eklentiler"
+
+#: src/configuredialog/data/kmail_config_plugins.desktop:85
+msgctxt "Comment"
+msgid "Settings Plugins"
+msgstr "Ayarlar Eklentisi"
+
+#: src/configuredialog/data/kmail_config_plugins.desktop:120
+msgctxt "X-KDE-Keywords"
+msgid "kmail,plugins"
+msgstr "kmail,eklentiler"
+
+#: src/configuredialog/data/kmail_config_security.desktop:15
+msgctxt "Name"
+msgid "Security"
+msgstr "Güvenlik"
+
+#: src/configuredialog/data/kmail_config_security.desktop:87
+msgctxt "Comment"
+msgid "Security & Privacy Settings"
+msgstr "Güvenlik ve Gizlilik Ayarlar"
+
+#: src/configuredialog/data/kmail_config_security.desktop:154
+msgctxt "X-KDE-Keywords"
+msgid "kmail,security"
+msgstr "kmail,güvenlik"
+
 #: src/data/kmail2.notifyrc:4
 msgctxt "Comment"
 msgid "KMail"
@@ -269,96 +359,6 @@ msgstr ""
 msgctxt "Comment"
 msgid "A delayed email delivery is configured and can be canceled"
 msgstr ""
-
-#: src/data/kmail_config_accounts.desktop:16
-msgctxt "Name"
-msgid "Accounts"
-msgstr "Hesaplar"
-
-#: src/data/kmail_config_accounts.desktop:88
-msgctxt "Comment"
-msgid "Setup for Sending and Receiving Messages"
-msgstr "Gönderilen ve Gelen Mesajlar için Yapılandırma"
-
-#: src/data/kmail_config_accounts.desktop:152
-msgctxt "X-KDE-Keywords"
-msgid "kmail,accounts"
-msgstr "kmail,hesaplar"
-
-#: src/data/kmail_config_appearance.desktop:16
-msgctxt "Name"
-msgid "Appearance"
-msgstr "Görünüm"
-
-#: src/data/kmail_config_appearance.desktop:90
-msgctxt "Comment"
-msgid "Customize Visual Appearance"
-msgstr "Görsel Görünümü Özelleştir"
-
-#: src/data/kmail_config_appearance.desktop:155
-msgctxt "X-KDE-Keywords"
-msgid "kmail,appearance"
-msgstr "kmail,görünüm"
-
-#: src/data/kmail_config_composer.desktop:16
-msgctxt "Name"
-msgid "Composer"
-msgstr "Düzenleyici"
-
-#: src/data/kmail_config_composer.desktop:83
-msgctxt "Comment"
-msgid "Message Composer Settings"
-msgstr "İleti Oluşturucu Ayarları"
-
-#: src/data/kmail_config_composer.desktop:132
-msgctxt "X-KDE-Keywords"
-msgid "kmail,composer"
-msgstr "kmail,yeni e-posta yaz"
-
-#: src/data/kmail_config_misc.desktop:16
-msgctxt "Name"
-msgid "Misc"
-msgstr "Çeşitli"
-
-#: src/data/kmail_config_misc.desktop:86
-msgctxt "Comment"
-msgid "Settings that don't fit elsewhere"
-msgstr "Diğer bölümlere uymayan yapılandırma seçenekleri"
-
-#: src/data/kmail_config_misc.desktop:150
-msgctxt "X-KDE-Keywords"
-msgid "kmail,misc"
-msgstr "kmail,diğer"
-
-#: src/data/kmail_config_plugins.desktop:16
-msgctxt "Name"
-msgid "Plugins"
-msgstr "Eklentiler"
-
-#: src/data/kmail_config_plugins.desktop:86
-msgctxt "Comment"
-msgid "Settings Plugins"
-msgstr "Ayarlar Eklentisi"
-
-#: src/data/kmail_config_plugins.desktop:121
-msgctxt "X-KDE-Keywords"
-msgid "kmail,plugins"
-msgstr "kmail,eklentiler"
-
-#: src/data/kmail_config_security.desktop:16
-msgctxt "Name"
-msgid "Security"
-msgstr "Güvenlik"
-
-#: src/data/kmail_config_security.desktop:88
-msgctxt "Comment"
-msgid "Security & Privacy Settings"
-msgstr "Güvenlik ve Gizlilik Ayarlar"
-
-#: src/data/kmail_config_security.desktop:155
-msgctxt "X-KDE-Keywords"
-msgid "kmail,security"
-msgstr "kmail,güvenlik"
 
 #: src/data/kmail_view.desktop:2
 msgctxt "Name"

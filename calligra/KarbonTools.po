@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calligra-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-31 02:41+0200\n"
+"POT-Creation-Date: 2021-04-25 00:18+0000\n"
 "PO-Revision-Date: 2015-02-08 13:25+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -19,105 +19,105 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Lokalize 1.5\n"
 
-#: CalligraphyTool/KarbonCalligraphicShapeFactory.cpp:29
+#: CalligraphyTool/KarbonCalligraphicShapeFactory.cpp:16
 #, kde-format
 msgid "A calligraphic shape"
 msgstr "Bir güzel yazı şekli"
 
-#: CalligraphyTool/KarbonCalligraphicShapeFactory.cpp:31
+#: CalligraphyTool/KarbonCalligraphicShapeFactory.cpp:18
 #, kde-format
 msgid "Calligraphic Shape"
 msgstr "Güzel Yazı Şekli"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:69
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:56
 #, kde-format
 msgid "Save profile as..."
 msgstr "Profili farklı kaydet..."
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:74
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:61
 #, kde-format
 msgid "Remove profile"
 msgstr "Profili sil"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:82
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:69
 #, kde-format
 msgid "&Follow selected path"
 msgstr "&Seçili yolu izle"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:85
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:72
 #, kde-format
 msgid "Use tablet &pressure"
 msgstr "Tablet &baskısı kullan"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:88
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:75
 #, kde-format
 msgid "Width:"
 msgstr "Genişlik:"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:96
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:83
 #, kde-format
 msgid "Thinning:"
 msgstr "İnceltme:"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:105
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:92
 #, kde-format
 msgid "Use tablet &angle"
 msgstr "Tablet &açısı kullan"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:108
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:95
 #, kde-format
 msgid "Angle:"
 msgstr "Açı:"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:117
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:104
 #, kde-format
 msgid "Fixation:"
 msgstr "Sabitleme:"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:126
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:113
 #, kde-format
 msgid "Caps:"
 msgstr "Kapaklar:"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:135
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:122
 #, kde-format
 msgid "Mass:"
 msgstr "Kütle:"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:144
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:131
 #, kde-format
 msgid "Drag:"
 msgstr "Sürükle:"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:201
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:202
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:226
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:188
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:189
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:213
 #, kde-format
 msgid "Current"
 msgstr "Şimdiki"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:220
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:207
 #, kde-format
 msgid "Profile name"
 msgstr "Profil adı"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:221
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:208
 #, kde-format
 msgid "Please insert the name by which you want to save this profile:"
 msgstr "Lütfen bu profili kaydetmek istediğiniz adı girin:"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:228
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:215
 #, kde-format
 msgid "Sorry, the name you entered is invalid."
 msgstr "Üzgünüm, girdiğiniz isim geçerli değil."
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:229
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:216
 #, kde-format
 msgctxt "invalid profile name"
 msgid "Invalid name."
 msgstr "Geçersiz isim."
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:237
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:224
 #, kde-format
 msgid ""
 "A profile with that name already exists.\n"
@@ -126,82 +126,82 @@ msgstr ""
 "Bu isimde başka bir profil mevcut.\n"
 "Üzerine yazmak ister misiniz?"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:373
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:398
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:360
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:385
 #, kde-format
 msgid "Mouse"
 msgstr "Fare"
 
-#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:386
+#: CalligraphyTool/KarbonCalligraphyOptionWidget.cpp:373
 #, kde-format
 msgid "Graphics Pen"
 msgstr "Grafik Kalemi"
 
-#: CalligraphyTool/KarbonCalligraphyTool.cpp:351
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:338
 #, kde-format
 msgid "Fill"
 msgstr "Doldur"
 
-#: CalligraphyTool/KarbonCalligraphyTool.cpp:390
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:377
 #, kde-format
 msgid "Calligraphy: increase width"
 msgstr "Kaligrafi: genişliği arttır"
 
-#: CalligraphyTool/KarbonCalligraphyTool.cpp:395
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:382
 #, kde-format
 msgid "Calligraphy: decrease width"
 msgstr "Kaligrafi: genişliği azalt"
 
-#: CalligraphyTool/KarbonCalligraphyTool.cpp:400
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:387
 #, kde-format
 msgid "Calligraphy: increase angle"
 msgstr "Kaligrafi: açıyı arttır"
 
-#: CalligraphyTool/KarbonCalligraphyTool.cpp:405
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:392
 #, kde-format
 msgid "Calligraphy: decrease angle"
 msgstr "Kaligrafi: açıyı azalt"
 
-#: CalligraphyTool/KarbonCalligraphyTool.cpp:412
-#: CalligraphyTool/KarbonCalligraphyTool.cpp:413
-#: CalligraphyTool/KarbonCalligraphyToolFactory.cpp:32
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:399
+#: CalligraphyTool/KarbonCalligraphyTool.cpp:400
+#: CalligraphyTool/KarbonCalligraphyToolFactory.cpp:19
 #, kde-format
 msgid "Calligraphy"
 msgstr "Kaligrafi"
 
-#: filterEffectTool/FilterAddCommand.cpp:31
+#: filterEffectTool/FilterAddCommand.cpp:18
 msgctxt "(qtundo-format)"
 msgid "Add filter effect"
 msgstr "Filtre efekti ekle"
 
-#: filterEffectTool/FilterEffectEditWidget.cpp:71
+#: filterEffectTool/FilterEffectEditWidget.cpp:58
 #, kde-format
 msgid "Add effect to current filter stack"
 msgstr "Efekti geçerli filtre yığınına ekle"
 
-#: filterEffectTool/FilterEffectEditWidget.cpp:81
+#: filterEffectTool/FilterEffectEditWidget.cpp:68
 #, kde-format
 msgid "Add to filter presets"
 msgstr "Filtre öntanımlı değerlerine ekle"
 
-#: filterEffectTool/FilterEffectEditWidget.cpp:85
+#: filterEffectTool/FilterEffectEditWidget.cpp:72
 #, kde-format
 msgid "Remove filter preset"
 msgstr "Filtre öntanımlı değerini sil"
 
-#: filterEffectTool/FilterEffectEditWidget.cpp:348
+#: filterEffectTool/FilterEffectEditWidget.cpp:335
 #, kde-format
 msgid "Effect name"
 msgstr "Efekt adı"
 
-#: filterEffectTool/FilterEffectEditWidget.cpp:349
+#: filterEffectTool/FilterEffectEditWidget.cpp:336
 #, kde-format
 msgid "Please enter a name for the filter effect"
 msgstr "Lütfen filtre efekti için yeni isim girin"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, FilterEffectEditWidget)
 #: filterEffectTool/FilterEffectEditWidget.ui:32
-#: filterEffectTool/KarbonFilterEffectsTool.cpp:327
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:314
 #, kde-format
 msgid "Filter Effect Editor"
 msgstr "Filtre Efekti Düzenleyici"
@@ -236,181 +236,181 @@ msgstr "Tanımlanmış Filtre Ayarları"
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: filterEffectTool/FilterEffectEditWidget.ui:116
-#: filterEffectTool/KarbonFilterEffectsTool.cpp:483
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:470
 #, kde-format
 msgid "Effect Properties"
 msgstr "Efekt Özellikleri"
 
-#: filterEffectTool/FilterRemoveCommand.cpp:32
+#: filterEffectTool/FilterRemoveCommand.cpp:19
 msgctxt "(qtundo-format)"
 msgid "Remove filter effect"
 msgstr "Filtre efektini kaldır"
 
-#: filterEffectTool/FilterStackSetCommand.cpp:36
+#: filterEffectTool/FilterStackSetCommand.cpp:23
 msgctxt "(qtundo-format)"
 msgid "Set filter stack"
 msgstr "Filtre yığınını ayarla"
 
-#: filterEffectTool/KarbonFilterEffectsTool.cpp:446
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:433
 #, kde-format
 msgid "Effects"
 msgstr "Efektler"
 
-#: filterEffectTool/KarbonFilterEffectsTool.cpp:456
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:443
 #, kde-format
 msgid "View and edit filter"
 msgstr "Filtreyi göster ve düzenle"
 
-#: filterEffectTool/KarbonFilterEffectsTool.cpp:462
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:449
 #, kde-format
 msgid "Remove filter from object"
 msgstr "Filtre efektini nesneden kaldır"
 
-#: filterEffectTool/KarbonFilterEffectsTool.cpp:466
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:453
 #, kde-format
 msgid "Add Filter"
 msgstr "Filtre Ekle"
 
-#: filterEffectTool/KarbonFilterEffectsTool.cpp:495
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:482
 #, kde-format
 msgid "X:"
 msgstr "X:"
 
-#: filterEffectTool/KarbonFilterEffectsTool.cpp:501
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:488
 #, kde-format
 msgid "Y:"
 msgstr "Y:"
 
-#: filterEffectTool/KarbonFilterEffectsTool.cpp:507
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:494
 #, kde-format
 msgid "W:"
 msgstr "G:"
 
-#: filterEffectTool/KarbonFilterEffectsTool.cpp:513
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:500
 #, kde-format
 msgid "H:"
 msgstr "Y:"
 
-#: filterEffectTool/KarbonFilterEffectsTool.cpp:518
+#: filterEffectTool/KarbonFilterEffectsTool.cpp:505
 #, kde-format
 msgid "Effect Region"
 msgstr "Efekt Bölgesi"
 
-#: filterEffectTool/KarbonFilterEffectsToolFactory.cpp:29
+#: filterEffectTool/KarbonFilterEffectsToolFactory.cpp:16
 #, kde-format
 msgid "Filter effects editing"
 msgstr "Filtre efekti düzenleme"
 
-#: KarbonGradientTool.cpp:211
+#: KarbonGradientTool.cpp:198
 #, kde-format
 msgid "Drag to move gradient position."
 msgstr "Eğim konumunu taşımak için sürükleyin."
 
-#: KarbonGradientTool.cpp:220
+#: KarbonGradientTool.cpp:207
 #, kde-format
 msgid "Drag to move color stop. Double click to remove color stop."
 msgstr ""
 "Durma rengini taşımak için sürükleyin. Durma rengini kaldırmak için çift "
 "tıklayın."
 
-#: KarbonGradientTool.cpp:222
+#: KarbonGradientTool.cpp:209
 #, kde-format
 msgid "Drag to move color stop."
 msgstr "Durma rengini taşımak için sürükleyin."
 
-#: KarbonGradientTool.cpp:229
+#: KarbonGradientTool.cpp:216
 #, kde-format
 msgid "Drag to move gradient position. Double click to insert color stop."
 msgstr ""
 "Eğim konumunu taşımak için sürükleyin. Durma rengi eklemek için çift "
 "tıklayın."
 
-#: KarbonGradientTool.cpp:507
+#: KarbonGradientTool.cpp:494
 #, kde-format
 msgid "Edit Gradient"
 msgstr "Gradyanı Düzenle"
 
-#: KarbonGradientTool.cpp:509
+#: KarbonGradientTool.cpp:496
 #, kde-format
 msgid "Predefined Gradients"
 msgstr "Öntanımlı Eğimler"
 
-#: KarbonGradientToolFactory.cpp:30
+#: KarbonGradientToolFactory.cpp:17
 #, kde-format
 msgid "Gradient editing"
 msgstr "Geçiş düzenleme"
 
-#: KarbonPatternOptionsWidget.cpp:34
+#: KarbonPatternOptionsWidget.cpp:21
 #, kde-format
 msgid "Original"
 msgstr "Orjinal"
 
-#: KarbonPatternOptionsWidget.cpp:35
+#: KarbonPatternOptionsWidget.cpp:22
 #, kde-format
 msgid "Tiled"
 msgstr "Döşenmiş"
 
-#: KarbonPatternOptionsWidget.cpp:36
+#: KarbonPatternOptionsWidget.cpp:23
 #, kde-format
 msgid "Stretched"
 msgstr "Gergin"
 
-#: KarbonPatternOptionsWidget.cpp:38
+#: KarbonPatternOptionsWidget.cpp:25
 #, kde-format
 msgid "Top Left"
 msgstr "Üst Sol"
 
-#: KarbonPatternOptionsWidget.cpp:39
+#: KarbonPatternOptionsWidget.cpp:26
 #, kde-format
 msgid "Top"
 msgstr "Üst"
 
-#: KarbonPatternOptionsWidget.cpp:40
+#: KarbonPatternOptionsWidget.cpp:27
 #, kde-format
 msgid "Top Right"
 msgstr "Üst Sağ"
 
-#: KarbonPatternOptionsWidget.cpp:41
+#: KarbonPatternOptionsWidget.cpp:28
 #, kde-format
 msgid "Left"
 msgstr "Sol"
 
-#: KarbonPatternOptionsWidget.cpp:42
+#: KarbonPatternOptionsWidget.cpp:29
 #, kde-format
 msgid "Center"
 msgstr "Ortala"
 
-#: KarbonPatternOptionsWidget.cpp:43
+#: KarbonPatternOptionsWidget.cpp:30
 #, kde-format
 msgid "Right"
 msgstr "Sağ"
 
-#: KarbonPatternOptionsWidget.cpp:44
+#: KarbonPatternOptionsWidget.cpp:31
 #, kde-format
 msgid "Bottom Left"
 msgstr "Alt Sol"
 
-#: KarbonPatternOptionsWidget.cpp:45
+#: KarbonPatternOptionsWidget.cpp:32
 #, kde-format
 msgid "Bottom"
 msgstr "Alt"
 
-#: KarbonPatternOptionsWidget.cpp:46
+#: KarbonPatternOptionsWidget.cpp:33
 #, kde-format
 msgid "Bottom Right"
 msgstr "Alt Sağ"
 
-#: KarbonPatternTool.cpp:286
+#: KarbonPatternTool.cpp:273
 #, kde-format
 msgid "Pattern Options"
 msgstr "Desen Seçenekleri"
 
-#: KarbonPatternTool.cpp:288
+#: KarbonPatternTool.cpp:275
 #, kde-format
 msgid "Patterns"
 msgstr "Desenler"
 
-#: KarbonPatternToolFactory.cpp:30
+#: KarbonPatternToolFactory.cpp:17
 #, kde-format
 msgid "Pattern editing"
 msgstr "Desen düzenleme"

@@ -3,13 +3,13 @@
 #
 # Translators:
 # obsoleteman <tulliana@gmail.com>, 2008-2009,2011.
-# Volkan Gezer <volkangezer@gmail.com>, 2013-2014, 2015, 2021.
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014, 2015, 2017, 2021.
 # Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: extragear-kdevelop-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-21 09:15+0100\n"
+"POT-Creation-Date: 2021-03-28 16:09+0000\n"
 "PO-Revision-Date: 2021-04-20 15:16+0200\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -127,75 +127,75 @@ msgstr ""
 "<b>Kesme noktası kirli</b><p>Kesme noktası hata ayıklayıcı tarafından henüz "
 "geçilmedi.</p>"
 
-#: debugger/breakpoint/breakpointmodel.cpp:121
+#: debugger/breakpoint/breakpointmodel.cpp:126
 #, kde-format
 msgid "Breakpoint"
 msgstr "Kesme noktası"
 
-#: debugger/breakpoint/breakpointmodel.cpp:163
+#: debugger/breakpoint/breakpointmodel.cpp:168
 #, kde-format
 msgid "Breakpoint not found"
 msgstr "Kesme noktası bulunamadı"
 
-#: debugger/breakpoint/breakpointmodel.cpp:163
+#: debugger/breakpoint/breakpointmodel.cpp:168
 #, kde-format
 msgid "Couldn't find breakpoint at %1:%2"
 msgstr "%1 konumunda kesme noktası bulunamadı: %2"
 
-#: debugger/breakpoint/breakpointmodel.cpp:169
+#: debugger/breakpoint/breakpointmodel.cpp:174
 #, kde-format
 msgid "&Breakpoint"
 msgstr "&Kesme noktası"
 
-#: debugger/breakpoint/breakpointmodel.cpp:175
+#: debugger/breakpoint/breakpointmodel.cpp:180
 #, kde-format
 msgid "&Disable Breakpoint"
 msgstr "&Kesme Noktasını Kapat"
 
-#: debugger/breakpoint/breakpointmodel.cpp:176
+#: debugger/breakpoint/breakpointmodel.cpp:181
 #, kde-format
 msgid "&Enable Breakpoint"
 msgstr "Kesme Noktasını &Etkinleştir"
 
-#: debugger/breakpoint/breakpointmodel.cpp:179
+#: debugger/breakpoint/breakpointmodel.cpp:184
 #, kde-format
 msgid "&Bookmark"
 msgstr "&Yer imi"
 
-#: debugger/breakpoint/breakpointmodel.cpp:223
+#: debugger/breakpoint/breakpointmodel.cpp:228
 #: debugger/variable/variablecollection.cpp:423
 #: debugger/variable/variabletooltip.cpp:96
 #, kde-format
 msgid "Type"
 msgstr "Tür"
 
-#: debugger/breakpoint/breakpointmodel.cpp:224
+#: debugger/breakpoint/breakpointmodel.cpp:229
 #, kde-format
 msgid "Location"
 msgstr "Konum"
 
-#: debugger/breakpoint/breakpointmodel.cpp:225
+#: debugger/breakpoint/breakpointmodel.cpp:230
 #, kde-format
 msgid "Condition"
 msgstr "Durum"
 
-#: debugger/breakpoint/breakpointmodel.cpp:229
+#: debugger/breakpoint/breakpointmodel.cpp:234
 #, kde-format
 msgid "Active status"
 msgstr "Etkin durum"
 
-#: debugger/breakpoint/breakpointmodel.cpp:230
+#: debugger/breakpoint/breakpointmodel.cpp:235
 #, kde-format
 msgid "State"
 msgstr "Durum"
 
-#: debugger/breakpoint/breakpointwidget.cpp:75
+#: debugger/breakpoint/breakpointwidget.cpp:77
 #, kde-format
 msgctxt "@title:window"
 msgid "Debugger Breakpoints"
 msgstr "Hata Ayıklayıcı Kesme Noktaları"
 
-#: debugger/breakpoint/breakpointwidget.cpp:76
+#: debugger/breakpoint/breakpointwidget.cpp:78
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -207,70 +207,77 @@ msgstr ""
 "kesme noktası ögesine tıklamak onu değiştirmenize izin verecek ve düzenleme "
 "penceresinde kodu açacaktır."
 
-#: debugger/breakpoint/breakpointwidget.cpp:88
+#: debugger/breakpoint/breakpointwidget.cpp:90
 #, kde-format
 msgid "Breakpoint Details"
 msgstr "Durdurma Noktası Ayrıntıları"
 
-#: debugger/breakpoint/breakpointwidget.cpp:97
+#: debugger/breakpoint/breakpointwidget.cpp:99
 #, kde-format
 msgid "New code breakpoint ..."
 msgstr "Yeni kod kesme noktaları ..."
 
-#: debugger/breakpoint/breakpointwidget.cpp:98
+#: debugger/breakpoint/breakpointwidget.cpp:100
 #, kde-format
 msgid "Enter condition ..."
 msgstr "Durum girin ..."
 
-#: debugger/breakpoint/breakpointwidget.cpp:130
+#: debugger/breakpoint/breakpointwidget.cpp:132
 #, kde-format
 msgctxt "New breakpoint"
 msgid "&New"
 msgstr "&Yeni"
 
-#: debugger/breakpoint/breakpointwidget.cpp:134
+#: debugger/breakpoint/breakpointwidget.cpp:136
 #, kde-format
 msgctxt "Code breakpoint"
 msgid "&Code"
 msgstr "&Kod"
 
-#: debugger/breakpoint/breakpointwidget.cpp:143
+#: debugger/breakpoint/breakpointwidget.cpp:144
 #, kde-format
 msgctxt "Data breakpoint"
 msgid "Data &Write"
 msgstr "Veri &Yaz"
 
-#: debugger/breakpoint/breakpointwidget.cpp:146
+#: debugger/breakpoint/breakpointwidget.cpp:147
 #, kde-format
 msgctxt "Data read breakpoint"
 msgid "Data &Read"
 msgstr "Veri &Oku"
 
-#: debugger/breakpoint/breakpointwidget.cpp:149
+#: debugger/breakpoint/breakpointwidget.cpp:150
 #, kde-format
 msgctxt "Data access breakpoint"
 msgid "Data &Access"
 msgstr "Veri &Erişimi"
 
-#: debugger/breakpoint/breakpointwidget.cpp:154
+#: debugger/breakpoint/breakpointwidget.cpp:155
 #, kde-format
 msgid "&Delete"
 msgstr "&Sil"
 
-#: debugger/breakpoint/breakpointwidget.cpp:163
+#: debugger/breakpoint/breakpointwidget.cpp:164
 #, kde-format
 msgid "Disable &All"
 msgstr "Tümünü &İptal Et"
 
-#: debugger/breakpoint/breakpointwidget.cpp:164
+#: debugger/breakpoint/breakpointwidget.cpp:165
 #, kde-format
 msgid "&Enable All"
 msgstr "&Tümünü Etkinleştir"
 
-#: debugger/breakpoint/breakpointwidget.cpp:165
+#: debugger/breakpoint/breakpointwidget.cpp:166
 #, kde-format
 msgid "&Remove All"
 msgstr "Tümünü &Kaldır"
+
+#: debugger/breakpoint/breakpointwidget.cpp:348
+#, kde-format
+msgid "%2"
+msgid_plural "%2 (repeated %1 times)"
+msgstr[0] ""
+msgstr[1] ""
 
 #: debugger/framestack/framestackmodel.cpp:192
 #, kde-format
@@ -380,7 +387,7 @@ msgstr "İsim"
 msgid "Value"
 msgstr "Değer"
 
-#: debugger/variable/variablecollection.cpp:522
+#: debugger/variable/variablecollection.cpp:520
 #, kde-format
 msgid "Locals"
 msgstr "Yereller"
@@ -565,7 +572,7 @@ msgstr "Başlangıç"
 
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, branchFilterEdit)
 #: documentation/documentationview.cpp:105 shell/sessioncontroller.cpp:586
-#: vcs/dvcs/ui/branchmanager.ui:155
+#: vcs/dvcs/ui/branchmanager.ui:143
 #, kde-format
 msgctxt "@info:placeholder"
 msgid "Search..."
@@ -683,7 +690,7 @@ msgstr "Dosya açılamadı."
 msgid "File could not be read from disk due to permissions."
 msgstr "Dosya izinler yüzünden diskten okunamadı."
 
-#: language/backgroundparser/parseprojectjob.cpp:86
+#: language/backgroundparser/parseprojectjob.cpp:87
 #, kde-format
 msgid "Process 1 file in %2"
 msgid_plural "Process %1 files in %2"
@@ -943,230 +950,230 @@ msgstr "Şuna dön: %1<br />"
 msgid "enumerator "
 msgstr "numaralandırıcı "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:157
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:162
 #, kde-format
 msgid "namespace %1 "
 msgstr "isim alanı %1 "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:168
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:173
 #, kde-format
 msgid "enumeration %1 "
 msgstr "numaralandırma %1 "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:177
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:182
 #, kde-format
 msgid "(resolved forward-declaration: "
 msgstr "(çözülmüş yönlendirme-ifadesi: "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:180
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:185
 #, kde-format
 msgid ") "
 msgstr ") "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:182
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:187
 #, kde-format
 msgid "(unresolved forward-declaration) "
 msgstr "(çözülmemiş iletme-ifadesi) "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:200
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:205
 #, kde-format
 msgid "possible resolution from"
 msgstr "bundan muhtemel çözüm"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:213
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:218
 #, kde-format
 msgid "Returns: "
 msgstr "Dönüş: "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:215
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:220
 #, kde-format
 msgid "Type: "
 msgstr "Tür: "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:234
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:239
 #, kde-format
 msgid "Enum: "
 msgstr "Enum: "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:236
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:241
 #, kde-format
 msgid "Container: "
 msgstr "Kapsayıcı: "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:244
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:249
 #, kde-format
 msgid "Scope: %1 "
 msgstr "Kapsam: %1 "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:262
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:267
 #, kde-format
 msgid "Access: %1 "
 msgstr "Erişim: %1 "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:281
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:286
 #, kde-format
 msgid "Kind: %1 %2 "
 msgstr "Tür: %1 %2 "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:283
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:288
 #, kde-format
 msgid "Kind: %1 "
 msgstr "Tür: %1 "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:287
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:292
 #, kde-format
 msgid "Deprecated"
 msgstr "Kullanılım dışı"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:287
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:292
 #, kde-format
 msgid "Status: %1 "
 msgstr "Durum: %1 "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:297
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:302
 #, kde-format
 msgid "Def.: "
 msgstr "Def.: "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:299
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:304
 #, kde-format
 msgid "Decl.: "
 msgstr "Decl.: "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:309
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:314
 #, kde-format
 msgid " Def.: "
 msgstr " Def.: "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:319
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:324
 #, kde-format
 msgid " Decl.: "
 msgstr " Decl.: "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:327
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:332
 #, kde-format
 msgid "Show uses"
 msgstr "Kullanımı göster"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:365
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:370
 #, kde-format
 msgid "Show documentation for "
 msgstr "Bunun için belgelendirmeyi göster "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:471
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:476
 #, kde-format
 msgctxt "An anonymous declaration (class, function, etc.)"
 msgid "<anonymous>"
 msgstr "<anonim>"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:488
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:493
 #, kde-format
 msgid "Overrides a "
 msgstr "Şunu geçersiz kıl "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:489
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:516
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:494
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:521
 #, kde-format
 msgid "function"
 msgstr "fonksiyon"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:491
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:519
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:496
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:524
 #, kde-format
 msgid " from "
 msgstr " geldiği yer "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:515
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:520
 #, kde-format
 msgid "Hides a "
 msgstr "Sakladığı "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:539
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:544
 #, kde-format
 msgid "Overridden in "
 msgstr "Üstüne yazılan yer "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:556
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:561
 #, kde-format
 msgid "Overriders possible, show all"
 msgstr "Üzerine yazıcılar mümkün, tümünü göster"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:557
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:562
 #, kde-format
 msgid "More overriders possible, show all"
 msgstr "Daha fazla üzerine yazıcılar mümkün, tümünü göster"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:567
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:572
 #, kde-format
 msgid "Inherited by "
 msgstr "Miras alan "
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:582
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:587
 #, kde-format
 msgid "Inheriters possible, show all"
 msgstr "Miras alanlar olabilir, hepsini göster"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:583
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:588
 #, kde-format
 msgid "More inheriters possible, show all"
 msgstr "Miras alan daha fazla yer olabilir, hepsini göster"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:790
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:795
 #, kde-format
 msgctxt "A declaration that is unknown"
 msgid "Unknown"
 msgstr "Bilinmeyen"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:816
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:821
 #, kde-format
 msgctxt "tells if a declaration is defining the variable's value"
 msgid "definition"
 msgstr "tanım"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:821
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:826
 #, kde-format
 msgctxt "as in c++ forward declaration"
 msgid "forward"
 msgstr "İleri"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:826
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:831
 #, kde-format
 msgctxt "a variable that won't change, const"
 msgid "constant"
 msgstr "sabit"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:887
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:882
 #, kde-format
 msgid "1 Byte"
 msgid_plural "%1 Bytes"
 msgstr[0] "1 Bayt"
 msgstr[1] "%1 Bayt"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:888
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:883
 #, kde-format
 msgid "1 Bit"
 msgid_plural "%1 Bits"
 msgstr[0] "1 Bit"
 msgstr[1] "%1 Bit"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:890
-#, kde-format
-msgctxt "%1: bytes, %2: bits"
-msgid "%1, %2"
-msgstr "%1, %2"
-
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:890
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:885
 #, fuzzy, kde-format
 #| msgid "Classes in project %1"
 msgid "offset in parent: %1"
 msgstr "%1 projesindeki sınıflar"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:895
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:886
+#, kde-format
+msgctxt "%1: bytes, %2: bits"
+msgid "%1, %2"
+msgstr "%1, %2"
+
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:891
 #, kde-format
 msgid "size: %1 Bytes"
 msgstr "BOYUT: %1 Bayt"
 
-#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:899
+#: language/duchain/navigation/abstractdeclarationnavigationcontext.cpp:895
 #, kde-format
 msgid "aligned to: %1 Bytes"
 msgstr ""
@@ -1774,7 +1781,7 @@ msgctxt "@info:tooltip"
 msgid "Move the selected dependency down in the list"
 msgstr "Seçili bağımlılığı listede aşağıya taşır."
 
-#: serialization/itemrepository.h:213 serialization/itemrepository.h:2060
+#: serialization/itemrepository.h:213 serialization/itemrepository.h:2021
 #, kde-format
 msgid "Failed writing to %1, probably the disk is full"
 msgstr "%1 konumuna yazılamıyor, disk dolu olabilir"
@@ -1824,11 +1831,7 @@ msgid "Continue"
 msgstr "Devam et"
 
 #: shell/areadisplay.cpp:55
-#, fuzzy, kde-format
-#| msgid ""
-#| "Execute actions to change the area.<br />An area is a toolview "
-#| "configuration for a specific use case. From here you can also navigate "
-#| "back to the default code area."
+#, kde-format
 msgid ""
 "Execute actions to change the area.<br />An area is a tool view "
 "configuration for a specific use case. From here you can also navigate back "
@@ -1919,88 +1922,88 @@ msgctxt "@title:window"
 msgid "Variables"
 msgstr "Değişkenler"
 
-#: shell/debugcontroller.cpp:200
+#: shell/debugcontroller.cpp:211
 #, kde-format
 msgid "&Restart"
 msgstr "&Yeniden Başlat"
 
-#: shell/debugcontroller.cpp:201
+#: shell/debugcontroller.cpp:212
 #, kde-format
 msgid "Restart program"
 msgstr "Uygulamayı yeniden başlat"
 
-#: shell/debugcontroller.cpp:202
+#: shell/debugcontroller.cpp:213
 #, kde-format
 msgid "Restarts applications from the beginning."
 msgstr "Uygulamaları baştan başlatır."
 
-#: shell/debugcontroller.cpp:208
+#: shell/debugcontroller.cpp:219
 #, kde-format
 msgctxt "@action"
 msgid "Interrupt"
 msgstr "Kesme"
 
-#: shell/debugcontroller.cpp:209
+#: shell/debugcontroller.cpp:220
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Interrupt application"
 msgstr "Uygulamayı kes"
 
-#: shell/debugcontroller.cpp:210
+#: shell/debugcontroller.cpp:221
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Interrupts the debugged process or current debugger command."
 msgstr "Hata ayıklanan süreci veya mevcut hata ayıklama komutunu keser."
 
-#: shell/debugcontroller.cpp:214
+#: shell/debugcontroller.cpp:225
 #, kde-format
 msgctxt "@action"
 msgid "Run to &Cursor"
 msgstr "&İmlece Kadar Çalıştır"
 
-#: shell/debugcontroller.cpp:215
+#: shell/debugcontroller.cpp:226
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Run to cursor"
 msgstr "İmlece kadar çalıştır"
 
-#: shell/debugcontroller.cpp:216
+#: shell/debugcontroller.cpp:227
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Continues execution until the cursor position is reached."
 msgstr "İmleç konumuna ulaşılana kadar çalıştırmaya devam eder."
 
-#: shell/debugcontroller.cpp:221
+#: shell/debugcontroller.cpp:232
 #, kde-format
 msgctxt "@action"
 msgid "Set E&xecution Position to Cursor"
 msgstr "Çalıştırma &Konumunu İmlece ayarla"
 
-#: shell/debugcontroller.cpp:222
+#: shell/debugcontroller.cpp:233
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Jump to cursor"
 msgstr "İmleç komnumuna atla"
 
-#: shell/debugcontroller.cpp:223
+#: shell/debugcontroller.cpp:234
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Continue execution from the current cursor position."
 msgstr "Mevcut imleç konumundan çalıştırmaya devam et."
 
-#: shell/debugcontroller.cpp:227
+#: shell/debugcontroller.cpp:238
 #, kde-format
 msgctxt "@action"
 msgid "Step &Over"
 msgstr "Adımı &Bitir"
 
-#: shell/debugcontroller.cpp:229
+#: shell/debugcontroller.cpp:240
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Step over the next line"
 msgstr "Sonraki satıra ilerle"
 
-#: shell/debugcontroller.cpp:230
+#: shell/debugcontroller.cpp:241
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -2012,37 +2015,37 @@ msgstr ""
 "fonksiyonu çağırıyorsa tüm fonksiyon çalıştırılır ve uygulama fonksiyonu "
 "çalıştıran satırın ardından sonlanır."
 
-#: shell/debugcontroller.cpp:238
+#: shell/debugcontroller.cpp:249
 #, kde-format
 msgctxt "@action"
 msgid "Step over Ins&truction"
 msgstr "Açı&klamayı geç"
 
-#: shell/debugcontroller.cpp:239
+#: shell/debugcontroller.cpp:250
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Step over instruction"
 msgstr "Açıklamayı geç"
 
-#: shell/debugcontroller.cpp:240
+#: shell/debugcontroller.cpp:251
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Steps over the next assembly instruction."
 msgstr "Sonraki assembly komutunun üzerinden geç."
 
-#: shell/debugcontroller.cpp:245
+#: shell/debugcontroller.cpp:256
 #, kde-format
 msgctxt "@action"
 msgid "Step &Into"
 msgstr "Bir &Adım İçeri"
 
-#: shell/debugcontroller.cpp:247
+#: shell/debugcontroller.cpp:258
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Step into the next statement"
 msgstr "Bir sonraki ifadeye geç"
 
-#: shell/debugcontroller.cpp:248
+#: shell/debugcontroller.cpp:259
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -2052,37 +2055,37 @@ msgstr ""
 "Kodun tam olarak bir satırını çalıştırır. Eğer kod satırı bir fonksiyonu "
 "çağırıyorsa çalıştırma fonksiyon girildikten sonra durdurulur."
 
-#: shell/debugcontroller.cpp:255
+#: shell/debugcontroller.cpp:266
 #, kde-format
 msgctxt "@action"
 msgid "Step into I&nstruction"
 msgstr "İfa&deye geç"
 
-#: shell/debugcontroller.cpp:256
+#: shell/debugcontroller.cpp:267
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Step into instruction"
 msgstr "İfadeye geç"
 
-#: shell/debugcontroller.cpp:257
+#: shell/debugcontroller.cpp:268
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Steps into the next assembly instruction."
 msgstr "Sonraki assembly komutuna adımlar."
 
-#: shell/debugcontroller.cpp:261
+#: shell/debugcontroller.cpp:272
 #, kde-format
 msgctxt "@action"
 msgid "Step O&ut"
 msgstr "Bir Adım &Dışarı"
 
-#: shell/debugcontroller.cpp:263
+#: shell/debugcontroller.cpp:274
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Step out of the current function"
 msgstr "Mevcut fonksiyonda bir seviye yukarı çık"
 
-#: shell/debugcontroller.cpp:264
+#: shell/debugcontroller.cpp:275
 #, kde-format
 msgctxt "@whatsthis"
 msgid ""
@@ -2095,68 +2098,68 @@ msgstr ""
 "hata ayıklayıcı bu fonksiyonun asıl çağrısından sonraki satırı görüntüler. "
 "Eğer program dış çerçevedeyse (yani, main() içinde) bu işlemin etkisi olmaz."
 
-#: shell/debugcontroller.cpp:272
+#: shell/debugcontroller.cpp:283
 #, kde-format
 msgctxt "@action"
 msgid "Toggle Breakpoint"
 msgstr "Kesme Noktası Değiştir"
 
-#: shell/debugcontroller.cpp:273
+#: shell/debugcontroller.cpp:284
 #, kde-format
 msgid "Ctrl+Alt+B"
 msgstr "Ctrl+Alt+B"
 
-#: shell/debugcontroller.cpp:274
+#: shell/debugcontroller.cpp:285
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Toggle breakpoint"
 msgstr "Kesme noktasını değiştir"
 
-#: shell/debugcontroller.cpp:275
+#: shell/debugcontroller.cpp:286
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Toggles the breakpoint at the current line in editor."
 msgstr "Kesme noktasını düzenleyicideki geçerli satır olarak değiştirir."
 
-#: shell/debugcontroller.cpp:279
+#: shell/debugcontroller.cpp:290
 #, fuzzy, kde-format
 #| msgid "Show Documentation"
 msgctxt "@action"
 msgid "Show Current Line"
 msgstr "Belgelendirmeyi Göster"
 
-#: shell/debugcontroller.cpp:280
+#: shell/debugcontroller.cpp:291
 #, fuzzy, kde-format
 #| msgid "Step out of the current function"
 msgctxt "@info:tooltip"
 msgid "Show the current execution position"
 msgstr "Mevcut fonksiyonda bir seviye yukarı çık"
 
-#: shell/debugcontroller.cpp:281
+#: shell/debugcontroller.cpp:292
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Jumps to the execution line in the editor."
 msgstr ""
 
-#: shell/debugcontroller.cpp:385
+#: shell/debugcontroller.cpp:403
 #, kde-format
 msgctxt "@title:window"
 msgid "Debug"
 msgstr "Hata Ayıkla"
 
-#: shell/debugcontroller.cpp:435 shell/runcontroller.cpp:455
+#: shell/debugcontroller.cpp:453 shell/runcontroller.cpp:457
 #, kde-format
 msgctxt "@action"
 msgid "Debug Launch"
 msgstr "Başlatmanın Hatalarını Ayıkla"
 
-#: shell/debugcontroller.cpp:437 shell/runcontroller.cpp:458
+#: shell/debugcontroller.cpp:455 shell/runcontroller.cpp:460
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Debug current launch"
 msgstr "Mevcut başlatmanın hatalarını ayıkla"
 
-#: shell/debugcontroller.cpp:438 shell/runcontroller.cpp:459
+#: shell/debugcontroller.cpp:456 shell/runcontroller.cpp:461
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -2166,19 +2169,19 @@ msgstr ""
 "Hedefi veya geçerli etkin başlangıç yapılandırmasında belirtilen programı "
 "hata ayıklayıcı içinde çalıştırır."
 
-#: shell/debugcontroller.cpp:441
+#: shell/debugcontroller.cpp:459
 #, kde-format
 msgctxt "@action"
 msgid "&Continue"
 msgstr "&Devam Et"
 
-#: shell/debugcontroller.cpp:443
+#: shell/debugcontroller.cpp:461
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Continue application execution"
 msgstr "Uygulama çalıştırmaya devam et"
 
-#: shell/debugcontroller.cpp:444
+#: shell/debugcontroller.cpp:462
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -3268,24 +3271,24 @@ msgctxt "@label:textbox"
 msgid "Name:"
 msgstr "İsim:"
 
-#: shell/projectsourcepage.cpp:48
+#: shell/projectsourcepage.cpp:49
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "From File System"
 msgstr "Dosya Sisteminden"
 
-#: shell/projectsourcepage.cpp:183
+#: shell/projectsourcepage.cpp:184
 #, kde-format
 msgid "Could not create the directory: %1"
 msgstr "Dizin oluşturulamadı: %1"
 
-#: shell/projectsourcepage.cpp:213
+#: shell/projectsourcepage.cpp:217
 #, kde-format
 msgctxt "Format of the progress bar text. progress and info"
 msgid "%1 : %p%"
 msgstr "%1 : %p%"
 
-#: shell/projectsourcepage.cpp:254
+#: shell/projectsourcepage.cpp:258
 #, kde-format
 msgid ""
 "You need to specify a valid or nonexistent directory to check out a project"
@@ -3293,12 +3296,12 @@ msgstr ""
 "Bir projeyi kullanmak için geçerli bir isim veya olmayan bir dizin "
 "belirtmelisiniz"
 
-#: shell/projectsourcepage.cpp:256
+#: shell/projectsourcepage.cpp:260
 #, kde-format
 msgid "You need to specify the source for your remote project"
 msgstr "Uzak projeniz için kaynağı belirtmelisiniz"
 
-#: shell/projectsourcepage.cpp:258
+#: shell/projectsourcepage.cpp:262
 #, kde-format
 msgid "You need to specify an empty folder as your project destination"
 msgstr "Proje hedefiniz için boş bir dizin seçmelisiniz"
@@ -3345,42 +3348,42 @@ msgctxt "@action:button"
 msgid "Get"
 msgstr "Al"
 
-#: shell/runcontroller.cpp:100
+#: shell/runcontroller.cpp:102
 #, kde-format
 msgctxt "launch mode"
 msgid "Debug"
 msgstr "Hata Ayıkla"
 
-#: shell/runcontroller.cpp:109
+#: shell/runcontroller.cpp:111
 #, kde-format
 msgctxt "launch mode"
 msgid "Profile"
 msgstr "Profil"
 
-#: shell/runcontroller.cpp:118
+#: shell/runcontroller.cpp:120
 #, kde-format
 msgctxt "launch mode"
 msgid "Execute"
 msgstr "Çalıştır"
 
-#: shell/runcontroller.cpp:420
+#: shell/runcontroller.cpp:422
 #, kde-format
 msgid "The current launch configuration does not support the '%1' mode."
 msgstr "Mevcut başlatma yapılandırması '%1' kipini desteklemiyor."
 
-#: shell/runcontroller.cpp:440
+#: shell/runcontroller.cpp:442
 #, kde-format
 msgctxt "@action"
 msgid "Configure Launches..."
 msgstr "Başlatmayı Yapılandır..."
 
-#: shell/runcontroller.cpp:443
+#: shell/runcontroller.cpp:445
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Open Launch Configuration Dialog"
 msgstr "Başlatma Yapılandırması Penceresini Aç"
 
-#: shell/runcontroller.cpp:444
+#: shell/runcontroller.cpp:446
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -3390,25 +3393,25 @@ msgstr ""
 "Yeni bir başlatma yapılandırması oluşturabileceğiniz veya mevcut birini "
 "değiştirebileceğiniz bir pencere açar."
 
-#: shell/runcontroller.cpp:447
+#: shell/runcontroller.cpp:449
 #, kde-format
 msgctxt "@action"
 msgid "Execute Launch"
 msgstr "Başlangıcı Çalıştır"
 
-#: shell/runcontroller.cpp:448
+#: shell/runcontroller.cpp:450
 #, kde-format
 msgctxt "@action Short text for 'Execute Launch' used in the toolbar"
 msgid "Execute"
 msgstr "Çalıştır"
 
-#: shell/runcontroller.cpp:450
+#: shell/runcontroller.cpp:452
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Execute current launch"
 msgstr "Geçerli başlangıcı çalıştır"
 
-#: shell/runcontroller.cpp:451
+#: shell/runcontroller.cpp:453
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -3418,7 +3421,7 @@ msgstr ""
 "Hedefi veya geçerli etkin başlangıç yapılandırmasında belirtilen programı "
 "çalıştırır."
 
-#: shell/runcontroller.cpp:457
+#: shell/runcontroller.cpp:459
 #, kde-format
 msgctxt "@action Short text for 'Debug Launch' used in the toolbar"
 msgid "Debug"
@@ -3429,67 +3432,67 @@ msgstr "Hata Ayıkla"
 #. profileAction->setWhatsThis(i18nc("@info:whatsthis", "Executes the target or the program specified in currently active launch configuration inside a Profiler."));
 #. ac->addAction("run_profile", profileAction);
 #. connect(profileAction, SIGNAL(triggered(bool)), this, SLOT(slotProfile()));
-#: shell/runcontroller.cpp:471
+#: shell/runcontroller.cpp:473
 #, kde-format
 msgctxt "@action"
 msgid "Stop All Jobs"
 msgstr "Tüm İşleri Durdur"
 
-#: shell/runcontroller.cpp:472
+#: shell/runcontroller.cpp:474
 #, kde-format
 msgctxt "@action Short text for 'Stop All Jobs' used in the toolbar"
 msgid "Stop All"
 msgstr "Tümünü Durdur"
 
-#: shell/runcontroller.cpp:475
+#: shell/runcontroller.cpp:477
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Stop all currently running jobs"
 msgstr "Çalışan tüm işleri durdur"
 
-#: shell/runcontroller.cpp:476
+#: shell/runcontroller.cpp:478
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Requests that all running jobs are stopped."
 msgstr "Çalışan tüm işlerin durdurulmasını gerektirir."
 
-#: shell/runcontroller.cpp:482
+#: shell/runcontroller.cpp:484
 #, kde-format
 msgctxt "@action"
 msgid "Stop"
 msgstr "Dur"
 
-#: shell/runcontroller.cpp:484
+#: shell/runcontroller.cpp:490
 #, kde-format
 msgctxt "@action Short text for 'Stop' used in the toolbar"
 msgid "Stop"
 msgstr "Dur"
 
-#: shell/runcontroller.cpp:485
+#: shell/runcontroller.cpp:491
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Menu allowing to stop individual jobs"
 msgstr "Tekil işleri durdurmaya izin veren menü"
 
-#: shell/runcontroller.cpp:486
+#: shell/runcontroller.cpp:492
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "List of jobs that can be stopped individually."
 msgstr "Tekil olarak durdurulabilen işlerin listesi."
 
-#: shell/runcontroller.cpp:490
+#: shell/runcontroller.cpp:496
 #, kde-format
 msgctxt "@title:menu"
 msgid "Current Launch Configuration"
 msgstr "Geçerli Başlatma Yapılandırması"
 
-#: shell/runcontroller.cpp:491
+#: shell/runcontroller.cpp:497
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Current launch configuration"
 msgstr "Geçerli başlatma yapılandırması"
 
-#: shell/runcontroller.cpp:492
+#: shell/runcontroller.cpp:498
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "Select which launch configuration to run when run is invoked."
@@ -3497,18 +3500,18 @@ msgstr ""
 "Çalıştırma başlatıldığında hangi başlatma yapılandırmasının kullanılacağını "
 "seçin."
 
-#: shell/runcontroller.cpp:608
+#: shell/runcontroller.cpp:614
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "<%1> Unnamed job"
 msgstr "<%1> İsimsiz iş"
 
-#: shell/runcontroller.cpp:987
+#: shell/runcontroller.cpp:995
 #, kde-format
 msgid "New %1 Launcher"
 msgstr "Yeni %1 Başlatıcısı"
 
-#: shell/runcontroller.cpp:1024
+#: shell/runcontroller.cpp:1032
 #, kde-format
 msgctxt "@title:menu"
 msgid "%1 As..."
@@ -4926,7 +4929,7 @@ msgstr "Düzenle..."
 #. i18n: ectx: property (text), widget (QPushButton, deleteButton)
 #: shell/sourceformatterselectionedit.ui:154
 #: shell/workingsets/workingsettooltipwidget.cpp:105
-#: vcs/dvcs/ui/branchmanager.ui:47
+#: vcs/dvcs/ui/branchmanager.ui:44
 #, kde-format
 msgctxt "@action:button"
 msgid "Delete"
@@ -4973,7 +4976,7 @@ msgctxt "area"
 msgid "Review"
 msgstr "Gözden Geçir"
 
-#: shell/uicontroller.cpp:465
+#: shell/uicontroller.cpp:470
 #, kde-format
 msgctxt "@title:window"
 msgid "Select Tool View to Add"
@@ -5165,11 +5168,10 @@ msgid "Use this shortcut to trigger visibility of the tool view."
 msgstr "Bu kısayolu araç görünümünün görünürlüğünü değiştirmek için kullanın."
 
 #: sublime/idealdockwidget.cpp:150
-#, fuzzy, kde-format
-#| msgid "Remove Toolview"
+#, kde-format
 msgctxt "@action:inmenu"
 msgid "Remove Tool View"
-msgstr "Araç Görünümünü Kaldır"
+msgstr "Kaldırma Aracı Görünümü"
 
 #: sublime/idealdockwidget.cpp:161
 #, kde-format
@@ -5177,88 +5179,88 @@ msgctxt "@title:window"
 msgid "Assign Shortcut For '%1' Tool View"
 msgstr "'%1' Araç Görünümü İçin Kısayol Ata"
 
-#: sublime/mainwindow_p.cpp:90
+#: sublime/mainwindow_p.cpp:91
 #, kde-format
 msgctxt "@option:check"
 msgid "Concentration Mode"
 msgstr "Konsantrasyon Kipi"
 
-#: sublime/mainwindow_p.cpp:92
+#: sublime/mainwindow_p.cpp:93
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Remove most of the controls so you can focus on what matters"
 msgstr "Önemli olana odaklanabilmeniz için kontrollerin çoğunu kaldırır"
 
-#: sublime/mainwindow_p.cpp:99
+#: sublime/mainwindow_p.cpp:100
 #, kde-format
 msgctxt "@option:check"
 msgid "Show Left Dock"
 msgstr "Sol Sabit Alanı Göster"
 
-#: sublime/mainwindow_p.cpp:106
+#: sublime/mainwindow_p.cpp:107
 #, kde-format
 msgctxt "@option:check"
 msgid "Show Right Dock"
 msgstr "Sağ Sabit Alanı Göster"
 
-#: sublime/mainwindow_p.cpp:112
+#: sublime/mainwindow_p.cpp:113
 #, kde-format
 msgctxt "@option:check"
 msgid "Show Bottom Dock"
 msgstr "Alt Sabit Alanı Göster"
 
-#: sublime/mainwindow_p.cpp:118
+#: sublime/mainwindow_p.cpp:119
 #, kde-format
 msgctxt "@action"
 msgid "Focus Editor"
 msgstr "Düzenleyiciyi Odakla"
 
-#: sublime/mainwindow_p.cpp:123
+#: sublime/mainwindow_p.cpp:124
 #, kde-format
 msgctxt "@action"
 msgid "Hide/Restore Docks"
 msgstr "Sabit Alanları Gizle/Yeniden Yükle"
 
-#: sublime/mainwindow_p.cpp:128
+#: sublime/mainwindow_p.cpp:129
 #, kde-format
 msgctxt "@action"
 msgid "Next Tool View"
 msgstr "Sonraki Araç Görünümü"
 
-#: sublime/mainwindow_p.cpp:134
+#: sublime/mainwindow_p.cpp:135
 #, kde-format
 msgctxt "@action"
 msgid "Previous Tool View"
 msgstr "Önceki Araç Görünümü"
 
-#: sublime/mainwindow_p.cpp:140
+#: sublime/mainwindow_p.cpp:141
 #, kde-format
 msgctxt "@title:menu"
 msgid "Tool Views"
 msgstr "Araç Görünümleri"
 
-#: sublime/mainwindow_p.cpp:146
+#: sublime/mainwindow_p.cpp:151
 #, kde-format
 msgid "Left Button Bar"
 msgstr "Sol Düğme Çubuğu"
 
-#: sublime/mainwindow_p.cpp:149
+#: sublime/mainwindow_p.cpp:154
 #, kde-format
 msgid "Right Button Bar"
 msgstr "Sağ Düğme Çubuğu"
 
-#: sublime/mainwindow_p.cpp:152
+#: sublime/mainwindow_p.cpp:157
 #, kde-format
 msgid "Bottom Button Bar"
 msgstr "Alt Düğme Çubuğu"
 
-#: sublime/mainwindow_p.cpp:824
+#: sublime/mainwindow_p.cpp:829
 #, kde-format
 msgctxt "@action"
 msgid "Close"
 msgstr "Kapat"
 
-#: sublime/mainwindow_p.cpp:825
+#: sublime/mainwindow_p.cpp:830
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Close message"
@@ -5380,7 +5382,7 @@ msgctxt "@item:inlistbox"
 msgid "%1 (does not exist)"
 msgstr "%1 (yok)"
 
-#: util/jobstatus.cpp:64
+#: util/jobstatus.cpp:45
 #, kde-format
 msgid "Task aborted"
 msgstr "Görev iptal edildi"
@@ -5457,25 +5459,25 @@ msgctxt "@title:window"
 msgid "Branch Manager"
 msgstr "Dal Yöneticisi"
 
-#: vcs/dvcs/ui/branchmanager.cpp:113
+#: vcs/dvcs/ui/branchmanager.cpp:121
 #, kde-format
 msgid ""
 "You must select a base branch from the list before creating a new branch."
 msgstr "Yeni bir dal oluşturmadan önce listeden bir ana dal seçmelisiniz."
 
-#: vcs/dvcs/ui/branchmanager.cpp:118
+#: vcs/dvcs/ui/branchmanager.cpp:126
 #, kde-format
 msgctxt "@title:window"
 msgid "New Branch"
 msgstr "Yeni Dal"
 
-#: vcs/dvcs/ui/branchmanager.cpp:118
+#: vcs/dvcs/ui/branchmanager.cpp:126
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Name of the new branch:"
 msgstr "Yeni dalın adı:"
 
-#: vcs/dvcs/ui/branchmanager.cpp:126
+#: vcs/dvcs/ui/branchmanager.cpp:134
 #, kde-format
 msgid ""
 "Branch \"%1\" already exists.\n"
@@ -5484,7 +5486,7 @@ msgstr ""
 "\"%1\" dalı zaten mevcut.\n"
 "Lütfen başka bir isim seçin."
 
-#: vcs/dvcs/ui/branchmanager.cpp:141
+#: vcs/dvcs/ui/branchmanager.cpp:149
 #, kde-format
 msgid ""
 "Currently at the branch \"%1\".\n"
@@ -5493,18 +5495,18 @@ msgstr ""
 "\"%1\" dalında bulunuyorsunuz.\n"
 "Onu silmek için lütfen başka dala geçin."
 
-#: vcs/dvcs/ui/branchmanager.cpp:148
+#: vcs/dvcs/ui/branchmanager.cpp:156
 #, kde-format
 msgid "Are you sure you want to irreversibly remove the branch '%1'?"
 msgstr ""
 "'%1' dalını geri döndürülemez şekilde silmek istediğinizden emin misiniz?"
 
-#: vcs/dvcs/ui/branchmanager.cpp:168 vcs/dvcs/ui/branchmanager.cpp:249
+#: vcs/dvcs/ui/branchmanager.cpp:176 vcs/dvcs/ui/branchmanager.cpp:258
 #, kde-format
 msgid "Already on branch \"%1\"\n"
 msgstr "Zaten \"%1\" dalında\n"
 
-#: vcs/dvcs/ui/branchmanager.cpp:189
+#: vcs/dvcs/ui/branchmanager.cpp:198
 #, kde-format
 msgid ""
 "Branch \"%1\" doesn't exists.\n"
@@ -5513,28 +5515,28 @@ msgstr ""
 "\"%1\" dalı mevcut değil.\n"
 "Lütfen başka bir isim seçin."
 
-#: vcs/dvcs/ui/branchmanager.cpp:199
+#: vcs/dvcs/ui/branchmanager.cpp:208
 #, kde-format
 msgid "You must select a branch to merge into current one from the list."
 msgstr "Mevcut dal ile birleştirmek için listeden bir dal seçmelisiniz."
 
-#: vcs/dvcs/ui/branchmanager.cpp:237 vcs/widgets/vcsdiffpatchsources.cpp:311
+#: vcs/dvcs/ui/branchmanager.cpp:246 vcs/widgets/vcsdiffpatchsources.cpp:311
 #, kde-format
 msgid "Could not create a patch for the current version."
 msgstr "Geçerli sürüm için bir yama dosyası oluşturulamadı."
 
-#: vcs/dvcs/ui/branchmanager.cpp:272
+#: vcs/dvcs/ui/branchmanager.cpp:281
 #, kde-format
 msgctxt "@titlew:indow"
 msgid "Unable to Retrieve Diff"
 msgstr "Fark Alınamadı."
 
-#: vcs/dvcs/ui/branchmanager.cpp:279
+#: vcs/dvcs/ui/branchmanager.cpp:288
 #, kde-format
 msgid "There are no committed differences."
 msgstr "Gönderilen fark yok."
 
-#: vcs/dvcs/ui/branchmanager.cpp:280 vcs/vcspluginhelper.cpp:297
+#: vcs/dvcs/ui/branchmanager.cpp:289 vcs/vcspluginhelper.cpp:300
 #, kde-format
 msgctxt "@title:window"
 msgid "VCS Support"
@@ -5555,21 +5557,21 @@ msgid "New"
 msgstr "Yeni"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, deleteButton)
-#: vcs/dvcs/ui/branchmanager.ui:44
+#: vcs/dvcs/ui/branchmanager.ui:41
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "The same as git branch -D"
 msgstr "git branch -D ile aynı"
 
 #. i18n: ectx: property (text), widget (QPushButton, renameButton)
-#: vcs/dvcs/ui/branchmanager.ui:57
+#: vcs/dvcs/ui/branchmanager.ui:51
 #, kde-format
 msgctxt "@action:button"
 msgid "Rename"
 msgstr "Yeniden İsimlendir"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, diffButton)
-#: vcs/dvcs/ui/branchmanager.ui:83
+#: vcs/dvcs/ui/branchmanager.ui:77
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -5580,28 +5582,28 @@ msgstr ""
 "gönderi arasındaki farkları göster.</p>"
 
 #. i18n: ectx: property (text), widget (QPushButton, diffButton)
-#: vcs/dvcs/ui/branchmanager.ui:86
+#: vcs/dvcs/ui/branchmanager.ui:80
 #, kde-format
 msgctxt "@action:button"
 msgid "Compare to Branch"
 msgstr "Dal ile Kıyasla"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, checkoutButton)
-#: vcs/dvcs/ui/branchmanager.ui:112
+#: vcs/dvcs/ui/branchmanager.ui:103
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Checkout to the selected branch"
 msgstr "Seçilen dalı getir"
 
 #. i18n: ectx: property (text), widget (QPushButton, checkoutButton)
-#: vcs/dvcs/ui/branchmanager.ui:115
+#: vcs/dvcs/ui/branchmanager.ui:106
 #, kde-format
 msgctxt "@action:button checkout a version"
 msgid "Checkout"
 msgstr "Checkout"
 
 #. i18n: ectx: property (text), widget (QPushButton, mergeButton)
-#: vcs/dvcs/ui/branchmanager.ui:125
+#: vcs/dvcs/ui/branchmanager.ui:116
 #, kde-format
 msgctxt "@action:button merge a branch"
 msgid "Merge"
@@ -5785,91 +5787,91 @@ msgctxt "@title:column"
 msgid "Source Revision"
 msgstr "Kaynak Sürümü"
 
-#: vcs/vcspluginhelper.cpp:88
+#: vcs/vcspluginhelper.cpp:91
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Commit..."
 msgstr "Gönder..."
 
-#: vcs/vcspluginhelper.cpp:89
+#: vcs/vcspluginhelper.cpp:92
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Update"
 msgstr "Güncelle"
 
-#: vcs/vcspluginhelper.cpp:90
+#: vcs/vcspluginhelper.cpp:93
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Add"
 msgstr "Ekle"
 
-#: vcs/vcspluginhelper.cpp:91
+#: vcs/vcspluginhelper.cpp:94
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Show Differences..."
 msgstr "Farkları Göster..."
 
-#: vcs/vcspluginhelper.cpp:92
+#: vcs/vcspluginhelper.cpp:95
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Revert"
 msgstr "Eski Haline Döndür"
 
-#: vcs/vcspluginhelper.cpp:93 vcs/vcspluginhelper.cpp:486
+#: vcs/vcspluginhelper.cpp:96 vcs/vcspluginhelper.cpp:489
 #, kde-format
 msgctxt "@action:inmenu revision history"
 msgid "History..."
 msgstr "Geçmiş..."
 
-#: vcs/vcspluginhelper.cpp:94
+#: vcs/vcspluginhelper.cpp:97
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Annotation..."
 msgstr "Bilgi notu..."
 
-#: vcs/vcspluginhelper.cpp:95
+#: vcs/vcspluginhelper.cpp:98
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Show Diff..."
 msgstr "Farkları Göster..."
 
-#: vcs/vcspluginhelper.cpp:96
+#: vcs/vcspluginhelper.cpp:99
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Show Diff (All Files)..."
 msgstr "Farkları göster (Tüm Dosyalar)..."
 
-#: vcs/vcspluginhelper.cpp:97
+#: vcs/vcspluginhelper.cpp:100
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Push"
 msgstr "Gönder"
 
-#: vcs/vcspluginhelper.cpp:98
+#: vcs/vcspluginhelper.cpp:101
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Pull"
 msgstr "Çek"
 
-#: vcs/vcspluginhelper.cpp:296
+#: vcs/vcspluginhelper.cpp:299
 #, kde-format
 msgid "There are no differences."
 msgstr "Fark yok."
 
-#: vcs/vcspluginhelper.cpp:303
+#: vcs/vcspluginhelper.cpp:306
 #, fuzzy, kde-format
 #| msgid "Unable to get difference."
 msgctxt "@title:window"
 msgid "Unable to Get Differences"
 msgstr "Fark alınamadı."
 
-#: vcs/vcspluginhelper.cpp:369
+#: vcs/vcspluginhelper.cpp:372
 #, kde-format
 msgctxt "@title:window %1: path or URL, %2: name of a version control system"
 msgid "%2 History (%1)"
 msgstr "%2 Geçmiş (%1)"
 
-#: vcs/vcspluginhelper.cpp:442
+#: vcs/vcspluginhelper.cpp:445
 #, kde-format
 msgid ""
 "Cannot display annotations, missing interface KTextEditor::"
@@ -5878,7 +5880,7 @@ msgstr ""
 "Açıklamalar görüntülenemiyor, düzenleyici için eksik KTextEditor::"
 "AnnotationInterface arayüzü."
 
-#: vcs/vcspluginhelper.cpp:446
+#: vcs/vcspluginhelper.cpp:449
 #, kde-format
 msgid ""
 "Cannot execute annotate action because the document was not found, or was "
@@ -5889,7 +5891,7 @@ msgstr ""
 "çalıştırılamadı:\n"
 "%1"
 
-#: vcs/vcspluginhelper.cpp:481 vcs/widgets/vcseventwidget.cpp:60
+#: vcs/vcspluginhelper.cpp:484 vcs/widgets/vcseventwidget.cpp:60
 #, fuzzy, kde-format
 #| msgid "Copy Revision"
 msgctxt "@action:inmenu"
@@ -5965,11 +5967,10 @@ msgid "Old Messages"
 msgstr "Eski İletiler"
 
 #: vcs/widgets/vcsdiffpatchsources.cpp:121
-#, fuzzy, kde-format
-#| msgid ""
-#| "For more detailed information please see the Version Control toolview"
+#, kde-format
 msgid "For more detailed information please see the Version Control tool view."
-msgstr "Daha ayrıntılı bilgi için lütfen Sürüm Kontrolü araç görünümüne bakın"
+msgstr ""
+"Daha ayrıntılı bilgi için lütfen Sürüm Kontrolü araç görünümüne gözatın."
 
 #: vcs/widgets/vcsdiffpatchsources.cpp:123
 #, kde-format
@@ -6048,11 +6049,23 @@ msgstr "Sürümler arasındaki fark"
 #~ msgid "running %1 instance (PID: %2) is apparently hung"
 #~ msgstr "%1 örneği (PID: %2) asılı kalmış görünüyor"
 
-#~ msgid "Could not find any plugins"
-#~ msgstr "Eklenti bulunamadı"
+#~ msgid "Current launch Configuration"
+#~ msgstr "Geçerli başlatma Yapılandırması"
+
+#~ msgid "Open Launch Configuration Dialog"
+#~ msgstr "Çalıştırma Yapılandırma Penceresini Aç"
+
+#~ msgid "Execute current launch"
+#~ msgstr "Geçerli başlangıcı çalıştır"
 
 #~ msgid "Debug current launch"
 #~ msgstr "Mevcut başlatmanın hatalarını ayıkla"
+
+#~ msgid "Search..."
+#~ msgstr "Ara..."
+
+#~ msgid "Could not find any plugins"
+#~ msgstr "Eklenti bulunamadı"
 
 #~ msgid ""
 #~ "Executes the target or the program specified in currently active launch "
@@ -6078,15 +6091,9 @@ msgstr "Sürümler arasındaki fark"
 #~ msgid "Close Document"
 #~ msgstr "Belgeyi Kapat"
 
-#~ msgid "Open Launch Configuration Dialog"
-#~ msgstr "Çalıştırma Yapılandırma Penceresini Aç"
-
 #~ msgctxt "Short text for 'Execute launch' used in the toolbar"
 #~ msgid "Execute"
 #~ msgstr "Çalıştır"
-
-#~ msgid "Execute current launch"
-#~ msgstr "Geçerli başlangıcı çalıştır"
 
 #~ msgctxt "Short text for 'Debug launch' used in the toolbar"
 #~ msgid "Debug"
@@ -6095,9 +6102,6 @@ msgstr "Sürümler arasındaki fark"
 #~ msgctxt "Short text for 'Stop' used in the toolbar"
 #~ msgid "Stop"
 #~ msgstr "Dur"
-
-#~ msgid "Current launch Configuration"
-#~ msgstr "Geçerli başlatma Yapılandırması"
 
 #~ msgid "Search"
 #~ msgstr "Ara"
@@ -6129,6 +6133,12 @@ msgstr "Sürümler arasındaki fark"
 
 #~ msgid "Applying changes failed: %1"
 #~ msgstr "Değişiklikler uygulanamadı: %1"
+
+#~ msgid "Project already being opened"
+#~ msgstr "Proje zaten açık"
+
+#~ msgid "Process Error"
+#~ msgstr "Süreç Hatası"
 
 #~ msgid "KDevelop Platform"
 #~ msgstr "KDevelop Platformu"
@@ -6247,26 +6257,20 @@ msgstr "Sürümler arasındaki fark"
 #~ "KDevelop Platformu hakkında bilgi içeren bir iletişim penceresi "
 #~ "görüntüler."
 
-#~ msgid "Project already being opened"
-#~ msgstr "Proje zaten açık"
-
-#~ msgid "Process Error"
-#~ msgstr "Süreç Hatası"
-
 #~ msgid "<br /> lost declaration <br />"
 #~ msgstr "<br /> kayıp bildirimi <br />"
 
 #~ msgid "Import"
 #~ msgstr "İçeriye Aktar"
 
-#~ msgid "Copy revision number"
-#~ msgstr "Kopya sürüm numarası"
-
 #~ msgid "Logview"
 #~ msgstr "Günlük kaydı görünümü"
 
-#~ msgid "&Delete Breakpoint"
-#~ msgstr "Durdurma Noktasını &Sil"
+#~ msgid "Copy revision number"
+#~ msgstr "Kopya sürüm numarası"
+
+#~ msgid "Find"
+#~ msgstr "Bul"
 
 #~ msgid "..."
 #~ msgstr "..."
@@ -6280,25 +6284,38 @@ msgstr "Sürümler arasındaki fark"
 #~ msgid "Documentation Tool Bar"
 #~ msgstr "Belgelendirme Araç Çubuğu"
 
-#~ msgid "Find"
-#~ msgstr "Bul"
+#~ msgid "Preview"
+#~ msgstr "Önizleme"
 
-#~ msgid "Version Control"
-#~ msgstr "Sürüm Kontrol"
+#~ msgid "Format Files"
+#~ msgstr "Dosyaları Biçimlendir"
+
+#~ msgid "Close File"
+#~ msgstr "Dosyayı Kapat"
+
+#~ msgid "Close Other Files"
+#~ msgstr "Diğerler Dosyaları Kapat"
+
+#~ msgid "Close All Files"
+#~ msgstr "Tüm Dosyaları Kapat"
+
+#~ msgid "&Delete Breakpoint"
+#~ msgstr "Durdurma Noktasını &Sil"
+
+#~ msgid "Folder %1"
+#~ msgstr "Dizin %1"
+
+#~ msgid "Project %1"
+#~ msgstr "Proje %1"
 
 #~ msgid ""
-#~ "The installed Kate version does not support the MovingInterface which is "
-#~ "crucial for KDevelop starting from version 4.2.\n"
-#~ "\n"
-#~ "To use KDevelop with KDE SC prior to 4.6, where the SmartInterface is "
-#~ "used instead of the MovingInterface, you need KDevelop 4.1 or lower."
+#~ "Author: %1\n"
+#~ "Date: %2\n"
+#~ "Commit Message: %3"
 #~ msgstr ""
-#~ "Kurulu Kate sürümü KDevelop'un 4.2 sürümünden beri kritik olan "
-#~ "MovingInterface'i desteklemiyor.\n"
-#~ "\n"
-#~ "KDE ile KDevelop kullanmak için SC 4.6 sürümüne yükseltmelisiniz, "
-#~ "MovingInterface yerine SmartInterface kullanılanmak için KDevelop 4.1 "
-#~ "veya daha alt bir sürüme ihtiyacınız var."
+#~ "Yazar: %1\n"
+#~ "Tarih: %2\n"
+#~ "Gönderim İletisi: %3"
 
 #~ msgctxt "@title:menu"
 #~ msgid "Run"
@@ -6312,15 +6329,8 @@ msgstr "Sürümler arasındaki fark"
 #~ msgid "Edit"
 #~ msgstr "Düzen"
 
-#~ msgid "Remove Selected"
-#~ msgstr "Seçileni Sil"
-
-#~ msgctxt "@info:shell"
-#~ msgid "made running %1 instance (PID: %2) visible"
-#~ msgstr "%1 aşamasını (PID: %2) görünür yap"
-
-#~ msgid "Preview"
-#~ msgstr "Önizleme"
+#~ msgid "Version Control"
+#~ msgstr "Sürüm Kontrol"
 
 #, fuzzy
 #~| msgctxt "location (address)"
@@ -6340,38 +6350,37 @@ msgstr "Sürümler arasındaki fark"
 #~ msgid "Remove Group"
 #~ msgstr "Grup Sil"
 
-#~ msgid "Format Files"
-#~ msgstr "Dosyaları Biçimlendir"
+#~ msgid "Remove Selected"
+#~ msgstr "Seçileni Sil"
 
-#~ msgid "Close File"
-#~ msgstr "Dosyayı Kapat"
-
-#~ msgid "Close Other Files"
-#~ msgstr "Diğerler Dosyaları Kapat"
-
-#~ msgid "Close All Files"
-#~ msgstr "Tüm Dosyaları Kapat"
-
-#~ msgid ""
-#~ "Author: %1\n"
-#~ "Date: %2\n"
-#~ "Commit Message: %3"
-#~ msgstr ""
-#~ "Yazar: %1\n"
-#~ "Tarih: %2\n"
-#~ "Gönderim İletisi: %3"
-
-#~ msgid "Folder %1"
-#~ msgstr "Dizin %1"
-
-#~ msgid "Project %1"
-#~ msgstr "Proje %1"
-
-#~ msgid "Could not load project management plugin %1."
-#~ msgstr "%1 proje yönetimi eklentisi yüklenemedi."
+#, fuzzy
+#~| msgid "Enum: "
+#~ msgid "Bb Enum"
+#~ msgstr "Enum: "
 
 #~ msgid "Revision Graph..."
 #~ msgstr "Sürüm Grafiği..."
+
+#~ msgid ""
+#~ "The installed Kate version does not support the MovingInterface which is "
+#~ "crucial for KDevelop starting from version 4.2.\n"
+#~ "\n"
+#~ "To use KDevelop with KDE SC prior to 4.6, where the SmartInterface is "
+#~ "used instead of the MovingInterface, you need KDevelop 4.1 or lower."
+#~ msgstr ""
+#~ "Kurulu Kate sürümü KDevelop'un 4.2 sürümünden beri kritik olan "
+#~ "MovingInterface'i desteklemiyor.\n"
+#~ "\n"
+#~ "KDE ile KDevelop kullanmak için SC 4.6 sürümüne yükseltmelisiniz, "
+#~ "MovingInterface yerine SmartInterface kullanılanmak için KDevelop 4.1 "
+#~ "veya daha alt bir sürüme ihtiyacınız var."
+
+#~ msgctxt "@info:shell"
+#~ msgid "made running %1 instance (PID: %2) visible"
+#~ msgstr "%1 aşamasını (PID: %2) görünür yap"
+
+#~ msgid "Could not load project management plugin %1."
+#~ msgstr "%1 proje yönetimi eklentisi yüklenemedi."
 
 #~ msgctxt "Refers to a line in source code"
 #~ msgid "Line <b>%1</b>"
@@ -6414,6 +6423,11 @@ msgstr "Sürümler arasındaki fark"
 
 #~ msgid "Make Active"
 #~ msgstr "Etkinleştir"
+
+#, fuzzy
+#~| msgid "&Format"
+#~ msgid "Form"
+#~ msgstr "&Biçim"
 
 #~ msgid "*** Aborted ***"
 #~ msgstr "*** İptal Edildi ***"
@@ -6497,11 +6511,6 @@ msgstr "Sürümler arasındaki fark"
 
 #~ msgid "Recovery Error"
 #~ msgstr "Kurtarma Hatası"
-
-#, fuzzy
-#~| msgid "&Format"
-#~ msgid "Form"
-#~ msgstr "&Biçim"
 
 #~ msgctxt "change directory: %1: path"
 #~ msgid "cd %1"

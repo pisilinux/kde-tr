@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeedu-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-09 02:29+0100\n"
+"POT-Creation-Date: 2021-05-09 00:15+0000\n"
 "PO-Revision-Date: 2017-05-16 09:32+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/kdeedu-k-tr/"
@@ -36,7 +36,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "gorkem@kde.org, zerrin@uludag.org.tr"
 
-#: calculator.cpp:43
+#: calculator.cpp:31
 #, fuzzy, kde-format
 #| msgid "Calculator"
 msgctxt "@title:window"
@@ -144,24 +144,24 @@ msgstr ""
 msgid "&Delete"
 msgstr "&Sil"
 
-#: coordsconfigdialog.cpp:52
+#: coordsconfigdialog.cpp:40
 #, kde-format
 msgid "Coordinates"
 msgstr "Koordinatlar"
 
-#: coordsconfigdialog.cpp:52
+#: coordsconfigdialog.cpp:40
 #, kde-format
 msgid "Coordinate System"
 msgstr "Koordinat Sistemi"
 
-#: coordsconfigdialog.cpp:53
+#: coordsconfigdialog.cpp:41
 #, fuzzy, kde-format
 #| msgid "Coordinate System"
 msgctxt "@title:window"
 msgid "Coordinate System"
 msgstr "Koordinat Sistemi"
 
-#: coordsconfigdialog.cpp:86 coordsconfigdialog.cpp:112
+#: coordsconfigdialog.cpp:74 coordsconfigdialog.cpp:100
 #, kde-format
 msgid "The minimum range value must be lower than the maximum range value"
 msgstr "En düşük aralık değeri, en yüksek aralık değerinden az olmalı"
@@ -259,7 +259,7 @@ msgstr "Özel:"
 msgid "Vertical axis Grid Spacing"
 msgstr "Dikey eksen Izgara Aralığı"
 
-#: equationeditor.cpp:40
+#: equationeditor.cpp:28
 #, fuzzy, kde-format
 #| msgid "Equation Editor"
 msgctxt "@title:window"
@@ -458,7 +458,7 @@ msgstr "⅓"
 msgid "⅙"
 msgstr "⅙"
 
-#: functioneditor.cpp:58
+#: functioneditor.cpp:46
 #, kde-format
 msgid "Functions"
 msgstr "Fonksiyonlar"
@@ -559,7 +559,7 @@ msgstr ""
 #. i18n: ectx: property (windowTitle), widget (QWidget, ParametersWidget)
 #: functioneditorwidget.ui:184 functioneditorwidget.ui:535
 #: functioneditorwidget.ui:640 functioneditorwidget.ui:714
-#: functioneditorwidget.ui:796 parameterswidget.ui:13 view.cpp:2389
+#: functioneditorwidget.ui:796 parameterswidget.ui:13 view.cpp:2377
 #, kde-format
 msgid "Parameters"
 msgstr "Parametreler"
@@ -884,48 +884,48 @@ msgstr "f''(x) = -f"
 msgid "Initial Conditions"
 msgstr "Başlangıç Koşulları"
 
-#: functiontools.cpp:73 functiontools.cpp:80
+#: functiontools.cpp:61 functiontools.cpp:68
 #, kde-format
 msgid "Search between:"
 msgstr "Bu aralıkta ara:"
 
-#: functiontools.cpp:74
+#: functiontools.cpp:62
 #, fuzzy, kde-format
 #| msgid "Find Minimum Point"
 msgctxt "@title:window"
 msgid "Find Minimum Point"
 msgstr "En Küçük Noktayı Bul"
 
-#: functiontools.cpp:81
+#: functiontools.cpp:69
 #, fuzzy, kde-format
 #| msgid "Find Maximum Point"
 msgctxt "@title:window"
 msgid "Find Maximum Point"
 msgstr "En Büyük Noktayı Bul"
 
-#: functiontools.cpp:87
+#: functiontools.cpp:75
 #, kde-format
 msgid "Calculate the area between:"
 msgstr "Bu değerler arasındaki alanı hesapla:"
 
-#: functiontools.cpp:88
+#: functiontools.cpp:76
 #, fuzzy, kde-format
 #| msgid "Area Under Graph"
 msgctxt "@title:window"
 msgid "Area Under Graph"
 msgstr "Grafik Altında Alan"
 
-#: functiontools.cpp:203
+#: functiontools.cpp:191
 #, kde-format
 msgid "Minimum is at x = %1, %2(x) = %3"
 msgstr "x'te en az = %1, %2(x) = %3 "
 
-#: functiontools.cpp:217
+#: functiontools.cpp:205
 #, kde-format
 msgid "Maximum is at x = %1, %2(x) = %3"
 msgstr "x'te en fazla = %1, %2(x) = %3"
 
-#: functiontools.cpp:236
+#: functiontools.cpp:224
 #, kde-format
 msgid "Area is %1"
 msgstr "Alan %1"
@@ -960,19 +960,19 @@ msgstr "Kaldır"
 msgid "Add..."
 msgstr "Ekle..."
 
-#: kconstanteditor.cpp:67
+#: kconstanteditor.cpp:55
 #, fuzzy, kde-format
 #| msgid "Constants Editor"
 msgctxt "@title:window"
 msgid "Constants Editor"
 msgstr "Sabit Düzenleyici"
 
-#: kconstanteditor.cpp:135
+#: kconstanteditor.cpp:123
 #, kde-format
 msgid "Check this to have the constant exported when saving."
 msgstr "Kaydederken, dışa aktarılan sabiti tutmak için kontrol et."
 
-#: kconstanteditor.cpp:138
+#: kconstanteditor.cpp:126
 #, kde-format
 msgid ""
 "Check this to have the constant permanently available between instances of "
@@ -980,29 +980,29 @@ msgid ""
 msgstr ""
 "KmPlot örnekleri arasındaki, sürekli hazır sabileri tutmak için kontrol et."
 
-#: kgradientdialog.cpp:385
+#: kgradientdialog.cpp:373
 #, kde-format
 msgid "(Double-click on the gradient to add a stop)"
 msgstr "(Bir durma eklemek için gradyan üzerine çift tıklayın)"
 
-#: kgradientdialog.cpp:386
+#: kgradientdialog.cpp:374
 #, kde-format
 msgid "Remove stop"
 msgstr "Durmayı kaldır"
 
-#: kgradientdialog.cpp:410
+#: kgradientdialog.cpp:398
 #, fuzzy, kde-format
 #| msgid "Choose a Gradient"
 msgctxt "@title:window"
 msgid "Choose a Gradient"
 msgstr "Bir Gradyan Seçin"
 
-#: kmplot.cpp:96
+#: kmplot.cpp:85
 #, kde-format
 msgid "Could not find KmPlot's part."
 msgstr "KmPlot'un parçası bulunamadı."
 
-#: kmplot.cpp:198 maindlg.cpp:531
+#: kmplot.cpp:189 maindlg.cpp:519
 #, fuzzy, kde-format
 #| msgid ""
 #| "*.fkt|KmPlot Files (*.fkt)\n"
@@ -1012,7 +1012,7 @@ msgstr ""
 "*.fkt|KmPlot dosyaları (*.fkt)\n"
 "*|Tüm dosyalar"
 
-#: kmplot.cpp:198
+#: kmplot.cpp:189
 #, kde-format
 msgid "Open"
 msgstr "Aç"
@@ -1469,7 +1469,7 @@ msgstr ""
 "gösterilip gösterilmeyeceği."
 
 #. i18n: ectx: Menu (edit)
-#: kmplot_part.rc:14 kmplot_part_readonly.rc:9 maindlg.cpp:360
+#: kmplot_part.rc:14 kmplot_part_readonly.rc:9 maindlg.cpp:348
 #, kde-format
 msgid "&Edit"
 msgstr "&Düzen"
@@ -1504,67 +1504,67 @@ msgstr "&Dosya"
 msgid "Main Toolbar"
 msgstr "Ana Araç Çubuğu"
 
-#: kmplotio.cpp:331
+#: kmplotio.cpp:319
 #, kde-format
 msgid "The file had an unknown version number"
 msgstr "Dosya bilinmeyen bir sürüm numarasına sahip"
 
-#: kmplotio.cpp:352 kparametereditor.cpp:230
+#: kmplotio.cpp:340 kparametereditor.cpp:218
 #, kde-format
 msgid "The file does not exist."
 msgstr "Bu dosya mevcut değil."
 
-#: kmplotio.cpp:359
+#: kmplotio.cpp:347
 #, kde-format
 msgid "An error appeared when opening this file (%1)"
 msgstr "Bu dosya açılırken bir hata oluştu (%1)"
 
-#: kmplotio.cpp:374
+#: kmplotio.cpp:362
 #, kde-format
 msgid "%1 could not be opened"
 msgstr "%1 açılamadı"
 
-#: kmplotio.cpp:381
+#: kmplotio.cpp:369
 #, kde-format
 msgid "%1 could not be loaded (%2 at line %3, column %4)"
 msgstr "%1 yüklenemedi (satır %3, Sütun %4 deki %2)"
 
-#: kmplotio.cpp:451
+#: kmplotio.cpp:439
 #, kde-format
 msgid "automatic"
 msgstr "otomatik"
 
-#: kmplotio.cpp:806
+#: kmplotio.cpp:794
 #, kde-format
 msgid "The function %1 could not be loaded"
 msgstr "%1 fonksiyonu yüklenemedi"
 
-#: kparametereditor.cpp:54
+#: kparametereditor.cpp:42
 #, fuzzy, kde-format
 #| msgid "Parameter Editor"
 msgctxt "@title:window"
 msgid "Parameter Editor"
 msgstr "Parametre Düzenleyici"
 
-#: kparametereditor.cpp:224
+#: kparametereditor.cpp:212
 #, fuzzy, kde-format
 #| msgid "Parameter Editor"
 msgid "Open Parameter File"
 msgstr "Parametre Düzenleyici"
 
-#: kparametereditor.cpp:224 kparametereditor.cpp:299
+#: kparametereditor.cpp:212 kparametereditor.cpp:287
 #, fuzzy, kde-format
 #| msgid "*.txt|Plain Text File "
 msgid "Plain Text File (*.txt)"
 msgstr "*.txt|Düz Metin Dosyası "
 
-#: kparametereditor.cpp:241
+#: kparametereditor.cpp:229
 #, fuzzy, kde-format
 #| msgid "An error appeared when opening this file (%1)"
 msgid "An error appeared when opening this file: %1"
 msgstr "Bu dosya açılırken bir hata oluştu (%1)"
 
-#: kparametereditor.cpp:275
+#: kparametereditor.cpp:263
 #, kde-format
 msgid ""
 "Line %1 is not a valid parameter value and will therefore not be included. "
@@ -1573,33 +1573,33 @@ msgstr ""
 "%1 satırı geçerli bir parametre değil, bu nedenle eklenmeyecek. Devam etmek "
 "istiyor musunuz?"
 
-#: kparametereditor.cpp:281
+#: kparametereditor.cpp:269
 #, kde-format
 msgid "Would you like to be informed about other lines that cannot be read?"
 msgstr "Okunamayan diğer satırlar hakkında bilgilendirilmek ister misiniz?"
 
-#: kparametereditor.cpp:281
+#: kparametereditor.cpp:269
 #, kde-format
 msgid "Get Informed"
 msgstr "Bilgilendirilmiş"
 
-#: kparametereditor.cpp:281
+#: kparametereditor.cpp:269
 #, kde-format
 msgid "Ignore Information"
 msgstr "Bilgiyi Gözardı Et"
 
-#: kparametereditor.cpp:288
+#: kparametereditor.cpp:276
 #, kde-format
 msgid "An error appeared when opening this file"
 msgstr "Bu dosya açılırken bir hata oluştu"
 
-#: kparametereditor.cpp:299
+#: kparametereditor.cpp:287
 #, fuzzy, kde-format
 #| msgid "Save As"
 msgid "Save File"
 msgstr "Farklı Kaydet"
 
-#: kparametereditor.cpp:303
+#: kparametereditor.cpp:291
 #, kde-format
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to continue and "
@@ -1608,79 +1608,79 @@ msgstr ""
 "\"%1\" isimli bir dosya zaten var. Devam edip üzerine yazmak istediğinizden "
 "emin misiniz?"
 
-#: kparametereditor.cpp:303
+#: kparametereditor.cpp:291
 #, kde-format
 msgid "Overwrite File?"
 msgstr "Dosyanın Üzerine Yazılsın Mı?"
 
-#: kparametereditor.cpp:322 kparametereditor.cpp:329 kparametereditor.cpp:352
+#: kparametereditor.cpp:310 kparametereditor.cpp:317 kparametereditor.cpp:340
 #, kde-format
 msgid "An error appeared when saving this file"
 msgstr "Bu dosya kaydedilirken bir hata oluştu"
 
-#: kprinterdlg.cpp:43
+#: kprinterdlg.cpp:31
 #, fuzzy, kde-format
 #| msgid "KmPlot Options"
 msgctxt "@title:window"
 msgid "KmPlot Options"
 msgstr "KmPlot Seçenekleri"
 
-#: kprinterdlg.cpp:47
+#: kprinterdlg.cpp:35
 #, kde-format
 msgid "Print header table"
 msgstr "Başlık tablosunu yazdır"
 
-#: kprinterdlg.cpp:48
+#: kprinterdlg.cpp:36
 #, kde-format
 msgid "Transparent background"
 msgstr "Saydam arkaplan"
 
-#: kprinterdlg.cpp:57
+#: kprinterdlg.cpp:45
 #, kde-format
 msgid "Pixels (1/72nd in)"
 msgstr "Pikseller (1/72'nci in)"
 
-#: kprinterdlg.cpp:58
+#: kprinterdlg.cpp:46
 #, kde-format
 msgid "Inches (in)"
 msgstr "inç'ler (in)"
 
-#: kprinterdlg.cpp:59
+#: kprinterdlg.cpp:47
 #, kde-format
 msgid "Centimeters (cm)"
 msgstr "Santimetreler (cm)"
 
-#: kprinterdlg.cpp:60
+#: kprinterdlg.cpp:48
 #, kde-format
 msgid "Millimeters (mm)"
 msgstr "Milimetreler (mm)"
 
-#: kprinterdlg.cpp:64
+#: kprinterdlg.cpp:52
 #, kde-format
 msgid "Width:"
 msgstr "Genişlik:"
 
-#: kprinterdlg.cpp:65
+#: kprinterdlg.cpp:53
 #, kde-format
 msgid "Height:"
 msgstr "Yükseklik :"
 
-#: kprinterdlg.cpp:135
+#: kprinterdlg.cpp:123
 #, kde-format
 msgid "Width is invalid"
 msgstr "Geçersiz genişlik "
 
-#: kprinterdlg.cpp:142
+#: kprinterdlg.cpp:130
 #, kde-format
 msgid "Height is invalid"
 msgstr "Geçersiz yükseklik"
 
-#: ksliderwindow.cpp:40
+#: ksliderwindow.cpp:28
 #, kde-format
 msgid "Slider %1"
 msgstr "Kaydırma Çubuğu %1"
 
-#: ksliderwindow.cpp:46
+#: ksliderwindow.cpp:34
 #, kde-format
 msgid ""
 "Move slider to change the parameter of the function plot connected to this "
@@ -1689,264 +1689,264 @@ msgstr ""
 "Bu kaydırma çubuğuna bağlı fonksiyon çiziminin parametresini değiştirmek "
 "için kaydırma çubuğunu hareket ettirin."
 
-#: ksliderwindow.cpp:96
+#: ksliderwindow.cpp:84
 #, fuzzy, kde-format
 #| msgid "Sliders"
 msgctxt "@title:window"
 msgid "Sliders"
 msgstr "Kaydırma Çubukları"
 
-#: main.cpp:58
+#: main.cpp:46
 #, kde-format
 msgid "KmPlot"
 msgstr "KmPlot"
 
-#: main.cpp:59
+#: main.cpp:47
 #, kde-format
 msgid "Mathematical function plotter by KDE"
 msgstr "KDE'nin matematiksel fonksiyonlar için çizicisi"
 
-#: main.cpp:60
+#: main.cpp:48
 #, kde-format
 msgid "(c) 2000-2002, Klaus-Dieter Möller"
 msgstr "(c) 2000-2002, Klaus-Dieter Möller"
 
-#: main.cpp:65
+#: main.cpp:53
 #, kde-format
 msgid "Klaus-Dieter Möller"
 msgstr "Klaus-Dieter Möller"
 
-#: main.cpp:65
+#: main.cpp:53
 #, kde-format
 msgid "Original Author"
 msgstr "Asıl yazar"
 
-#: main.cpp:68
+#: main.cpp:56
 #, kde-format
 msgid "Matthias Meßmer"
 msgstr "Matthias Meßmer"
 
-#: main.cpp:68
+#: main.cpp:56
 #, kde-format
 msgid "GUI"
 msgstr "Arayüz"
 
-#: main.cpp:70
+#: main.cpp:58
 #, kde-format
 msgid "Fredrik Edemar"
 msgstr "Fredrik Edemar"
 
-#: main.cpp:70
+#: main.cpp:58
 #, kde-format
 msgid "Various improvements"
 msgstr "Çeşitli geliştirmeler"
 
-#: main.cpp:71
+#: main.cpp:59
 #, kde-format
 msgid "David Saxton"
 msgstr "David Saxton"
 
-#: main.cpp:71
+#: main.cpp:59
 #, kde-format
 msgid "Porting to Qt 4, UI improvements, features"
 msgstr "Qt 4'e işaret ediliyor, Kullanıcı Arayüzü gelişimleri, özellikler"
 
-#: main.cpp:73
+#: main.cpp:61
 #, kde-format
 msgid "David Vignoni"
 msgstr "David Vignoni"
 
-#: main.cpp:73
+#: main.cpp:61
 #, kde-format
 msgid "svg icon"
 msgstr "svg simgesi"
 
-#: main.cpp:74
+#: main.cpp:62
 #, kde-format
 msgid "Albert Astals Cid"
 msgstr "Albert Astals Cid"
 
-#: main.cpp:74
+#: main.cpp:62
 #, kde-format
 msgid "command line options, MIME type"
 msgstr "komut satırı seçenekleri, MIME türü"
 
-#: main.cpp:78
+#: main.cpp:66
 #, kde-format
 msgid "Initial functions to plot"
 msgstr "Çizim için başlangıç fonksiyonu"
 
-#: main.cpp:78
+#: main.cpp:66
 #, kde-format
 msgid "argument"
 msgstr "bağımsız değişken"
 
-#: main.cpp:79
+#: main.cpp:67
 #, kde-format
 msgid "URLs to open"
 msgstr "Açılacak adres"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, SettingsPageGeneral)
-#: maindlg.cpp:202 settingspagegeneral.ui:14
+#: maindlg.cpp:190 settingspagegeneral.ui:14
 #, kde-format
 msgid "General"
 msgstr "Genel"
 
-#: maindlg.cpp:202
+#: maindlg.cpp:190
 #, kde-format
 msgid "General Settings"
 msgstr "Genel Ayarlar"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, SettingsPageDiagram)
-#: maindlg.cpp:203 settingspagediagram.ui:14
+#: maindlg.cpp:191 settingspagediagram.ui:14
 #, kde-format
 msgid "Diagram"
 msgstr "Diyagram"
 
-#: maindlg.cpp:203
+#: maindlg.cpp:191
 #, kde-format
 msgid "Diagram Appearance"
 msgstr "Diyagram Görünümü"
 
-#: maindlg.cpp:204
+#: maindlg.cpp:192
 #, kde-format
 msgid "Colors"
 msgstr "Renkler"
 
-#: maindlg.cpp:205
+#: maindlg.cpp:193
 #, kde-format
 msgid "Fonts"
 msgstr "Yazı Tipleri"
 
-#: maindlg.cpp:234
+#: maindlg.cpp:222
 #, kde-format
 msgid "Configure KmPlot..."
 msgstr "KmPlot'u Yapılandır..."
 
-#: maindlg.cpp:240
+#: maindlg.cpp:228
 #, kde-format
 msgid "E&xport..."
 msgstr "A&ktar..."
 
-#: maindlg.cpp:254
+#: maindlg.cpp:242
 #, kde-format
 msgid "&Coordinate System..."
 msgstr "K&oordinat Sistemi..."
 
-#: maindlg.cpp:259
+#: maindlg.cpp:247
 #, kde-format
 msgid "&Constants..."
 msgstr "&Sabitler..."
 
-#: maindlg.cpp:269
+#: maindlg.cpp:257
 #, kde-format
 msgid "Zoom &In"
 msgstr "&Odaklan"
 
-#: maindlg.cpp:275
+#: maindlg.cpp:263
 #, kde-format
 msgid "Zoom &Out"
 msgstr "&Uzaklaş"
 
-#: maindlg.cpp:281
+#: maindlg.cpp:269
 #, kde-format
 msgid "&Fit Widget to Trigonometric Functions"
 msgstr "Trigonometrik &Fonksiyonlara Bileşen Uydur"
 
-#: maindlg.cpp:285
+#: maindlg.cpp:273
 #, kde-format
 msgid "Reset View"
 msgstr "Görünümü Sıfırla"
 
-#: maindlg.cpp:290
+#: maindlg.cpp:278
 #, kde-format
 msgid "Show Sliders"
 msgstr "Kaydırma Çubuklarını Göster"
 
-#: maindlg.cpp:297
+#: maindlg.cpp:285
 #, kde-format
 msgid "Calculator"
 msgstr "Hesap Makinesi"
 
-#: maindlg.cpp:302
+#: maindlg.cpp:290
 #, kde-format
 msgid "Plot &Area..."
 msgstr "&Çizim Alanı..."
 
-#: maindlg.cpp:306
+#: maindlg.cpp:294
 #, kde-format
 msgid "Find Ma&ximum..."
 msgstr "En &Büyüğü Bul..."
 
-#: maindlg.cpp:311
+#: maindlg.cpp:299
 #, kde-format
 msgid "Find Mi&nimum..."
 msgstr "En &Küçüğü Bul..."
 
-#: maindlg.cpp:319
+#: maindlg.cpp:307
 #, fuzzy, kde-format
 #| msgid "Predefined &Math Functions"
 msgctxt "@action:inmenu Help"
 msgid "Predefined &Math Functions"
 msgstr "Öntanımlı &Matematik Fonksiyonları"
 
-#: maindlg.cpp:327
+#: maindlg.cpp:315
 #, kde-format
 msgid "Cartesian Plot"
 msgstr "Kartezyen Çizim"
 
-#: maindlg.cpp:333
+#: maindlg.cpp:321
 #, kde-format
 msgid "Parametric Plot"
 msgstr "Parametrik Çizim"
 
-#: maindlg.cpp:339
+#: maindlg.cpp:327
 #, kde-format
 msgid "Polar Plot"
 msgstr "Kutuplu Çizim"
 
-#: maindlg.cpp:345
+#: maindlg.cpp:333
 #, kde-format
 msgid "Implicit Plot"
 msgstr "Örtük Çizim"
 
-#: maindlg.cpp:351
+#: maindlg.cpp:339
 #, kde-format
 msgid "Differential Plot"
 msgstr "Türevsel Çizim"
 
-#: maindlg.cpp:367
+#: maindlg.cpp:355
 #, kde-format
 msgid "&Hide"
 msgstr "&Gizle"
 
-#: maindlg.cpp:372
+#: maindlg.cpp:360
 #, kde-format
 msgid "&Remove"
 msgstr "&Kaldır"
 
-#: maindlg.cpp:380
+#: maindlg.cpp:368
 #, kde-format
 msgid "Animate Plot..."
 msgstr "Çizim Canlandır..."
 
-#: maindlg.cpp:391
+#: maindlg.cpp:379
 #, kde-format
 msgid "Copy (x, y)"
 msgstr ""
 
-#: maindlg.cpp:395
+#: maindlg.cpp:383
 #, kde-format
 msgctxt "Copied pair of coordinates (x, y)"
 msgid "(%1, %2)"
 msgstr ""
 
-#: maindlg.cpp:400
+#: maindlg.cpp:388
 #, kde-format
 msgid "Copy Root Value"
 msgstr ""
 
-#: maindlg.cpp:486
+#: maindlg.cpp:474
 #, kde-format
 msgid ""
 "The plot has been modified.\n"
@@ -1955,7 +1955,7 @@ msgstr ""
 "Çizimde değişiklik yapıldı.\n"
 "Kaydetmek ister misiniz?"
 
-#: maindlg.cpp:516
+#: maindlg.cpp:504
 #, kde-format
 msgid ""
 "This file is saved with an old file format; if you save it, you cannot open "
@@ -1965,22 +1965,22 @@ msgstr ""
 "Kmplot uygulamasının eksi sürümleriyle açamazsınız. Devam etmek "
 "istediğinizden emin misiniz?"
 
-#: maindlg.cpp:516
+#: maindlg.cpp:504
 #, kde-format
 msgid "Save New Format"
 msgstr "Yeni Biçimi Kaydet"
 
-#: maindlg.cpp:530
+#: maindlg.cpp:518
 #, kde-format
 msgid "Save As"
 msgstr "Farklı Kaydet"
 
-#: maindlg.cpp:538
+#: maindlg.cpp:526
 #, kde-format
 msgid "The file could not be saved"
 msgstr "Dosya kaydedilemedi"
 
-#: maindlg.cpp:571
+#: maindlg.cpp:559
 #, fuzzy, kde-format
 #| msgid ""
 #| "\n"
@@ -1990,39 +1990,39 @@ msgstr ""
 "\n"
 "*.svg|Boyutlandırılabilir Vektörel Grafikler"
 
-#: maindlg.cpp:573
+#: maindlg.cpp:561
 #, fuzzy, kde-format
 #| msgid "Export as Image"
 msgctxt "@title:window"
 msgid "Export as Image"
 msgstr "Resim olarak Dışarıya Aktar"
 
-#: maindlg.cpp:643
+#: maindlg.cpp:631
 #, kde-format
 msgid "Sorry, something went wrong while saving to image \"%1\""
 msgstr "Üzgünüm, \"%1\" resim dosyasına kaydederken bir hata oluştu"
 
-#: maindlg.cpp:702
+#: maindlg.cpp:690
 #, fuzzy, kde-format
 #| msgid "Print Plot"
 msgctxt "@title:window"
 msgid "Print Plot"
 msgstr "Çizimi Yazdır"
 
-#: maindlg.cpp:719
+#: maindlg.cpp:707
 #, fuzzy, kde-format
 #| msgid "General Settings"
 msgid "Print Settings"
 msgstr "Genel Ayarlar"
 
-#: maindlg.cpp:724
+#: maindlg.cpp:712
 #, fuzzy, kde-format
 #| msgid "General Settings"
 msgctxt "@title:window"
 msgid "Print Settings"
 msgstr "Genel Ayarlar"
 
-#: parameteranimator.cpp:64
+#: parameteranimator.cpp:52
 #, fuzzy, kde-format
 #| msgid "Parameter Animator"
 msgctxt "@title:window"
@@ -2148,7 +2148,7 @@ msgstr "Hızlı"
 msgid "Slow"
 msgstr "Yavaş"
 
-#: parameterswidget.cpp:37
+#: parameterswidget.cpp:25
 #, kde-format
 msgid "Slider No. %1"
 msgstr "Kaydırma Çubuğu No. %1"
@@ -2203,12 +2203,12 @@ msgstr ""
 "Parametre değerini dinamik olarak değiştirmek için kaydırma çubuklarından "
 "birini seçin. Değerler 0 (sol) ile 100 (sağ) arasındadır."
 
-#: parser.cpp:695
+#: parser.cpp:683
 #, kde-format
 msgid "Remove all"
 msgstr "Tümünü kaldır"
 
-#: parser.cpp:697
+#: parser.cpp:685
 #, kde-format
 msgid ""
 "The function %1 is depended upon by the following functions: %2. These must "
@@ -2216,102 +2216,102 @@ msgid ""
 msgstr ""
 "%1 işlevi izleyen işlevlere bağımlıdır: %2. Ek olarak bunlar kaldırılmalıdır."
 
-#: parser.cpp:1222
+#: parser.cpp:1210
 #, kde-format
 msgid "Syntax error"
 msgstr "Sözdizim hatası"
 
-#: parser.cpp:1225
+#: parser.cpp:1213
 #, kde-format
 msgid "Missing parenthesis"
 msgstr "Eksik parantez"
 
-#: parser.cpp:1228
+#: parser.cpp:1216
 #, kde-format
 msgid "Stack overflow"
 msgstr "Yığın taşması"
 
-#: parser.cpp:1231
+#: parser.cpp:1219
 #, kde-format
 msgid "Name of function is not free"
 msgstr "Fonksiyonun adı boş değil"
 
-#: parser.cpp:1234
+#: parser.cpp:1222
 #, kde-format
 msgid "recursive function not allowed"
 msgstr "özyinelemeli fonksiyonlara izin verilmiyor"
 
-#: parser.cpp:1237
+#: parser.cpp:1225
 #, kde-format
 msgid "Empty function"
 msgstr "Boş fonksiyon"
 
-#: parser.cpp:1240
+#: parser.cpp:1228
 #, kde-format
 msgid "Function could not be found"
 msgstr "Fonksiyon bulunamadı."
 
-#: parser.cpp:1243
+#: parser.cpp:1231
 #, kde-format
 msgid "The differential equation must be at least first-order"
 msgstr "Türevsel eşitlik en azından ilk-girilen olmalıdır"
 
-#: parser.cpp:1246
+#: parser.cpp:1234
 #, kde-format
 msgid "Too many plus-minus symbols"
 msgstr "Çok fazla artı-eksi işareti"
 
-#: parser.cpp:1249
+#: parser.cpp:1237
 #, kde-format
 msgid "Invalid plus-minus symbol (expression must be constant)"
 msgstr "geçersiz artı-eksi işareti (tanım sabit olmalı)"
 
-#: parser.cpp:1252
+#: parser.cpp:1240
 #, kde-format
 msgid "The function has too many arguments"
 msgstr "Fonksiyonda çok fazla argüman var"
 
-#: parser.cpp:1255
+#: parser.cpp:1243
 #, kde-format
 msgid "The function does not have the correct number of arguments"
 msgstr "Fonksiyon, doğru sayıda argümana sahip değil"
 
-#: plotstylewidget.cpp:43
+#: plotstylewidget.cpp:31
 #, kde-format
 msgid "Solid"
 msgstr "Mat"
 
-#: plotstylewidget.cpp:44
+#: plotstylewidget.cpp:32
 #, kde-format
 msgid "Dash"
 msgstr "Tire"
 
-#: plotstylewidget.cpp:45
+#: plotstylewidget.cpp:33
 #, kde-format
 msgid "Dot"
 msgstr "Nokta"
 
-#: plotstylewidget.cpp:46
+#: plotstylewidget.cpp:34
 #, kde-format
 msgid "Dash Dot"
 msgstr "Tire Nokta"
 
-#: plotstylewidget.cpp:47
+#: plotstylewidget.cpp:35
 #, kde-format
 msgid "Dash Dot Dot"
 msgstr "Tire Nokta Nokta"
 
-#: plotstylewidget.cpp:58
+#: plotstylewidget.cpp:46
 #, kde-format
 msgid "Advanced..."
 msgstr "Gelişmiş..."
 
-#: plotstylewidget.cpp:62
+#: plotstylewidget.cpp:50
 #, kde-format
 msgid "Color:"
 msgstr "Renk:"
 
-#: plotstylewidget.cpp:71
+#: plotstylewidget.cpp:59
 #, fuzzy, kde-format
 #| msgid "Plot Appearance"
 msgctxt "@title:window"
@@ -3088,66 +3088,66 @@ msgstr "Kaydırma Çubuğu"
 msgid "<0>"
 msgstr "<0>"
 
-#: view.cpp:2048
+#: view.cpp:2036
 #, kde-format
 msgctxt "Extrema point"
 msgid "x = %1   y = %2"
 msgstr ""
 
-#: view.cpp:2382 view.cpp:2383
+#: view.cpp:2370 view.cpp:2371
 #, kde-format
 msgctxt "%1=minimum value, %2=maximum value"
 msgid "%1 to %2"
 msgstr ""
 
-#: view.cpp:2385 view.cpp:2386
+#: view.cpp:2373 view.cpp:2374
 #, kde-format
 msgctxt "'E' is the distance between ticks on the axis"
 msgid "1E = "
 msgstr ""
 
-#: view.cpp:2389
+#: view.cpp:2377
 #, kde-format
 msgid "Plotting Range"
 msgstr "Çizim Aralığı"
 
-#: view.cpp:2389
+#: view.cpp:2377
 #, kde-format
 msgid "Axes Division"
 msgstr "Eksen Bölümü"
 
-#: view.cpp:2390
+#: view.cpp:2378
 #, kde-format
 msgid "x-Axis:"
 msgstr "x-Ekseni:"
 
-#: view.cpp:2391
+#: view.cpp:2379
 #, kde-format
 msgid "y-Axis:"
 msgstr "y-Ekseni:"
 
-#: view.cpp:2394
+#: view.cpp:2382
 #, kde-format
 msgid "Functions:"
 msgstr "Fonksiyonlar:"
 
-#: view.cpp:3348
+#: view.cpp:3336
 #, kde-format
 msgid "x = %1"
 msgstr ""
 
-#: view.cpp:3349
+#: view.cpp:3337
 #, kde-format
 msgid "y = %1"
 msgstr ""
 
-#: view.cpp:3510
+#: view.cpp:3498
 #, kde-format
 msgctxt "%1 is a subscript zero symbol"
 msgid "root: x%1 = "
 msgstr ""
 
-#: xparser.cpp:141
+#: xparser.cpp:129
 #, kde-format
 msgid "Error in extension."
 msgstr "Uzantıda hata."

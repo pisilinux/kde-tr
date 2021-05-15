@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: applications-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-13 02:54+0100\n"
+"POT-Creation-Date: 2021-03-19 03:35+0100\n"
 "PO-Revision-Date: 2019-04-08 11:32+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -30,30 +30,36 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "tulliana@gmail.com"
 
-#: KateSearchCommand.cpp:69
+#: KateSearchCommand.cpp:83
 #, kde-format
 msgid "Usage: grep [pattern to search for in folder]"
 msgstr "Kullanım: grep [dizin içerisinde arama deseni]"
 
-#: KateSearchCommand.cpp:71
+#: KateSearchCommand.cpp:85
 #, kde-format
 msgid "Usage: newGrep [pattern to search for in folder]"
 msgstr "Kullanım: newGrep [dizin içerisinde arama deseni]"
 
-#: KateSearchCommand.cpp:75 KateSearchCommand.cpp:77
+#: KateSearchCommand.cpp:89 KateSearchCommand.cpp:91
 #, kde-format
 msgid "Usage: search [pattern to search for in open files]"
 msgstr "Kullanım: search [açık dosyalar içerisinde arama deseni]"
 
-#: KateSearchCommand.cpp:81
+#: KateSearchCommand.cpp:95
 #, kde-format
 msgid "Usage: pgrep [pattern to search for in current project]"
 msgstr "Kullanım: pgrep [geçerli projede arama deseni]"
 
-#: KateSearchCommand.cpp:83
+#: KateSearchCommand.cpp:97
 #, kde-format
 msgid "Usage: newPGrep [pattern to search for in current project]"
 msgstr "Kullanım: newPGrep [geçerli proje içerisinde arama deseni]"
+
+#: KateSearchCommand.cpp:101
+#, fuzzy, kde-format
+#| msgid "Usage: pgrep [pattern to search for in current project]"
+msgid "Usage: preg [regex pattern to search for in current project]"
+msgstr "Kullanım: pgrep [geçerli projede arama deseni]"
 
 #: MatchModel.cpp:487 MatchModel.cpp:489
 #, fuzzy, kde-format
@@ -361,37 +367,37 @@ msgstr "Küçük harf yakala 0-9"
 msgid "Lower-cased capture 0-999"
 msgstr "Küçük harf yakala 0-999"
 
-#: plugin_search.cpp:328
+#: plugin_search.cpp:331
 #, kde-format
 msgid "Kate Search & Replace"
 msgstr "Kate Bul ve Değiştir"
 
-#: plugin_search.cpp:335
+#: plugin_search.cpp:338
 #, kde-format
 msgid "Search and Replace"
 msgstr "Bul ve Değiştir"
 
-#: plugin_search.cpp:344
+#: plugin_search.cpp:347
 #, kde-format
 msgid "Search in Files"
 msgstr "Dosyalarda ara"
 
-#: plugin_search.cpp:348
+#: plugin_search.cpp:351
 #, kde-format
 msgid "Search in Files (in new tab)"
 msgstr "Dosyalarda Ara (yeni sekmede)"
 
-#: plugin_search.cpp:354
+#: plugin_search.cpp:357
 #, kde-format
 msgid "Go to Next Match"
 msgstr "Sonraki Eşleşmeye Git"
 
-#: plugin_search.cpp:359
+#: plugin_search.cpp:362
 #, kde-format
 msgid "Go to Previous Match"
 msgstr "Önceki Eşleşmeye Git"
 
-#: plugin_search.cpp:386
+#: plugin_search.cpp:389
 #, kde-format
 msgid ""
 "Comma separated list of file types to search in. Example: \"*.cpp,*.h\"\n"
@@ -399,7 +405,7 @@ msgstr ""
 "İçinde aranılacak virgülle ayrılmış dosya türü listesi. Örnek: \"*.cpp,*.h"
 "\"\n"
 
-#: plugin_search.cpp:387
+#: plugin_search.cpp:390
 #, kde-format
 msgid ""
 "Comma separated list of files and directories to exclude from the search. "
@@ -408,76 +414,76 @@ msgstr ""
 "Aramadan hariç tutulacak dosya ve dizinlerin virgülle ayrılmış listesi. "
 "Örnek: \"build*\""
 
-#: plugin_search.cpp:474
+#: plugin_search.cpp:477
 #, fuzzy, kde-format
 #| msgid "Find:"
 msgid "Find"
 msgstr "Bul:"
 
 #. i18n: ectx: property (text), widget (QPushButton, replaceButton)
-#: plugin_search.cpp:494 search.ui:170
+#: plugin_search.cpp:497 search.ui:170
 #, kde-format
 msgid "Replace"
 msgstr "Değiştir"
 
-#: plugin_search.cpp:1201
+#: plugin_search.cpp:1204
 #, kde-format
 msgid "Searching while you type was interrupted. It would have taken too long."
 msgstr "Yazarken arama kesildi. Çok uzun sürecekti."
 
-#: plugin_search.cpp:1524
+#: plugin_search.cpp:1527
 #, fuzzy, kde-format
 #| msgid "Search More"
 msgid "Search Match"
 msgstr "Daha Fazla Ara"
 
-#: plugin_search.cpp:1676 plugin_search.cpp:1753
+#: plugin_search.cpp:1679 plugin_search.cpp:1756
 #, kde-format
 msgid "Next from cursor"
 msgstr "İmleçten itibaren sonraki"
 
-#: plugin_search.cpp:1693
+#: plugin_search.cpp:1696
 #, kde-format
 msgid "Starting from first match"
 msgstr "İlk eşleşmeden başlıyor"
 
-#: plugin_search.cpp:1713
+#: plugin_search.cpp:1716
 #, kde-format
 msgid "Continuing from first match"
 msgstr "İlk eşleşmeden devam ediliyor"
 
-#: plugin_search.cpp:1770
+#: plugin_search.cpp:1773
 #, fuzzy, kde-format
 #| msgid "Starting from first match"
 msgid "Starting from last match"
 msgstr "İlk eşleşmeden başlıyor"
 
-#: plugin_search.cpp:1790
+#: plugin_search.cpp:1793
 #, kde-format
 msgid "Continuing from last match"
 msgstr "Son eşleşmeden devam ediliyor"
 
-#: plugin_search.cpp:2016
+#: plugin_search.cpp:2034
 #, kde-format
 msgid "Copy all"
 msgstr ""
 
-#: plugin_search.cpp:2021
+#: plugin_search.cpp:2039
 #, kde-format
 msgid "Copy expanded"
 msgstr ""
 
-#: plugin_search.cpp:2112 plugin_search.cpp:2134
+#: plugin_search.cpp:2130 plugin_search.cpp:2152
 #, kde-format
 msgid "Add..."
 msgstr "Ekle..."
 
-#: plugin_search.cpp:2183
+#: plugin_search.cpp:2201
 #, kde-format
 msgid "In Current Project"
 msgstr "Mevcut Projede"
 
-#: plugin_search.cpp:2185
+#: plugin_search.cpp:2203
 #, kde-format
 msgid "In All Open Projects"
 msgstr "Tüm Açık Projelerde"

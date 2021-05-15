@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-21 07:10+0000\n"
+"POT-Creation-Date: 2021-03-25 01:39+0000\n"
 "PO-Revision-Date: 2017-06-16 10:09+0000\n"
 "Last-Translator: Necdet <necdetyucel@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
@@ -34,17 +34,17 @@ msgctxt "Name"
 msgid "KBibTeX"
 msgstr "KBibTeX"
 
-#: src/program/org.kde.kbibtex.desktop:33
+#: src/program/org.kde.kbibtex.desktop:32
 msgctxt "Comment"
 msgid "KDE-based editor for bibliographic files"
 msgstr "Kaynakça dosyaları için KDE tabanlı düzenleyici"
 
-#: src/program/org.kde.kbibtex.desktop:61
+#: src/program/org.kde.kbibtex.desktop:60
 msgctxt "GenericName"
 msgid "BibTeX Editor"
 msgstr "BibTeX Düzenleyici"
 
-#: src/program/org.kde.kbibtex.desktop:99
+#: src/program/org.kde.kbibtex.desktop:98
 msgctxt "Keywords"
 msgid "BibTeX;bibliography;editor;LaTeX;"
 msgstr "BibTeX;kaynakça;düzenleyici;LaTeX;"

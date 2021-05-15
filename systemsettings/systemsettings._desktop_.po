@@ -305,7 +305,7 @@ msgstr "Çalışma Alanı"
 
 #: categories/settings-workspace-search.desktop:9
 msgctxt "Name"
-msgid "Search..."
+msgid "Search"
 msgstr "Arama"
 
 #: categories/settings-workspace-shortcuts.desktop:9

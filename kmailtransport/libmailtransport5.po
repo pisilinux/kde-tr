@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdepimlibs-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-27 03:09+0100\n"
+"POT-Creation-Date: 2021-04-21 12:50+0000\n"
 "PO-Revision-Date: 2017-08-17 08:32+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -247,7 +247,7 @@ msgstr ""
 msgid "The password to send to the server for authorization."
 msgstr "Parola kimlik doğrulama işlemi için sunucuya gönderildi."
 
-#: kmailtransport/plugins/smtp/smtpconfigwidget.cpp:276
+#: kmailtransport/plugins/smtp/smtpconfigwidget.cpp:272
 #, kde-format
 msgid ""
 "Failed to check capabilities. Please verify port and authentication mode."
@@ -255,7 +255,7 @@ msgstr ""
 "Yeteneklerin kontrolü başarısız oldu. Lütfen portu ve kimlik kantıtlama "
 "kipini onaylayın."
 
-#: kmailtransport/plugins/smtp/smtpconfigwidget.cpp:276
+#: kmailtransport/plugins/smtp/smtpconfigwidget.cpp:272
 #, kde-format
 msgid "Check Capabilities Failed"
 msgstr "Yeteneklerin Kontrolü Başarısız"
@@ -522,27 +522,27 @@ msgstr "Parolayı Kaydetme"
 msgid "The outgoing account \"%1\" is not correctly configured."
 msgstr "\"%1\" giden hesabı, doğru bir şekilde yapılandırılmamış."
 
-#: kmailtransport/transportmanager.cpp:227
+#: kmailtransport/transportmanager.cpp:231
 #, kde-format
 msgid "Default Transport"
 msgstr "Öntanımlı Aktarım"
 
-#: kmailtransport/transportmanager.cpp:246
+#: kmailtransport/transportmanager.cpp:250
 #, kde-format
 msgid "You must create an outgoing account before sending."
 msgstr "Göndermeden önce bir giden e-posta hesabı oluşturmalısınız."
 
-#: kmailtransport/transportmanager.cpp:247
+#: kmailtransport/transportmanager.cpp:251
 #, kde-format
 msgid "Create Account Now?"
 msgstr "Şimdi Yeni Hesap Oluşturulsun mu?"
 
-#: kmailtransport/transportmanager.cpp:248
+#: kmailtransport/transportmanager.cpp:252
 #, kde-format
 msgid "Create Account Now"
 msgstr "Şimdi Yeni Hesap Oluştur"
 
-#: kmailtransport/transportmanager.cpp:683
+#: kmailtransport/transportmanager.cpp:687
 #, kde-format
 msgid ""
 "The following mail transports store their passwords in an unencrypted "
@@ -559,17 +559,17 @@ msgstr ""
 "KDE Cüzdan Yönetim aracı KWallet içerisine taşımaya dikkat edin.\n"
 "Parolalarınızı KWallet içerisine taşımak istiyor musunuz?"
 
-#: kmailtransport/transportmanager.cpp:690
+#: kmailtransport/transportmanager.cpp:694
 #, kde-format
 msgid "Question"
 msgstr "Soru"
 
-#: kmailtransport/transportmanager.cpp:691
+#: kmailtransport/transportmanager.cpp:695
 #, kde-format
 msgid "Migrate"
 msgstr "Taşı"
 
-#: kmailtransport/transportmanager.cpp:692
+#: kmailtransport/transportmanager.cpp:696
 #, kde-format
 msgid "Keep"
 msgstr "Koru"

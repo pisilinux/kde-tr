@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-01 01:44+0000\n"
+"POT-Creation-Date: 2020-09-12 00:42+0000\n"
 "PO-Revision-Date: 2017-10-04 15:35+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
@@ -17,12 +17,12 @@ msgctxt "Name"
 msgid "Heaptrack"
 msgstr "Heaptrack"
 
-#: src/analyze/gui/org.kde.heaptrack.desktop:38
+#: src/analyze/gui/org.kde.heaptrack.desktop:39
 msgctxt "GenericName"
 msgid "Profiler Frontend"
 msgstr "Profil Önyüzü"
 
-#: src/analyze/gui/org.kde.heaptrack.desktop:64
+#: src/analyze/gui/org.kde.heaptrack.desktop:66
 msgctxt "Comment"
 msgid "Visualization of Memory Profiling Data"
 msgstr "Bellek Profilleme Verisinin Görselleştirilmesi"

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio_nfs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-14 02:39+0100\n"
+"POT-Creation-Date: 2021-05-01 00:18+0000\n"
 "PO-Revision-Date: 2014-10-23 17:40+0000\n"
 "Last-Translator: Necdet <necdetyucel@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -20,44 +20,44 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Lokalize 1.5\n"
 
-#: kio_nfs.cpp:164
+#: kio_nfs.cpp:153
 #, kde-format
 msgid "Cannot find an NFS version that host '%1' supports"
 msgstr ""
 
-#: kio_nfs.cpp:344
+#: kio_nfs.cpp:333
 #, kde-format
 msgid "The NFS protocol requires a server host name."
 msgstr ""
 
-#: kio_nfs.cpp:377
+#: kio_nfs.cpp:366
 #, kde-format
 msgid "Failed to initialise protocol"
 msgstr ""
 
-#: kio_nfs.cpp:860
+#: kio_nfs.cpp:849
 #, fuzzy, kde-format
 #| msgid "RPC error %1"
 msgid "RPC error %1, %2"
 msgstr "RPC hatası %1"
 
-#: kio_nfs.cpp:910
+#: kio_nfs.cpp:899
 #, kde-format
 msgid "Filename too long"
 msgstr "Dosya adı çok uzun"
 
-#: kio_nfs.cpp:917
+#: kio_nfs.cpp:906
 #, kde-format
 msgid "Disk quota exceeded"
 msgstr "Disk kotası aşıldı"
 
-#: kio_nfs.cpp:923
+#: kio_nfs.cpp:912
 #, fuzzy, kde-format
 #| msgid "NFS error %1 - %2"
 msgid "NFS error %1, %2"
 msgstr "NFS hatası %1 - %2"
 
-#: nfsv2.cpp:407 nfsv2.cpp:459 nfsv3.cpp:439 nfsv3.cpp:583
+#: nfsv2.cpp:394 nfsv2.cpp:446 nfsv3.cpp:426 nfsv3.cpp:570
 #, kde-format
 msgid "Unknown target"
 msgstr "Bilinmeyen hedef"

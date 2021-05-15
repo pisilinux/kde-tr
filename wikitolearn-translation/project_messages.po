@@ -1,0 +1,137 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WikiPages-en b3838de29fa8fc0bd798c67213a4c54b90491e33\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-15 19:39+0200\n"
+"PO-Revision-Date: 2017-10-23 09:37+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+
+#: .onDate
+#, fuzzy
+#| msgid "in data"
+msgid "on date"
+msgstr "Tarihinde"
+
+#: .projectbooks
+msgctxt ".projectbooks"
+msgid "Books"
+msgstr "Kitaplar"
+
+#: .downloadpdf
+msgid "Download as PDF"
+msgstr "PDF olarak indir"
+
+#: .addCourseInTopic
+msgid "Do you want to create a new course within this topic?"
+msgstr "Bu konuda yeni bir kurs oluşturmak istiyor musunuz?"
+
+#: .editchapter
+msgid "Edit chapter"
+msgstr "Bölümü düzenle"
+
+#: .readytobepublished
+msgid ""
+"This course is ready to be published! An administrator will do it as soon as "
+"possible"
+msgstr ""
+"Bu kurs yayınlanmaya hazır! Bir yönetici bunu en kısa sürede yapacaktır"
+
+#: .externalreferences
+msgid "External references"
+msgstr "Harici kaynaklar"
+
+#: .addCourseInDepartment
+msgid "Do you want to create a new topic?"
+msgstr "Yeni bir konu oluşturmak istiyor musunuz?"
+
+#: .bibliography
+msgid "Bibliography"
+msgstr "Kaynakça"
+
+#: .deleteme
+msgid "This page will be deleted as soon as possible!"
+msgstr "Bu sayfa en kısa sürede silinmiş olacaktır!"
+
+#: .exercises
+msgid "Exercises"
+msgstr "Alıştırmalar"
+
+#: .books
+msgctxt ".books"
+msgid "Books"
+msgstr "Kitaplar"
+
+#: .editmetadata
+msgid "Edit metadata"
+msgstr "Met veriyi düzenle"
+
+#: .editcourse
+msgid "Edit course"
+msgstr "Kursu düzenle"
+
+#: .clickHere
+msgid "Click here!"
+msgstr ""
+
+#: .reviewed
+msgid "Reviewed"
+msgstr ""
+
+#: .imported
+#, fuzzy
+#| msgid "Importato"
+msgid "Imported"
+msgstr "İçe aktar"
+
+#~ msgid "Modifica corso"
+#~ msgstr "Kurs değiştir"
+
+#~ msgid "Clicca qui"
+#~ msgstr "Tıklayın"
+
+#~ msgid "Riferimenti esterni"
+#~ msgstr "Dış kaynaklar"
+
+#~ msgid "Modifica capitolo"
+#~ msgstr "Bölümü düzenle"
+
+#~ msgid "Scarica come PDF"
+#~ msgstr "PDF olarak indir"
+
+#~ msgctxt ".projectbooks"
+#~ msgid "Libri"
+#~ msgstr "Kitaplar"
+
+#~ msgid "Revisionato"
+#~ msgstr "Gözden geçirilmiş"
+
+#~ msgid "Vuoi creare un nuovo corso di questo argomento?"
+#~ msgstr "Bu konuda yeni bir kurs oluşturmak ister misiniz?"
+
+#~ msgctxt ".books"
+#~ msgid "Libri"
+#~ msgstr "Kitaplar"
+
+#~ msgid "Vuoi creare un nuovo argomento?"
+#~ msgstr "Yeni bir konu oluşturmak ister misiniz?"
+
+#~ msgid "Esercizi"
+#~ msgstr "Egzersizler"
+
+#~ msgid ""
+#~ "Questo corso è pronto per essere pubblicato! Un amministratore si "
+#~ "occuperà di farlo il primo possibile."
+#~ msgstr ""
+#~ "Bu kurs yayımlanmak için hazır! Bir yönetici bunu en kısa zamanda yapmaya "
+#~ "çalışacak."
+
+#~ msgid "Questa pagina verrà eliminata al più presto!"
+#~ msgstr "Bu sayfa en kısa zamanda silinecek!"

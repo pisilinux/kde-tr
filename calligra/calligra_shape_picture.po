@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calligra-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-31 02:41+0200\n"
+"POT-Creation-Date: 2021-04-25 00:18+0000\n"
 "PO-Revision-Date: 2015-02-08 13:27+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -20,27 +20,27 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Lokalize 1.5\n"
 
-#: ChangeImageCommand.cpp:39
+#: ChangeImageCommand.cpp:26
 msgctxt "(qtundo-format)"
 msgid "Change image"
 msgstr "Resmi değiştir"
 
-#: ChangeImageCommand.cpp:56
+#: ChangeImageCommand.cpp:43
 msgctxt "(qtundo-format)"
 msgid "Crop image"
 msgstr "Resmi kırp"
 
-#: ChangeImageCommand.cpp:70
+#: ChangeImageCommand.cpp:57
 msgctxt "(qtundo-format)"
 msgid "Change image color mode"
 msgstr "Resmin renk kipini değiştir"
 
-#: ClipCommand.cpp:31
+#: ClipCommand.cpp:18
 msgctxt "(qtundo-format)"
 msgid "Contour image (by image analysis)"
 msgstr "Resmin dış hatlarını belirle (görüntü analiziyle)"
 
-#: ClipCommand.cpp:33
+#: ClipCommand.cpp:20
 msgctxt "(qtundo-format)"
 msgid "Remove image contour"
 msgstr "Resmin dış hattını sil"
@@ -105,37 +105,37 @@ msgstr "Renk kipi:"
 msgid "Crop"
 msgstr "Kes"
 
-#: PictureShapeFactory.cpp:44
+#: PictureShapeFactory.cpp:31
 #, kde-format
 msgid "Image"
 msgstr "Resim"
 
-#: PictureShapeFactory.cpp:46
+#: PictureShapeFactory.cpp:33
 #, kde-format
 msgid "Image shape that can display jpg, png etc."
 msgstr "Jpg, png gibi resim biçimlerini içeren resim şekli."
 
-#: PictureTool.cpp:108
+#: PictureTool.cpp:95
 #, kde-format
 msgid "Standard"
 msgstr "Standart"
 
-#: PictureTool.cpp:109
+#: PictureTool.cpp:96
 #, kde-format
 msgid "Greyscale"
 msgstr "Gri tonlama"
 
-#: PictureTool.cpp:110
+#: PictureTool.cpp:97
 #, kde-format
 msgid "Monochrome"
 msgstr "Tek renk"
 
-#: PictureTool.cpp:111
+#: PictureTool.cpp:98
 #, kde-format
 msgid "Watermark"
 msgstr "Filigran"
 
-#: PictureToolFactory.cpp:32
+#: PictureToolFactory.cpp:19
 #, kde-format
 msgid "Picture editing"
 msgstr "Resim düzenleme"

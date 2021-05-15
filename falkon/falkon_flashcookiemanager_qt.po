@@ -276,27 +276,27 @@ msgctxt "FCM_Notification|"
 msgid "View"
 msgstr "Görünüm"
 
-#: fcm_plugin.cpp:60
+#: fcm_plugin.cpp:59
 msgctxt "FCM_Button|"
 msgid "Flash Cookie Manager button"
 msgstr "Flash Çerezi Yönetici düğmesi"
 
-#: fcm_plugin.cpp:133 fcm_plugin.cpp:363
+#: fcm_plugin.cpp:129 fcm_plugin.cpp:359
 msgctxt "FCM_Plugin|"
 msgid "Flash Cookie Manager"
 msgstr "Flash Çerezi Yöneticisi"
 
-#: fcm_plugin.cpp:364
+#: fcm_plugin.cpp:360
 msgctxt "FCM_Plugin|"
 msgid "Show Flash Cookie Manager"
 msgstr "Flash Çerezi Yöneticisini Göster"
 
-#: fcm_plugin.cpp:445
+#: fcm_plugin.cpp:441
 msgctxt "FCM_Plugin|"
 msgid "!default"
 msgstr "!varsayılan"
 
-#: fcm_plugin.cpp:457
+#: fcm_plugin.cpp:453
 msgctxt "FCM_Plugin|"
 msgid "!other"
 msgstr "!diğer"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-21 07:10+0000\n"
+"POT-Creation-Date: 2020-11-21 01:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
@@ -22,12 +22,12 @@ msgctxt "Name"
 msgid "Kexi"
 msgstr ""
 
-#: src/data/org.kde.kexi.desktop:38
+#: src/data/org.kde.kexi.desktop:37
 msgctxt "GenericName"
 msgid "Visual database apps builder"
 msgstr ""
 
-#: src/data/org.kde.kexi.desktop:63
+#: src/data/org.kde.kexi.desktop:62
 msgctxt "Comment"
 msgid "Visually develop database applications"
 msgstr ""

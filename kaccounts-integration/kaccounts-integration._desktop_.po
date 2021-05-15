@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-12 01:49+0000\n"
+"POT-Creation-Date: 2021-04-27 00:26+0000\n"
 "PO-Revision-Date: 2017-04-13 14:46+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -19,12 +19,12 @@ msgctxt "Name"
 msgid "Online Accounts"
 msgstr "Çevrimiçi Hesaplar"
 
-#: src/kcm/kcm_kaccounts.desktop:55
+#: src/kcm/kcm_kaccounts.desktop:56
 msgctxt "Comment"
 msgid "Configure your internet accounts such as Google, Live, Owncloud"
 msgstr "Google, Live, ownCloud benzeri internet hesaplarınızı yapılandırın"
 
-#: src/kcm/kcm_kaccounts.desktop:97
+#: src/kcm/kcm_kaccounts.desktop:99
 msgctxt "X-KDE-Keywords"
 msgid "Network,Google,Live,ownCloud"
 msgstr "Ağ,Google,Live,ownCloud"
@@ -34,7 +34,7 @@ msgctxt "Name"
 msgid "Accounts"
 msgstr "Hesaplar"
 
-#: src/kcm/package/metadata.desktop:43
+#: src/kcm/package/metadata.desktop:44
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Online Accounts"

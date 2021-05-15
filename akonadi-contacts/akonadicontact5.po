@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdepimlibs-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-16 02:37+0100\n"
+"POT-Creation-Date: 2021-05-02 00:18+0000\n"
 "PO-Revision-Date: 2017-10-23 09:19+0000\n"
 "Last-Translator: İşbaran <isbaran@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -565,14 +565,14 @@ msgctxt "Wife/Husband/..."
 msgid "Partner's Name"
 msgstr "Arkadaşının Adı"
 
-#: akonadi-contacts/grantlee/grantleecontactformatter.cpp:188
+#: akonadi-contacts/grantlee/grantleecontactformatter.cpp:189
 #: akonadi-contacts/standardcontactformatter.cpp:242
 #, kde-format
 msgctxt "Boolean value"
 msgid "yes"
 msgstr "evet"
 
-#: akonadi-contacts/grantlee/grantleecontactformatter.cpp:190
+#: akonadi-contacts/grantlee/grantleecontactformatter.cpp:191
 #: akonadi-contacts/standardcontactformatter.cpp:244
 #, kde-format
 msgctxt "Boolean value"
@@ -604,8 +604,8 @@ msgid ""
 "address book."
 msgstr ""
 
-#: akonadi-contacts/job/addemailaddressjob.cpp:121
-#: akonadi-contacts/job/addemaildisplayjob.cpp:162
+#: akonadi-contacts/job/addemailaddressjob.cpp:120
+#: akonadi-contacts/job/addemaildisplayjob.cpp:161
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -613,8 +613,8 @@ msgid ""
 "create an address book?"
 msgstr ""
 
-#: akonadi-contacts/job/addemailaddressjob.cpp:122
-#: akonadi-contacts/job/addemaildisplayjob.cpp:163
+#: akonadi-contacts/job/addemailaddressjob.cpp:121
+#: akonadi-contacts/job/addemaildisplayjob.cpp:162
 #, fuzzy, kde-format
 #| msgctxt "@title:window"
 #| msgid "New Address Book Folder"
@@ -622,15 +622,15 @@ msgctxt "@title:window"
 msgid "No Address Book Available"
 msgstr "Yeni Adres Defteri Klasörü"
 
-#: akonadi-contacts/job/addemailaddressjob.cpp:125
-#: akonadi-contacts/job/addemaildisplayjob.cpp:166
+#: akonadi-contacts/job/addemailaddressjob.cpp:124
+#: akonadi-contacts/job/addemaildisplayjob.cpp:165
 #: akonadi-contacts/standardcontactactionmanager.cpp:193
 #, kde-format
 msgctxt "@title:window"
 msgid "Add Address Book"
 msgstr "Adres Defteri Ekle"
 
-#: akonadi-contacts/job/addemailaddressjob.cpp:214
+#: akonadi-contacts/job/addemailaddressjob.cpp:213
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -638,19 +638,19 @@ msgid ""
 "para><para>Do you want to edit this new contact now?</para>"
 msgstr ""
 
-#: akonadi-contacts/job/addemailaddressjob.cpp:239
+#: akonadi-contacts/job/addemailaddressjob.cpp:238
 #: akonadi-contacts/standardcontactactionmanager.cpp:468
 #, kde-format
 msgid "Contact cannot be stored: %1"
 msgstr "Kişi kaydedilemiyor: %1"
 
-#: akonadi-contacts/job/addemailaddressjob.cpp:239
+#: akonadi-contacts/job/addemailaddressjob.cpp:238
 #: akonadi-contacts/standardcontactactionmanager.cpp:468
 #, kde-format
 msgid "Failed to store contact"
 msgstr "Kişi kaydetme başarısız"
 
-#: akonadi-contacts/job/addemailaddressjob.cpp:246
+#: akonadi-contacts/job/addemailaddressjob.cpp:245
 #, kde-format
 msgid "Contact created successfully"
 msgstr ""
@@ -1122,66 +1122,66 @@ msgid "<p style=\"color: white;\"><b>Waiting for operation</b><br/></p>"
 msgstr "<p style=\"color: white;\"><b>İşlem bekleniyor</b><br/></p>"
 
 #: contact-editor/editor/addresseditor/addresseslocationwidget.cpp:64
-#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:136
+#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:129
 #, kde-format
 msgid "Remove Address"
 msgstr "Adresi Kaldır"
 
 #: contact-editor/editor/addresseditor/addresseslocationwidget.cpp:67
-#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:297
+#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:292
 #, fuzzy, kde-format
 #| msgid "Do you really want to delete this address book?"
 #| msgid_plural "Do you really want to delete %1 address books?"
 msgid "Do you really want to delete this address?"
 msgstr "Bu adres defterini silmek istediğinizden emin misiniz?"
 
-#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:52
+#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:45
 #, kde-format
 msgid "Add Street"
 msgstr "Sokak Ekle"
 
-#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:63
+#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:56
 #, kde-format
 msgid "Add Post Office Box"
 msgstr "Posta Kutusu Ekle"
 
-#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:73
+#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:66
 #, kde-format
 msgid "Add Postal Code"
 msgstr "Posta Kodu Ekle"
 
-#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:83
+#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:76
 #, kde-format
 msgid "Add Locality"
 msgstr "Yeri Ekle"
 
-#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:93
+#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:86
 #, kde-format
 msgid "Add Region"
 msgstr "Bölge Ekle"
 
-#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:108
+#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:101
 #, kde-format
 msgid "Add a Country"
 msgstr "Ülke Ekle"
 
-#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:113
+#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:106
 #, kde-format
 msgctxt "street/postal"
 msgid "This is the preferred address"
 msgstr "Bu tercih edilen adrestir"
 
-#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:124
+#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:117
 #, kde-format
 msgid "Add Address"
 msgstr "Adres Ekle"
 
-#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:141
+#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:134
 #, kde-format
 msgid "Update Address"
 msgstr "Adresi Güncelle"
 
-#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:146
+#: contact-editor/editor/addresseditor/addresslocationwidget.cpp:139
 #, kde-format
 msgid "Cancel"
 msgstr "İptal Et"

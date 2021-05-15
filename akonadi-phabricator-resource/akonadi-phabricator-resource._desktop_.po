@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-24 01:44+0000\n"
+"PO-Revision-Date: 2017-06-29 08:50+0000\n"
+"Last-Translator: Mete <metebilgin48@gmail.com>\n"
+"Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: akonadi_phabricator_resource.desktop:3
+msgctxt "Name"
+msgid "Phabricator Resource"
+msgstr "Phabricator Kaynağı"
+
+#: akonadi_phabricator_resource.desktop:38
+msgctxt "Comment"
+msgid "Show tasks from Maniphest and other Phabricator applications"
+msgstr "Maniphest ve diğer Phabricator uygulamaları üzerinden görevleri göster"

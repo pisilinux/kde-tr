@@ -1,0 +1,435 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-01-09 02:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kstars/kstars.notifyrc:4
+msgctxt "Comment"
+msgid "KStars"
+msgstr ""
+
+#: kstars/kstars.notifyrc:35
+msgctxt "Name"
+msgid "Focus started"
+msgstr ""
+
+#: kstars/kstars.notifyrc:60
+msgctxt "Comment"
+msgid "Autofocus operation started"
+msgstr ""
+
+#: kstars/kstars.notifyrc:86
+msgctxt "Name"
+msgid "Autofocus Success"
+msgstr ""
+
+#: kstars/kstars.notifyrc:111
+msgctxt "Comment"
+msgid "Autofocus operation completed successfully"
+msgstr ""
+
+#: kstars/kstars.notifyrc:139
+msgctxt "Name"
+msgid "Autofocus Failure"
+msgstr ""
+
+#: kstars/kstars.notifyrc:164
+msgctxt "Comment"
+msgid "Autofocus operation failed with errors"
+msgstr ""
+
+#: kstars/kstars.notifyrc:192
+msgctxt "Name"
+msgid "Alignment Success"
+msgstr ""
+
+#: kstars/kstars.notifyrc:217
+msgctxt "Comment"
+msgid "Astrometry alignment completed successfully"
+msgstr ""
+
+#: kstars/kstars.notifyrc:245
+msgctxt "Name"
+msgid "Alignment Failure"
+msgstr ""
+
+#: kstars/kstars.notifyrc:271
+msgctxt "Comment"
+msgid "Astrometry alignment failed with errors"
+msgstr ""
+
+#: kstars/kstars.notifyrc:299
+msgctxt "Name"
+msgid "Calibration Success"
+msgstr ""
+
+#: kstars/kstars.notifyrc:327
+msgctxt "Comment"
+msgid "Guiding calibration completed successfully"
+msgstr ""
+
+#: kstars/kstars.notifyrc:355
+msgctxt "Name"
+msgid "Calibration Failure"
+msgstr ""
+
+#: kstars/kstars.notifyrc:382
+msgctxt "Comment"
+msgid "Guiding calibration failed with errors"
+msgstr ""
+
+#: kstars/kstars.notifyrc:409
+msgctxt "Name"
+msgid "Guiding Failure"
+msgstr ""
+
+#: kstars/kstars.notifyrc:434
+msgctxt "Comment"
+msgid "Autoguiding failed with errors"
+msgstr ""
+
+#: kstars/kstars.notifyrc:462
+msgctxt "Name"
+msgid "Capture Success"
+msgstr ""
+
+#: kstars/kstars.notifyrc:486
+msgctxt "Comment"
+msgid "CCD Capture completed successfully"
+msgstr ""
+
+#: kstars/kstars.notifyrc:513
+msgctxt "Name"
+msgid "Capture Failure"
+msgstr ""
+
+#: kstars/kstars.notifyrc:538
+msgctxt "Comment"
+msgid "CCD capture failed with errors"
+msgstr ""
+
+#: kstars/kstars.notifyrc:566
+msgctxt "Name"
+msgid "FITS Received"
+msgstr ""
+
+#: kstars/kstars.notifyrc:591
+msgctxt "Comment"
+msgid "FITS file is received"
+msgstr ""
+
+#: kstars/kstars.notifyrc:619
+msgctxt "Name"
+msgid "Weather Warning"
+msgstr ""
+
+#: kstars/kstars.notifyrc:645
+msgctxt "Comment"
+msgid "Weather conditions in warning zone"
+msgstr ""
+
+#: kstars/kstars.notifyrc:672
+msgctxt "Name"
+msgid "Weather Alert"
+msgstr ""
+
+#: kstars/kstars.notifyrc:698
+msgctxt "Comment"
+msgid "Weather conditions are critical. Observatory shutdown is imminent"
+msgstr ""
+
+#: kstars/kstars.notifyrc:725
+msgctxt "Name"
+msgid "Observatory Startup"
+msgstr ""
+
+#: kstars/kstars.notifyrc:750
+msgctxt "Comment"
+msgid "Observatory is in the startup process"
+msgstr ""
+
+#: kstars/kstars.notifyrc:776
+msgctxt "Name"
+msgid "Observatory Shutdown"
+msgstr ""
+
+#: kstars/kstars.notifyrc:801
+msgctxt "Comment"
+msgid "Observatory is in the shutdown process"
+msgstr ""
+
+#: kstars/kstars.notifyrc:828
+msgctxt "Name"
+msgid "Scheduler Aborted"
+msgstr ""
+
+#: kstars/kstars.notifyrc:853
+msgctxt "Name"
+msgid "Slew Started"
+msgstr ""
+
+#: kstars/kstars.notifyrc:874
+msgctxt "Comment"
+msgid "Mount is slewing to target location"
+msgstr ""
+
+#: kstars/kstars.notifyrc:897
+msgctxt "Name"
+msgid "Slew Completed"
+msgstr ""
+
+#: kstars/kstars.notifyrc:918
+msgctxt "Comment"
+msgid "Mount arrived at target location"
+msgstr ""
+
+#: kstars/kstars.notifyrc:942
+msgctxt "Name"
+msgid "Mount Aborted"
+msgstr ""
+
+#: kstars/kstars.notifyrc:963
+msgctxt "Comment"
+msgid "Mount motion was aborted"
+msgstr ""
+
+#: kstars/kstars.notifyrc:986
+msgctxt "Name"
+msgid "Mount Parking"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1007
+msgctxt "Comment"
+msgid "Mount parking is in progress"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1030
+msgctxt "Name"
+msgid "Parking Mount Completed"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1051
+msgctxt "Comment"
+msgid "Mount parked"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1074
+msgctxt "Name"
+msgid "Mount parking failed"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1095
+msgctxt "Comment"
+msgid "Mount parking failed"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1118
+msgctxt "Name"
+msgid "Mount unparked"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1138
+msgctxt "Comment"
+msgid "Mount unparked"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1160
+msgctxt "Name"
+msgid "Dome Parking"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1180
+msgctxt "Comment"
+msgid "Parking dome is in progress"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1202
+msgctxt "Name"
+msgid "Dome Parked"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1222
+msgctxt "Comment"
+msgid "Parking dome is complete"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1244
+msgctxt "Name"
+msgid "Dome Unparking"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1264
+msgctxt "Comment"
+msgid "Unparking dome is in progress"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1286
+msgctxt "Name"
+msgid "Dome unparked"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1306
+msgctxt "Comment"
+msgid "Unparking dome is complete"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1328
+msgctxt "Name"
+msgid "Filter Wheel Changed"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1351
+msgctxt "Name"
+msgid "Video Recording Started"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1376
+msgctxt "Name"
+msgid "Video Recording Stopped"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1401
+msgctxt "Name"
+msgid "Meridian Flip Started"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1423
+msgctxt "Name"
+msgid "Meridian Flip Completed"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1445
+msgctxt "Name"
+msgid "Meridian Flip Failed"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1467
+msgctxt "Name"
+msgid "Motion Started"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1489
+msgctxt "Comment"
+msgid "Mount manual motion started"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1512
+msgctxt "Name"
+msgid "Motion Completed"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1534
+msgctxt "Comment"
+msgid "Mount manual motion completed"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1556
+msgctxt "Name"
+msgid "INDI Server Message"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1579
+msgctxt "Comment"
+msgid "INDI Server Message (it must be enabled in INDI section of Settings)"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1603
+msgctxt "Name"
+msgid "Scheduled Ekos job started"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1625
+msgctxt "Comment"
+msgid "A scheduled Ekos job is started"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1649
+msgctxt "Name"
+msgid "Scheduled Ekos job failed"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1671
+msgctxt "Comment"
+msgid "A scheduled Ekos job is failed"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1695
+msgctxt "Name"
+msgid "Imaging in scheduled Ekos job started"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1714
+msgctxt "Comment"
+msgid "An image sequence capture is started in a scheduled Ekos job"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1735
+msgctxt "Name"
+msgid "Imaging in scheduled Ekos job finished"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1754
+msgctxt "Comment"
+msgid "An image sequence capture is finished in a scheduled Ekos job"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1775
+msgctxt "Name"
+msgid "Telescope is synced in a scheduled Ekos job"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1795
+msgctxt "Comment"
+msgid ""
+"The telescope is synced before tracking a new target in a scheduled Ekos job"
+msgstr ""
+
+#: kstars/kstars.notifyrc:1817
+msgctxt "Name"
+msgid "Captured image received"
+msgstr ""
+
+#: kstars/org.kde.kstars.desktop:8 snap/gui/org.kde.kstars.desktop:7
+msgctxt "Comment"
+msgid "Desktop Planetarium"
+msgstr ""
+
+#: kstars/org.kde.kstars.desktop:79 snap/gui/org.kde.kstars.desktop:78
+msgctxt "Name"
+msgid "KStars"
+msgstr ""
+
+#: kstars/org.kde.kstars.desktop:148 snap/gui/org.kde.kstars.desktop:147
+msgctxt "GenericName"
+msgid "Desktop Planetarium"
+msgstr ""
+
+#: org.kde.kf5auth.kstars.actions:2
+msgctxt "Name"
+msgid "Save Astrometry Index File to a write protected directory"
+msgstr ""
+
+#: org.kde.kf5auth.kstars.actions:24
+msgctxt "Description"
+msgid ""
+"KStars is attempting to save an Astrometry Index File to a directory owned "
+"by root"
+msgstr ""
+
+#: org.kde.kf5auth.kstars.actions:50
+msgctxt "Name"
+msgid "Remove an Astrometry Index File Set"
+msgstr ""
+
+#: org.kde.kf5auth.kstars.actions:72
+msgctxt "Description"
+msgid "KStars is attempting to remove Astrometry Index Files owned by root"
+msgstr ""

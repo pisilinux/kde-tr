@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-22 06:40+0000\n"
+"POT-Creation-Date: 2021-03-26 01:37+0000\n"
 "PO-Revision-Date: 2015-06-22 14:34+0000\n"
 "Last-Translator: Necdet <necdetyucel@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
@@ -17,7 +17,7 @@ msgctxt "Name"
 msgid "GCompris"
 msgstr "GCompris"
 
-#: org.kde.gcompris.desktop:41 platforms/ubuntutouch/gcompris.desktop:41
+#: org.kde.gcompris.desktop:42 platforms/ubuntutouch/gcompris.desktop:42
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Educational game"
@@ -25,9 +25,9 @@ msgctxt "GenericName"
 msgid "Educational Game for Children"
 msgstr "Eğitici oyun"
 
-#: org.kde.gcompris.desktop:75
-#: platforms/sailfishOS/harbour-gcompris-qt.desktop:81
-#: platforms/ubuntutouch/gcompris.desktop:75
+#: org.kde.gcompris.desktop:77
+#: platforms/sailfishOS/harbour-gcompris-qt.desktop:89
+#: platforms/ubuntutouch/gcompris.desktop:77
 msgctxt "Comment"
 msgid "Multi-Activity Educational game for children 2 to 10"
 msgstr "2-10 yaş arası çocuklar için Çoklu Etkileşimli Eğitici oyun"
@@ -37,7 +37,7 @@ msgctxt "Name"
 msgid "GCompris Educational Game"
 msgstr "GCompris Eğitici Oyun"
 
-#: platforms/sailfishOS/harbour-gcompris-qt.desktop:41
+#: platforms/sailfishOS/harbour-gcompris-qt.desktop:45
 msgctxt "GenericName"
 msgid "Educational game"
 msgstr "Eğitici oyun"

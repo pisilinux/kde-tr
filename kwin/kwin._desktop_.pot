@@ -1,0 +1,740 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-13 00:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/effects/blur/blur_config.desktop:8
+msgctxt "Name"
+msgid "Blur"
+msgstr ""
+
+#: src/effects/coverswitch/coverswitch_config.desktop:8
+msgctxt "Name"
+msgid "Cover Switch"
+msgstr ""
+
+#: src/effects/cube/cube_config.desktop:8
+msgctxt "Name"
+msgid "Desktop Cube"
+msgstr ""
+
+#: src/effects/cubeslide/cubeslide_config.desktop:8
+msgctxt "Name"
+msgid "Desktop Cube Animation"
+msgstr ""
+
+#: src/effects/desktopgrid/desktopgrid_config.desktop:8
+msgctxt "Name"
+msgid "Desktop Grid"
+msgstr ""
+
+#: src/effects/dialogparent/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Dialog Parent"
+msgstr ""
+
+#: src/effects/dialogparent/package/metadata.desktop:78
+msgctxt "Comment"
+msgid "Darkens the parent window of the currently active dialog"
+msgstr ""
+
+#: src/effects/diminactive/diminactive_config.desktop:8
+msgctxt "Name"
+msgid "Dim Inactive"
+msgstr ""
+
+#: src/effects/dimscreen/package/metadata.desktop:2
+msgctxt "Comment"
+msgid "Darkens the entire screen when requesting root privileges"
+msgstr ""
+
+#: src/effects/dimscreen/package/metadata.desktop:66
+msgctxt "Name"
+msgid "Dim Screen for Administrator Mode"
+msgstr ""
+
+#: src/effects/eyeonscreen/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Eye on Screen"
+msgstr ""
+
+#: src/effects/eyeonscreen/package/metadata.desktop:34
+msgctxt "Comment"
+msgid "Suck windows into the desktop"
+msgstr ""
+
+#: src/effects/fadedesktop/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Fade Desktop"
+msgstr ""
+
+#: src/effects/fadedesktop/package/metadata.desktop:70
+msgctxt "Comment"
+msgid "Fade between virtual desktops when switching between them"
+msgstr ""
+
+#: src/effects/fade/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Fade"
+msgstr ""
+
+#: src/effects/fade/package/metadata.desktop:82
+msgctxt "Comment"
+msgid "Make windows smoothly fade in and out when they are shown or hidden"
+msgstr ""
+
+#: src/effects/fadingpopups/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Fading Popups"
+msgstr ""
+
+#: src/effects/fadingpopups/package/metadata.desktop:37
+msgctxt "Comment"
+msgid "Make popups smoothly fade in and out when they are shown or hidden"
+msgstr ""
+
+#: src/effects/flipswitch/flipswitch_config.desktop:8
+msgctxt "Name"
+msgid "Flip Switch"
+msgstr ""
+
+#: src/effects/frozenapp/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Desaturate Unresponsive Applications"
+msgstr ""
+
+#: src/effects/frozenapp/package/metadata.desktop:43
+msgctxt "Comment"
+msgid "Desaturate windows of unresponsive (frozen) applications"
+msgstr ""
+
+#: src/effects/fullscreen/package/metadata.desktop:2
+msgctxt "Comment"
+msgid "Animation for a window going to and leaving full screen mode"
+msgstr ""
+
+#: src/effects/fullscreen/package/metadata.desktop:31
+msgctxt "Name"
+msgid "Full Screen"
+msgstr ""
+
+#: src/effects/glide/glide_config.desktop:8
+msgctxt "Name"
+msgid "Glide"
+msgstr ""
+
+#: src/effects/invert/invert_config.desktop:8
+msgctxt "Name"
+msgid "Invert"
+msgstr ""
+
+#: src/effects/kwineffect.desktop:5
+msgctxt "Comment"
+msgid "KWin Effect"
+msgstr ""
+
+#: src/effects/login/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Login"
+msgstr ""
+
+#: src/effects/login/package/metadata.desktop:90
+msgctxt "Comment"
+msgid "Smoothly fade to the desktop when logging in"
+msgstr ""
+
+#: src/effects/logout/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Logout"
+msgstr ""
+
+#: src/effects/logout/package/metadata.desktop:40
+msgctxt "Comment"
+msgid "Smoothly fade to the logout screen"
+msgstr ""
+
+#: src/effects/lookingglass/lookingglass_config.desktop:8
+msgctxt "Name"
+msgid "Looking Glass"
+msgstr ""
+
+#: src/effects/magiclamp/magiclamp_config.desktop:8
+msgctxt "Name"
+msgid "Magic Lamp"
+msgstr ""
+
+#: src/effects/magnifier/magnifier_config.desktop:8
+msgctxt "Name"
+msgid "Magnifier"
+msgstr ""
+
+#: src/effects/maximize/package/metadata.desktop:2
+msgctxt "Comment"
+msgid "Animation for a window going to maximize/restore from maximize"
+msgstr ""
+
+#: src/effects/maximize/package/metadata.desktop:50
+msgctxt "Name"
+msgid "Maximize"
+msgstr ""
+
+#: src/effects/morphingpopups/package/metadata.desktop:2
+msgctxt "Comment"
+msgid ""
+"Cross fade animation when Tooltips or Notifications change their geometry"
+msgstr ""
+
+#: src/effects/morphingpopups/package/metadata.desktop:41
+msgctxt "Name"
+msgid "Morphing popups"
+msgstr ""
+
+#: src/effects/mouseclick/mouseclick_config.desktop:8
+msgctxt "Name"
+msgid "Mouse Click Animation"
+msgstr ""
+
+#: src/effects/mousemark/mousemark_config.desktop:8
+msgctxt "Name"
+msgid "Mouse Mark"
+msgstr ""
+
+#: src/effects/presentwindows/presentwindows_config.desktop:8
+msgctxt "Name"
+msgid "Present Windows"
+msgstr ""
+
+#: src/effects/resize/resize_config.desktop:8
+msgctxt "Name"
+msgid "Resize Window"
+msgstr ""
+
+#: src/effects/scale/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Scale"
+msgstr ""
+
+#: src/effects/scale/package/metadata.desktop:38
+msgctxt "Comment"
+msgid "Make windows smoothly scale in and out when they are shown or hidden"
+msgstr ""
+
+#: src/effects/sessionquit/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Session Quit"
+msgstr ""
+
+#: src/effects/sessionquit/package/metadata.desktop:35
+msgctxt "Comment"
+msgid "Keep the desktop background alive during logout until the end"
+msgstr ""
+
+#: src/effects/showfps/showfps_config.desktop:8
+msgctxt "Name"
+msgid "Show FPS"
+msgstr ""
+
+#: src/effects/showpaint/showpaint_config.desktop:8
+msgctxt "Name"
+msgid "Show Paint"
+msgstr ""
+
+#: src/effects/slide/slide_config.desktop:8
+msgctxt "Name"
+msgid "Slide"
+msgstr ""
+
+#: src/effects/squash/package/metadata.desktop:2
+msgctxt "Comment"
+msgid "Squash windows when they are minimized"
+msgstr ""
+
+#: src/effects/squash/package/metadata.desktop:35
+msgctxt "Name"
+msgid "Squash"
+msgstr ""
+
+#: src/effects/thumbnailaside/thumbnailaside_config.desktop:8
+msgctxt "Name"
+msgid "Thumbnail Aside"
+msgstr ""
+
+#: src/effects/trackmouse/trackmouse_config.desktop:8
+msgctxt "Name"
+msgid "Track Mouse"
+msgstr ""
+
+#: src/effects/translucency/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Translucency"
+msgstr ""
+
+#: src/effects/translucency/package/metadata.desktop:85
+msgctxt "Comment"
+msgid "Make windows translucent under different conditions"
+msgstr ""
+
+#: src/effects/windowaperture/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Window Aperture"
+msgstr ""
+
+#: src/effects/windowaperture/package/metadata.desktop:45
+msgctxt "Comment"
+msgid "Move windows into screen corners"
+msgstr ""
+
+#: src/effects/windowgeometry/windowgeometry_config.desktop:8
+msgctxt "Name"
+msgid "WindowGeometry"
+msgstr ""
+
+#: src/effects/wobblywindows/wobblywindows_config.desktop:8
+msgctxt "Name"
+msgid "Wobbly Windows"
+msgstr ""
+
+#: src/effects/zoom/zoom_config.desktop:8
+msgctxt "Name"
+msgid "Zoom"
+msgstr ""
+
+#: src/kcmkwin/kwincompositing/kwincompositing.desktop:13
+msgctxt "Name"
+msgid "Compositor"
+msgstr ""
+
+#: src/kcmkwin/kwincompositing/kwincompositing.desktop:60
+msgctxt "Comment"
+msgid "Compositor Settings for Desktop Effects"
+msgstr ""
+
+#: src/kcmkwin/kwincompositing/kwincompositing.desktop:107
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,compositing,effect,3D effects,2D effects,OpenGL,XRender,"
+"video settings,graphical effects,desktop effects"
+msgstr ""
+
+#: src/kcmkwin/kwindecoration/kwindecoration.desktop:15
+#: src/kcmkwin/kwindecoration/package/metadata.desktop:18
+msgctxt "Name"
+msgid "Window Decorations"
+msgstr ""
+
+#: src/kcmkwin/kwindecoration/kwindecoration.desktop:77
+#: src/kcmkwin/kwindecoration/package/metadata.desktop:79
+msgctxt "Comment"
+msgid "Configure window titlebars and borders"
+msgstr ""
+
+#: src/kcmkwin/kwindecoration/kwindecoration.desktop:110
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,border,style,theme,look,feel,layout,button,handle,edge,"
+"kwm,decoration"
+msgstr ""
+
+#: src/kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:14
+#: src/kcmkwin/kwindesktop/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Virtual Desktops"
+msgstr ""
+
+#: src/kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:78
+#: src/kcmkwin/kwindesktop/package/metadata.desktop:66
+msgctxt "Comment"
+msgid "Configure navigation, number and layout of virtual desktops"
+msgstr ""
+
+#: src/kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:109
+msgctxt "X-KDE-Keywords"
+msgid ""
+"desktop,desktops,number,virtual desktop,multiple desktops,pager,pager widget,"
+"pager applet,pager settings"
+msgstr ""
+
+#: src/kcmkwin/kwineffects/kcm_kwin_effects.desktop:16
+#: src/kcmkwin/kwineffects/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Desktop Effects"
+msgstr ""
+
+#: src/kcmkwin/kwineffects/kcm_kwin_effects.desktop:64
+msgctxt "Comment"
+msgid "Configure compositor settings for desktop effects"
+msgstr ""
+
+#: src/kcmkwin/kwineffects/kcm_kwin_effects.desktop:97
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,effect,3D effects,2D effects,graphical effects,desktop "
+"effects,animations,various animations,window management effects,window "
+"switching effect,desktop switching effect,animations,desktop animations,"
+"drivers,driver settings,rendering,render,invert effect,looking glass effect,"
+"magnifier effect,snap helper effect,track mouse effect,zoom effect,blur "
+"effect,fade effect,fade desktop effect,fall apart effect,glide effect,"
+"highlight window effect,login effect,logout effect,magic lamp effect,"
+"minimize animation effect,mouse mark effect,scale effect,screenshot effect,"
+"sheet effect,slide effect,sliding popups effect,thumbnail aside effect,"
+"translucency,translucency effect,transparency,window geometry effect,wobbly "
+"windows effect,startup feedback effect,dialog parent effect,dim inactive "
+"effect,dim screen effect,slide back effect,eye candy,candy,show FPS effect,"
+"show paint effect,cover switch effect,desktop cube effect,desktop cube "
+"animation effect,desktop grid effect,flip switch effect,present windows "
+"effect,resize window effect,background contrast effect"
+msgstr ""
+
+#: src/kcmkwin/kwineffects/kwineffect.knsrc:2
+msgctxt "Name"
+msgid "Window Manager Effects"
+msgstr ""
+
+#: src/kcmkwin/kwineffects/package/metadata.desktop:51
+msgctxt "Comment"
+msgid "Desktop Effects"
+msgstr ""
+
+#: src/kcmkwin/kwinoptions/kwinactions.desktop:11
+msgctxt "Name"
+msgid "Window Actions"
+msgstr ""
+
+#: src/kcmkwin/kwinoptions/kwinactions.desktop:44
+msgctxt "Comment"
+msgid "Configure mouse actions for windows and titlebars"
+msgstr ""
+
+#: src/kcmkwin/kwinoptions/kwinactions.desktop:77
+msgctxt "X-KDE-Keywords"
+msgid ""
+"shade,maximise,maximize,minimize,minimise,lower,operations menu,titlebar,"
+"resize"
+msgstr ""
+
+#: src/kcmkwin/kwinoptions/kwinadvanced.desktop:10
+msgctxt "Name"
+msgid "Advanced Window Behavior"
+msgstr ""
+
+#: src/kcmkwin/kwinoptions/kwinadvanced.desktop:43
+msgctxt "Comment"
+msgid "Configure advanced window management options"
+msgstr ""
+
+#: src/kcmkwin/kwinoptions/kwinadvanced.desktop:76
+msgctxt "X-KDE-Keywords"
+msgid ""
+"unshade,unshading,shade,shading,border,hover,active borders,tiling,tabs,"
+"tabbing,window,window tabbing,window grouping,window tiling,placement,window "
+"placement,placement of windows,window advanced behavior"
+msgstr ""
+
+#: src/kcmkwin/kwinoptions/kwinfocus.desktop:10
+msgctxt "Name"
+msgid "Window Focus Behavior"
+msgstr ""
+
+#: src/kcmkwin/kwinoptions/kwinfocus.desktop:44
+msgctxt "Comment"
+msgid "Configure window activation policy"
+msgstr ""
+
+#: src/kcmkwin/kwinoptions/kwinfocus.desktop:78
+msgctxt "X-KDE-Keywords"
+msgid ""
+"focus,auto raise,raise,click raise,keyboard,CDE,alt-tab,all desktop,focus "
+"follows mouse,focus prevention,focus stealing,focus policy,window focus "
+"behavior,window screen behavior"
+msgstr ""
+
+#: src/kcmkwin/kwinoptions/kwinmoving.desktop:11
+msgctxt "Name"
+msgid "Window Movement"
+msgstr ""
+
+#: src/kcmkwin/kwinoptions/kwinmoving.desktop:44
+msgctxt "Comment"
+msgid "Configure window movement options"
+msgstr ""
+
+#: src/kcmkwin/kwinoptions/kwinmoving.desktop:77
+msgctxt "X-KDE-Keywords"
+msgid "moving,smart,cascade,maximize,maximise,snap zone,snap,border"
+msgstr ""
+
+#: src/kcmkwin/kwinoptions/kwinoptions.desktop:14
+msgctxt "Name"
+msgid "Window Behavior"
+msgstr ""
+
+#: src/kcmkwin/kwinoptions/kwinoptions.desktop:102
+msgctxt "Comment"
+msgid "Configure window actions and behavior"
+msgstr ""
+
+#: src/kcmkwin/kwinoptions/kwinoptions.desktop:135
+msgctxt "X-KDE-Keywords"
+msgid ""
+"focus,placement,window behavior,window actions,animation,raise,auto raise,"
+"windows,frame,titlebar,doubleclick"
+msgstr ""
+
+#: src/kcmkwin/kwinrules/kcm_kwinrules.desktop:14
+#: src/kcmkwin/kwinrules/package/metadata.desktop:18
+msgctxt "Name"
+msgid "Window Rules"
+msgstr ""
+
+#: src/kcmkwin/kwinrules/kcm_kwinrules.desktop:77
+#: src/kcmkwin/kwinrules/package/metadata.desktop:80
+msgctxt "Comment"
+msgid "Individual Window Behavior"
+msgstr ""
+
+#: src/kcmkwin/kwinrules/kcm_kwinrules.desktop:124
+msgctxt "X-KDE-Keywords"
+msgid ""
+"size,position,state,window behavior,windows,specific,workarounds,remember,"
+"rules"
+msgstr ""
+
+#: src/kcmkwin/kwinscreenedges/kwinscreenedges.desktop:13
+msgctxt "Name"
+msgid "Screen Edges"
+msgstr ""
+
+#: src/kcmkwin/kwinscreenedges/kwinscreenedges.desktop:83
+msgctxt "Comment"
+msgid "Configure active screen corners and edges"
+msgstr ""
+
+#: src/kcmkwin/kwinscreenedges/kwinscreenedges.desktop:116
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,effect,corner,edge,border,action,switch,desktop,kwin "
+"screen edges,desktop edges,screen edges,maximize windows,tile windows,side "
+"of screen,screen behavior,switch desktop,virtual desktop,screen corners"
+msgstr ""
+
+#: src/kcmkwin/kwinscreenedges/kwintouchscreen.desktop:13
+msgctxt "Name"
+msgid "Touch Screen"
+msgstr ""
+
+#: src/kcmkwin/kwinscreenedges/kwintouchscreen.desktop:56
+msgctxt "Comment"
+msgid "Configure touch screen swipe gestures"
+msgstr ""
+
+#: src/kcmkwin/kwinscreenedges/kwintouchscreen.desktop:89
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,effect,edge,border,action,switch,desktop,desktop edges,"
+"screen edges,side of screen,screen behavior,touch screen"
+msgstr ""
+
+#: src/kcmkwin/kwinscripts/kwinscripts.desktop:9
+msgctxt "X-KDE-Keywords"
+msgid "kwin script"
+msgstr ""
+
+#: src/kcmkwin/kwinscripts/kwinscripts.desktop:62
+msgctxt "Name"
+msgid "KWin Scripts"
+msgstr ""
+
+#: src/kcmkwin/kwinscripts/kwinscripts.desktop:113
+msgctxt "Comment"
+msgid "Manage KWin scripts"
+msgstr ""
+
+#: src/kcmkwin/kwinscripts/kwinscripts.knsrc:2
+msgctxt "Name"
+msgid "Window Manager Scripts"
+msgstr ""
+
+#: src/kcmkwin/kwintabbox/kwinswitcher.knsrc:2
+msgctxt "Name"
+msgid "Window Manager Switching Layouts"
+msgstr ""
+
+#: src/kcmkwin/kwintabbox/kwintabbox.desktop:12
+msgctxt "Name"
+msgid "Task Switcher"
+msgstr ""
+
+#: src/kcmkwin/kwintabbox/kwintabbox.desktop:73
+msgctxt "Comment"
+msgid "Navigation Through Windows"
+msgstr ""
+
+#: src/kcmkwin/kwintabbox/kwintabbox.desktop:119
+msgctxt "X-KDE-Keywords"
+msgid ""
+"window,windows,switcher,window switcher,switching,window switching,alttab,"
+"alt-tab,alt+tab,alt tab"
+msgstr ""
+
+#: src/kcmkwin/kwinvirtualkeyboard/kcm_virtualkeyboard.desktop:16
+#: src/kcmkwin/kwinvirtualkeyboard/package/metadata.desktop:5
+msgctxt "Name"
+msgid "Virtual Keyboard"
+msgstr ""
+
+#: src/kcmkwin/kwinvirtualkeyboard/kcm_virtualkeyboard.desktop:31
+msgctxt "Comment"
+msgid "Select which virtual keyboard to use"
+msgstr ""
+
+#: src/kwin.notifyrc:3
+msgctxt "Comment"
+msgid "KWin Window Manager"
+msgstr ""
+
+#: src/kwin.notifyrc:68
+msgctxt "Name"
+msgid "Compositing has been suspended"
+msgstr ""
+
+#: src/kwin.notifyrc:133
+msgctxt "Comment"
+msgid "Another application has requested to suspend compositing."
+msgstr ""
+
+#: src/kwin.notifyrc:198
+msgctxt "Name"
+msgid "Graphics Reset"
+msgstr ""
+
+#: src/kwin.notifyrc:244
+msgctxt "Comment"
+msgid "A graphics reset event occurred"
+msgstr ""
+
+#: src/kwin.notifyrc:292
+msgctxt "Name"
+msgid "Xwayland Crash"
+msgstr ""
+
+#: src/kwin.notifyrc:320
+msgctxt "Comment"
+msgid "Xwayland has crashed"
+msgstr ""
+
+#: src/plugins/kdecorations/aurorae/src/kwindecoration.desktop:5
+msgctxt "Comment"
+msgid "KWin Window Decoration"
+msgstr ""
+
+#: src/plugins/kdecorations/aurorae/themes/plastik/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Plastik"
+msgstr ""
+
+#: src/plugins/kdecorations/aurorae/themes/plastik/package/metadata.desktop:90
+msgctxt "Comment"
+msgid "The classic theme known from KDE 3"
+msgstr ""
+
+#: src/plugins/kpackage/aurorae/kwin-packagestructure-aurorae.desktop:2
+msgctxt "Name"
+msgid "KWin Aurorae"
+msgstr ""
+
+#: src/plugins/kpackage/decoration/kwin-packagestructure-decoration.desktop:2
+msgctxt "Name"
+msgid "KWin Decoration"
+msgstr ""
+
+#: src/plugins/kpackage/effect/kwin-packagestructure-effect.desktop:2
+msgctxt "Name"
+msgid "KWin Effect"
+msgstr ""
+
+#: src/plugins/kpackage/scripts/kwin-packagestructure-scripts.desktop:2
+msgctxt "Name"
+msgid "KWin Script"
+msgstr ""
+
+#: src/plugins/kpackage/windowswitcher/kwin-packagestructure-windowswitcher.desktop:2
+msgctxt "Name"
+msgid "KWin Window Switcher"
+msgstr ""
+
+#: src/plugins/krunner-integration/kwin-runner-windows.desktop:3
+msgctxt "Name|plasma runner"
+msgid "Windows"
+msgstr ""
+
+#: src/plugins/krunner-integration/kwin-runner-windows.desktop:29
+msgctxt "Comment"
+msgid "List windows and desktops and switch them"
+msgstr ""
+
+#: src/scripting/kwinscript.desktop:5
+msgctxt "Comment"
+msgid "KWin Script"
+msgstr ""
+
+#: src/scripts/desktopchangeosd/metadata.desktop:2
+msgctxt "Name"
+msgid "Desktop Change OSD"
+msgstr ""
+
+#: src/scripts/desktopchangeosd/metadata.desktop:51
+msgctxt "Comment"
+msgid "An on screen display indicating the desktop change"
+msgstr ""
+
+#: src/scripts/minimizeall/metadata.desktop:2
+msgctxt "Name"
+msgid "MinimizeAll"
+msgstr ""
+
+#: src/scripts/minimizeall/metadata.desktop:45
+msgctxt "Comment"
+msgid "Adds a shortcut to minimize and restore all windows"
+msgstr ""
+
+#: src/scripts/synchronizeskipswitcher/metadata.desktop:2
+msgctxt "Name"
+msgid "Synchronize Skip Switcher with Taskbar"
+msgstr ""
+
+#: src/scripts/synchronizeskipswitcher/metadata.desktop:49
+msgctxt "Comment"
+msgid ""
+"Hides all windows marked as Skip Taskbar to be also excluded from window "
+"switchers (e.g. Alt+Tab)"
+msgstr ""
+
+#: src/scripts/videowall/metadata.desktop:2
+msgctxt "Name"
+msgid "Video Wall"
+msgstr ""
+
+#: src/scripts/videowall/metadata.desktop:51
+msgctxt "Comment"
+msgid ""
+"Spans fullscreen video player over all attached screens to create a Video "
+"Wall"
+msgstr ""
+
+#: src/tabbox/kwindesktopswitcher.desktop:5
+msgctxt "Comment"
+msgid "KWin Desktop Switcher Layout"
+msgstr ""
+
+#: src/tabbox/kwinwindowswitcher.desktop:5
+msgctxt "Comment"
+msgid "KWin Window Switcher Layout"
+msgstr ""

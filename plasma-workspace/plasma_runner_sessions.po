@@ -65,9 +65,9 @@ msgstr "Bilgisayarı yeniden başlatır"
 
 #: sessionrunner.cpp:49 sessionrunner.cpp:85
 #, kde-format
-#:msgctxt "restart computer command"
-#, msgid "reboot"
-#, msgstr "yeniden başlat"
+msgctxt "restart computer command"
+msgid "reboot"
+msgstr "yeniden başlat"
 
 #: sessionrunner.cpp:52
 #, kde-format

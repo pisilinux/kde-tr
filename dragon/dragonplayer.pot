@@ -1,0 +1,545 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the dragon package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: dragon\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-28 02:24+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#. i18n: ectx: Menu (file)
+#: misc/dragonplayerui.rc:4
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Play"
+msgstr ""
+
+#. i18n: ectx: Menu (settings)
+#: misc/dragonplayerui.rc:15
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Settings"
+msgstr ""
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: misc/dragonplayerui.rc:31
+#, kde-format
+msgid "Main Toolbar"
+msgstr ""
+
+#: src/app/actions.cpp:24
+#, kde-format
+msgctxt "@action"
+msgid "Play"
+msgstr ""
+
+#: src/app/actions.cpp:25
+#, kde-format
+msgctxt "@action"
+msgid "Pause"
+msgstr ""
+
+#: src/app/actions.cpp:40
+#, kde-format
+msgctxt "@option:check Volume of sound output"
+msgid "Volume"
+msgstr ""
+
+#: src/app/adjustSizeButton.cpp:39
+#, kde-format
+msgctxt "@action:button"
+msgid "Preferred Scale"
+msgstr ""
+
+#: src/app/adjustSizeButton.cpp:43
+#, kde-format
+msgctxt "@action:button"
+msgid "Scale 100%"
+msgstr ""
+
+#: src/app/adjustSizeButton.cpp:50
+#, kde-format
+msgid "<b>Adjust video scale?</b>"
+msgstr ""
+
+#: src/app/discSelectionDialog.cpp:39
+#, kde-format
+msgctxt ""
+"%1 is the disc type, %2 is the name of the disc that the user can choose. "
+"Ex. 'DVD: OfficeSpace'"
+msgid "%1: %2"
+msgstr ""
+
+#: src/app/discSelectionDialog.cpp:58
+#, kde-format
+msgctxt "Digital Versatile Disc, but keep it short"
+msgid "DVD"
+msgstr ""
+
+#: src/app/discSelectionDialog.cpp:60
+#, kde-format
+msgid "Video CD"
+msgstr ""
+
+#: src/app/discSelectionDialog.cpp:62
+#, kde-format
+msgid "Audio CD"
+msgstr ""
+
+#: src/app/discSelectionDialog.cpp:64
+#, kde-format
+msgid "Data CD"
+msgstr ""
+
+#: src/app/discSelectionDialog.cpp:75
+#, kde-format
+msgctxt "@title:window"
+msgid "Select a Disc"
+msgstr ""
+
+#: src/app/discSelectionDialog.cpp:77
+#, kde-format
+msgid "Select a disc to play."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, m_playFileButton)
+#: src/app/loadView.ui:19
+#, kde-format
+msgctxt "@action:button"
+msgid "Play File"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, m_playDiskButton)
+#: src/app/loadView.ui:31 src/app/playDialog.cpp:54
+#, kde-format
+msgctxt "@action:button"
+msgid "Play Disc"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, m_playStreamButton)
+#: src/app/loadView.ui:43
+#, kde-format
+msgctxt "@action:button"
+msgid "Play Stream"
+msgstr ""
+
+#: src/app/main.cpp:35 src/app/part.cpp:108
+#, kde-format
+msgid "Dragon Player"
+msgstr ""
+
+#: src/app/main.cpp:37 src/app/part.cpp:109
+#, kde-format
+msgid "A video player that has a usability focus"
+msgstr ""
+
+#: src/app/main.cpp:38 src/app/part.cpp:110
+#, kde-format
+msgid ""
+"Copyright 2006, Max Howell\n"
+"Copyright 2007, Ian Monroe"
+msgstr ""
+
+#: src/app/main.cpp:39
+#, kde-format
+msgid ""
+"IRC:\n"
+"irc.freenode.net #dragonplayer\n"
+"\n"
+"Feedback:\n"
+"imonroe@kde.org"
+msgstr ""
+
+#: src/app/main.cpp:42
+#, kde-format
+msgid "Improvements and polish"
+msgstr ""
+
+#: src/app/main.cpp:43
+#, kde-format
+msgid "Creator of Phonon"
+msgstr ""
+
+#: src/app/main.cpp:44
+#, kde-format
+msgid "Dragon Player icon"
+msgstr ""
+
+#: src/app/main.cpp:45
+#, kde-format
+msgid "Handbook"
+msgstr ""
+
+#: src/app/main.cpp:46
+#, kde-format
+msgid "Great reference code"
+msgstr ""
+
+#: src/app/main.cpp:47
+#, kde-format
+msgid "Yatta happened to be the only video on my laptop to test with. :)"
+msgstr ""
+
+#: src/app/main.cpp:48
+#, kde-format
+msgid "MPRIS v2 support"
+msgstr ""
+
+#: src/app/main.cpp:49
+#, kde-format
+msgid "Port to KF5/Plasma 5"
+msgstr ""
+
+#: src/app/main.cpp:56
+#, kde-format
+msgid "Play DVD Video"
+msgstr ""
+
+#: src/app/main.cpp:58
+#, kde-format
+msgid "Play 'URL'"
+msgstr ""
+
+#: src/app/mainWindow.cpp:140
+#, kde-format
+msgctxt "@title:menu"
+msgid "Aspect &Ratio"
+msgstr ""
+
+#: src/app/mainWindow.cpp:141
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Audio Channels"
+msgstr ""
+
+#: src/app/mainWindow.cpp:142
+#, kde-format
+msgctxt "@title:menu"
+msgid "&Subtitles"
+msgstr ""
+
+#: src/app/mainWindow.cpp:157
+#, kde-format
+msgctxt "@option:radio aspect ratio"
+msgid "Determine &Automatically"
+msgstr ""
+
+#: src/app/mainWindow.cpp:158
+#, kde-format
+msgctxt "@option:radio aspect ratio"
+msgid "&4:3"
+msgstr ""
+
+#: src/app/mainWindow.cpp:159
+#, kde-format
+msgctxt "@option:radio aspect ratio"
+msgid "Ana&morphic (16:9)"
+msgstr ""
+
+#: src/app/mainWindow.cpp:160
+#, kde-format
+msgctxt "@option:radio aspect ratio"
+msgid "&Window Size"
+msgstr ""
+
+#: src/app/mainWindow.cpp:205
+#, kde-format
+msgid ""
+"<qt>Phonon could not be successfully initialized. Dragon Player will now "
+"exit.</qt>"
+msgstr ""
+
+#: src/app/mainWindow.cpp:268
+#, kde-format
+msgctxt "@action"
+msgid "Play &Media..."
+msgstr ""
+
+#: src/app/mainWindow.cpp:288
+#, kde-format
+msgctxt "@action"
+msgid "Increase Volume"
+msgstr ""
+
+#: src/app/mainWindow.cpp:293
+#, kde-format
+msgctxt "@action"
+msgid "Decrease Volume"
+msgstr ""
+
+#: src/app/mainWindow.cpp:298
+#, kde-format
+msgctxt "@action"
+msgid "Stop"
+msgstr ""
+
+#: src/app/mainWindow.cpp:304
+#, kde-format
+msgctxt "@action Mute the sound output"
+msgid "Mute"
+msgstr ""
+
+#: src/app/mainWindow.cpp:310
+#, kde-format
+msgctxt "@action"
+msgid "Reset Video Scale"
+msgstr ""
+
+#: src/app/mainWindow.cpp:316
+#, kde-format
+msgctxt "@action"
+msgid "Menu Toggle"
+msgstr ""
+
+#: src/app/mainWindow.cpp:324 src/app/part.cpp:68
+#, kde-format
+msgid "Position Slider"
+msgstr ""
+
+#: src/app/mainWindow.cpp:328
+#, kde-format
+msgctxt "@option:check"
+msgid "Video Settings"
+msgstr ""
+
+#: src/app/mainWindow.cpp:337
+#, kde-format
+msgctxt ""
+"@option:check Whether only one instance of dragon can be started and will be "
+"reused when the user tries to play another file."
+msgid "One Instance Only"
+msgstr ""
+
+#: src/app/mainWindow.cpp:344
+#, kde-format
+msgctxt "@action previous chapter"
+msgid "Previous"
+msgstr ""
+
+#: src/app/mainWindow.cpp:350
+#, kde-format
+msgctxt "@action next chapter"
+msgid "Next"
+msgstr ""
+
+#: src/app/mainWindow.cpp:357
+#, no-c-format, kde-format
+msgctxt "@action"
+msgid "Return 10% Back"
+msgstr ""
+
+#: src/app/mainWindow.cpp:364
+#, no-c-format, kde-format
+msgctxt "@action"
+msgid "Go 10% Forward"
+msgstr ""
+
+#: src/app/mainWindow.cpp:370
+#, kde-format
+msgctxt "@action"
+msgid "Return 10 Seconds Back"
+msgstr ""
+
+#: src/app/mainWindow.cpp:376
+#, kde-format
+msgctxt "@action"
+msgid "Go 10 Seconds Forward"
+msgstr ""
+
+#: src/app/mainWindow.cpp:466
+#, kde-format
+msgctxt "@option:check Mute the sound output"
+msgid "Mute"
+msgstr ""
+
+#: src/app/mainWindow.cpp:543
+#, kde-format
+msgid "Dragon Player was asked to open an empty URL; it cannot."
+msgstr ""
+
+#: src/app/mainWindow.cpp:626
+#, kde-format
+msgctxt "@title:window"
+msgid "Select File to Play"
+msgstr ""
+
+#: src/app/mainWindow.cpp:654
+#, kde-format
+msgctxt "@title:window"
+msgid "Stream to Play"
+msgstr ""
+
+#: src/app/mainWindow.cpp:654
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Stream:"
+msgstr ""
+
+#: src/app/mainWindow.cpp:795
+#, kde-format
+msgid "Sorry, no media was found in the drop"
+msgstr ""
+
+#: src/app/mainWindow.cpp:845
+#, kde-format
+msgctxt "Notification inhibition reason"
+msgid "playing a video"
+msgstr ""
+
+#: src/app/mainWindow.cpp:881
+#, kde-format
+msgid "No media loaded"
+msgstr ""
+
+#: src/app/mainWindow.cpp:883
+#, kde-format
+msgid "Paused"
+msgstr ""
+
+#: src/app/playDialog.cpp:30
+#, kde-format
+msgctxt "@title:window"
+msgid "Play Media"
+msgstr ""
+
+#: src/app/playDialog.cpp:42
+#, kde-format
+msgid "What media would you like to play?"
+msgstr ""
+
+#: src/app/playDialog.cpp:50
+#, kde-format
+msgctxt "@action:button"
+msgid "Play File..."
+msgstr ""
+
+#: src/app/playlistFile.cpp:37
+#, kde-format
+msgid "The file is not a playlist"
+msgstr ""
+
+#: src/app/playlistFile.cpp:45
+#, kde-format
+msgid "Dragon Player could not download the remote playlist: %1"
+msgstr ""
+
+#: src/app/playlistFile.cpp:62
+#, kde-format
+msgid ""
+"<qt>The playlist, <i>'%1'</i>, could not be interpreted. Perhaps it is empty?"
+"</qt>"
+msgstr ""
+
+#: src/app/playlistFile.cpp:66
+#, kde-format
+msgid "Dragon Player could not open the file: %1"
+msgstr ""
+
+#: src/app/recentlyPlayedList.cpp:34
+#, kde-format
+msgctxt "@action Copy the URL of the selected multimedia"
+msgid "Copy URL"
+msgstr ""
+
+#: src/app/recentlyPlayedList.cpp:39
+#, kde-format
+msgctxt "@action"
+msgid "Clear List"
+msgstr ""
+
+#: src/app/recentlyPlayedList.cpp:44
+#, kde-format
+msgctxt "@action"
+msgid "Remove Entry"
+msgstr ""
+
+#: src/app/recentlyPlayedList.cpp:125
+#, kde-format
+msgid ""
+"This file could not be found. Would you like to remove it from the playlist?"
+msgstr ""
+
+#: src/app/recentlyPlayedList.cpp:126
+#, kde-format
+msgctxt "@title:window"
+msgid "File not found"
+msgstr ""
+
+#: src/app/theStream.cpp:151
+#, kde-format
+msgid "Track %1/%2"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, brightnessLabel)
+#: src/app/videoSettingsWidget.ui:19
+#, kde-format
+msgctxt "@label:slider"
+msgid "Brightness:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, contrastLabel)
+#: src/app/videoSettingsWidget.ui:42
+#, kde-format
+msgctxt "@label:slider"
+msgid "Contrast:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, hueLabel)
+#: src/app/videoSettingsWidget.ui:65
+#, kde-format
+msgctxt "@label:slider"
+msgid "Hue:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, saturationLabel)
+#: src/app/videoSettingsWidget.ui:88
+#, kde-format
+msgctxt "@label:slider"
+msgid "Saturation:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, defaultsButton)
+#: src/app/videoSettingsWidget.ui:128
+#, kde-format
+msgctxt "@action:button"
+msgid "Restore Defaults"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, closeButton)
+#: src/app/videoSettingsWidget.ui:135
+#, kde-format
+msgctxt "@action:button"
+msgid "Close"
+msgstr ""
+
+#: src/app/videoWindow.cpp:109
+#, kde-format
+msgctxt "@option:radio"
+msgid "&DVD Subtitle Selection"
+msgstr ""
+
+#: src/app/videoWindow.cpp:119
+#, kde-format
+msgctxt "@option:radio audio language"
+msgid "&Auto"
+msgstr ""

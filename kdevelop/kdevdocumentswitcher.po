@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-kdevelop-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-17 07:46+0200\n"
+"POT-Creation-Date: 2020-10-21 02:20+0200\n"
 "PO-Revision-Date: 2014-11-11 23:55+0200\n"
 "Last-Translator: Kaan Ozdincer <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -20,14 +20,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Lokalize 1.4\n"
 
-#: documentswitcherplugin.cpp:74
+#: documentswitcherplugin.cpp:77
 #, fuzzy, kde-format
 #| msgid "Last Used Views"
 msgctxt "@action"
 msgid "Last Used Views"
 msgstr "Son Kullanılan Görünümler"
 
-#: documentswitcherplugin.cpp:77
+#: documentswitcherplugin.cpp:80
 #, fuzzy, kde-format
 #| msgid "Opens a list to walk through the list of last used views."
 msgctxt "@info:whatsthis"
@@ -35,21 +35,21 @@ msgid "Opens a list to walk through the list of last used views."
 msgstr ""
 "Son kullanılan görünümler listesi arasında gezinmek üzer bir liste açar."
 
-#: documentswitcherplugin.cpp:78 documentswitcherplugin.cpp:86
+#: documentswitcherplugin.cpp:81 documentswitcherplugin.cpp:89
 #, fuzzy, kde-format
 #| msgid "Walk through the list of last used views"
 msgctxt "@info:tooltip"
 msgid "Walk through the list of last used views"
 msgstr "Son kullanılan görünümler arasında gezin"
 
-#: documentswitcherplugin.cpp:82
+#: documentswitcherplugin.cpp:85
 #, fuzzy, kde-format
 #| msgid "Last Used Views (Reverse)"
 msgctxt "@action"
 msgid "Last Used Views (Reverse)"
 msgstr "Son Kullanılan Görünümler (Tersten)"
 
-#: documentswitcherplugin.cpp:85
+#: documentswitcherplugin.cpp:88
 #, fuzzy, kde-format
 #| msgid "Opens a list to walk through the list of last used views in reverse."
 msgctxt "@info:whatsthis"
@@ -58,6 +58,9 @@ msgstr ""
 "Son kullanılan görünümler listesi arasında gezinmek üzer bir listeyi tersine "
 "açar."
 
+#~ msgid "Document Switcher"
+#~ msgstr "Belge Seçici"
+
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
 #~ msgstr "Serdar Soytetir"
@@ -65,9 +68,6 @@ msgstr ""
 #~ msgctxt "EMAIL OF TRANSLATORS"
 #~ msgid "Your emails"
 #~ msgstr "tulliana@gmail.com"
-
-#~ msgid "Document Switcher"
-#~ msgstr "Belge Seçici"
 
 #~ msgid "Switch between open documents using most-recently-used list"
 #~ msgstr ""

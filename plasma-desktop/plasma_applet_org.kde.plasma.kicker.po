@@ -339,56 +339,56 @@ msgstr "Ara..."
 #~ msgid "Often Used Applications"
 #~ msgstr "Sıkça Kullanılan Uygulamalar"
 
-msgid "Power / Session"
-msgstr "Güç / Oturum"
+#~ msgid "Power / Session"
+#~ msgstr "Güç / Oturum"
 
-msgid "Search results"
-msgstr "Arama sonuçları"
+#~ msgid "Search results"
+#~ msgstr "Arama sonuçları"
 
-msgid "Lock"
-msgstr "Kilitle"
+#~ msgid "Lock"
+#~ msgstr "Kilitle"
 
-msgid "Save Session"
-msgstr "Oturumu Kaydet"
+#~ msgid "Save Session"
+#~ msgstr "Oturumu Kaydet"
 
-msgid "Switch User"
-msgstr "Kullanıcı Değiştir"
+#~ msgid "Switch User"
+#~ msgstr "Kullanıcı Değiştir"
 
-msgid "Hibernate"
-msgstr "Hazırda Beklet"
+#~ msgid "Hibernate"
+#~ msgstr "Hazırda Beklet"
 
-msgid "Restart"
-msgstr "Yeniden Başlat"
+#~ msgid "Restart"
+#~ msgstr "Yeniden Başlat"
 
-msgid "Shut Down"
-msgstr "Kapat"
+#~ msgid "Shut Down"
+#~ msgstr "Kapat"
 
-msgid "Session"
-msgstr "Oturum"
+#~ msgid "Session"
+#~ msgstr "Oturum"
 
 #~ msgid "System"
 #~ msgstr "Sistem"
 
-msgid "Lock screen"
-msgstr "Ekranı kilitle"
+#~ msgid "Lock screen"
+#~ msgstr "Ekranı kilitle"
 
-msgid "End session"
-msgstr "Oturumu sonlandır"
+#~ msgid "End session"
+#~ msgstr "Oturumu sonlandır"
 
 #~ msgid "Start a parallel session as a different user"
 #~ msgstr "Farklı bir kullanıcı olarak paralel oturum başlat"
 
-msgid "Suspend to RAM"
-msgstr "RAM ile askıya al"
+#~ msgid "Suspend to RAM"
+#~ msgstr "RAM ile askıya al"
 
-msgid "Suspend to disk"
-msgstr "Disk ile askıya al"
+#~ msgid "Suspend to disk"
+#~ msgstr "Disk ile askıya al"
 
-msgid "Restart computer"
-msgstr "Bilgisayarı yeniden başlat"
+#~ msgid "Restart computer"
+#~ msgstr "Bilgisayarı yeniden başlat"
 
-msgid "Turn off computer"
-msgstr "Bilgisayarı kapat"
+#~ msgid "Turn off computer"
+#~ msgstr "Bilgisayarı kapat"
 
 #~ msgid "System actions"
 #~ msgstr "Sistem eylemleri"
@@ -424,8 +424,8 @@ msgstr "Bilgisayarı kapat"
 #~ msgid "Logout"
 #~ msgstr "Çık"
 
-msgid "Reboot"
-msgstr "Yeniden başlat"
+#~ msgid "Reboot"
+#~ msgstr "Yeniden başlat"
 
 #~ msgid "Suspend"
 #~ msgstr "Askıya Al"

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio_fish\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-08 02:24+0100\n"
+"POT-Creation-Date: 2021-05-01 00:18+0000\n"
 "PO-Revision-Date: 2014-10-21 09:49+0000\n"
 "Last-Translator: Necdet <necdetyucel@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -20,27 +20,27 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Lokalize 1.5\n"
 
-#: fish.cpp:291
+#: fish.cpp:282
 #, kde-format
 msgid "Connecting..."
 msgstr "Bağlantı kuruluyor..."
 
-#: fish.cpp:593
+#: fish.cpp:584
 #, kde-format
 msgid "Initiating protocol..."
 msgstr "Protokol iletişimi yapılıyor..."
 
-#: fish.cpp:629
+#: fish.cpp:620
 #, kde-format
 msgid "Local Login"
 msgstr "Yerel Giriş"
 
-#: fish.cpp:631
+#: fish.cpp:622
 #, kde-format
 msgid "SSH Authentication"
 msgstr "SSH Kimlik Denetimi"
 
-#: fish.cpp:761
+#: fish.cpp:752
 #, kde-format
 msgid "Disconnected."
 msgstr "Bağlantı Kesildi."

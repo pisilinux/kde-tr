@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-office-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-12 01:42+0000\n"
+"POT-Creation-Date: 2021-05-13 00:19+0000\n"
 "PO-Revision-Date: 2017-10-04 08:03+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -7488,9 +7488,6 @@ msgstr "Ara"
 msgid "Clear"
 msgstr "Temizle"
 
-#~ msgid "Denomination"
-#~ msgstr "Adlandırma"
-
 #, fuzzy
 #~| msgid ""
 #~| "This information was freely provided by <a href=\"http://igdb.com\">IGDB."
@@ -7524,11 +7521,25 @@ msgstr "Temizle"
 #~ "Bu bilgi <a href=\"http://igdb.com\">IGDB.com</a> tarafından ücretsizce "
 #~ "sağlanmıştır."
 
+#, fuzzy
+#~| msgid ""
+#~| "This information was freely provided by <a href=\"http://igdb.com\">IGDB."
+#~| "com</a>."
+#~ msgid ""
+#~ "This information was freely provided by <a href=\"https://tvmaze.com"
+#~ "\">TVmaze</a>."
+#~ msgstr ""
+#~ "Bu bilgi <a href=\"http://igdb.com\">IGDB.com</a> tarafından ücretsizce "
+#~ "sağlanmıştır."
+
 #~ msgid "Processing document..."
 #~ msgstr "Döküman işletiliyor..."
 
 #~ msgid "&New"
 #~ msgstr "Ye&ni"
+
+#~ msgid "Denomination"
+#~ msgstr "Adlandırma"
 
 #, fuzzy
 #~| msgid "Groups"

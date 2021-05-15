@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdesdk-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-02 09:50+0100\n"
+"POT-Creation-Date: 2021-02-02 03:03+0100\n"
 "PO-Revision-Date: 2017-06-04 11:30+0000\n"
 "Last-Translator: Mete <metebilgin48@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -43,9 +43,9 @@ msgstr "Bayt düzenleyici"
 
 #: about.cpp:20
 #, fuzzy, kde-format
-#| msgid "Friedrich W. H. Kossebau"
+#| msgid "Copyright 2006-2017 Friedrich W. H. Kossebau"
 msgid "2006-%1 Friedrich W. H. Kossebau"
-msgstr "Friedrich W. H. Kossebau"
+msgstr "Telif Hakkı 2006-2017 Friedrich W. H. Kossebau"
 
 #: about.cpp:21
 #, kde-format
@@ -97,8 +97,3 @@ msgstr "Ana Araç Çubuğu"
 #, kde-format
 msgid "File(s) to load."
 msgstr "Yüklenecek dosya(lar)."
-
-#, fuzzy
-#~| msgid "Copyright 2006-2017 Friedrich W. H. Kossebau"
-#~ msgid "SPDX-FileCopyrightText: 2006-2020 Friedrich W. H. Kossebau "
-#~ msgstr "Telif Hakkı 2006-2017 Friedrich W. H. Kossebau"

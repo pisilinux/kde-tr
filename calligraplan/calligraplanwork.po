@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calligra-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-18 08:40+0100\n"
+"POT-Creation-Date: 2021-03-01 02:51+0100\n"
 "PO-Revision-Date: 2017-05-03 19:00+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/calligra-k-tr/"
@@ -74,12 +74,12 @@ msgstr "Görünüm"
 msgid "&View"
 msgstr "&Görünüm"
 
-#: commandlineparser.cpp:50
+#: commandlineparser.cpp:48
 #, kde-format
 msgid "File to open"
 msgstr "Açılacak dosya"
 
-#: commandlineparser.cpp:107
+#: commandlineparser.cpp:105
 #, kde-format
 msgid "Failed to open document"
 msgstr "Belge açılamadı"
@@ -89,37 +89,37 @@ msgstr "Belge açılamadı"
 msgid "The file %1 does not exist."
 msgstr "%1 dosyası yok."
 
-#: part.cpp:174 part.cpp:205
+#: part.cpp:172 part.cpp:203
 #, kde-format
 msgid "Document is already open:<br>%1"
 msgstr "Belge zaten açık:<br>%1"
 
-#: part.cpp:186 part.cpp:213 workpackage.cpp:609
+#: part.cpp:184 part.cpp:211 workpackage.cpp:611
 #, kde-format
 msgid "Could not extract document from storage:<br>%1"
 msgstr "Belgenin sıkıştırması depodan açılamadı:<br>%1"
 
-#: part.cpp:194 part.cpp:221 workpackage.cpp:613
+#: part.cpp:192 part.cpp:219 workpackage.cpp:615
 #, kde-format
 msgid "Invalid URL:<br>%1"
 msgstr "Geçersiz Adres:<br>%1"
 
-#: part.cpp:233
+#: part.cpp:231
 #, kde-format
 msgid "Document is already open:<br> %1"
 msgstr "Belge zaten açık:<br>%1"
 
-#: part.cpp:237
+#: part.cpp:235
 #, kde-format
 msgid "File does not exist:<br>%1"
 msgstr "Dosya yok:<br>%1"
 
-#: part.cpp:263
+#: part.cpp:261
 #, kde-format
 msgid "Edit with:"
 msgstr "Şununla düzenle:"
 
-#: part.cpp:391
+#: part.cpp:389
 #, kde-format
 msgid ""
 "<p>The work package already exists in the projects store.</p><p>Project: "
@@ -130,58 +130,67 @@ msgstr ""
 "%1<br>Görev: %2</p><p>Yeni paketteki verilerle varolan paketi güncellemek "
 "istiyor musunuz?</p>"
 
-#: part.cpp:419
+#: part.cpp:417
 #, kde-format
 msgid "Remove failed. Cannot find work package"
 msgstr "Silme işlemi başarısız oldu. Hiç çalışma paketi bulunamadı."
 
-#: part.cpp:422 part.cpp:433
+#: part.cpp:420
+#, fuzzy
+#| msgctxt "(qtundo-format)"
+#| msgid "Remove work package"
+#| msgid_plural "Remove work packages"
+msgctxt "(qtundo-format) @action"
+msgid "Remove work package"
+msgstr "Çalışma paketlerini sil"
+
+#: part.cpp:431
 msgctxt "(qtundo-format)"
 msgid "Remove work package"
 msgid_plural "Remove work packages"
 msgstr[0] "Çalışma paketlerini sil"
 msgstr[1] "Çalışma paketlerini sil"
 
-#: part.cpp:472
+#: part.cpp:470
 #, kde-format
 msgid "Failed to load file:<br>%1"
 msgstr "Dosya yüklenemedi:<br>%1"
 
-#: part.cpp:486
+#: part.cpp:484
 #, kde-format
 msgid "Not a valid work package file:<br>%1"
 msgstr "Geçerli bir çalışma paketi dosyası değil:<br>%1"
 
-#: part.cpp:514
+#: part.cpp:512
 #, kde-format
 msgid "Invalid document. The document does not contain 'maindoc.xml'."
 msgstr "Geçersiz belge: Belge 'maindoc.xml' içermiyor."
 
-#: part.cpp:540
+#: part.cpp:538
 #, kde-format
 msgid "Failed to open file: %1"
 msgstr "Dosya açılamadı: %1"
 
-#: part.cpp:552
+#: part.cpp:550
 #, kde-format
 msgid "Parsing error in file '%1' at line %2, column %3<br>Error message: %4"
 msgstr ""
 "'%1' dosyasının %2. satırı, %3. sütununda ayrıştırma hatası<br>Hata mesajı: "
 "%4"
 
-#: part.cpp:569 part.cpp:612
+#: part.cpp:567 part.cpp:610
 #, kde-format
 msgid "Invalid document. No mimetype specified."
 msgstr "Geçersiz belge. Mime türü belirtilmedi."
 
-#: part.cpp:575
+#: part.cpp:573
 #, kde-format
 msgid ""
 "Invalid document. Expected mimetype application/x-vnd.kde.plan.work, got %1"
 msgstr ""
 "Geçersiz belge. Beklenen mime türü application/x-vnd.kde.plan.work, açılan %1"
 
-#: part.cpp:582 part.cpp:623
+#: part.cpp:580 part.cpp:621
 #, kde-format
 msgid ""
 "This document is a newer version than supported by PlanWork (syntax version: "
@@ -191,17 +200,17 @@ msgstr ""
 "sürümü: %1)<br>Bu sürümün PlanWork ile açılması bazı bilgilerin kaybolmasına "
 "neden olabilir."
 
-#: part.cpp:584 part.cpp:625
+#: part.cpp:582 part.cpp:623
 #, kde-format
 msgid "Continue"
 msgstr "Devam Et"
 
-#: part.cpp:584 part.cpp:625
+#: part.cpp:582 part.cpp:623
 #, kde-format
 msgid "File-Format Mismatch"
 msgstr "Dosya-Biçimi Uyuşmazlığı"
 
-#: part.cpp:616
+#: part.cpp:614
 #, kde-format
 msgid ""
 "Invalid document. Expected mimetype application/x-vnd.kde.kplato.work, got %1"
@@ -209,7 +218,7 @@ msgstr ""
 "Geçersiz belge. Beklenen mime türü application/x-vnd.kde.kplato.work, açılan "
 "%1"
 
-#: part.cpp:713
+#: part.cpp:711
 #, kde-format
 msgid "Edit failed. Cannot find a work package."
 msgstr "Düzenleme başarısız oldu. Hiç çalışma paketi bulunamadı."
@@ -243,171 +252,171 @@ msgstr "Girdi Ekle"
 msgid "Remove Entry"
 msgstr "Girdiyi Kaldır"
 
-#: taskworkpackagemodel.cpp:298
+#: taskworkpackagemodel.cpp:302
 #, kde-format
 msgid "<p><strong>%1: %2</strong></p><p>%3</p>"
 msgstr ""
 
-#: taskworkpackagemodel.cpp:420
+#: taskworkpackagemodel.cpp:424
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid "Type: %1<nl/>Url: %2"
 msgstr ""
 
-#: taskworkpackagemodel.cpp:442
+#: taskworkpackagemodel.cpp:446
 #, no-c-format
 msgctxt "(qtundo-format)"
 msgid "Modify completion"
 msgstr "Tamamlanma durumunu değiştir"
 
-#: taskworkpackagemodel.cpp:477
+#: taskworkpackagemodel.cpp:481
 msgctxt "(qtundo-format)"
 msgid "Set finished"
 msgstr "Tamamlandı olarak ayarla"
 
-#: taskworkpackagemodel.cpp:498
+#: taskworkpackagemodel.cpp:502
 msgctxt "(qtundo-format)"
 msgid "Modify remaining effort"
 msgstr "Gereken çabayı değiştir"
 
-#: taskworkpackagemodel.cpp:511
+#: taskworkpackagemodel.cpp:515
 msgctxt "(qtundo-format)"
 msgid "Modify actual effort"
 msgstr "Şu anki çabayı değiştir"
 
-#: taskworkpackagemodel.cpp:609
+#: taskworkpackagemodel.cpp:613
 #, fuzzy, kde-kuit-format
 #| msgid "Name"
 msgctxt "@title:column"
 msgid "Name"
 msgstr "İsim"
 
-#: taskworkpackagemodel.cpp:610
+#: taskworkpackagemodel.cpp:614
 #, fuzzy, kde-kuit-format
 #| msgid "Type"
 msgctxt "@title:column"
 msgid "Type"
 msgstr "Tür"
 
-#: taskworkpackagemodel.cpp:611
+#: taskworkpackagemodel.cpp:615
 #, fuzzy, kde-kuit-format
 #| msgid "Responsible"
 msgctxt "@title:column"
 msgid "Responsible"
 msgstr "Sorumlu"
 
-#: taskworkpackagemodel.cpp:612
+#: taskworkpackagemodel.cpp:616
 #, fuzzy, kde-kuit-format
 #| msgid "Description"
 msgctxt "@title:column"
 msgid "Description"
 msgstr "Açıklama"
 
-#: taskworkpackagemodel.cpp:615
+#: taskworkpackagemodel.cpp:619
 #, fuzzy, kde-kuit-format
 #| msgid "Planned Start"
 msgctxt "@title:column"
 msgid "Planned Start"
 msgstr "Planlanan Başlama Zamanı"
 
-#: taskworkpackagemodel.cpp:616
+#: taskworkpackagemodel.cpp:620
 #, fuzzy, kde-kuit-format
 #| msgid "Planned Finish"
 msgctxt "@title:column"
 msgid "Planned Finish"
 msgstr "Planlanan Bitiş Zamanı"
 
-#: taskworkpackagemodel.cpp:617
+#: taskworkpackagemodel.cpp:621
 #, fuzzy, kde-kuit-format
 #| msgid "Resource Assignments"
 msgctxt "@title:column"
 msgid "Resource Assignments"
 msgstr "Kaynak Atamaları"
 
-#: taskworkpackagemodel.cpp:620
+#: taskworkpackagemodel.cpp:624
 #, fuzzy, kde-kuit-format
 #| msgid "Completion"
 msgctxt "@title:column"
 msgid "Completion"
 msgstr "Tamamlanma"
 
-#: taskworkpackagemodel.cpp:621
+#: taskworkpackagemodel.cpp:625
 #, fuzzy, kde-kuit-format
 #| msgid "Actual Effort"
 msgctxt "@title:column"
 msgid "Actual Effort"
 msgstr "Şimdiki Başarım"
 
-#: taskworkpackagemodel.cpp:622
+#: taskworkpackagemodel.cpp:626
 #, fuzzy, kde-kuit-format
 #| msgid "Remaining Effort"
 msgctxt "@title:column"
 msgid "Remaining Effort"
 msgstr "Gereken Başarım"
 
-#: taskworkpackagemodel.cpp:623
+#: taskworkpackagemodel.cpp:627
 #, fuzzy, kde-kuit-format
 #| msgid "Planned Effort"
 msgctxt "@title:column"
 msgid "Planned Effort"
 msgstr "Planlanan Başarım"
 
-#: taskworkpackagemodel.cpp:624
+#: taskworkpackagemodel.cpp:628
 #, fuzzy, kde-kuit-format
 #| msgid "Actual Start"
 msgctxt "@title:column"
 msgid "Actual Start"
 msgstr "Asıl Başlama Zamanı"
 
-#: taskworkpackagemodel.cpp:625
+#: taskworkpackagemodel.cpp:629
 #, fuzzy, kde-kuit-format
 #| msgid "Started"
 msgctxt "@title:column"
 msgid "Started"
 msgstr "Başladı"
 
-#: taskworkpackagemodel.cpp:626
+#: taskworkpackagemodel.cpp:630
 #, fuzzy, kde-kuit-format
 #| msgid "Actual Finish"
 msgctxt "@title:column"
 msgid "Actual Finish"
 msgstr "Asıl Bitiş Zamanı"
 
-#: taskworkpackagemodel.cpp:627
+#: taskworkpackagemodel.cpp:631
 #, fuzzy, kde-kuit-format
 #| msgid "Finished"
 msgctxt "@title:column"
 msgid "Finished"
 msgstr "Bitti"
 
-#: taskworkpackagemodel.cpp:628
+#: taskworkpackagemodel.cpp:632
 #, kde-kuit-format
 msgctxt "@title:column"
 msgid "Status"
 msgstr "Durum"
 
-#: taskworkpackagemodel.cpp:629
+#: taskworkpackagemodel.cpp:633
 #, fuzzy, kde-kuit-format
 #| msgid "Note"
 msgctxt "@title:column"
 msgid "Note"
 msgstr "Not"
 
-#: taskworkpackagemodel.cpp:631
+#: taskworkpackagemodel.cpp:635
 #, fuzzy, kde-kuit-format
 #| msgid "Project Name"
 msgctxt "@title:column"
 msgid "Project Name"
 msgstr "Proje İsmi"
 
-#: taskworkpackagemodel.cpp:632
+#: taskworkpackagemodel.cpp:636
 #, fuzzy, kde-kuit-format
 #| msgid "Project Manager"
 msgctxt "@title:column"
 msgid "Project Manager"
 msgstr "Proje Yöneticisi"
 
-#: taskworkpackageview.cpp:416 taskworkpackageview.cpp:939
+#: taskworkpackageview.cpp:416 taskworkpackageview.cpp:940
 #, kde-format
 msgid "Configure View..."
 msgstr "Görünümü Yapılandır..."
@@ -490,58 +499,64 @@ msgctxt "@verb"
 msgid "View..."
 msgstr "Göster..."
 
-#: view.cpp:137
+#: view.cpp:132
+#, fuzzy, kde-format
+#| msgid "Remove Entry"
+msgid "Remove document"
+msgstr "Girdiyi Kaldır"
+
+#: view.cpp:136
 #, kde-format
 msgid "Send Package..."
 msgstr "Paket Gönder..."
 
-#: view.cpp:141
+#: view.cpp:140
 #, kde-format
 msgid "Edit Progress..."
 msgstr "İlerlemeyi Düzenle..."
 
-#: view.cpp:145
+#: view.cpp:144
 #, kde-format
 msgid "View Description..."
 msgstr "Açıklamayı Göster..."
 
-#: view.cpp:332
+#: view.cpp:331
 #, kde-format
 msgid "This file is not editable"
 msgstr "Bu dosya düzenlenebilir değil"
 
-#: view.cpp:352
+#: view.cpp:351
 #, kde-format
 msgid "No work package is selected"
 msgstr "Hiçbir çalışma paketi seçilmedi"
 
-#: view.cpp:358
+#: view.cpp:357
 #, kde-format
 msgid "Cannot find work package"
 msgstr "Çalışma paketi bulunamadı"
 
-#: view.cpp:375
+#: view.cpp:374
 #, fuzzy, kde-format
 #| msgid "Could not open temporary file. Sending is aborted."
 msgid "Could not open file. Sending is aborted."
 msgstr "Geçici dosya açılamadı. Gönderim iptal edildi."
 
-#: view.cpp:383
+#: view.cpp:382
 #, kde-format
 msgid "Could not open temporary file. Sending is aborted."
 msgstr "Geçici dosya açılamadı. Gönderim iptal edildi."
 
-#: view.cpp:394
+#: view.cpp:393
 #, kde-format
 msgid "Work Package: %1"
 msgstr "Çalışma Paketi: %1"
 
-#: workpackage.cpp:111
+#: workpackage.cpp:110
 #, kde-format
 msgid "Document is already open"
 msgstr "Belge zaten açık"
 
-#: workpackage.cpp:184 workpackage.cpp:252
+#: workpackage.cpp:183 workpackage.cpp:251
 #, kde-format
 msgid "Failed to load project: %1"
 msgstr "Proje yüklenemedi: %1"
@@ -570,7 +585,7 @@ msgstr ""
 "Depo açma işlemi başarızı:\n"
 " %1"
 
-#: workpackage.cpp:428
+#: workpackage.cpp:429
 #, kde-format
 msgid ""
 "Cannot save to projects store:\n"
@@ -579,7 +594,14 @@ msgstr ""
 "Projeler deposuna kaydedilemedi:\n"
 "%1"
 
-#: workpackage.cpp:478
+#: workpackage.cpp:471
+#, fuzzy
+#| msgid "Remove Entry"
+msgctxt "(qtundo-format)"
+msgid "Remove document"
+msgstr "Girdiyi Kaldır"
+
+#: workpackage.cpp:479
 #, kde-format
 msgid ""
 "Failed read file:\n"
@@ -588,7 +610,7 @@ msgstr ""
 "Dosya okunamadı:\n"
 "%1"
 
-#: workpackage.cpp:482
+#: workpackage.cpp:483
 #, kde-format
 msgid ""
 "Failed write file:\n"
@@ -597,12 +619,12 @@ msgstr ""
 "Dosyaya yazılamadı:\n"
 "%1"
 
-#: workpackage.cpp:525
+#: workpackage.cpp:526
 msgctxt "(qtundo-format)"
 msgid "Merge data"
 msgstr "Verileri birleştir"
 
-#: workpackage.cpp:634
+#: workpackage.cpp:636
 #, kde-format
 msgid ""
 "<p>The work package <b>'%2'</b> has an open document.</p><p>Data may be lost "
@@ -617,7 +639,7 @@ msgstr[1] ""
 "<p><b>'%2'</b> çalışma paketinde açık belgeler var.</p><p>Devam ederseniz "
 "veri kaybedebilirsiniz.</p>"
 
-#: workpackage.cpp:655
+#: workpackage.cpp:657
 #, kde-format
 msgid ""
 "<p>The work package <b>'%1'</b> has been modified.</p><p>Do you want to save "
@@ -626,12 +648,12 @@ msgstr ""
 "<p><b>'%1'</b> çalışma paketi değiştirildi.</p><p>Kaydetmek istiyor musunuz?"
 "</p>"
 
-#: workpackage.cpp:681
+#: workpackage.cpp:683
 #, kde-format
 msgid "<p>Work package <b>'%1'</b></p><p>Could not open store:</p><p>%2</p>"
 msgstr "<p>Çalışma paketi <b>'%1'</b></p><p>Depo açılamadı:</p><p>%2</p>"
 
-#: workpackage.cpp:697
+#: workpackage.cpp:699
 #, kde-format
 msgid "<p>Work package <b>'%1'</b></p><p>Could not extract file:</p><p>%2</p>"
 msgstr "<p>Çalışma paketi <b>'%1'</b></p><p>Dosya açılamadı:</p><p>%2</p>"

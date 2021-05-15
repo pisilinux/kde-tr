@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeutils-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-08 03:18+0100\n"
-"PO-Revision-Date: 2021-05-14 23:01+0300\n"
+"POT-Creation-Date: 2021-05-10 00:24+0000\n"
+"PO-Revision-Date: 2015-05-19 05:49+0000\n"
 "Last-Translator: Necdet <necdetyucel@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/kdeutils-k-tr/"
 "language/tr/)\n"
@@ -18,34 +18,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.3\n"
-
-#: plasmoid/package/contents/config/config.qml:27
-msgid "General"
-msgstr "Genel"
-
-#: plasmoid/package/contents/ui/config.qml:47
-msgid "All jobs"
-msgstr "Tüm görevler"
-
-#: plasmoid/package/contents/ui/config.qml:53
-msgid "Completed jobs only"
-msgstr "Sadece tamamlanmış görevler"
-
-#: plasmoid/package/contents/ui/config.qml:59
-msgid "Active jobs only"
-msgstr "Sadece etkin görevler"
 
 #: plasmoid/package/contents/ui/PopupDialog.qml:45
 msgid "Search for a printer..."
 msgstr "Yeni yazıcı ara..."
 
 #: plasmoid/package/contents/ui/PopupDialog.qml:92
-#: plasmoid/package/contents/ui/printmanager.qml:60
+#: plasmoid/package/contents/ui/printmanager.qml:65
 msgid "No printers have been configured or discovered"
 msgstr "Hiçbir yazıcı yapılandırılmadı veya bulunamadı"
 
 #: plasmoid/package/contents/ui/PrinterItem.qml:38
+#, fuzzy
+#| msgid "Reprint"
 msgid "Resume printing"
 msgstr "Tekrar Yazdır"
 
@@ -54,40 +39,68 @@ msgid "Pause printing"
 msgstr ""
 
 #: plasmoid/package/contents/ui/PrinterItem.qml:50
+#, fuzzy
+#| msgid "Configure printer"
 msgid "Configure printer..."
 msgstr "Yazıcıyı yapılandır"
 
 #: plasmoid/package/contents/ui/PrinterItem.qml:55
+#, fuzzy
+#| msgid "Open print queue"
 msgid "View print queue"
 msgstr "Yazdırma kuyruğunu aç"
 
-#: plasmoid/package/contents/ui/printmanager.qml:39
+#: plasmoid/package/contents/ui/printmanager.qml:44
 msgid "Printers"
 msgstr "Yazıcılar"
 
-#: plasmoid/package/contents/ui/printmanager.qml:44
+#: plasmoid/package/contents/ui/printmanager.qml:49
 msgid "There is one print job in the queue"
 msgid_plural "There are %1 print jobs in the queue"
 msgstr[0] "Kuyrukta %1 yazdırma görevi var"
 msgstr[1] "Kuyrukta %1 yazdırma görevi var"
 
-#: plasmoid/package/contents/ui/printmanager.qml:53
+#: plasmoid/package/contents/ui/printmanager.qml:58
 msgctxt "Printing document name with printer name"
 msgid "Printing %1 with %2"
 msgstr ""
 
-#: plasmoid/package/contents/ui/printmanager.qml:55
+#: plasmoid/package/contents/ui/printmanager.qml:60
 msgctxt "Printing with printer name"
 msgid "Printing with %1"
 msgstr ""
 
-#: plasmoid/package/contents/ui/printmanager.qml:58
+#: plasmoid/package/contents/ui/printmanager.qml:63
 msgid "Print queue is empty"
 msgstr "Yazdırma kuyruğu boş"
 
-#: plasmoid/package/contents/ui/printmanager.qml:86
+#: plasmoid/package/contents/ui/printmanager.qml:139
+#, fuzzy
+#| msgid "All jobs"
+msgid "Show All Jobs"
+msgstr "Tüm görevler"
+
+#: plasmoid/package/contents/ui/printmanager.qml:145
+#, fuzzy
+#| msgid "Completed jobs only"
+msgid "Show Only Completed Jobs"
+msgstr "Sadece tamamlanmış görevler"
+
+#: plasmoid/package/contents/ui/printmanager.qml:151
+#, fuzzy
+#| msgid "No active jobs"
+msgid "Show Only Active Jobs"
+msgstr "Etkin iş yok"
+
+#: plasmoid/package/contents/ui/printmanager.qml:162
 msgid "&Configure Printers..."
 msgstr "&Yazıcıları Yapılandır..."
+
+#~ msgid "General"
+#~ msgstr "Genel"
+
+#~ msgid "Active jobs only"
+#~ msgstr "Sadece etkin görevler"
 
 #, fuzzy
 #~| msgid "Active jobs only"
@@ -105,9 +118,6 @@ msgstr "&Yazıcıları Yapılandır..."
 #~| msgid "No jobs"
 #~ msgid "%1, no jobs"
 #~ msgstr "İş yok"
-
-#~ msgid "No active jobs"
-#~ msgstr "Etkin iş yok"
 
 #~ msgid "One active job"
 #~ msgid_plural "%1 active jobs"

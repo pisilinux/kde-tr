@@ -16,7 +16,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdepim\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-23 00:45+0000\n"
+"POT-Creation-Date: 2021-04-02 00:25+0000\n"
 "PO-Revision-Date: 2017-10-23 09:26+0000\n"
 "Last-Translator: İşbaran <isbaran@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -33,7 +33,7 @@ msgctxt "Name"
 msgid "Incidence Serializer"
 msgstr "Olay Sıralandırıcısı"
 
-#: serializers/akonadi_serializer_kcalcore.desktop:51
+#: serializers/akonadi_serializer_kcalcore.desktop:52
 msgctxt "Comment"
 msgid "An Akonadi serializer plugin for events, tasks and journal entries"
 msgstr "Olay, görev ve günlük nesneleri için bir Akonadi sıralandırıcısı"

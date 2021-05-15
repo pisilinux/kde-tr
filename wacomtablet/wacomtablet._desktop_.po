@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-base-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-02 07:20+0000\n"
+"POT-Creation-Date: 2020-11-04 01:47+0000\n"
 "PO-Revision-Date: 2017-05-04 11:27+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -24,12 +24,12 @@ msgctxt "Name"
 msgid "Wacom Tablet Settings"
 msgstr "Wacom Tablet Ayarları"
 
-#: src/applet/package/metadata.desktop:49
+#: src/applet/package/metadata.desktop:48
 msgctxt "Comment"
 msgid "Hotplugging and profile support for Wacom tablets"
 msgstr "Wacom tabletler için tak/çalıştır ve profil desteği"
 
-#: src/applet/package/metadata.desktop:93
+#: src/applet/package/metadata.desktop:92
 msgctxt "Keywords"
 msgid "Wacom"
 msgstr "Wacom"
@@ -44,12 +44,12 @@ msgctxt "Name"
 msgid "Graphic Tablet"
 msgstr "Grafik Tablet"
 
-#: src/kcmodule/kcm_wacomtablet.desktop:62
+#: src/kcmodule/kcm_wacomtablet.desktop:61
 msgctxt "Comment"
 msgid "Wacom Tablet Settings"
 msgstr "Wacom Tablet Ayarları"
 
-#: src/kcmodule/kcm_wacomtablet.desktop:110
+#: src/kcmodule/kcm_wacomtablet.desktop:108
 msgctxt "X-KDE-Keywords"
 msgid "Tablet,Input Devices,Wacom,Stylus"
 msgstr "Tablet,Girdi Aygıtları,Wacom,Stylus"
@@ -59,7 +59,7 @@ msgctxt "Name"
 msgid "Wacom Tablet"
 msgstr "Wacom Tablet"
 
-#: src/kded/wacomtablet.desktop:60
+#: src/kded/wacomtablet.desktop:59
 msgctxt "Comment"
 msgid "Wacom tablet control daemon"
 msgstr "Wacom tablet yapılandırma hizmeti"
@@ -69,37 +69,37 @@ msgctxt "Comment"
 msgid "Wacom Tablet"
 msgstr "Wacom Tablet"
 
-#: src/kded/wacomtablet.notifyrc:51
+#: src/kded/wacomtablet.notifyrc:50
 msgctxt "Name"
 msgid "WacomTablet"
 msgstr "WacomTablet"
 
-#: src/kded/wacomtablet.notifyrc:98
+#: src/kded/wacomtablet.notifyrc:97
 msgctxt "Name"
 msgid "New tablet connected"
 msgstr "Yeni tablet bağlandı"
 
-#: src/kded/wacomtablet.notifyrc:142
+#: src/kded/wacomtablet.notifyrc:141
 msgctxt "Comment"
 msgid "New graphic tablet connected"
 msgstr "Yeni grafik tablet bağlandı"
 
-#: src/kded/wacomtablet.notifyrc:190
+#: src/kded/wacomtablet.notifyrc:188
 msgctxt "Name"
 msgid "Tablet removed"
 msgstr "Tablet çıkarıldı"
 
-#: src/kded/wacomtablet.notifyrc:234
+#: src/kded/wacomtablet.notifyrc:232
 msgctxt "Comment"
 msgid "Graphic tablet removed"
 msgstr "Grafik tablet çıkarıldı"
 
-#: src/kded/wacomtablet.notifyrc:281
+#: src/kded/wacomtablet.notifyrc:279
 msgctxt "Name"
 msgid "A tablet error"
 msgstr "Bir tablet hatası"
 
-#: src/kded/wacomtablet.notifyrc:326
+#: src/kded/wacomtablet.notifyrc:323
 msgctxt "Comment"
 msgid "An error occurred with the tablet"
 msgstr "Tablet ile ilgili bir hata oluştu"
@@ -109,7 +109,7 @@ msgctxt "Name"
 msgid "Wacom Tablet finder"
 msgstr "Wacom Tablet bulucu"
 
-#: src/tabletfinder/kde_wacom_tabletfinder.desktop:40
+#: src/tabletfinder/kde_wacom_tabletfinder.desktop:41
 msgctxt "GenericName"
 msgid "Helper tool to detect Wacom Tablets"
 msgstr "Wacom Tabletlerini bulmak için yardımcı araç"

@@ -1,0 +1,316 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the totalreqall package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: totalreqall\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-02-07 03:09+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: src/ChooseReferenceWidget.cpp:31 src/CustomContentAdder.cpp:23
+#: src/SavedContentLoader.cpp:30
+#, kde-format
+msgid "Speak"
+msgstr ""
+
+#: src/ChooseReferenceWidget.cpp:44
+#, kde-format
+msgid "Choose a verse"
+msgstr ""
+
+#: src/ChooseReferenceWidget.cpp:59
+#, kde-format
+msgid "No modules found"
+msgstr ""
+
+#: src/ChooseReferenceWidget.cpp:60
+#, kde-format
+msgid "Could not find any Bible modules."
+msgstr ""
+
+#: src/ChooseReferenceWidget.cpp:161
+#, kde-format
+msgid "Memorize verse"
+msgstr ""
+
+#: src/ChooseReferenceWidget.cpp:209 src/CustomContentAdder.cpp:42
+#, kde-format
+msgid "Save"
+msgstr ""
+
+#: src/ChooseReferenceWidget.cpp:212 src/CustomContentAdder.cpp:39
+#: src/SavedContentLoader.cpp:37
+#, kde-format
+msgid "Back"
+msgstr ""
+
+#: src/CustomContentAdder.cpp:32
+#, kde-format
+msgid "Memorize"
+msgstr ""
+
+#: src/CustomContentAdder.cpp:79
+#, kde-format
+msgid "Title:"
+msgstr ""
+
+#: src/CustomContentAdder.cpp:80
+#, kde-format
+msgid "Content:"
+msgstr ""
+
+#: src/main.cpp:32
+#, kde-format
+msgid "TotalReqall"
+msgstr ""
+
+#: src/main.cpp:36
+#, kde-format
+msgid "Copyright (C) 2020 Loren Burkholder"
+msgstr ""
+
+#: src/main.cpp:38
+#, kde-format
+msgid "Creator, maintainer"
+msgstr ""
+
+#: src/MainWindow.cpp:31
+#, kde-format
+msgid "&File"
+msgstr ""
+
+#: src/MainWindow.cpp:34
+#, kde-format
+msgid "Settings..."
+msgstr ""
+
+#: src/MainWindow.cpp:43
+#, kde-format
+msgid "Exit"
+msgstr ""
+
+#: src/MainWindow.cpp:49
+#, kde-format
+msgid "&Help"
+msgstr ""
+
+#: src/MainWindow.cpp:52
+#, kde-format
+msgid "Online help..."
+msgstr ""
+
+#: src/MainWindow.cpp:62
+#, kde-format
+msgid "About Qt"
+msgstr ""
+
+#: src/MainWindow.cpp:69
+#, kde-format
+msgid "About"
+msgstr ""
+
+#: src/MemorizeWidget.cpp:215 src/MemorizeWidget.cpp:294
+#, kde-format
+msgid "Stop memorizing"
+msgstr ""
+
+#: src/MemorizeWidget.cpp:242 src/MemorizeWidget.cpp:263
+#: src/MemorizeWidget.cpp:285
+#, kde-format
+msgid "Continue"
+msgstr ""
+
+#: src/SavedContentLoader.cpp:34 src/SavedContentLoader.cpp:47
+#, kde-format
+msgid "Delete"
+msgstr ""
+
+#: src/SavedContentLoader.cpp:36 src/SavedContentLoader.cpp:46
+#, kde-format
+msgid "Review"
+msgstr ""
+
+#: src/SavedContentLoader.cpp:114
+#, kde-format
+msgid "Double-click an entry to review it."
+msgstr ""
+
+#: src/SavedContentLoader.cpp:242
+#, kde-format
+msgid "Error"
+msgstr ""
+
+#: src/SavedContentLoader.cpp:243
+#, kde-format
+msgid "Error: could not find data for "
+msgstr ""
+
+#: src/SettingsDialog.cpp:25
+#, kde-format
+msgid "Load &last verse"
+msgstr ""
+
+#: src/SettingsDialog.cpp:26
+#, kde-format
+msgid "Load &random verse"
+msgstr ""
+
+#: src/SettingsDialog.cpp:27
+#, kde-format
+msgid "Load a &set verse"
+msgstr ""
+
+#: src/SettingsDialog.cpp:28
+#, kde-format
+msgid "&Choose verse..."
+msgstr ""
+
+#: src/SettingsDialog.cpp:29
+#, kde-format
+msgid "Save last set window size"
+msgstr ""
+
+#: src/SettingsDialog.cpp:31
+#, kde-format
+msgid "Load &last version"
+msgstr ""
+
+#: src/SettingsDialog.cpp:32
+#, kde-format
+msgid "Load &random version"
+msgstr ""
+
+#: src/SettingsDialog.cpp:33
+#, kde-format
+msgid "Load &set version"
+msgstr ""
+
+#: src/SettingsDialog.cpp:38
+#, kde-format
+msgid "&Retype the word"
+msgstr ""
+
+#: src/SettingsDialog.cpp:39
+#, kde-format
+msgid "Mark the word as incorrect and &keep going"
+msgstr ""
+
+#: src/SettingsDialog.cpp:40
+#, kde-format
+msgid "Split large content into smaller chunks"
+msgstr ""
+
+#: src/SettingsDialog.cpp:44
+#, kde-format
+msgid "Settings"
+msgstr ""
+
+#: src/SettingsDialog.cpp:78
+#, kde-format
+msgid "&Threshold size for splitting"
+msgstr ""
+
+#: src/SettingsDialog.cpp:79
+#, kde-format
+msgid "&How large of chunks to split into"
+msgstr ""
+
+#: src/SettingsDialog.cpp:121
+#, kde-format
+msgid "Set action when the wrong key is typed"
+msgstr ""
+
+#: src/SettingsDialog.cpp:132
+#, kde-format
+msgid "Configure how large content is handled"
+msgstr ""
+
+#: src/SettingsDialog.cpp:159
+#, kde-format
+msgid "Set what verse to load on startup"
+msgstr ""
+
+#: src/SettingsDialog.cpp:168
+#, kde-format
+msgid "Set what Bible version to load on startup"
+msgstr ""
+
+#: src/SettingsDialog.cpp:220
+#, kde-format
+msgid "&Memorization"
+msgstr ""
+
+#: src/SettingsDialog.cpp:223
+#, kde-format
+msgid "&Display"
+msgstr ""
+
+#: src/SettingsDialog.cpp:224
+#, kde-format
+msgid "&Startup"
+msgstr ""
+
+#: src/SimpleRefChooser.cpp:27
+#, kde-format
+msgid "OK"
+msgstr ""
+
+#: src/SimpleRefChooser.cpp:28
+#, kde-format
+msgid "Cancel"
+msgstr ""
+
+#: src/WelcomePage.cpp:21
+#, kde-format
+msgid "Saved"
+msgstr ""
+
+#: src/WelcomePage.cpp:21
+#, kde-format
+msgid "Review content that you've saved."
+msgstr ""
+
+#: src/WelcomePage.cpp:22
+#, kde-format
+msgid "Bible verse"
+msgstr ""
+
+#: src/WelcomePage.cpp:22
+#, kde-format
+msgid "Memorize a verse or verses from the Bible."
+msgstr ""
+
+#: src/WelcomePage.cpp:25
+#, kde-format
+msgid "Custom"
+msgstr ""
+
+#: src/WelcomePage.cpp:25
+#, kde-format
+msgid "Enter some custom content to memorize."
+msgstr ""
+
+#: src/WelcomePage.cpp:67
+#, kde-format
+msgid "Choose what to memorize."
+msgstr ""

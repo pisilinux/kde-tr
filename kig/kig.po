@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kig\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-24 02:11+0100\n"
+"POT-Creation-Date: 2021-04-16 00:15+0000\n"
 "PO-Revision-Date: 2017-06-09 14:24+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -831,174 +831,169 @@ msgstr "Izgara çizgilerini göster"
 msgid "Show axes"
 msgstr "Koordinat eksenlerini göster"
 
-#: kig/kig_part.cpp:193
-#, kde-format
-msgid "KigPart"
-msgstr "KigPart"
-
-#: kig/kig_part.cpp:241
+#: kig/kig_part.cpp:238
 #, kde-format
 msgid "Invert Selection"
 msgstr "Seçimi Tersine Çevir"
 
-#: kig/kig_part.cpp:248
+#: kig/kig_part.cpp:245
 #, kde-format
 msgid "&Delete Objects"
 msgstr "&Nesneleri Sil"
 
-#: kig/kig_part.cpp:252
+#: kig/kig_part.cpp:249
 #, kde-format
 msgid "Delete the selected objects"
 msgstr "Seçili nesneleri sil"
 
-#: kig/kig_part.cpp:254
+#: kig/kig_part.cpp:251
 #, kde-format
 msgid "Cancel Construction"
 msgstr "Oluşturmayı İptal Et"
 
-#: kig/kig_part.cpp:259
+#: kig/kig_part.cpp:256
 #, kde-format
 msgid "Cancel the construction of the object being constructed"
 msgstr "Oluşturulan nesneyi iptal et"
 
-#: kig/kig_part.cpp:262
+#: kig/kig_part.cpp:259
 #, kde-format
 msgid "Repeat Construction"
 msgstr "Oluşturmayı Tekrarla"
 
-#: kig/kig_part.cpp:267
+#: kig/kig_part.cpp:264
 #, kde-format
 msgid "Repeat the last construction (with new data)"
 msgstr "Son yapıyı yenile (yeni veriyle)"
 
-#: kig/kig_part.cpp:270 modes/popup/builtindocumentactionsprovider.cc:35
+#: kig/kig_part.cpp:267 modes/popup/builtindocumentactionsprovider.cc:35
 #, kde-format
 msgid "U&nhide All"
 msgstr "&Tümünü Göster"
 
-#: kig/kig_part.cpp:273
+#: kig/kig_part.cpp:270
 #, kde-format
 msgid "Show all hidden objects"
 msgstr "Tüm gizli nesneleri göster"
 
-#: kig/kig_part.cpp:276
+#: kig/kig_part.cpp:273
 #, kde-format
 msgid "&New Macro..."
 msgstr "&Yeni Makro..."
 
-#: kig/kig_part.cpp:279
+#: kig/kig_part.cpp:276
 #, kde-format
 msgid "Define a new macro"
 msgstr "Yeni bir makro tanımla"
 
-#: kig/kig_part.cpp:281
+#: kig/kig_part.cpp:278
 #, kde-format
 msgid "Manage &Types..."
 msgstr "&Türleri Yönet..."
 
-#: kig/kig_part.cpp:284
+#: kig/kig_part.cpp:281
 #, kde-format
 msgid "Manage macro types."
 msgstr "Makro türlerini yönet."
 
-#: kig/kig_part.cpp:286
+#: kig/kig_part.cpp:283
 #, kde-format
 msgid "&Browse History..."
 msgstr "&Geçmişi Tara..."
 
-#: kig/kig_part.cpp:289
+#: kig/kig_part.cpp:286
 #, kde-format
 msgid "Browse the history of the current construction."
 msgstr "Mevcut oluşturmanın geçmişine gözat."
 
-#: kig/kig_part.cpp:296 kig/kig_part.cpp:297
+#: kig/kig_part.cpp:293 kig/kig_part.cpp:294
 #, kde-format
 msgid "Zoom in on the document"
 msgstr "Belgeye yakınlaş"
 
-#: kig/kig_part.cpp:301 kig/kig_part.cpp:302
+#: kig/kig_part.cpp:298 kig/kig_part.cpp:299
 #, kde-format
 msgid "Zoom out of the document"
 msgstr "Belgeden uzaklaş"
 
-#: kig/kig_part.cpp:308 kig/kig_part.cpp:309
+#: kig/kig_part.cpp:305 kig/kig_part.cpp:306
 #, kde-format
 msgid "Recenter the screen on the document"
 msgstr "Geçerli belgede kullanılan ekranı merkeze taşı"
 
-#: kig/kig_part.cpp:312 kig/kig_part.cpp:313
+#: kig/kig_part.cpp:309 kig/kig_part.cpp:310
 #, kde-format
 msgid "View this document full-screen."
 msgstr "Bu belgeyi tam ekran görüntüle"
 
-#: kig/kig_part.cpp:316
+#: kig/kig_part.cpp:313
 #, kde-format
 msgid "&Select Shown Area"
 msgstr "&Gösterilen Alanı Seç"
 
-#: kig/kig_part.cpp:319 kig/kig_part.cpp:320
+#: kig/kig_part.cpp:316 kig/kig_part.cpp:317
 #, kde-format
 msgid "Select the area that you want to be shown in the window."
 msgstr "Pencerede gösterilmesini istediğiniz alanı seçin."
 
-#: kig/kig_part.cpp:322
+#: kig/kig_part.cpp:319
 #, kde-format
 msgid "S&elect Zoom Area"
 msgstr "Odaklanma Alanını S&eç"
 
 #. i18n( "Select the area that you want to be shown in the window." ) );
 #. a->setWhatsThis( i18n( "Select the area that you want to be shown in the window." ) );
-#: kig/kig_part.cpp:328
+#: kig/kig_part.cpp:325
 #, kde-format
 msgid "Set Coordinate &Precision..."
 msgstr "Koordinat &Hassasiyeti Tanımla..."
 
-#: kig/kig_part.cpp:330
+#: kig/kig_part.cpp:327
 #, kde-format
 msgid "Set the floating point precision of coordinates in the document. "
 msgstr "Belgedeki koordinatların kayan nokta hassasiyetini ayarla. "
 
-#: kig/kig_part.cpp:333
+#: kig/kig_part.cpp:330
 #, kde-format
 msgid "Show &Grid"
 msgstr "Iz&gara çizgilerini göster"
 
-#: kig/kig_part.cpp:335
+#: kig/kig_part.cpp:332
 #, kde-format
 msgid "Show or hide the grid."
 msgstr "Izgara çubuklarını göster ya da gizle."
 
-#: kig/kig_part.cpp:339
+#: kig/kig_part.cpp:336
 #, kde-format
 msgid "Show &Axes"
 msgstr "Koordin&at eksenlerini göster"
 
-#: kig/kig_part.cpp:341
+#: kig/kig_part.cpp:338
 #, kde-format
 msgid "Show or hide the axes."
 msgstr "Eksenleri göster ya da gizle."
 
-#: kig/kig_part.cpp:345
+#: kig/kig_part.cpp:342
 #, kde-format
 msgid "Wear Infrared Glasses"
 msgstr "Kızılötesi Gözlük Tak"
 
-#: kig/kig_part.cpp:347
+#: kig/kig_part.cpp:344
 #, kde-format
 msgid "Enable/disable hidden objects' visibility."
 msgstr "Gizli nesne görünürlüğünü aç/kapat."
 
-#: kig/kig_part.cpp:379
+#: kig/kig_part.cpp:376
 #, kde-format
 msgid "Repeat Construction (%1)"
 msgstr "Oluşturmayı Tekrarla (%1)"
 
-#: kig/kig_part.cpp:381
+#: kig/kig_part.cpp:378
 #, kde-format
 msgid "Repeat %1 (with new data)"
 msgstr "Tekrarla %1 (yeni verilerle)"
 
-#: kig/kig_part.cpp:410
+#: kig/kig_part.cpp:407
 #, kde-format
 msgid ""
 "The file \"%1\" you tried to open does not exist. Please verify that you "
@@ -1006,12 +1001,12 @@ msgid ""
 msgstr ""
 "Açmaya çalıştığınız \"%1\" dosyası bulunamadı. Lütfen, tekrar deneyiniz."
 
-#: kig/kig_part.cpp:412
+#: kig/kig_part.cpp:409
 #, kde-format
 msgid "File Not Found"
 msgstr "Dosya Bulunamadı"
 
-#: kig/kig_part.cpp:431
+#: kig/kig_part.cpp:428
 #, kde-format
 msgid ""
 "You tried to open a document of type \"%1\"; unfortunately, Kig does not "
@@ -1026,12 +1021,12 @@ msgstr ""
 "\">KDE hata izleme sistemi</a> üzerinden bir özellik isteğinde "
 "bulunabilirsiniz"
 
-#: kig/kig_part.cpp:433 kig/kig_part.cpp:478
+#: kig/kig_part.cpp:430 kig/kig_part.cpp:475
 #, kde-format
 msgid "Format Not Supported"
 msgstr "Biçim Desteklenmiyor"
 
-#: kig/kig_part.cpp:476
+#: kig/kig_part.cpp:473
 #, kde-format
 msgid ""
 "Kig does not support saving to any other file format than its own. Save to "
@@ -1040,12 +1035,12 @@ msgstr ""
 "Kig farklı bir dosya biçiminde kaydetmeyi desteklemiyor. Dosya Kig'in dosya "
 "biçimine kaydedilsin mi?"
 
-#: kig/kig_part.cpp:478
+#: kig/kig_part.cpp:475
 #, kde-format
 msgid "Save Kig Format"
 msgstr "Kig Biçimini Kaydet"
 
-#: kig/kig_part.cpp:744
+#: kig/kig_part.cpp:741
 #, fuzzy, kde-format
 #| msgid ""
 #| "*.kig|Kig Documents (*.kig)\n"
@@ -1055,31 +1050,31 @@ msgstr ""
 "*.kig|Kig Belgeleri (*.kig)\n"
 "*.kigz|Sıkıştırılmış Kig Belgeleri (*.kigz)"
 
-#: kig/kig_part.cpp:757 misc/kigfiledialog.cc:57 modes/typesdialog.cpp:471
+#: kig/kig_part.cpp:754 misc/kigfiledialog.cc:57 modes/typesdialog.cpp:471
 #, kde-format
 msgid "The file \"%1\" already exists. Do you wish to overwrite it?"
 msgstr "\"%1\" dosyası mevcut. Üzerine yazmak ister misiniz?"
 
-#: kig/kig_part.cpp:758 misc/kigfiledialog.cc:58 modes/typesdialog.cpp:473
+#: kig/kig_part.cpp:755 misc/kigfiledialog.cc:58 modes/typesdialog.cpp:473
 #, kde-format
 msgid "Overwrite File?"
 msgstr "Dosyanın üstüne yazılsın mı?"
 
-#: kig/kig_part.cpp:914
+#: kig/kig_part.cpp:911
 #, fuzzy, kde-format
 #| msgid "Print Geometry"
 msgctxt "@title:window"
 msgid "Print Geometry"
 msgstr "Yazdırma Boyutları"
 
-#: kig/kig_part.cpp:981
+#: kig/kig_part.cpp:978
 #, kde-format
 msgid "Hide %1 Object"
 msgid_plural "Hide %1 Objects"
 msgstr[0] "%1 Nesneyi Gizle"
 msgstr[1] "%1 Nesneyi Gizle"
 
-#: kig/kig_part.cpp:1000
+#: kig/kig_part.cpp:997
 #, kde-format
 msgid "Show %1 Object"
 msgid_plural "Show %1 Objects"
@@ -7120,6 +7115,9 @@ msgstr ""
 "<p>Bir konum nesnesi oluşturacağınızda,<em>sağ</em> fare tuşuna basın ve "
 "<em>kartezyen denklemini</em> seçerek onun kartezyen denklemini "
 "bulabilirsiniz ve bu düşük derecede cebirsel bir eğri olacaktır.</p>\n"
+
+#~ msgid "KigPart"
+#~ msgstr "KigPart"
 
 #~ msgid "Construct Midpoint of This Point and Another One"
 #~ msgstr "Bu Nokta ile Başka Bir Noktanın Orta Noktasını Oluştur"

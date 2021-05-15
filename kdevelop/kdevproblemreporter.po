@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-kdevelop-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-17 07:46+0200\n"
+"POT-Creation-Date: 2020-11-16 02:17+0100\n"
 "PO-Revision-Date: 2017-05-16 07:08+0000\n"
 "Last-Translator: Mete <metebilgin48@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -26,7 +26,7 @@ msgid "Parser"
 msgstr "Ayrıştırıcı"
 
 #: problemreporterplugin.cpp:91 problemreporterplugin.cpp:185
-#: problemsview.cpp:294
+#: problemsview.cpp:303
 #, fuzzy, kde-format
 #| msgid "Problems"
 msgctxt "@title:window"
@@ -47,79 +47,79 @@ msgctxt "@action:inmenu"
 msgid "Solve: %1"
 msgstr "Çöz: %1"
 
-#: problemsview.cpp:48
+#: problemsview.cpp:49
 #, fuzzy, kde-format
 #| msgid "Force Full Update"
 msgctxt "@action"
 msgid "Force Full Update"
 msgstr "Tam Güncellemeye Zorla"
 
-#: problemsview.cpp:59
+#: problemsview.cpp:64
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Which files to display the problems for"
 msgstr "Sorunlar için gösterilecek dosyalar"
 
-#: problemsview.cpp:65
+#: problemsview.cpp:70
 #, fuzzy, kde-format
 #| msgid "Current Document"
 msgctxt "@option:check"
 msgid "Current Document"
 msgstr "Geçerli belge"
 
-#: problemsview.cpp:66
+#: problemsview.cpp:71
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Display problems in current document"
 msgstr "Geçerli belgedeki sorunları göster"
 
-#: problemsview.cpp:69
+#: problemsview.cpp:74
 #, fuzzy, kde-format
 #| msgid "Open Documents"
 msgctxt "@option:check"
 msgid "Open Documents"
 msgstr "Açık Belgeler"
 
-#: problemsview.cpp:70
+#: problemsview.cpp:75
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Display problems in all open documents"
 msgstr "Bütün açık belgelerdeki sorunları göster"
 
-#: problemsview.cpp:73
+#: problemsview.cpp:78
 #, fuzzy, kde-format
 #| msgid "Current Project"
 msgctxt "@option:check"
 msgid "Current Project"
 msgstr "Geçerli Proje"
 
-#: problemsview.cpp:74
+#: problemsview.cpp:79
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Display problems in current project"
 msgstr "Geçerli projedeki sorunları göster"
 
-#: problemsview.cpp:77
+#: problemsview.cpp:82
 #, fuzzy, kde-format
 #| msgid "All Projects"
 msgctxt "@option:check"
 msgid "All Projects"
 msgstr "Tüm Projeler"
 
-#: problemsview.cpp:78
+#: problemsview.cpp:83
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Display problems in all projects"
 msgstr "Bütün projelerdeki sorunları göster"
 
-#: problemsview.cpp:81
+#: problemsview.cpp:86
 #, fuzzy, kde-format
 #| msgid "Show All"
 msgctxt "@option:check"
 msgid "Show All"
 msgstr "Tümünü Göster"
 
-#: problemsview.cpp:82
+#: problemsview.cpp:87
 #, fuzzy, kde-format
 #| msgctxt "@info:tooltip"
 #| msgid "Display ALL problems"
@@ -127,94 +127,94 @@ msgctxt "@info:tooltip"
 msgid "Display all problems"
 msgstr "TÜM sorunları göster"
 
-#: problemsview.cpp:111
+#: problemsview.cpp:116
 #, fuzzy, kde-format
 #| msgid "Show Imports"
 msgctxt "@option:check"
 msgid "Show Imports"
 msgstr "İçeri Aktarılanları Göster"
 
-#: problemsview.cpp:112
+#: problemsview.cpp:117
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Display problems in imported files"
 msgstr "Aktarılan dosyalardaki sorunları göster"
 
-#: problemsview.cpp:122
+#: problemsview.cpp:127
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Display errors"
 msgstr "Hataları göster"
 
-#: problemsview.cpp:124
+#: problemsview.cpp:129
 #, fuzzy, kde-format
 #| msgid "Show Errors"
 msgctxt "@option:check"
 msgid "Show Errors"
 msgstr "Hataları Göster"
 
-#: problemsview.cpp:127
+#: problemsview.cpp:132
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Display warnings"
 msgstr "Uyarıları göster"
 
-#: problemsview.cpp:129
+#: problemsview.cpp:134
 #, fuzzy, kde-format
 #| msgid "Show Warnings"
 msgctxt "@option:check"
 msgid "Show Warnings"
 msgstr "Uyarıları Göster"
 
-#: problemsview.cpp:132
+#: problemsview.cpp:137
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Display hints"
 msgstr "İpuçlarını göster"
 
-#: problemsview.cpp:134
+#: problemsview.cpp:139
 #, fuzzy, kde-format
 #| msgid "Show Hints"
 msgctxt "@option:check"
 msgid "Show Hints"
 msgstr "İpuçlarını Göster"
 
-#: problemsview.cpp:154
+#: problemsview.cpp:159
 #, fuzzy, kde-format
 #| msgid "Grouping"
 msgctxt "@title:menu"
 msgid "Grouping"
 msgstr "Gruplandırma"
 
-#: problemsview.cpp:159
+#: problemsview.cpp:168
 #, fuzzy, kde-format
 #| msgid "None"
 msgctxt "@option:check"
 msgid "None"
 msgstr "Hiçbiri"
 
-#: problemsview.cpp:160
+#: problemsview.cpp:169
 #, fuzzy, kde-format
 #| msgid "Path"
 msgctxt "@option:check"
 msgid "Path"
 msgstr "Yol"
 
-#: problemsview.cpp:161
+#: problemsview.cpp:170
 #, fuzzy, kde-format
 #| msgid "Severity"
 msgctxt "@option:check"
 msgid "Severity"
 msgstr "Önem"
 
-#: problemsview.cpp:189
+#: problemsview.cpp:198
 #, fuzzy, kde-format
 #| msgid "Search..."
 msgctxt "@info:placeholder"
 msgid "Search..."
 msgstr "Ara..."
 
-#: problemsview.cpp:432
+#: problemsview.cpp:441
 #, fuzzy, kde-format
 #| msgctxt "%1: tab name, %2: number of problems"
 #| msgid "%1 (%2)"
@@ -222,7 +222,7 @@ msgctxt "@title:tab %1: tab name, %2: number of problems"
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
-#: problemsview.cpp:470
+#: problemsview.cpp:479
 #, fuzzy, kde-format
 #| msgid "Scope: %1"
 msgctxt "@title:menu"
@@ -279,9 +279,6 @@ msgstr "Çöz: %1"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Select the lowest level of problem severity to be displayed"
 #~ msgstr "Sorunun görüntüleneceği en düşük ciddiyet seviyesini seçin"
-
-#~ msgid "Error"
-#~ msgstr "Hata"
 
 #~ msgid "Hint"
 #~ msgstr "İpucu"

@@ -1,0 +1,149 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WikiPages-en b3838de29fa8fc0bd798c67213a4c54b90491e33\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-15 19:39+0200\n"
+"PO-Revision-Date: 2017-07-22 20:27+0000\n"
+"Last-Translator: Serdar <syigitisk@gmail.com>\n"
+"Language-Team: Turkish <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+
+#: wikitolearn-guide-chapter-3.mw:1
+msgid ""
+"Chapters are a collection of sections. They're intended to be used like a "
+"chapter of a book and have their own title."
+msgstr ""
+"Bölümler, kısımların bir araya gelmesinden oluşur. Kendi başlıkları vardır "
+"ve bir kitabın bir bölümü gibi kullanılması amaçlanmıştır."
+
+#: wikitolearn-guide-chapter-3.mw:1
+msgid "Add a chapter"
+msgstr "Bir bölüm ekle"
+
+#: wikitolearn-guide-chapter-3.mw:4
+msgid ""
+"You can add a chapter to a course by navigating to the course main page.\n"
+"Click on the red pencil button on the right and insert the name of the "
+"chapter you want to add.\n"
+"Once done, click on <code>Save Course</code> button."
+msgstr ""
+"Kurs ana sayfasına giderek bir kursa bir bölüm ekleyebilirsiniz.\n"
+"Kırmızı kurşun kalem düğmesine tıklayın ve eklemek istediğiniz bölümün adını "
+"ekleyin.\n"
+"Bitirdiğinizde, <code>Kursu Kaydet</code> düğmesine tıklayın."
+
+#: wikitolearn-guide-chapter-3.mw:8
+msgid "[[<ref:FILE_42>]]"
+msgstr "[[<ref:FILE_42>]]"
+
+#: wikitolearn-guide-chapter-3.mw:8
+msgid "Rename a chapter"
+msgstr "Bir bölümü yeniden adlandır"
+
+#: wikitolearn-guide-chapter-3.mw:11
+msgid ""
+"To rename a chapter, go to the course main page and click on the red pencil "
+"button on the right.\n"
+"A list of all the created chapters will show up.\n"
+"Place the mouse on the target chapter and a blue pencil will appear on the "
+"right.\n"
+"Click on the pencil and insert the new name for the chapter.\n"
+"Once done, click on the <code>Save course</code> button."
+msgstr ""
+"Bir bölümü yeniden adlandırmak için, kurs ana sayfasına gidin ve sağdaki "
+"kırmızı kurşun kalem düğmesine tıklayın.\n"
+"Tüm oluşturulmuş bölümlerin bir listesi görünecektir.\n"
+"Fareyi hedef bölümün üzerine getirin ve sağda mavi bir kurşun kalem "
+"görünecektir.\n"
+"Kalem üzerine tıklatın ve bölüm için yeni adı ekleyin.\n"
+"Bitirdiğinizde, <code>Kursu kaydet</code> düğmesine tıklayın."
+
+#: wikitolearn-guide-chapter-3.mw:17
+msgid "[[<ref:FILE_43>]]"
+msgstr "[[<ref:FILE_43>]]"
+
+#: wikitolearn-guide-chapter-3.mw:17
+msgid "Delete a chapter"
+msgstr "Bir bölümü sil"
+
+#: wikitolearn-guide-chapter-3.mw:20
+msgid ""
+"To delete a chapter, go to the course main page and click on the <code>edit "
+"course</code> link.\n"
+"A list of all the created chapters will show up.\n"
+"Place the mouse on the targeted chapter and a red bin will appear on the "
+"right.\n"
+"If you click on the bin you will notice that your chapter will be placed in "
+"a recycling bin.\n"
+"Once done, save the changes by clicking on the <code>Save course</code> "
+"button."
+msgstr ""
+"Bir bölümü silmek için, kurs ana sayfasına gidin ve <code>kursu düzenle</"
+"code> bağlantısına tıklayın.\n"
+"Tüm oluşturulmuş bölümlerin bir listesi görünecektir.\n"
+"Fareyi hedef bölümün üzerine getirin ve sağda kırmızı bir çöp kutusu "
+"görünecektir.\n"
+"Çöp kutusu üzerine tıklarsanız bölümünüzün bir geri dönüşüm kutusuna "
+"yerleştirileceğini farkedeceksiniz.\n"
+"Bitirdiğinizde, <code>Kursu kaydet</code> düğmesine tıklayarak "
+"değişiklikleri kaydedin."
+
+#: wikitolearn-guide-chapter-3.mw:26
+msgid "[[<ref:FILE_44>]]"
+msgstr "[[<ref:FILE_44>]]"
+
+#: wikitolearn-guide-chapter-3.mw:26
+msgid "Restore a chapter"
+msgstr "Bir bölümü geri yükle"
+
+#: wikitolearn-guide-chapter-3.mw:29
+msgid ""
+"If you have chapters in the recycling bin you can restore them by placing "
+"the mouse on the chapters and clicking on the restore icon on the left of "
+"the chapter's name."
+msgstr ""
+"Eğer geri dönüşüm kutusunda bölümleriniz varsa, fareyi bu bölümler üzerine "
+"getirerek ve bölüm isminin solundaki geri yükle simgesine tıklayarak geri "
+"yükleyebilirsiniz."
+
+#: wikitolearn-guide-chapter-3.mw:31
+msgid "[[<ref:FILE_45>]]"
+msgstr "[[<ref:FILE_45>]]"
+
+#: wikitolearn-guide-chapter-3.mw:33
+msgid ""
+"Always remember to save the changes by clicking on the <code>Save Course</"
+"code> button."
+msgstr ""
+"Değişiklikleri kaydetmek için her zaman <code>Kursu Kaydet</code> düğmesine "
+"tıklamayı unutmayın."
+
+#: wikitolearn-guide-chapter-3.mw:33
+msgid "Move a chapter"
+msgstr "Bir bölümü taşı"
+
+#: wikitolearn-guide-chapter-3.mw:36
+msgid ""
+"You can change the order of the chapter's list by clicking on the red pencil "
+"button.\n"
+"A list of chapters will show up.\n"
+"Simply drag and drop them to swap their order.\n"
+"Once done, save your changes by clicking on the <code>Save course</code> "
+"button."
+msgstr ""
+"Bölüm listesinin sırasını kırmızı kurşun kalem düğmesine tıklayarak "
+"değiştirebilirsiniz.\n"
+"Bölümlerin bir listesi gösterilecek.\n"
+"Sıralarını değiştirmek için basitçe sürükleyip bırakın.\n"
+"Bitirdiğinizde, <code>Kursu kaydet</code> düğmesine tıklayarak "
+"değişikliklerinizi kaydedin."
+
+#: wikitolearn-guide-chapter-3.mw:41
+msgid "[[<ref:FILE_46>]]"
+msgstr "[[<ref:FILE_46>]]"

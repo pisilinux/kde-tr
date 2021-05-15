@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.SymbolEditor.appdata\n"
-"POT-Creation-Date: 2019-06-20 07:38+0200\n"
+"POT-Creation-Date: 2015-11-03 13:44+0000\n"
 "PO-Revision-Date: 2017-06-15 19:34+0000\n"
 "Last-Translator: Mete <metebilgin48@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"

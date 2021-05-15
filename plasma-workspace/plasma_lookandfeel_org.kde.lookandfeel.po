@@ -58,7 +58,7 @@ msgstr "Yeniden Başlat"
 #: ../sddm-theme/Main.qml:231 ../sddm-theme/Main.qml:419
 #: contents/logout/Logout.qml:204
 #, kde-format
-msgid "Shut down"
+msgid "Shut Down"
 msgstr "Bilgisayarı Kapat"
 
 #: ../sddm-theme/Main.qml:239
@@ -339,20 +339,20 @@ msgctxt ""
 msgid "Plasma made by KDE"
 msgstr "KDE tarafından yapılan Plasma"
 
-msgid "Close"
-msgstr "Kapat"
+#~ msgid "Close"
+#~ msgstr "Kapat"
 
-msgid "Suspend"
-msgstr "Beklet"
+#~ msgid "Suspend"
+#~ msgstr "Beklet"
 
-msgid "Reboot"
-msgstr "Yeniden Başlat"
+#~ msgid "Reboot"
+#~ msgstr "Yeniden Başlat"
 
-msgid "Logout"
-msgstr "Çıkış"
+#~ msgid "Logout"
+#~ msgstr "Çıkış"
 
-msgid "Different User"
-msgstr "Farklı Bir Kullanıcı"
+#~ msgid "Different User"
+#~ msgstr "Farklı Bir Kullanıcı"
 
 #, fuzzy
 #~| msgid "Login as different user"
@@ -360,12 +360,12 @@ msgstr "Farklı Bir Kullanıcı"
 #~ msgstr "Farklı bir kullanıcı olarak giriş yap"
 
 #, fuzzy
-msgid "Password"
-msgid "Password..."
-msgstr "Parola"
+#~| msgid "Password"
+#~ msgid "Password..."
+#~ msgstr "Parola"
 
-msgid "Login"
-msgstr "Giriş"
+#~ msgid "Login"
+#~ msgstr "Giriş"
 
-msgid "Switch"
-msgstr "Değiştir"
+#~ msgid "Switch"
+#~ msgstr "Değiştir"

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calligra-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-31 02:41+0200\n"
+"POT-Creation-Date: 2021-04-25 00:18+0000\n"
 "PO-Revision-Date: 2014-09-05 12:05+0000\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/calligra-k-tr/"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: CalendarTool.cpp:73
+#: CalendarTool.cpp:60
 #, kde-format
 msgid ""
 "End date is before start date! Please make sure that end date comes after "
@@ -31,12 +31,12 @@ msgstr ""
 "Bitiş tarihi başlama tarihinden önce! Lütfen bitiş tarihinin başlama "
 "tarihinden sonra olduğundan emin olun."
 
-#: CalendarTool.cpp:73 CalendarTool.cpp:78
+#: CalendarTool.cpp:60 CalendarTool.cpp:65
 #, kde-format
 msgid "Error"
 msgstr "Hata"
 
-#: CalendarTool.cpp:78
+#: CalendarTool.cpp:65
 #, kde-format
 msgid ""
 "Calendars should not be longer than 10 years. If you really need such long "
@@ -45,7 +45,7 @@ msgstr ""
 "Takvimler 10 yıldan daha uzun olmamalıdır. Eğer gerçekten böyle uzun "
 "sürelere ihtiyacınız varsa bunları bölmeniz gerekir."
 
-#: CalendarTool.cpp:83
+#: CalendarTool.cpp:70
 #, kde-format
 msgid ""
 "Start and end dates are equal! Only one day will be inserted, do you want to "
@@ -54,12 +54,12 @@ msgstr ""
 "Başlama ​​ve bitiş tarihleri aynı! Sadece bir gün eklenecek, devam etmek "
 "istiyor musunuz?"
 
-#: CalendarTool.cpp:83 CalendarTool.cpp:88 CalendarTool.cpp:104
+#: CalendarTool.cpp:70 CalendarTool.cpp:75 CalendarTool.cpp:91
 #, kde-format
 msgid "Warning"
 msgstr "Uyarı"
 
-#: CalendarTool.cpp:88
+#: CalendarTool.cpp:75
 #, kde-format
 msgid ""
 "Creating a calendar for a longer period than a year can take up a lot of "
@@ -68,7 +68,7 @@ msgstr ""
 "Bir yıldan daha uzun bir süre için bir takvim oluşturmak çok yer "
 "kaplayabilir, devam etmek istiyor musunuz?"
 
-#: CalendarTool.cpp:104
+#: CalendarTool.cpp:91
 #, kde-format
 msgid ""
 "The area where the calendar is inserted is NOT empty, are you sure you want "
@@ -81,22 +81,22 @@ msgstr ""
 "için gerekli alan seçilecektir böylece hangi verilerin üzerine yazılacağını "
 "görebilirsiniz."
 
-#: CalendarTool.cpp:115
+#: CalendarTool.cpp:102
 msgctxt "(qtundo-format)"
 msgid "Insert Calendar"
 msgstr "Takvim Ekle"
 
-#: CalendarTool.cpp:120
+#: CalendarTool.cpp:107
 #, kde-format
 msgid "Calendar from %1 to %2"
 msgstr "Takvim %1 tarihinden %2 tarihine"
 
-#: CalendarTool.cpp:162
+#: CalendarTool.cpp:149
 #, kde-format
 msgid "week"
 msgstr "hafta"
 
-#: CalendarToolFactory.cpp:37
+#: CalendarToolFactory.cpp:24
 #, kde-format
 msgid "Calendar"
 msgstr "Takvim"

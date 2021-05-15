@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-kdevelop-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-17 07:46+0200\n"
+"POT-Creation-Date: 2020-07-20 02:08+0200\n"
 "PO-Revision-Date: 2021-04-20 15:16+0200\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -135,16 +135,13 @@ msgstr ""
 "</p>"
 
 #: editexternalscript.cpp:109
-#, fuzzy, kde-format
-#| msgid ""
-#| "<p>Defines whether the output of the script should be shown in a toolview."
-#| "</p>"
+#, kde-format
 msgctxt "@info:tooltip"
 msgid ""
 "<p>Defines whether the output of the script should be shown in a tool view.</"
 "p>"
 msgstr ""
-"<p>Araç görünümünde dış betiğin çıktısının gösterilip gösterilmeyeceğini "
+"<p>Araç görünümünde betiğin çıktısının gösterilip gösterilmeyeceğini "
 "tanımlar.</p>"
 
 #: editexternalscript.cpp:113
@@ -488,7 +485,7 @@ msgstr "Google seçimi"
 #: externalscriptplugin.cpp:171
 #, kde-format
 msgid "Paste to Hastebin"
-msgstr ""
+msgstr "Hastebin'e Yapıştır"
 
 #: externalscriptplugin.cpp:253
 #, kde-format

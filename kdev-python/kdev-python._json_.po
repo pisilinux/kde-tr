@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-30 01:50+0000\n"
+"POT-Creation-Date: 2021-03-30 00:29+0000\n"
 "PO-Revision-Date: 2017-10-23 09:39+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
@@ -13,12 +13,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: debugger/kdevpdb.json
-#, fuzzy
-#| msgctxt "Description"
-#| msgid "Python Language Support"
 msgctxt "Name"
 msgid "Python Debugger (PDB) support"
-msgstr "Python Dil Desteği"
+msgstr "Python Hata Ayıklayıcı (PDB) desteği"
 
 #: kdevpythonsupport.json
 msgctxt "Name"

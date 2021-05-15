@@ -1,0 +1,415 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CourseEditor 16febb5379015b33101402639c288c536a7aadac\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-15 19:35+0200\n"
+"PO-Revision-Date: 2017-10-23 09:34+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+
+#: .courseeditor
+msgid "Course editor"
+msgstr "Kurs düzenleyici"
+
+#: .courseeditor-createcourse-pagetitle
+msgid "Create course"
+msgstr "Kurs oluştur"
+
+#: .courseeditor-editcourse-pagetitle
+msgid "Edit course"
+msgstr "Kursu düzenle"
+
+#: .courseeditor-editlevelTwo-pagetitle
+msgid "Edit chapter"
+msgstr "Bölümü düzenle"
+
+#: .courseeditor-managemetata-pagetitle
+msgid "Metadata management"
+msgstr "Üstveri yönetimi"
+
+#: .courseeditor-managemetata-description
+msgid ""
+"With this page you can manage course's metadata<br> <i>You can use the wiki "
+"syntax (wikitext) within textarea to add links, bullet lists etc...</i>"
+msgstr ""
+"Bu sayfa ile kursların üst verisini yönetebilirsiniz<br><i> Wiki sözdizimini "
+"(wikitext) metin alanı içerisinde bağlantı, işaretli liste vb... eklemek "
+"için kullanabilirsiniz.</i>"
+
+#: .courseeditor-credits-info
+msgid "CourseEditor is an extension to create and manage courses."
+msgstr "KursDüzenleyici kurs oluşturmak ve yönetmek için bir uzantıdır."
+
+#: .courseeditor-add-new-levelThree
+msgid "Add a new section"
+msgstr "Yeni bir kısım ekle"
+
+#: .courseeditor-save-course
+msgid "Save course"
+msgstr "Kursu kaydet"
+
+#: .courseeditor-add-new-levelTwo
+msgid "Add new chapter"
+msgstr "Yeni bölüm ekle"
+
+#: .courseeditor-save-levelTwo
+msgid "Save chapter"
+msgstr "Bölümü kaydet"
+
+#: .courseeditor-cancel
+msgctxt ".courseeditor-cancel"
+msgid "Cancel"
+msgstr "İptal et"
+
+#: .courseeditor-edit-dialog
+msgid "Edit"
+msgstr "Düzenle"
+
+#: .courseeditor-rename
+msgctxt ".courseeditor-rename"
+msgid "Rename"
+msgstr "Yeniden Adlandır"
+
+#: .courseeditor-organize-levelsTwo
+msgid "You can organize, add and delete chapters"
+msgstr "Bölümleri organize edebilir, ekleyebilir ve silebilirsiniz"
+
+#: .courseeditor-organize-levelsThree
+msgid "You can organize, add and delete sections"
+msgstr "Bölümleri organize edebilir, ekleyebilir ve silebilirsiniz"
+
+#: .courseeditor-input-department-label
+msgid "Department:"
+msgstr "Bölüm:"
+
+#: .courseeditor-input-department-placeholder
+msgid "Insert the department of the course"
+msgstr "Kursun bölümünü ekle"
+
+#: .courseeditor-input-topic-label
+msgid "Topic:"
+msgstr "Konu:"
+
+#: .courseeditor-input-topic-placeholder
+msgid "Insert the topic of the course"
+msgstr "Kursun konusunu ekle"
+
+#: .courseeditor-input-course-label
+msgid "Title:"
+msgstr "Başlık:"
+
+#: .courseeditor-input-course-placeholder
+msgid "Insert the title of the course"
+msgstr "Kursun başlığını ekle"
+
+#: .courseeditor-input-description-label
+msgid "Description:"
+msgstr "Tanım:"
+
+#: .courseeditor-input-description-placeholder
+msgid "Insert a description"
+msgstr "Bir açıklama ekle"
+
+#: .courseeditor-input-bibliography-label
+msgid "Bibliography:"
+msgstr "Kaynakça:"
+
+#: .courseeditor-input-bibliography-placeholder
+msgid "Insert the bibliography"
+msgstr "Kaynakça Ekle"
+
+#: .courseeditor-input-exercises-label
+msgid "Exercises:"
+msgstr "Alıştırmalar:"
+
+#: .courseeditor-input-exercises-placeholder
+msgid "Insert the exercises"
+msgstr "Alıştırmaları ekle"
+
+#: .courseeditor-input-books-label
+msgid "Books:"
+msgstr "Kitaplar:"
+
+#: .courseeditor-input-books-placeholder
+msgid "Insert the books"
+msgstr "Kitapları ekle"
+
+#: .courseeditor-input-externalreferences-label
+msgid "External references:"
+msgstr "Dış referanslar:"
+
+#: .courseeditor-input-externalreferences-placeholder
+msgid "Insert external references"
+msgstr "Dış referansları ekle"
+
+#: .courseeditor-input-reviewed-label
+msgid "<b>Reviewed</b>"
+msgstr "<b>Gözden Geçirildi:</b>"
+
+#: .courseeditor-input-imported-label
+msgid "<b>Imported</b>"
+msgstr "<b>İçe aktarıldı</b>"
+
+#: .courseeditor-input-originalauthors-label
+msgid "Original authors:"
+msgstr "Özgün yazarlar:"
+
+#: .courseeditor-input-originalauthors-placeholder
+msgid "Insert the original authors"
+msgstr "Özgün yazarları ekle"
+
+#: .courseeditor-input-reviewedon-label
+msgid "Reviewed on:"
+msgstr "Gözden geçirildi:"
+
+#: .courseeditor-input-reviewedon-placeholder
+msgid "Insert the date (dd/mm/yyyy)"
+msgstr "Tarihi gir (gg/aa/yyyy)"
+
+#: .courseeditor-save-button
+msgid "Save"
+msgstr "Kaydet"
+
+#: .courseeditor-create-button
+msgid "Create!"
+msgstr "Oluştur!"
+
+#: .courseeditor-alert-same-title-message
+msgid ""
+"Hey, there is a course with the same title yet! <br> Choose another title or "
+"start to contribute immediately to the existing course."
+msgstr ""
+"Hey, burada aynı başlıkla bir kurs bulunmakta! <br> Başka bir başlık seçin "
+"veya var olan bir kursa hızlıca katkı vermeye başlayın."
+
+#: .courseeditor-alert-similar-title-message
+msgid ""
+"Hey, there is a course with a similar title, make sure it is not what you "
+"are looking for!<br>"
+msgstr ""
+"Hey, benzer başlıklı bir kurs var, aradığınızın bu olmadığından emin olun!"
+"<br>"
+
+#: .courseeditor-validate-form
+msgid "Please, insert a topic and a name"
+msgstr "Lütfen, bir konu ve bir ad ekle"
+
+#: .courseeditor-radiobutton-namespace
+msgid ""
+"Do you want to create a private course in your personal page or a public one?"
+msgstr ""
+"Kendi kişisel sayfanızda özel bir kurs mu oluşturmak istersiniz ya da açık "
+"mı?"
+
+#: .courseeditor-radiobutton-namespace-private
+msgid "Private"
+msgstr "Özel"
+
+#: .courseeditor-radiobutton-namespace-public
+msgid "Public"
+msgstr "Herkese Açık"
+
+#: .courseeditor-message-dialog-title
+msgid "Oops..."
+msgstr "Tüh..."
+
+#: .courseeditor-message-dialog-message
+msgid ""
+"There's an element in the recycle bin with the same name, what do you want "
+"to do?"
+msgstr "Çöp kutusunda aynı adlı bir öge var, ne yapmak istersiniz?"
+
+#: .courseeditor-message-dialog-cancel
+msgctxt ".courseeditor-message-dialog-cancel"
+msgid "Cancel"
+msgstr "İptal"
+
+#: .courseeditor-message-dialog-restore
+msgid "Restore"
+msgstr "Geri Yükle"
+
+#: .courseeditor-message-dialog-create-new
+msgid "Create new"
+msgstr "Yeni oluştur"
+
+#: .courseeditor-alert-message-existing-element
+msgid ""
+"There is already an element with the same name or it is waiting to be "
+"removed.<br> Please, enter a different name or contact an administrator."
+msgstr ""
+"Aynı ada sahip bir öğe zaten var ya da silinmeyi bekliyor.<br> Lütfen başka "
+"bir ad giriniz veya yönetici ile iletişime geçiniz."
+
+#: .courseeditor-alert-message-input-notempty
+msgid ""
+"Input field isn't empty! Click on <i class='fa fa-plus'></i> to add the "
+"element, otherwise empty it.<br> Then you can proceed to save! <i class='fa "
+"fa-smile-o' aria-hidden=true'></i>"
+msgstr ""
+"Girdi alanı boş değil! Öğe eklemek için <i class='fa fa-plus'></i> ' e "
+"tıklayın , aksi takdirde boşaltın.<br> Sonra kaydetmek için devam "
+"edebilirsiniz! <i class='fa fa-smile-o' aria-hidden=true'></i>"
+
+#: .courseeditor-recycle-bin
+msgid "Recycle bin"
+msgstr "Geri dönüşüm kutusu"
+
+#: .courseeditor-error-operation
+msgid ""
+"Sorry, something went wrong! <i class='fa fa-frown-o' aria-hidden=true'></"
+"i><br>"
+msgstr ""
+"Üzgünüz, birşey ters gitti! <i class='fa fa-frown-o' aria-hidden=true'></"
+"i><br>"
+
+#: .courseeditor-operation-action-add
+msgid "Add"
+msgstr "Ekle"
+
+#: .courseeditor-operation-action-rename
+msgctxt ".courseeditor-operation-action-rename"
+msgid "Rename"
+msgstr "Yeniden Adlandır"
+
+#: .courseeditor-operation-action-rename-move-task
+msgctxt ".courseeditor-operation-action-rename-move-task"
+msgid "Rename"
+msgstr "Yeniden Adlandır"
+
+#: .courseeditor-operation-action-rename-update-task
+msgid "Update links"
+msgstr "Bağlantıları güncelle"
+
+#: .courseeditor-operation-action-delete
+msgctxt ".courseeditor-operation-action-delete"
+msgid "Delete"
+msgstr "Sil"
+
+#: .courseeditor-operation-action-delete-levelTwo-task
+msgid "Delete chapters of"
+msgstr "Bölümlerini sil"
+
+#: .courseeditor-operation-action-delete-levelsThree-task
+msgctxt ".courseeditor-operation-action-delete-levelsThree-task"
+msgid "Delete"
+msgstr "Sil"
+
+#: .courseeditor-operation-action-purge
+msgid "Update index"
+msgstr "Dizini Güncelle"
+
+#: .courseeditor-operation-action-update
+msgid "Update"
+msgstr "Güncelle"
+
+#: .courseeditor-operation-action-update-collection
+msgid "Update book"
+msgstr "Kitabı güncelle"
+
+#: .courseeditor-operation-action-move-root
+msgid "Move"
+msgstr "Taşı"
+
+#: .courseeditor-operation-action-move-metadata
+msgid "Move metadata"
+msgstr "Üstverileri taşı"
+
+#: .courseeditor-operation-action-remove-ready-texts
+msgid "Remove ReadyToBePublished"
+msgstr "YayınlanmayaHazır Kaldır"
+
+#: .courseeditor-operation-action-remove-from-topic-page
+msgid "Remove from old topic"
+msgstr "Eski konudan sil"
+
+#: .courseeditor-operation-action-append-to-topic-page
+msgid "Add to new topic"
+msgstr "Yeni konuya ekle"
+
+#: .courseeditor-operation-action-update-topic-page
+msgid "Update topic page"
+msgstr "Konu sayfasını güncelle"
+
+#: .courseeditor-operation-action-update-user-page
+msgid "Update user page"
+msgstr "Kullanıcı sayfasını güncelle"
+
+#: .courseeditor-error-operation-fail
+msgid " fails!"
+msgstr " başarısız!"
+
+#: .courseeditor-collection-book-category
+msgid "Books"
+msgstr "Kitaplar"
+
+#: .courseeditor-progressdialog-wait
+msgid "Wait creation in progress..."
+msgstr "Bekle oluşturma devam ediyor..."
+
+#: .courseeditor-collection-savedbook-template
+msgid "saved_book"
+msgstr "kaydedilmiş_kitap"
+
+#: .courseeditor-newtopics-section-title
+msgid "New topics"
+msgstr "Yeni konular"
+
+#: .courseeditor-publish-course-pagetitle
+msgid "Publish courses"
+msgstr "Kursları yayımla"
+
+#: .courseeditor-pending-courses
+msgid "Pending courses"
+msgstr "Sonuçlanmamış kurslar"
+
+#: .courseeditor-alert-message-success-publish
+msgid "The course is now available here:"
+msgstr "Kurs şuan burada erişilebilir:"
+
+#: .courseeditor-alert-message-success-publish-add-to
+msgid "You must add it to a topic and department"
+msgstr "Bir konuya ve bölüme eklemelisiniz"
+
+#: .courseeditor-confirmation-dialog-title
+msgid "Rename title"
+msgstr "Başlığı yeniden adlandır"
+
+#: .courseeditor-confirmation-dialog-message
+msgid "Are you sure you want to rename the title of the course?"
+msgstr "Kursun başlığını yeniden adlandırmak istediğinizden emin misiniz?"
+
+#: .courseeditor-alert-dialog-title
+msgid "Empty title"
+msgstr "Boş başlık"
+
+#: .courseeditor-alert-dialog-message
+msgid "Cannot continue without a title."
+msgstr "Bir başlık olmadan devam edilemez."
+
+#: .courseeditor-alert-dialog-button
+msgid "I get it"
+msgstr "Anladım"
+
+#: .courseeditor-alert-dialog-badtitle
+msgid ""
+"Invalid title! It contains one of the following forbidden characters:  #<>[]|"
+"{}/"
+msgstr "Geçersiz başlık! Yasak karakterlerden birini içeriyor:  #<>[]|{}/"
+
+#: .api-help-param-coursetitle
+msgid "The course title with Course: namespace string prepended"
+msgstr ""
+
+#: .api-help-course-tree-example
+msgid "Get the course tree of the Course:Modern Physics."
+msgstr ""
+
+#~ msgid "Insersci gli esercizi"
+#~ msgstr "Egzersizleri girin"

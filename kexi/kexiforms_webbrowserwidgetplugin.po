@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calligra-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-30 07:37+0200\n"
+"POT-Creation-Date: 2019-05-20 02:41+0200\n"
 "PO-Revision-Date: 2017-05-05 20:17+0000\n"
 "Last-Translator: Ozge <ozgebarbaros@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -56,7 +56,7 @@ msgstr "Yakınlaştırma Oranı"
 msgid "Url"
 msgstr "Url"
 
-#: WebBrowserWidget.cpp:45
+#: WebBrowserWidget.cpp:42
 #, kde-kuit-format
 msgid "Reload"
 msgstr "Yeniden yükle"

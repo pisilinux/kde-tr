@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeutils-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-04-20 03:32+0200\n"
+"POT-Creation-Date: 2021-04-09 00:20+0000\n"
 "PO-Revision-Date: 2017-10-03 15:03+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/kdeutils-k-tr/"
@@ -30,47 +30,47 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "tulliana@gmail.com"
 
-#: kcharselectdia.cc:128 kcharselectdia.cc:138
+#: kcharselectdia.cc:129 kcharselectdia.cc:139
 #, kde-format
 msgid "&To Clipboard"
 msgstr "&Panoya"
 
-#: kcharselectdia.cc:144
+#: kcharselectdia.cc:145
 #, kde-format
 msgid "To Clipboard &UTF-8"
 msgstr "Panoya &UTF-8"
 
-#: kcharselectdia.cc:147
+#: kcharselectdia.cc:148
 #, kde-format
 msgid "To Clipboard &HTML"
 msgstr "Panoya &HTML"
 
-#: kcharselectdia.cc:151
+#: kcharselectdia.cc:152
 #, kde-format
 msgid "&From Clipboard"
 msgstr "&Panodan"
 
-#: kcharselectdia.cc:156
+#: kcharselectdia.cc:157
 #, kde-format
 msgid "From Clipboard UTF-8"
 msgstr "Panodan UTF-8"
 
-#: kcharselectdia.cc:159
+#: kcharselectdia.cc:160
 #, kde-format
 msgid "From Clipboard HTML"
 msgstr "Panodan HTML"
 
-#: kcharselectdia.cc:162
+#: kcharselectdia.cc:163
 #, kde-format
 msgid "&Flip Text"
 msgstr "Metni Ç&evir"
 
-#: kcharselectdia.cc:165
+#: kcharselectdia.cc:166
 #, kde-format
 msgid "&Reverse Direction"
 msgstr "&Yönü Değiştir"
 
-#: kcharselectdia.cc:186
+#: kcharselectdia.cc:187
 #, kde-format
 msgid "Bookmarks"
 msgstr "Yer imleri"

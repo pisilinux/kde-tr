@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeadmin-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-21 00:40+0000\n"
+"POT-Creation-Date: 2021-04-29 00:27+0000\n"
 "PO-Revision-Date: 2014-06-08 13:53+0000\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/kdeadmin-k-tr/"
@@ -26,12 +26,12 @@ msgctxt "Name"
 msgid "KSystemLog"
 msgstr "KSystemLog"
 
-#: src/org.kde.ksystemlog.desktop:70
+#: src/org.kde.ksystemlog.desktop:71
 msgctxt "Comment"
 msgid "System log viewer tool"
 msgstr "Sistem günlük kayıtlarını gösterme aracı"
 
-#: src/org.kde.ksystemlog.desktop:131
+#: src/org.kde.ksystemlog.desktop:133
 msgctxt "GenericName"
 msgid "System Log Viewer"
 msgstr "Sistem Günlüğü İzleyici"

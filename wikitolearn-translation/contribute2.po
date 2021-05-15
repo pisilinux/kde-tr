@@ -1,0 +1,113 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WikiPages-en b3838de29fa8fc0bd798c67213a4c54b90491e33\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-15 19:39+0200\n"
+"PO-Revision-Date: 2017-07-15 13:49+0000\n"
+"Last-Translator: Serdar <syigitisk@gmail.com>\n"
+"Language-Team: Turkish <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+
+#: contribute2.mw:1
+msgid ""
+"Thank you for your interest in WikiToLearn! Your knowledge is fundamental "
+"for us to ensure a high standard of the content."
+msgstr ""
+"WikiToLearn'e olan ilginiz için teşekkürler! Bilginiz yüksek standartlı bir "
+"içerik sağlamak için temeldir."
+
+#: contribute2.mw:1
+msgid "Step 1: Getting started"
+msgstr "Adım 1: Başlarken"
+
+#: contribute2.mw:4
+msgid ""
+"Search on the website if there is some material already written in your area "
+"of research. Use  '''[[<ref:wikitolearn-guide-chapter-0>|this guide]]'''  to "
+"learn how to review and improve the content."
+msgstr ""
+"Eğer bazı materyaller sizin araştırma alanınızda şimdiden yazılmış ise web "
+"sitesinde aratın. İçeriği nasıl gözden geçireceğinizi ve geliştireceğinizi "
+"öğrenmek için '''[[<ref:wikitolearn-guide-chapter-0>|bu rehberi]]''' "
+"kullanın."
+
+#: contribute2.mw:6
+msgid ""
+"Otherwise, if you couldn’t find any existing material, '''[[<ref:wikitolearn-"
+"guide-chapter-2>|create a new course]]''' or '''[[<ref:wikitolearn-guide-"
+"chapter-3>|add new chapters]]'''."
+msgstr ""
+"Aksi takdirde, eğer mevcut materyali bulamadıysanız, '''[[<ref:wikitolearn-"
+"guide-chapter-2>|yeni bir kurs oluşturun]]''' veya '''[[<ref:wikitolearn-"
+"guide-chapter-3>|yeni bölümler ekleyin]]'''."
+
+#: contribute2.mw:8
+msgid ""
+"Notes, written in Word, can be simply copy pasted. For LaTeX notes you can "
+"use our '''[https://texla.wikitolearn.org LaTex to Wiki Converter]'''! (read "
+"more on the '''[[<ref:wikitolearn-guide-chapter-8>|LaTex guide]]''')"
+msgstr ""
+"Word'de yazılan notlar kolaylıkla kopyalanıp yapıştırılabilir. LaTex notlar "
+"için  '''[https://texla.wikitolearn.org LaTex to Wiki Çevirici]''' "
+"kullanabilirsiniz! (Daha fazla oku '''[[<ref:wikitolearn-guide-chapter-8>|"
+"LaTex rehberi]]''')"
+
+#: contribute2.mw:10
+msgid ""
+"Contact us at '''[https://chat.wikitolearn.org/channel/importing "
+"#importing]''' on the WikiToLearn chat if you have any problems."
+msgstr ""
+"Eğer bir probleminiz varsa WikiToLearn sohbet üzerinden bizimle iletişime "
+"geçiniz. '''[https://chat.wikitolearn.org/channel/importing #importing]''"
+
+#: contribute2.mw:10
+msgid "Step 2: Engage your students"
+msgstr "Adım 2: Öğrencilerinizle etkileşimde bulunun"
+
+#: contribute2.mw:13
+msgid ""
+"The collaboration between you and the students on WikiToLearn will help "
+"sharing knowledge worldwide. Thanks to your checking and improving we will "
+"together be able to create high quality textbooks."
+msgstr ""
+"Siz ve öğrencileriniz arasındaki WikiToLearn işbirliği bilgiyi dünya çapında "
+"paylaşmaya yardım edecek. Kontrol etmeniz ve geliştirmeniz sayesinde, "
+"birlikte yüksek kalitede ders kitapları oluşturabileceğiz."
+
+#: contribute2.mw:15
+msgid ""
+"Engaging your students will help you to be aware of their understanding of "
+"each lesson, providing you a valuable feedback on the effectiveness of your "
+"teaching."
+msgstr ""
+"Öğrencilerinizle etkileşim kurmak, her dersin anlayışının farkında olmanıza "
+"yardım ederek size öğretiminizin etkinliği hakkında değerli bir geri "
+"bildirim almanıza yardımcı olacaktır."
+
+#: contribute2.mw:15
+msgid "Step 3: Spread the word"
+msgstr "Adım 3: Adını duyur"
+
+#: contribute2.mw:18
+msgid ""
+"Invite your colleagues and all the institutions you are involved in, to "
+"collaborate with us and to help the project grow. A bigger network will "
+"improve the quantity and quality of the resources available."
+msgstr ""
+"Bizimle birlikte çalışmak ve projenin büyümesine yardım etmek için çalışma "
+"arkadaşlarınızı ve içinde bulunduğunuz enstitüleri davet ediniz. Daha büyük "
+"bir ağ, mevcut kaynakların miktarını ve kalitesini geliştirecektir."
+
+#: contribute2.mw:20
+msgid ""
+"Your contribution will help us creating educational material freely "
+"accessible, reliable and complete."
+msgstr ""
+"Özgürce erişilebilir, güvenilir ve eksiksiz eğitici materyalin "
+"oluşturulmasında sizin katkınız bize yardımcı olacaktır."

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdesdk-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-29 02:36+0100\n"
+"POT-Creation-Date: 2021-04-02 00:19+0000\n"
 "PO-Revision-Date: 2017-10-04 14:43+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -152,33 +152,33 @@ msgstr ""
 "Bu şablon ile Qt ve KDE teknolojilerini kullanarak kendi yazılımınızı "
 "geliştirmeye başlayabileceksiniz."
 
-#: src/application/kapptemplate.cpp:23
+#: src/application/kapptemplate.cpp:22
 #, fuzzy, kde-format
 #| msgid "KDE and Qt Template Generator"
 msgctxt "@title:window"
 msgid "KDE and Qt Template Generator"
 msgstr "KDE ve Qt Şablon Oluşturucu"
 
-#: src/application/kapptemplate.cpp:45
+#: src/application/kapptemplate.cpp:44
 #, fuzzy, kde-format
 #| msgid "Introduction"
 msgctxt "@title:tab"
 msgid "Introduction"
 msgstr "Giriş"
 
-#: src/application/kapptemplate.cpp:52
+#: src/application/kapptemplate.cpp:51
 #, kde-format
 msgid "Set the project properties"
 msgstr "Proje özelliklerini ayarla"
 
-#: src/application/kapptemplate.cpp:54
+#: src/application/kapptemplate.cpp:53
 #, fuzzy, kde-format
 #| msgid "Generate"
 msgctxt "@action:button"
 msgid "Generate"
 msgstr "Oluştur"
 
-#: src/application/kapptemplate.cpp:81
+#: src/application/kapptemplate.cpp:80
 #, fuzzy, kde-format
 #| msgid "Your project name is : %1"
 msgid "Your project name is: %1"

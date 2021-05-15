@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcontactmanager\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-27 03:07+0100\n"
+"POT-Creation-Date: 2021-05-12 00:20+0000\n"
 "PO-Revision-Date: 2017-04-12 16:11+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -112,7 +112,7 @@ msgid "Blog Feed"
 msgstr "Günlük Beslemesi"
 
 #: kontactplugin/kaddressbook_plugin.cpp:31 src/aboutdata.cpp:17
-#: src/kaddressbookpart.cpp:27
+#: src/kaddressbookpart.cpp:30
 #, kde-format
 msgid "KAddressBook"
 msgstr "KAdresDefteri"
@@ -227,7 +227,7 @@ msgstr "Eklentileri Yapılandır"
 #: src/configuration/kaddressbook_config_plugins.cpp:31
 #, fuzzy, kde-format
 #| msgid "(c), 2016-2017 Laurent Montel"
-msgid "(c), 2016-2020 Laurent Montel"
+msgid "(c), 2016-2021 Laurent Montel"
 msgstr "(c), 2016-2017 Laurent Montel"
 
 #: src/configuration/kaddressbook_config_userfeedback.cpp:28
@@ -238,7 +238,7 @@ msgstr ""
 #: src/configuration/kaddressbook_config_userfeedback.cpp:32
 #, fuzzy, kde-format
 #| msgid "(c), 2016-2017 Laurent Montel"
-msgid "(c), 2020 Laurent Montel"
+msgid "(c), 2020-2021 Laurent Montel"
 msgstr "(c), 2016-2017 Laurent Montel"
 
 #: src/configuration/kaddressbookconfigpluginlistwidget.cpp:68
@@ -262,24 +262,24 @@ msgstr "Ekle..."
 msgid "Loading contacts details ..."
 msgstr ""
 
-#: src/contactinfoproxymodel.cpp:122
+#: src/contactinfoproxymodel.cpp:123
 #, fuzzy, kde-format
 #| msgid "Email:"
 msgid "Email: %1"
 msgstr "E-posta:"
 
-#: src/contactinfoproxymodel.cpp:130
+#: src/contactinfoproxymodel.cpp:131
 #, fuzzy, kde-format
 #| msgid "Phones"
 msgid "Phone: %1"
 msgstr "Telefonlar"
 
-#: src/contactinfoproxymodel.cpp:136
+#: src/contactinfoproxymodel.cpp:137
 #, kde-format
 msgid "%1%2 %3"
 msgstr ""
 
-#: src/contactinfoproxymodel.cpp:149 src/contactinfoproxymodel.cpp:165
+#: src/contactinfoproxymodel.cpp:150 src/contactinfoproxymodel.cpp:166
 #, kde-format
 msgid "%1 %2 %3"
 msgstr ""
@@ -671,34 +671,34 @@ msgid_plural "Importing %1 contacts to %2"
 msgstr[0] "Bir kişi %2 kayda ekleniyor"
 msgstr[1] "%1 kişi %2 kayda ekleniyor"
 
-#: src/kaddressbook_options.h:16
+#: src/kaddressbook_options.h:15
 #, kde-format
 msgid "Import the given file"
 msgstr "Belirtilen dosyayı içeri aktar"
 
-#: src/kaddressbook_options.h:18
+#: src/kaddressbook_options.h:17
 #, kde-format
 msgid "Open the 'New Contact' dialog"
 msgstr ""
 
-#: src/kaddressbook_options.h:20
+#: src/kaddressbook_options.h:19
 #, kde-format
 msgid "Display the specified contact (by URL)"
 msgstr ""
 
-#: src/kaddressbook_options.h:22
+#: src/kaddressbook_options.h:21
 #, kde-format
 msgid "Files or URLs. The user will be asked whether to import."
 msgstr ""
 "Dosya veya adresler. Kullanıcının içe aktarılmak isteyip istemediği "
 "sorulacaktır."
 
-#: src/kaddressbook_options.h:25
+#: src/kaddressbook_options.h:24
 #, kde-format
 msgid "Lists the available options for user feedback"
 msgstr ""
 
-#: src/kaddressbookpart.cpp:52
+#: src/kaddressbookpart.cpp:57
 #, kde-format
 msgid "&Configure KAddressBook..."
 msgstr "KAdresDefteri &Yapılandırması..."
@@ -932,7 +932,7 @@ msgid "Compact Style"
 msgstr "Sıkışık Biçim"
 
 #: src/printing/compact/compactstyle.cpp:168
-#: src/printing/detailled/detailledstyle.cpp:271
+#: src/printing/detailled/detailledstyle.cpp:263
 #: src/printing/grantlee/grantleeprintstyle.cpp:43
 #: src/printing/mike/mikesstyle.cpp:114
 #: src/printing/ringbinder/ringbinderstyle.cpp:161
@@ -941,7 +941,7 @@ msgid "Setting up document"
 msgstr "Belge ayarlanıyor"
 
 #: src/printing/compact/compactstyle.cpp:175
-#: src/printing/detailled/detailledstyle.cpp:278
+#: src/printing/detailled/detailledstyle.cpp:270
 #: src/printing/grantlee/grantleeprintstyle.cpp:52
 #: src/printing/mike/mikesstyle.cpp:121
 #: src/printing/ringbinder/ringbinderstyle.cpp:194
@@ -950,7 +950,7 @@ msgid "Printing"
 msgstr "Yazdırma"
 
 #: src/printing/compact/compactstyle.cpp:179
-#: src/printing/detailled/detailledstyle.cpp:282
+#: src/printing/detailled/detailledstyle.cpp:274
 #: src/printing/grantlee/grantleeprintstyle.cpp:56
 #: src/printing/mike/mikesstyle.cpp:125
 #: src/printing/ringbinder/ringbinderstyle.cpp:198
@@ -1137,24 +1137,24 @@ msgstr "İş Adresi"
 msgid "Preferred Address"
 msgstr "Tercih Edilen Adres"
 
-#: src/printing/detailled/detailledstyle.cpp:152
+#: src/printing/detailled/detailledstyle.cpp:148
 #, kde-format
 msgid "Notes:"
 msgstr "Notlar:"
 
 #. i18n: ectx: property (text), widget (QLabel, labelHeader)
-#: src/printing/detailled/detailledstyle.cpp:239
+#: src/printing/detailled/detailledstyle.cpp:231
 #: src/printing/detailled/ds_appearance.ui:58
 #, kde-format
 msgid "Detailed Print Style - Appearance"
 msgstr "Detaylı Yazdırma Biçimi - Görünüm"
 
-#: src/printing/detailled/detailledstyle.cpp:254
+#: src/printing/detailled/detailledstyle.cpp:246
 #, kde-format
 msgid "Setting up colors"
 msgstr "Renkler ayarlanıyor"
 
-#: src/printing/detailled/detailledstyle.cpp:297
+#: src/printing/detailled/detailledstyle.cpp:289
 #, kde-format
 msgid "Detailed Style"
 msgstr "Ayrıntılı Biçim"
@@ -1413,25 +1413,25 @@ msgstr ""
 "sahiptir.\n"
 "İhtiyaçlarınıza uygun olan biçimi aşağıdan seçin."
 
-#: src/printing/stylepage.cpp:122
+#: src/printing/stylepage.cpp:123
 #, kde-format
 msgctxt "@title:group"
 msgid "Sorting"
 msgstr "Sıralama"
 
-#: src/printing/stylepage.cpp:127
+#: src/printing/stylepage.cpp:128
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Criterion:"
 msgstr "Ölçüt:"
 
-#: src/printing/stylepage.cpp:131
+#: src/printing/stylepage.cpp:132
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Select the primary sort field"
 msgstr "Öncelikli sıralama alanını seçin"
 
-#: src/printing/stylepage.cpp:133
+#: src/printing/stylepage.cpp:134
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -1443,19 +1443,19 @@ msgstr ""
 "belirleyebilirsiniz. Sıralama biçimi seçeneğini, sıralamayı artan veya "
 "azalan olarak belirlemek için kullanın."
 
-#: src/printing/stylepage.cpp:138
+#: src/printing/stylepage.cpp:139
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Order:"
 msgstr "Sıralama:"
 
-#: src/printing/stylepage.cpp:142
+#: src/printing/stylepage.cpp:143
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Select the sorting order"
 msgstr "Sıralama biçimini seçin"
 
-#: src/printing/stylepage.cpp:144
+#: src/printing/stylepage.cpp:145
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -1467,19 +1467,19 @@ msgstr ""
 "için seçin. Sıralama ölçütü seçeneğini, kişilerin hangi alan adına göre "
 "sıralanacağını seçmek için kullanın."
 
-#: src/printing/stylepage.cpp:151
+#: src/printing/stylepage.cpp:152
 #, kde-format
 msgctxt "@title:group"
 msgid "Print Style"
 msgstr "Yazdırma Biçimi"
 
-#: src/printing/stylepage.cpp:156
+#: src/printing/stylepage.cpp:157
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Select the print style"
 msgstr "Yazdırma biçimini seç"
 
-#: src/printing/stylepage.cpp:157
+#: src/printing/stylepage.cpp:158
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""

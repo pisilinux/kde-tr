@@ -1,0 +1,193 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WikiPages-en b3838de29fa8fc0bd798c67213a4c54b90491e33\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-15 19:39+0200\n"
+"PO-Revision-Date: 2017-07-19 20:31+0000\n"
+"Last-Translator: Serdar <syigitisk@gmail.com>\n"
+"Language-Team: Turkish <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+
+#: wikitolearn-guide-chapter-1.mw:1
+msgid ""
+"WikiToLearn is a community that aims to create free, collaborative and "
+"accessible textbooks.\n"
+"Our philosophy can be summarised as \"''Knowledge only grows if shared''\"."
+msgstr ""
+"WikiToLearn özgür, işbirlikçi ve ulaşılabilir ders kitapları oluşturmayı "
+"amaçlayan bir topluluktur.\n"
+" Bizim felsefemiz \"\"Bilgi yalnız paylaştıkça büyür\"\" olarak "
+"özetlenebilir."
+
+#: wikitolearn-guide-chapter-1.mw:4
+msgid "__TOC__"
+msgstr "__TOC__"
+
+#: wikitolearn-guide-chapter-1.mw:4
+msgid "Conventions"
+msgstr "Teammüller"
+
+#: wikitolearn-guide-chapter-1.mw:7
+msgid ""
+"WikiToLearn makes extensive use of a hierarchy model, in order to create "
+"books which are consistent with our philosophy."
+msgstr ""
+"WikiToLearn felsefimize uygun kitaplar oluşturmak için bir aşamalı modelin "
+"kapsamlı şekilde kullanılmasını sağlar."
+
+#: wikitolearn-guide-chapter-1.mw:7
+msgid "Departments"
+msgstr "Bölümler"
+
+#: wikitolearn-guide-chapter-1.mw:10
+msgid ""
+"It's a collection of topics, courses and books belonging to the same area.\n"
+"Departments are listed on the main page."
+msgstr ""
+"Konular, kurslar ve kitapların aynı alana toplanmasıdır.\n"
+"Bölümler ana sayfada listelenmiştir."
+
+#: wikitolearn-guide-chapter-1.mw:10
+msgid "Topics"
+msgstr "Konular"
+
+#: wikitolearn-guide-chapter-1.mw:14
+msgid ""
+"They are the level underneath Departments and contain different courses "
+"related to the same subject.\n"
+"The topics are used to gather all the courses that explain the same theme, "
+"because every university and faculty could have a different approach to the "
+"subject.\n"
+"For example, <code>Quantum Physics</code> may be a topic and <code>Quantum "
+"Mechanics for graduate students</code>, <code>Advanced Quantum Mechanics</"
+"code> may be a course."
+msgstr ""
+"Bölümlerin altındaki seviyelerdir ve aynı konudaki farklı kursları içerir.\n"
+"Konular, aynı temayı açıklayan bütün kursları bir araya getirmek için "
+"kullanılır, çünkü her üniversite ve fakültenin konuya farklı bir yaklaşımı "
+"olabilir.\n"
+"Örneğin, <code>Kuantum Fiziği</code> bir konu olabilir ve <code>mezun "
+"öğrenciler için Kuantum Mekaniği</code>, <code>İleri Kuantum Mekaniği</code> "
+"bir kurs olabilir."
+
+#: wikitolearn-guide-chapter-1.mw:18
+msgid "[[<ref:FILE_37>]]"
+msgstr "[[<ref:FILE_37>]]"
+
+#: wikitolearn-guide-chapter-1.mw:18
+msgid "Courses"
+msgstr "Kurslar"
+
+#: wikitolearn-guide-chapter-1.mw:21
+msgid ""
+"These are the most important units of WikiToLearn.\n"
+"Courses are collections of chapters, which gather the pages (sections).\n"
+"Every course has the prefix <code>Course:</code> followed by the course name "
+"in its URL."
+msgstr ""
+"Bunlar WikiToLearn'ün en önemli birimleridir.\n"
+"Kurslar sayfaları(kısımları) bir araya getiren bölümlerin toplamıdır.\n"
+"Her kurs kendi URL'sindeki kurs adının takip ettiği <code>Kurs:</code> "
+"önekine sahiptir."
+
+#: wikitolearn-guide-chapter-1.mw:25
+msgid "[[<ref:FILE_38>]]"
+msgstr "[[<ref:FILE_38>]]"
+
+#: wikitolearn-guide-chapter-1.mw:25
+msgid "Chapters"
+msgstr "Bölümler"
+
+#: wikitolearn-guide-chapter-1.mw:28
+msgid ""
+"The lower level of a course.\n"
+"They gather together some sections of a book and they are displayed as "
+"headings in the main page of the course."
+msgstr ""
+"Bir kursun alt seviyesi.\n"
+"Bir kitabın bazı kısımlarını bir araya getirirler ve kursun ana sayfasında "
+"başlıklar halinde gösterilirler."
+
+#: wikitolearn-guide-chapter-1.mw:31
+msgid "[[<ref:FILE_39>]]"
+msgstr "[[<ref:FILE_39>]]"
+
+#: wikitolearn-guide-chapter-1.mw:31
+msgid "Sections"
+msgstr "Kısımlar"
+
+#: wikitolearn-guide-chapter-1.mw:34
+msgid ""
+"Sections are the basic unit of an entire course.\n"
+"Basically, they're a single webpage with its own content."
+msgstr ""
+"Kısımlar bir tüm kursun basit birimleridir.\n"
+"Basitçe, kendi içerikleri olan tek bir web sayfasıdır."
+
+#: wikitolearn-guide-chapter-1.mw:37
+msgid "[[<ref:FILE_40>]]"
+msgstr "[[<ref:FILE_40>]]"
+
+#: wikitolearn-guide-chapter-1.mw:37
+msgid "Namespaces"
+msgstr "İsimlendirmeler"
+
+#: wikitolearn-guide-chapter-1.mw:40
+msgid ""
+"Namespaces are a mechanism for grouping pages.\n"
+"You can see the namespace by looking at the url: if it has a <code>word:"
+"something_else</code>then \"word\" is the namespace.\n"
+"In WikiTolearn there are two main namespaces, \"User\" and \"Course\"."
+msgstr ""
+"İsimlendirmeler sayfaları gruplamak için bir mekanızmadır.\n"
+"İsimlendirmeleri url'den bakarak görebilirsiniz: Eğer bir <code>kelime:"
+"herhangi_birşey</code> ' e sahipse \"kelime\" bir isimlendirmedir.\n"
+"WikiToLearn içerisinde iki ana isimlendirme vardır, \"Kullanıcı\" ve \"Kurs"
+"\"."
+
+#: wikitolearn-guide-chapter-1.mw:40
+msgid "User namespace"
+msgstr "Kullanıcı isimlendirme"
+
+#: wikitolearn-guide-chapter-1.mw:45
+msgid ""
+"The User namespace is your personal page where you can write your own "
+"courses and content without worrying about making mistakes.\n"
+"You can see an example here:"
+msgstr ""
+"Kullanıcı isimlendirme sizin kendi kurslarınızı ve içeriğinizi hata yapma "
+"kaygısı olmadan yazabileceğiniz kişisel sayfanızdır.\n"
+" Burada bir örnek görebilirsiniz:"
+
+#: wikitolearn-guide-chapter-1.mw:48
+msgid "http://en.wikitolearn.org/User:Grigoletti"
+msgstr "http://en.wikitolearn.org/User:Grigoletti"
+
+#: wikitolearn-guide-chapter-1.mw:48
+msgid "Course namespace"
+msgstr "Kurs isimlendirme"
+
+#: wikitolearn-guide-chapter-1.mw:51
+msgid ""
+"A Course namespace is similar to the User one, but it has the word "
+"<code>Course:</code>as a prefix to the URL<ref>URL is an acronym for Uniform "
+"Resource Locator and is a reference (an address) to a resource on the "
+"Internet</ref>.\n"
+"This namespace is used to create an entire public course.\n"
+"You can see an example on the English WikiToLearn: [https://en.wikitolearn."
+"org/Course:How_to_use_Linked_Data How to use Linked Data]!"
+msgstr ""
+"Bir Kurs isimlendirmesi Kullanıcı olana benzerdir, ama URL ' e bir ön ek "
+"olarak <code>Kurs:</code>kelimesine sahiptir<ref>URL Uniform Resource "
+"Locator için bir kısaltmadır ve Internet üzerindeki bir kaynak için "
+"başvurudur(bir adrestir)</ref>.\n"
+" Bu isimlendirme açık bir kurs oluşturmak için kullanılır.\n"
+"İngilizce WikiToLearn üzerinde bir örnek görebilirsiniz:  [https://en."
+"wikitolearn.org/Course:How_to_use_Linked_Data Bağlantılı veri nasıl "
+"kullanılır]!"

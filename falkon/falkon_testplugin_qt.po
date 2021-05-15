@@ -11,27 +11,27 @@ msgstr ""
 "X-Language: tr_TR\n"
 "X-Qt-Contexts: true\n"
 
-#: testplugin.cpp:106
+#: testplugin.cpp:98
 msgctxt "TestPlugin|"
 msgid "Close"
 msgstr "Kapat"
 
-#: testplugin.cpp:117
+#: testplugin.cpp:109
 msgctxt "TestPlugin|"
 msgid "Example Plugin Settings"
 msgstr "Örnek Eklenti Ayarları"
 
-#: testplugin.cpp:147
+#: testplugin.cpp:139
 msgctxt "TestPlugin|"
 msgid "My first plugin action"
 msgstr "İlk ekleti eylemim"
 
-#: testplugin.cpp:162
+#: testplugin.cpp:154
 msgctxt "TestPlugin|"
 msgid "Hello"
 msgstr "Merhaba"
 
-#: testplugin.cpp:162
+#: testplugin.cpp:154
 msgctxt "TestPlugin|"
 msgid "First plugin action works :-)"
 msgstr "İlk eklenti eylemim çalışıyor :-)"

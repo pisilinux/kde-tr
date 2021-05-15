@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdemultimedia-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-19 00:26+0000\n"
+"POT-Creation-Date: 2021-03-16 18:12+0000\n"
 "PO-Revision-Date: 2014-06-08 13:56+0000\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/kdemultimedia-k-"
@@ -32,12 +32,12 @@ msgctxt "Name"
 msgid "Audio CDs"
 msgstr "Ses CD'leri"
 
-#: kcmaudiocd/audiocd.desktop:66
+#: kcmaudiocd/audiocd.desktop:67
 msgctxt "Comment"
 msgid "Audiocd IO Slave Configuration"
 msgstr "Müzik CD'si Yapılandırması"
 
-#: kcmaudiocd/audiocd.desktop:118
+#: kcmaudiocd/audiocd.desktop:120
 msgctxt "X-KDE-Keywords"
 msgid "Audio CD,CD,Ogg,Vorbis,Encoding,CDDA,Bitrate"
 msgstr "Ses CDsi,CD,Ogg,Vorbis,Kodlama,CDDA,Bit oranı"

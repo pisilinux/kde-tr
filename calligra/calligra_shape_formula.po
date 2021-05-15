@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calligra-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-01 08:05+0200\n"
+"POT-Creation-Date: 2021-04-25 00:18+0000\n"
 "PO-Revision-Date: 2017-05-05 20:13+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -30,72 +30,72 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "ozgebarbaros@gmail.com"
 
-#: FormulaCommand.cpp:72
+#: FormulaCommand.cpp:59
 msgctxt "(qtundo-format)"
 msgid "Add text to formula"
 msgstr "Formüle metin ekle"
 
-#: FormulaCommand.cpp:228
+#: FormulaCommand.cpp:215
 msgctxt "(qtundo-format)"
 msgid "Change rows"
 msgstr "Satırları değiştir"
 
-#: FormulaEditor.cpp:87
+#: FormulaEditor.cpp:74
 msgctxt "(qtundo-format)"
 msgid "Add text"
 msgstr "Metin ekle"
 
-#: FormulaEditor.cpp:120
+#: FormulaEditor.cpp:107
 msgctxt "(qtundo-format)"
 msgid "Insert row"
 msgstr "Satır ekle"
 
-#: FormulaEditor.cpp:125
+#: FormulaEditor.cpp:112
 msgctxt "(qtundo-format)"
 msgid "Remove row"
 msgstr "Satırı sil"
 
-#: FormulaEditor.cpp:133
+#: FormulaEditor.cpp:120
 msgctxt "(qtundo-format)"
 msgid "Insert column"
 msgstr "Sütun ekle"
 
-#: FormulaEditor.cpp:138
+#: FormulaEditor.cpp:125
 msgctxt "(qtundo-format)"
 msgid "Remove column"
 msgstr "Sütunu sil"
 
-#: FormulaEditor.cpp:164
+#: FormulaEditor.cpp:151
 msgctxt "(qtundo-format)"
 msgid "Insert formula elements."
 msgstr "Formül ögeleri ekle."
 
-#: FormulaEditor.cpp:197
+#: FormulaEditor.cpp:184
 msgctxt "(qtundo-format)"
 msgid "Remove formula elements"
 msgstr "Formül ögeleri sil"
 
-#: FormulaToolWidget.cpp:85
+#: FormulaToolWidget.cpp:72
 #, kde-format
 msgid "Arrows"
 msgstr "Oklar"
 
-#: FormulaToolWidget.cpp:87
+#: FormulaToolWidget.cpp:74
 #, kde-format
 msgid "Greek"
 msgstr "Yunanca"
 
-#: FormulaToolWidget.cpp:91
+#: FormulaToolWidget.cpp:78
 #, kde-format
 msgid "Relations"
 msgstr "İlişkiler"
 
-#: FormulaToolWidget.cpp:94
+#: FormulaToolWidget.cpp:81
 #, kde-format
 msgid "Operators"
 msgstr "İşleçler"
 
-#: FormulaToolWidget.cpp:98
+#: FormulaToolWidget.cpp:85
 #, kde-format
 msgid "Miscellaneous"
 msgstr "Diğer"
@@ -185,7 +185,7 @@ msgstr "Sütunlar:"
 msgid "View MathML"
 msgstr "MathML Görüntüle"
 
-#: KoFormulaShape.cpp:223
+#: KoFormulaShape.cpp:210
 #, kde-format
 msgid ""
 "This document contains an external link to a remote document\n"
@@ -194,152 +194,152 @@ msgstr ""
 "Bu belge uzaktaki bir belgeye dış bağ içeriyor\n"
 "%1"
 
-#: KoFormulaShape.cpp:224
+#: KoFormulaShape.cpp:211
 #, kde-format
 msgid "Confirmation Required"
 msgstr "Onaylama Gerekli"
 
-#: KoFormulaShape.cpp:224
+#: KoFormulaShape.cpp:211
 #, kde-format
 msgid "Download"
 msgstr "İndir"
 
-#: KoFormulaShape.cpp:224
+#: KoFormulaShape.cpp:211
 #, kde-format
 msgid "Skip"
 msgstr "Atla"
 
-#: KoFormulaShapeFactory.cpp:34
+#: KoFormulaShapeFactory.cpp:21
 #, kde-format
 msgid "Formula"
 msgstr "Formül"
 
-#: KoFormulaShapeFactory.cpp:36
+#: KoFormulaShapeFactory.cpp:23
 #, kde-format
 msgid "A formula"
 msgstr "Bir formül"
 
-#: KoFormulaTool.cpp:420
+#: KoFormulaTool.cpp:407
 #, kde-format
 msgid "Insert fenced element"
 msgstr "Etrafı korumalı öge ekle"
 
-#: KoFormulaTool.cpp:421
+#: KoFormulaTool.cpp:408
 #, kde-format
 msgid "Insert enclosed element"
 msgstr "Kapatılmış öge ekle"
 
-#: KoFormulaTool.cpp:424
+#: KoFormulaTool.cpp:411
 #, kde-format
 msgid "Insert root"
 msgstr "Kök ekle"
 
-#: KoFormulaTool.cpp:425
+#: KoFormulaTool.cpp:412
 #, kde-format
 msgid "Insert square root"
 msgstr "Kare kök ekle"
 
-#: KoFormulaTool.cpp:427
+#: KoFormulaTool.cpp:414
 #, kde-format
 msgid "Insert fraction"
 msgstr "Kesir ekle"
 
-#: KoFormulaTool.cpp:429
+#: KoFormulaTool.cpp:416
 #, kde-format
 msgid "Insert bevelled fraction"
 msgstr "Eğimli fraksiyon ekle"
 
-#: KoFormulaTool.cpp:432
+#: KoFormulaTool.cpp:419
 #, kde-format
 msgid "Insert 3x3 table"
 msgstr "3x3 tablo ekle"
 
-#: KoFormulaTool.cpp:436
+#: KoFormulaTool.cpp:423
 #, kde-format
 msgid "Insert 2 dimensional vector"
 msgstr "2 boyutlu vektörel çizim ekle"
 
-#: KoFormulaTool.cpp:439
+#: KoFormulaTool.cpp:426
 #, kde-format
 msgid "Insert subscript"
 msgstr "Alt karakter ekle"
 
-#: KoFormulaTool.cpp:441
+#: KoFormulaTool.cpp:428
 #, kde-format
 msgid "Insert superscript"
 msgstr "Üst karakter ekle"
 
-#: KoFormulaTool.cpp:443
+#: KoFormulaTool.cpp:430
 #, kde-format
 msgid "Insert sub- and superscript"
 msgstr "Alt ve üst karakter ekle"
 
-#: KoFormulaTool.cpp:445
+#: KoFormulaTool.cpp:432
 #, kde-format
 msgid "Insert overscript"
 msgstr "Üst yazı ekle"
 
-#: KoFormulaTool.cpp:447
+#: KoFormulaTool.cpp:434
 #, kde-format
 msgid "Insert underscript"
 msgstr "Alt yazı ekle"
 
-#: KoFormulaTool.cpp:449
+#: KoFormulaTool.cpp:436
 #, kde-format
 msgid "Insert under- and overscript"
 msgstr "Üst ve alt yazı ekle"
 
-#: KoFormulaTool.cpp:458
+#: KoFormulaTool.cpp:445
 #, kde-format
 msgid "Insert row"
 msgstr "Satır ekle"
 
-#: KoFormulaTool.cpp:465
+#: KoFormulaTool.cpp:452
 #, kde-format
 msgid "Insert column"
 msgstr "Sütun ekle"
 
-#: KoFormulaTool.cpp:472
+#: KoFormulaTool.cpp:459
 #, kde-format
 msgid "Remove row"
 msgstr "Satırı sil"
 
-#: KoFormulaTool.cpp:479
+#: KoFormulaTool.cpp:466
 #, kde-format
 msgid "Remove column"
 msgstr "Sütunu sil"
 
-#: KoFormulaToolFactory.cpp:30
+#: KoFormulaToolFactory.cpp:17
 #, kde-format
 msgid "Formula editing"
 msgstr "Formül düzenleme"
 
-#: KoM2MMLForumulaTool.cpp:110
+#: KoM2MMLForumulaTool.cpp:97
 #, kde-format
 msgid "Mode: "
 msgstr "Kip:"
 
-#: KoM2MMLForumulaTool.cpp:113
+#: KoM2MMLForumulaTool.cpp:100
 #, kde-format
 msgid "LaTeX"
 msgstr "LaTeX"
 
-#: KoM2MMLForumulaTool.cpp:115
+#: KoM2MMLForumulaTool.cpp:102
 #, kde-format
 msgid "Matlab"
 msgstr "Matlab"
 
-#: KoM2MMLForumulaTool.cpp:184
+#: KoM2MMLForumulaTool.cpp:171
 #, kde-format
 msgid "Parse error."
 msgstr "Ayıklama hatası."
 
-#: KoM2MMLForumulaTool.cpp:214
+#: KoM2MMLForumulaTool.cpp:201
 #, kde-format
 msgid "Edit formula with LaTeX/Matlab syntax"
 msgstr "Formülü LaTeX/Matlab sözdizimi ile düzenle"
 
-#: KoM2MMLForumulaTool.cpp:216
+#: KoM2MMLForumulaTool.cpp:203
 #, kde-format
 msgid "Edit formula with LaTeX syntax"
 msgstr "Formülü LaTeX sözdizimi ile düzenle"

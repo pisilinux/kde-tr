@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calligra-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-17 02:33+0100\n"
+"POT-Creation-Date: 2021-04-25 00:18+0000\n"
 "PO-Revision-Date: 2015-09-08 09:37+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -26,33 +26,33 @@ msgstr ""
 msgid "&Tools"
 msgstr "&Araçlar"
 
-#: ScriptingFunction.cpp:59
+#: ScriptingFunction.cpp:43
 #, kde-format
 msgid "No such script."
 msgstr "Böyle bir betik yok."
 
-#: ScriptingFunction.cpp:105
+#: ScriptingFunction.cpp:89
 #, kde-format
 msgid "No such script function."
 msgstr "Böyle bir betik fonksiyonu yok."
 
-#: ScriptingFunction.cpp:119
+#: ScriptingFunction.cpp:103
 #, kde-format
 msgid "No return value."
 msgstr "Dönüş değeri yok."
 
-#: ScriptingFunction.cpp:157 ScriptingFunction.cpp:158
-#: ScriptingFunction.cpp:165
+#: ScriptingFunction.cpp:141 ScriptingFunction.cpp:142
+#: ScriptingFunction.cpp:149
 #, kde-format
 msgid "Scripts"
 msgstr "Betikler"
 
-#: ScriptingPart.cpp:64
+#: ScriptingPart.cpp:48
 #, kde-format
 msgid "Scriptfile \"%1\" does not exist."
 msgstr "\"%1\" betik dosyası yok."
 
-#: ScriptingPart.cpp:68
+#: ScriptingPart.cpp:52
 #, kde-format
 msgid ""
 "Scriptfile \"%1\" is not executable. Please set the executable-attribute on "
@@ -61,37 +61,37 @@ msgstr ""
 "Betik dosyası \"%1\" çalıştırılabilir değil. Lütfen bu dosyanın "
 "çalıştırılabilir özniteliğini aktifleştirin."
 
-#: ScriptingPart.cpp:84
+#: ScriptingPart.cpp:68
 #, kde-format
 msgid "Scriptfile \"%1\" is in a temporary directory. Execution denied."
 msgstr "Betik dosyası \"%1\" geçici bir dizinde. Çalıştırma reddedildi."
 
-#: ScriptingPart.cpp:89
+#: ScriptingPart.cpp:73
 #, kde-format
 msgid "Failed to execute scriptfile \"%1\""
 msgstr "\"%1\" betik dosyası çalıştırılamadı"
 
-#: ScriptingPart.cpp:92
+#: ScriptingPart.cpp:76
 #, kde-format
 msgid "Errors on execution of scripts."
 msgstr "Betik çalıştırma hataları."
 
-#: ScriptingWidgets.cpp:84
+#: ScriptingWidgets.cpp:68
 #, kde-format
 msgid "Sheet"
 msgstr "Sayfa"
 
-#: ScriptingWidgets.cpp:87
+#: ScriptingWidgets.cpp:71
 #, kde-format
 msgid "Cell"
 msgstr "Hücre"
 
-#: ScriptingWidgets.cpp:88
+#: ScriptingWidgets.cpp:72
 #, kde-format
 msgid "Range"
 msgstr "Aralık"
 
-#: ScriptingWriter.h:247
+#: ScriptingWriter.h:231
 msgctxt "(qtundo-format)"
 msgid "Set Values"
 msgstr "Değerleri Ayarla"

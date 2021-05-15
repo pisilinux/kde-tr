@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-kdevelop-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-27 08:19+0100\n"
+"POT-Creation-Date: 2021-03-28 03:20+0200\n"
 "PO-Revision-Date: 2021-03-12 12:55+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -134,19 +134,19 @@ msgstr ""
 "lütfen '%1' çalıştırma yapılandırmasını kontrol edin. Öntanımlı ortam "
 "profili kullanılıyor."
 
-#: debugsession.cpp:294
+#: debugsession.cpp:292
 #, kde-format
 msgid "<b>You need gdb 7.0.0 or higher.</b><br />You are using: %1"
 msgstr ""
 "<b>gdb 7.0.0 veya daha yeni bir sürüm gerekiyor.</b><br />Kullandığınız "
 "sürüm: %1"
 
-#: debugsession.cpp:307
+#: debugsession.cpp:305
 #, kde-format
 msgid "<b>Could not start debugger:</b><br />"
 msgstr "<b>Hata ayıklayıcı başlatılamadı:</b><br />"
 
-#: debugsession.cpp:321
+#: debugsession.cpp:319
 #, kde-format
 msgid ""
 "<b>Failed to load core file</b><p>Debugger reported the following error:"
@@ -155,7 +155,7 @@ msgstr ""
 "<b>Çekirdek dosyası yüklenemedi</b><p>Hata ayıklayıcı şu hatayı bildirdi:"
 "<p><tt>%1"
 
-#: gdb.cpp:81
+#: gdb.cpp:82
 #, kde-format
 msgid "Could not locate the debugging shell '%1'."
 msgstr "Hata ayıklama kabuğu '%1' bulunamadı."
@@ -706,11 +706,106 @@ msgstr "Yeni bir bellek görüntüleyici aç"
 #~ msgid "Cancel"
 #~ msgstr "İptal"
 
-#~ msgid "<br>Old value: %1"
-#~ msgstr "<br>Eski değer: %1"
+#~ msgid "Address Selector"
+#~ msgstr "Adres Seçici"
 
-#~ msgid "<br>New value: %1"
-#~ msgstr "<br>Yeni değer: %1"
+#~ msgid "Change &address"
+#~ msgstr "Adresi &değiştir"
+
+#~ msgid "&Jump to Cursor"
+#~ msgstr "İmlece &Atla"
+
+#~ msgid "Sets the execution pointer to the current cursor position."
+#~ msgstr "Çalıştırma işaretçisini mevcut imleç konumuna ayarlar."
+
+#~ msgid "&Run to Cursor"
+#~ msgstr "İmlece Kadar Çalıştı&r"
+
+#~ msgid "Continues execution until the cursor position is reached."
+#~ msgstr "İmleç konumuna ulaşana kadar çalıştırmaya devam eder."
+
+#~ msgid ""
+#~ "<b>Machine code display</b><p>A machine code view into your running "
+#~ "executable with the current instruction highlighted. You can step "
+#~ "instruction by instruction using the debuggers toolbar buttons of \"step "
+#~ "over\" instruction and \"step into\" instruction."
+#~ msgstr ""
+#~ "<b>Makina kodu gösterimi</b><p>Mevcut gösterilen komut ile çalışan "
+#~ "çalıştırılabilir makina kodu görünümüdür. Komutları hata ayıklayıcının "
+#~ "\"bir ilerle\" ve \"içine gir\" gibi komutlarını kullanarak, birer komut "
+#~ "şeklinde adımlayabilirsiniz."
+
+#~ msgid "Address"
+#~ msgstr "Adres"
+
+#~ msgid "Function"
+#~ msgstr "Fonksiyon"
+
+#~ msgid "Instruction"
+#~ msgstr "Yönerge"
+
+#~ msgid "Disassemble/Registers View"
+#~ msgstr "Parçalama/Yazmaç Görünümü"
+
+#~ msgid "Binary"
+#~ msgstr "İkilik"
+
+#~ msgid "Octal"
+#~ msgstr "Sekizlik"
+
+#~ msgid "Decimal"
+#~ msgstr "Ondalık"
+
+#~ msgid "Hexadecimal"
+#~ msgstr "Onaltılık"
+
+#~ msgid "Raw"
+#~ msgstr "Ham"
+
+#~ msgid "Unsigned"
+#~ msgstr "İmzasız"
+
+#~ msgid "General"
+#~ msgstr "Genel"
+
+#~ msgid "Flags"
+#~ msgstr "Bayraklar"
+
+#~ msgid "VFP single-word"
+#~ msgstr "VFP tek-kelime"
+
+#~ msgid "VFP double-word"
+#~ msgstr "VFP çift-kelime"
+
+#~ msgid "VFP quad-word"
+#~ msgstr "VFP dörtlü-kelime"
+
+#~ msgid "FPU"
+#~ msgstr "FPU"
+
+#~ msgid "XMM"
+#~ msgstr "XMM"
+
+#~ msgid "Segment"
+#~ msgstr "Parça"
+
+#~ msgid "Format"
+#~ msgstr "Biçim"
+
+#~ msgid "Mode"
+#~ msgstr "Kip"
+
+#~ msgid "Update"
+#~ msgstr "Güncelle"
+
+#~ msgid "Address selector"
+#~ msgstr "Adres seçici"
+
+#~ msgid "Select the address to disassemble around"
+#~ msgstr "Nereden parçalara ayrılacağını gösteren adresi seçin"
+
+#~ msgid "Select address to disassemble around"
+#~ msgstr "Nereden parçalara ayrılacağını gösteren adresi seçin"
 
 #~ msgid "Examine Core File..."
 #~ msgstr "Çekirdek Dosyayı Denetle..."
@@ -788,6 +883,24 @@ msgstr "Yeni bir bellek görüntüleyici aç"
 #~ msgctxt "ProjectName: run configuration name"
 #~ msgid "%1: %2"
 #~ msgstr "%1: %2"
+
+#~ msgid "Attach to a process"
+#~ msgstr "Bir sürece iliştir"
+
+#~ msgid "Select Core File"
+#~ msgstr "Çekirdek Dosyayı Seç"
+
+#~ msgid "Executable:"
+#~ msgstr "Çalıştırılabilir dosya:"
+
+#~ msgid "Core File:"
+#~ msgstr "Çekirdek Dosya:"
+
+#~ msgid "<br>Old value: %1"
+#~ msgstr "<br>Eski değer: %1"
+
+#~ msgid "<br>New value: %1"
+#~ msgstr "<br>Yeni değer: %1"
 
 #~ msgid "Debugger stopped"
 #~ msgstr "Hata ayıklayıcı durdu"
@@ -883,47 +996,6 @@ msgstr "Yeni bir bellek görüntüleyici aç"
 #~ msgid "<b>Could not attach debugger:</b><br />"
 #~ msgstr "<b>Hata ayıklayıcı iliştirilemedi:</b><br />"
 
-#~ msgid "Address Selector"
-#~ msgstr "Adres Seçici"
-
-#~ msgid "Change &address"
-#~ msgstr "Adresi &değiştir"
-
-#~ msgid "&Jump to Cursor"
-#~ msgstr "İmlece &Atla"
-
-#~ msgid "Sets the execution pointer to the current cursor position."
-#~ msgstr "Çalıştırma işaretçisini mevcut imleç konumuna ayarlar."
-
-#~ msgid "&Run to Cursor"
-#~ msgstr "İmlece Kadar Çalıştı&r"
-
-#~ msgid "Continues execution until the cursor position is reached."
-#~ msgstr "İmleç konumuna ulaşana kadar çalıştırmaya devam eder."
-
-#~ msgid ""
-#~ "<b>Machine code display</b><p>A machine code view into your running "
-#~ "executable with the current instruction highlighted. You can step "
-#~ "instruction by instruction using the debuggers toolbar buttons of \"step "
-#~ "over\" instruction and \"step into\" instruction."
-#~ msgstr ""
-#~ "<b>Makina kodu gösterimi</b><p>Mevcut gösterilen komut ile çalışan "
-#~ "çalıştırılabilir makina kodu görünümüdür. Komutları hata ayıklayıcının "
-#~ "\"bir ilerle\" ve \"içine gir\" gibi komutlarını kullanarak, birer komut "
-#~ "şeklinde adımlayabilirsiniz."
-
-#~ msgid "Address"
-#~ msgstr "Adres"
-
-#~ msgid "Function"
-#~ msgstr "Fonksiyon"
-
-#~ msgid "Instruction"
-#~ msgstr "Yönerge"
-
-#~ msgid "Disassemble/Registers View"
-#~ msgstr "Parçalama/Yazmaç Görünümü"
-
 #~ msgctxt "<b>Internal debugger error</b>"
 #~ msgid ""
 #~ "<p>The debugger component encountered internal error while processing "
@@ -964,78 +1036,6 @@ msgstr "Yeni bir bellek görüntüleyici aç"
 
 #~ msgid "(running)"
 #~ msgstr "(çalışıyor)"
-
-#~ msgid "Attach to a process"
-#~ msgstr "Bir sürece iliştir"
-
-#~ msgid "Binary"
-#~ msgstr "İkilik"
-
-#~ msgid "Octal"
-#~ msgstr "Sekizlik"
-
-#~ msgid "Decimal"
-#~ msgstr "Ondalık"
-
-#~ msgid "Hexadecimal"
-#~ msgstr "Onaltılık"
-
-#~ msgid "Raw"
-#~ msgstr "Ham"
-
-#~ msgid "Unsigned"
-#~ msgstr "İmzasız"
-
-#~ msgid "General"
-#~ msgstr "Genel"
-
-#~ msgid "Flags"
-#~ msgstr "Bayraklar"
-
-#~ msgid "VFP single-word"
-#~ msgstr "VFP tek-kelime"
-
-#~ msgid "VFP double-word"
-#~ msgstr "VFP çift-kelime"
-
-#~ msgid "VFP quad-word"
-#~ msgstr "VFP dörtlü-kelime"
-
-#~ msgid "FPU"
-#~ msgstr "FPU"
-
-#~ msgid "XMM"
-#~ msgstr "XMM"
-
-#~ msgid "Segment"
-#~ msgstr "Parça"
-
-#~ msgid "Format"
-#~ msgstr "Biçim"
-
-#~ msgid "Mode"
-#~ msgstr "Kip"
-
-#~ msgid "Update"
-#~ msgstr "Güncelle"
-
-#~ msgid "Address selector"
-#~ msgstr "Adres seçici"
-
-#~ msgid "Select the address to disassemble around"
-#~ msgstr "Nereden parçalara ayrılacağını gösteren adresi seçin"
-
-#~ msgid "Select address to disassemble around"
-#~ msgstr "Nereden parçalara ayrılacağını gösteren adresi seçin"
-
-#~ msgid "Select Core File"
-#~ msgstr "Çekirdek Dosyayı Seç"
-
-#~ msgid "Executable:"
-#~ msgstr "Çalıştırılabilir dosya:"
-
-#~ msgid "Core File:"
-#~ msgstr "Çekirdek Dosya:"
 
 #~ msgid ""
 #~ "Cannot use the tty* or pty* devices.\n"

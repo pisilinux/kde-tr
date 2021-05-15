@@ -1,0 +1,642 @@
+#
+# Translators:
+# obsoleteman <tulliana@gmail.com>, 2012
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-base-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-02-12 03:12+0000\n"
+"PO-Revision-Date: 2017-10-04 12:29+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/extragear-base-k-"
+"tr/language/tr/)\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: activeshellpackage/package/metadata.desktop:2
+msgctxt "Comment"
+msgid "Plasma Active shell"
+msgstr "Plasma Active kabuğu"
+
+#: activeshellpackage/package/metadata.desktop:34
+msgctxt "Name"
+msgid "Desktop"
+msgstr "Masaüstü"
+
+#: activetoolbox/metadata.desktop:2
+msgctxt "Name"
+msgid "Plasma Active Toolbox"
+msgstr "Plasma Active Araç Kutusu"
+
+#: applets/alarms/active-alarms.desktop:2
+#: applets/alarms/plasmoid/metadata.desktop:3
+#: dataengines/alarms/plasma-engine-alarms.desktop:2
+msgctxt "Name"
+msgid "Alarms"
+msgstr "Alarmlar"
+
+#: applets/alarms/active-alarms.desktop:45
+msgctxt "Comment"
+msgid "A tool to setup visual and audio alarms for tablets"
+msgstr "Tabletler için görsel ve sesli alarmları ayarlamak için bir araç"
+
+#: applets/alarms/plasmoid/metadata.desktop:46
+msgctxt "Comment"
+msgid "Alarms setup tool"
+msgstr "Alarm ayarlama aracı"
+
+#: applications/filebrowser/active-books.desktop:2
+msgctxt "Name"
+msgid "Books"
+msgstr "Kitaplar"
+
+#: applications/filebrowser/active-books.desktop:45
+msgctxt "GenericName"
+msgid "Book collection"
+msgstr "Kitap koleksiyonu"
+
+#: applications/filebrowser/active-books.desktop:85
+msgctxt "Comment"
+msgid "All books installed on the device"
+msgstr "Aygıt üzerindeki tüm kitaplar"
+
+#: applications/filebrowser/active-filebrowser.desktop:2
+msgctxt "Name"
+msgid "Files"
+msgstr "Dosyalar"
+
+#: applications/filebrowser/active-filebrowser.desktop:47
+msgctxt "GenericName"
+msgid "File browser"
+msgstr "Dosya tarayıcı"
+
+#: applications/filebrowser/active-filebrowser.desktop:89
+msgctxt "Comment"
+msgid "A simple file browser/manager"
+msgstr "Basit bir dosya tarayıcı/yönetici"
+
+#: applications/filebrowser/active-imageviewer.desktop:2
+msgctxt "Name"
+msgid "Images"
+msgstr "Resimler"
+
+#: applications/filebrowser/active-imageviewer.desktop:47
+msgctxt "GenericName"
+msgid "Image viewer"
+msgstr "Resim gösterici"
+
+#: applications/filebrowser/active-imageviewer.desktop:89
+msgctxt "Comment"
+msgid "An image viewer for touch tablets"
+msgstr "Dokunmatik tabletler için bir resim gösterici"
+
+#: applications/filebrowser/browse-files.desktop:10
+msgctxt "Name"
+msgid "Browse files"
+msgstr "Dosyalara gözat"
+
+#: applications/filebrowser/filebrowserparts/audiopart/metadata.desktop:2
+msgctxt "Name"
+msgid "Audio metadata browser"
+msgstr "Ses üst veri tarayıcısı"
+
+#: applications/filebrowser/filebrowserparts/audiopart/metadata.desktop:35
+msgctxt "Comment"
+msgid "A browser for audio files metadata"
+msgstr "Ses dosyası üst verileri için bir tarayıcı"
+
+#: applications/filebrowser/filebrowserparts/imageviewerpart/metadata.desktop:2
+msgctxt "Name"
+msgid "Image Viewer"
+msgstr "Resim Gösterici"
+
+#: applications/filebrowser/filebrowserparts/imageviewerpart/metadata.desktop:43
+msgctxt "Comment"
+msgid "Touchscreen friendly simple image viewer"
+msgstr "Dokunmatik ekrana uygun resim gösterici"
+
+#: applications/filebrowser/package/metadata.desktop:2
+msgctxt "Name"
+msgid "File browser"
+msgstr "Dosya tarayıcı"
+
+#: applications/filebrowser/plasma-filebrowserpart.desktop:5
+msgctxt "Comment"
+msgid ""
+"Plasma package to load a particular mimetype directly in the file browser"
+msgstr "Dosya türünü doğrudan dosya tarayıcısı ile tüklemek için Plasma paketi"
+
+#: containments/activecontainment/metadata.desktop:2
+msgctxt "Name"
+msgid "Active Containment"
+msgstr ""
+
+#: containments/activepanel/metadata.desktop:3
+msgctxt "Name"
+msgid "Mobile Panel"
+msgstr "Mobil Panel"
+
+#: containments/activepanel/metadata.desktop:33
+msgctxt "Comment"
+msgid "A system tray applet for mobile shell"
+msgstr "Mobil kabuk için sistem çekmecesi gereci"
+
+#: containments/activityscreen/metadata.desktop:2
+msgctxt "Name"
+msgid "Contour activity screen"
+msgstr "Contour etkinlik ekranı"
+
+#: containments/activityscreen/metadata.desktop:37
+msgctxt "Comment"
+msgid "Categorized resources and widgets"
+msgstr "Kategorilendirilmiş kaynaklar ve gereçler"
+
+#: containments/appletstrip/metadata.desktop:3
+msgctxt "Name"
+msgid "Applets strip"
+msgstr "Gereç dilimleri"
+
+#: containments/webdashboard/metadata.desktop:3
+msgctxt "Name"
+msgid "Web Dashboard"
+msgstr "Web Kontrol Paneli"
+
+#: dataengines/alarms/plasma-engine-alarms.desktop:45
+msgctxt "Comment"
+msgid "List and set Akonadi Alarms"
+msgstr "Akonadi Alarmlarını listeler ve ayarlar"
+
+#: dataengines/apps/plasma-dataengine-org.kde.active.apps.desktop:2
+msgctxt "Name"
+msgid "Application Information"
+msgstr "Uygulama Bilgileri"
+
+#: dataengines/apps/plasma-dataengine-org.kde.active.apps.desktop:46
+msgctxt "Comment"
+msgid "Information and launching of all applications in the app menu."
+msgstr ""
+"Uygulama menüsündeki tüm uygulamalar hakkında bilgiler ve uygulamaları "
+"çalıştırma alanı."
+
+#: dataengines/preview/plasma-engine-preview.desktop:2
+msgctxt "Name"
+msgid "Preview"
+msgstr "Önizleme"
+
+#: dataengines/preview/plasma-engine-preview.desktop:45
+msgctxt "Comment"
+msgid "Shows previews for webpages"
+msgstr "Web sayfaları için önizleme gösterir"
+
+#: dataengines/recommendations/plasma-dataengine-recommendations.desktop:2
+msgctxt "Name"
+msgid "Recommendations"
+msgstr "Önerilenler"
+
+#: dataengines/recommendations/plasma-dataengine-recommendations.desktop:39
+msgctxt "Comment"
+msgid "Contour Recommendations dataengine"
+msgstr "Contour Öneriler veri motoru"
+
+#: runners/apps/plasma-runner-org.kde.active.apps.desktop:2
+msgctxt "Name"
+msgid "Plasma Active App Lister"
+msgstr "Plasma Active Uygulama Listeleyici"
+
+#~ msgctxt "Name"
+#~ msgid "Digital clock"
+#~ msgstr "Dijital saat"
+
+#~ msgctxt "Comment"
+#~ msgid "Time displayed in a digital format"
+#~ msgstr "Dijital biçimde gösterilen saat "
+
+#~ msgctxt "Name"
+#~ msgid "Location"
+#~ msgstr "Konum"
+
+#~ msgctxt "Comment"
+#~ msgid "Applet to tell the system where you are"
+#~ msgstr "Sisteme nerede olduğunuzu bildiren gereç"
+
+#~ msgctxt "Comment"
+#~ msgid "Location chooser"
+#~ msgstr "Konum seçici"
+
+#~ msgctxt "Name"
+#~ msgid "Orientation"
+#~ msgstr "Yönlendirme"
+
+#~ msgctxt "Comment"
+#~ msgid "Lock/Unlock and configure screen orientation"
+#~ msgstr "Ektan yönlendirmesini kilitle/kilidini aç ve yapılandır"
+
+#~ msgctxt "Keywords"
+#~ msgid "Screen, Orientation"
+#~ msgstr "Ekran, Yönlendirme"
+
+#~ msgctxt "Name"
+#~ msgid "Power Button"
+#~ msgstr "Güç Düğmesi"
+
+#~ msgctxt "Comment"
+#~ msgid "Suspends the device"
+#~ msgstr "Aygıtı askıya alır"
+
+#~ msgctxt "Keywords"
+#~ msgid "Power Management, Battery, System, Energy"
+#~ msgstr "Güç Yönetimi, Pil, Sistem, Enerji"
+
+#~ msgctxt "Comment"
+#~ msgid "Testing display of Nepomuk Resources"
+#~ msgstr "Nepomuk Kaynakları için test gösterimi"
+
+#~ msgctxt "Keywords"
+#~ msgid "Online Services, Web"
+#~ msgstr "Çevrimiçi Servisler, Web"
+
+#~ msgctxt "Name"
+#~ msgid "Resources List"
+#~ msgstr "Kaynaklar Listesi"
+
+#~ msgctxt "Name"
+#~ msgid "About"
+#~ msgstr "Hakkında"
+
+#~ msgctxt "GenericName"
+#~ msgid "About Plasma Active"
+#~ msgstr "Plasma Active Hakkında"
+
+#~ msgctxt "Comment"
+#~ msgid "Information about Plasma Active"
+#~ msgstr "Plasma Active hakkında bilgiler"
+
+#~ msgctxt "Name"
+#~ msgid "Settings"
+#~ msgstr "Ayarlar"
+
+#~ msgctxt "GenericName"
+#~ msgid "Settings"
+#~ msgstr "Ayarlar"
+
+#~ msgctxt "Comment"
+#~ msgid "Settings for Plasma Active"
+#~ msgstr "Plasma Active için Ayarlar"
+
+#~ msgctxt "Name"
+#~ msgid "Active Settings Module"
+#~ msgstr "Active Ayarlar Modülü"
+
+#~ msgctxt "Comment"
+#~ msgid "Active Settings Module Plugin"
+#~ msgstr "Active Ayarlar Modülü Eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "Configuration Test"
+#~ msgstr "Yapılandırma Testi"
+
+#~ msgctxt "Comment"
+#~ msgid "Config QML Bindings"
+#~ msgstr "QML Bağlayıcıları Yapılandırması"
+
+#~ msgctxt "Name"
+#~ msgid "Integration repository"
+#~ msgstr "Bütünleşme deposu"
+
+#~ msgctxt "Name"
+#~ msgid "Activate integration repository"
+#~ msgstr "Bütünleşme deposunu etkinleştir"
+
+#~ msgctxt "Description"
+#~ msgid "Adds the integration repository on device"
+#~ msgstr "Aygıta bütünleşme deposunu ekler"
+
+#~ msgctxt "Name"
+#~ msgid "Deactivate integration repository"
+#~ msgstr "Bütünleşme deposunu devre dışı bırak"
+
+#~ msgctxt "Description"
+#~ msgid "Removes the integration repository on device"
+#~ msgstr "Aygıtan bütünleşme deposunu kaldırır"
+
+#~ msgctxt "Name"
+#~ msgid "SSH Remote Access"
+#~ msgstr "SSH Uzak Erişim"
+
+#~ msgctxt "Name"
+#~ msgid "Activate sshd"
+#~ msgstr "Sshd etkinleştir"
+
+#~ msgctxt "Description"
+#~ msgid "Starts sshd on device"
+#~ msgstr "Aygıtta sshd başlatır"
+
+#~ msgctxt "Name"
+#~ msgid "Deactivate sshd"
+#~ msgstr "Sshd devre dışı bırak"
+
+#~ msgctxt "Description"
+#~ msgid "Stops sshd on device"
+#~ msgstr "Aygıtta sshd'yi durdurur"
+
+#~ msgctxt "Name"
+#~ msgid "Development"
+#~ msgstr "Geliştirme"
+
+#~ msgctxt "Comment"
+#~ msgid "Settings for developers"
+#~ msgstr "Geliştiriciler için Ayarlar"
+
+#~ msgctxt "Name"
+#~ msgid "Language"
+#~ msgstr "Dil"
+
+#~ msgctxt "Comment"
+#~ msgid "Locale settings"
+#~ msgstr "Yerel ayarları"
+
+#~ msgctxt "Name"
+#~ msgid "Screen"
+#~ msgstr "Ekran"
+
+#~ msgctxt "Comment"
+#~ msgid "Lock, Sleep, Timeout"
+#~ msgstr "Kilitle, Uyku Kipi, Zamanaşımı"
+
+#~ msgctxt "Name"
+#~ msgid "Date and Time Control Module"
+#~ msgstr "Tarih ve Saat Denetim Modülü"
+
+#~ msgctxt "Name"
+#~ msgid "Save the date/time settings"
+#~ msgstr "Tarih ve saat ayarlarını kaydet"
+
+#~ msgctxt "Description"
+#~ msgid "System policies prevent you from saving the date/time settings."
+#~ msgstr "Sistem politikaları tarih saat ayarlarını kaydetmenizi engelliyor."
+
+#~ msgctxt "Name"
+#~ msgid "Time and Date"
+#~ msgstr "Saat ve Tarih"
+
+#~ msgctxt "Comment"
+#~ msgid "Timezone, Date Display"
+#~ msgstr "Zaman dilimi, Tarih Görünümü"
+
+#~ msgctxt "Name"
+#~ msgid "Web and Browser"
+#~ msgstr "Web ve Tarayıcı"
+
+#~ msgctxt "Comment"
+#~ msgid "Text Size, History, Adblock, Homepage"
+#~ msgstr "Metin Boyutu, Geçmiş, Reklam Engelleyici, Ev Sayfası"
+
+#~ msgctxt "Name"
+#~ msgid "Active Settings"
+#~ msgstr "Active Ayarları"
+
+#~ msgctxt "Comment"
+#~ msgid "Touchscreen friendly settings UI for Active"
+#~ msgstr "Active için dokunmatik ekrana uyumlu ayarlar arayüzü"
+
+#~ msgctxt "Name"
+#~ msgid "Browser"
+#~ msgstr "Tarayıcı"
+
+#~ msgctxt "GenericName"
+#~ msgid "Web Browser"
+#~ msgstr "Web Tarayıcı"
+
+#~ msgctxt "Comment"
+#~ msgid "A web browser reader for touch tablets"
+#~ msgstr "Dokunmatik tabletler için bir web tarayıcı okuyucusu"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Web Browser"
+#~ msgctxt "Name"
+#~ msgid "Angelfish Web Browser"
+#~ msgstr "Web Tarayıcı"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "File browser"
+#~ msgctxt "Comment"
+#~ msgid "Mobile web browser"
+#~ msgstr "Dosya tarayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Widget explorer"
+#~ msgstr "Gereç tarayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Widget Strip"
+#~ msgstr "Gereç Dilimi"
+
+#~ msgctxt "GenericName"
+#~ msgid "Widget Strip"
+#~ msgstr "Gereç Dilimi"
+
+#~ msgctxt "Comment"
+#~ msgid "A collection of widgets"
+#~ msgstr "Gereç koleksiyonu"
+
+#~ msgctxt "Name"
+#~ msgid "Air for Mobile"
+#~ msgstr "Cep telefonları için Air"
+
+#~ msgctxt "Comment"
+#~ msgid "A breath of fresh air"
+#~ msgstr "Temiz havadan bir nefes"
+
+#~ msgctxt "Name"
+#~ msgid "Oxygen for Mobile"
+#~ msgstr "Cep telefonları için Oxygen"
+
+#~ msgctxt "Name"
+#~ msgid "Horos Green"
+#~ msgstr "Horos Green"
+
+#~ msgctxt "Name"
+#~ msgid "Contour data server"
+#~ msgstr "Contour veri sunucusu"
+
+#~ msgctxt "Comment"
+#~ msgid "Recommendation engine for Contour"
+#~ msgstr "Countour için önerilen motor"
+
+#~ msgctxt "Comment"
+#~ msgid "Scripted recommendation engine for Contour"
+#~ msgstr "Countour için betiklenmiş önerilen motor"
+
+#~ msgctxt "Name"
+#~ msgid "Documents plugin"
+#~ msgstr "Belgeler eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Shows highest rated documents"
+#~ msgstr "En yüksek beğeni alan belgeleri gösterir"
+
+#~ msgctxt "Name"
+#~ msgid "Links plugin"
+#~ msgstr "Bağlantılar eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Shows some KDE-related links"
+#~ msgstr "Bazı KDE ile ilgili bağlantıları gösterir"
+
+#~ msgctxt "Name"
+#~ msgid "Pauses the media"
+#~ msgstr "Ortamı duraklatır"
+
+#~ msgctxt "Comment"
+#~ msgid "Shows media player control"
+#~ msgstr "Ortam oynatıcı denetimini gösterir"
+
+#~ msgctxt "Name"
+#~ msgid "Device Capabilities"
+#~ msgstr "Aygıt Yetenekleri"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides information and services for device-specific aspects"
+#~ msgstr "Aygıta özel bilgiler ve servisler sağlar"
+
+#~ msgctxt "Name"
+#~ msgid "Active Bookmarks"
+#~ msgstr "Active Yer İmleri"
+
+#~ msgctxt "Comment"
+#~ msgid "Bookmarks from Nepomuk"
+#~ msgstr "Nepomuk yer imleri"
+
+#~ msgctxt "Name"
+#~ msgid "Active Metadata"
+#~ msgstr "Active Üstverileri"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides metadata for semantic resources"
+#~ msgstr "Semantik kaynaklar için üstveri sağlar"
+
+#~ msgctxt "Comment"
+#~ msgid "Adjusts screen orientation"
+#~ msgstr "Ekran yönlendirmesini ayarlar"
+
+#~ msgctxt "Comment"
+#~ msgid "Simple battery monitor"
+#~ msgstr "Basit pil izleyici"
+
+#~ msgctxt "Name"
+#~ msgid "Simple Battery"
+#~ msgstr "Basit Pil"
+
+#~ msgctxt "Name"
+#~ msgid "Launcher panel"
+#~ msgstr "Başlatıcı paneli"
+
+#~ msgctxt "Comment"
+#~ msgid "Panel with some launcher icons"
+#~ msgstr "Bazı uygulama başlatıcı simgeleri barındıran panel"
+
+#~ msgctxt "Name"
+#~ msgid "Mobile Network Operator"
+#~ msgstr "Cep Telefonu Ağ Sağlayıcısı"
+
+#~ msgctxt "Name"
+#~ msgid "Mobile Network Status"
+#~ msgstr "Mobil Ağ Durumu"
+
+#~ msgctxt "Name"
+#~ msgid "Quick Dialer (QML)"
+#~ msgstr "Hızlı Numara Çevirici (QML)"
+
+#~ msgctxt "Name"
+#~ msgid "Window Strip"
+#~ msgstr "Pencere Dilimi"
+
+#~ msgctxt "Name|plasma containment"
+#~ msgid "MobileDesktop"
+#~ msgstr "Cep Telefonu Masaüstü"
+
+#~ msgctxt "Comment"
+#~ msgid "Default desktop containment"
+#~ msgstr "Öntanımlı masaüstü kapsayıcısı"
+
+#~ msgctxt "Name"
+#~ msgid "Mobile Network Engine"
+#~ msgstr "Cep Telefonu Ağ Motoru"
+
+#~ msgctxt "Comment"
+#~ msgid "Mobile network engine"
+#~ msgstr "Cep telefonu ağ motoru"
+
+#~ msgctxt "Name"
+#~ msgid "Mobile Profile Engine"
+#~ msgstr "Mobil Profil Motoru"
+
+#~ msgctxt "Comment"
+#~ msgid "Default toolbox for the mobile shell"
+#~ msgstr "Mobil kabuk için öntanımlı araç kutusu"
+
+#~ msgctxt "Name"
+#~ msgid "Mobile toolbox"
+#~ msgstr "Mobil araç kutusu"
+
+#~ msgctxt "Name"
+#~ msgid "plasma-mobile-homescreen"
+#~ msgstr "plasma-mobil-ev ekranı"
+
+#~ msgctxt "Name"
+#~ msgid "activities"
+#~ msgstr "eylemler"
+
+#~ msgctxt "Comment"
+#~ msgid "Contour tablet homescreen"
+#~ msgstr "Contour tablet ev ekranı"
+
+#~ msgctxt "Name"
+#~ msgid "Tablet homescreen"
+#~ msgstr "Tablet ev ekranı"
+
+#~ msgctxt "Comment"
+#~ msgid "Start Applications"
+#~ msgstr "Uygulamaları Başlat"
+
+#~ msgctxt "Name"
+#~ msgid "Launcher"
+#~ msgstr "Başlatıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Activity configuration"
+#~ msgstr "Etkinlik yapılandırması"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma device shell"
+#~ msgstr "Plasma aygıt kabuğu"
+
+#~ msgctxt "Comment"
+#~ msgid "Workspace shell for a wide spectrum of portable devices."
+#~ msgstr "Çeşitli taşınabilir aygıtlar için çalışma alanı kabuğu"
+
+#~ msgctxt "Name"
+#~ msgid "Widget and resources explorer"
+#~ msgstr "Gereç ve kaynak tarayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Image (mobile)"
+#~ msgstr "Resim (mobil)"
+
+#~ msgctxt "Name"
+#~ msgid "Touch Browser"
+#~ msgstr "Dokunmatik Tarayıcı"
+
+#~ msgctxt "Comment"
+#~ msgid "Touchscreen friendly simple web browser"
+#~ msgstr "Dokunmatik ekrana uygun basit bir web tarayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Mobile System Tray"
+#~ msgstr "Cep Telefonu Sistem Çekmecesi"

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-multimedia-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-21 07:10+0000\n"
+"POT-Creation-Date: 2021-01-22 02:02+0000\n"
 "PO-Revision-Date: 2017-10-02 12:55+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/extragear-"
@@ -27,12 +27,27 @@ msgctxt "Description"
 msgid "Microsoft Media Server Protocol"
 msgstr "Microsoft Medya Sunucu Protokolü"
 
-#: src/kmplayer_part.desktop:3
+#: src/app/org.kde.kmplayer.desktop:6
+msgctxt "Comment"
+msgid "Interface for MPlayer by KDE"
+msgstr "MPlayer için KDE arayüzü"
+
+#: src/app/org.kde.kmplayer.desktop:44
 msgctxt "Name"
-msgid "Embedded MPlayer for KDE"
+msgid "KMPlayer"
+msgstr "KMPlayer"
+
+#: src/app/org.kde.kmplayer.desktop:106
+msgctxt "GenericName"
+msgid "Media Player"
+msgstr "Medya Oynatıcı"
+
+#: src/part/kmplayer_part.desktop.in:2
+msgctxt "Name"
+msgid "Embedded MPlayer by KDE"
 msgstr "KDE için gömülü MPlayer"
 
-#: src/kmplayer_part.desktop:59
+#: src/part/kmplayer_part.desktop.in:38
 msgctxt "Comment"
 msgid ""
 "Video player plugin (QuickTime, XMovie, Windows Media and RealPlayer "
@@ -40,32 +55,3 @@ msgid ""
 msgstr ""
 "Video oynatıcı eklentisi (QuickTime, XMovie, Windows Media ve RealPlayer "
 "uyumlu)"
-
-#: src/org.kde.kmplayer.desktop:6
-msgctxt "Comment"
-msgid "KDE interface for MPlayer"
-msgstr "MPlayer için KDE arayüzü"
-
-#: src/org.kde.kmplayer.desktop:63
-msgctxt "Name"
-msgid "KMPlayer"
-msgstr "KMPlayer"
-
-#: src/org.kde.kmplayer.desktop:126
-msgctxt "GenericName"
-msgid "Media Player"
-msgstr "Medya Oynatıcı"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Embedded MPlayer for KDE"
-#~ msgctxt "Name"
-#~ msgid "Embedded MPlayer by KDE"
-#~ msgstr "KDE için gömülü MPlayer"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "KDE interface for MPlayer"
-#~ msgctxt "Comment"
-#~ msgid "Interface for MPlayer by KDE"
-#~ msgstr "MPlayer için KDE arayüzü"

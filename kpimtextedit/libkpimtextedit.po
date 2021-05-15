@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdepimlibs-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-27 03:09+0100\n"
+"POT-Creation-Date: 2021-04-30 00:19+0000\n"
 "PO-Revision-Date: 2017-06-05 14:10+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -615,23 +615,23 @@ msgstr ""
 msgid "Award-Medal"
 msgstr ""
 
-#: inserthtmldialog.cpp:27
+#: inserthtmldialog.cpp:29
 #, kde-format
 msgctxt "@title:window"
 msgid "Insert HTML"
 msgstr "HTML ekle"
 
-#: inserthtmldialog.cpp:29
+#: inserthtmldialog.cpp:31
 #, kde-format
 msgid "Insert HTML tags and texts:"
 msgstr "HTML etiketleri ve metin ekleyin:"
 
-#: inserthtmldialog.cpp:35
+#: inserthtmldialog.cpp:37
 #, kde-format
 msgid "Example: <i> Hello word </i>"
 msgstr "Örnek: <i> Merhaba Dünya </i>"
 
-#: inserthtmldialog.cpp:44
+#: inserthtmldialog.cpp:46
 #, kde-format
 msgctxt "@action:button"
 msgid "Insert"
@@ -645,7 +645,7 @@ msgid "Insert Image"
 msgstr "Resim Ekle"
 
 #: insertimagedialog.cpp:36 inserttabledialog.cpp:37
-#: selectspecialchardialog.cpp:34 tableactionmenu.cpp:404
+#: selectspecialchardialog.cpp:34 tableactionmenu.cpp:405
 #, kde-format
 msgid "Insert"
 msgstr "Ekle"
@@ -736,62 +736,62 @@ msgstr "Özel Karakterler Seç"
 msgid "Select"
 msgstr "Seç"
 
-#: tableactionmenu.cpp:407
+#: tableactionmenu.cpp:408
 #, kde-format
 msgid "Table..."
 msgstr "Tablo..."
 
-#: tableactionmenu.cpp:415 tableactionmenu.cpp:448
+#: tableactionmenu.cpp:416 tableactionmenu.cpp:449
 #, kde-format
 msgid "Row Below"
 msgstr "Alt Satır"
 
-#: tableactionmenu.cpp:422 tableactionmenu.cpp:455
+#: tableactionmenu.cpp:423 tableactionmenu.cpp:456
 #, kde-format
 msgid "Row Above"
 msgstr "Üst Satır"
 
-#: tableactionmenu.cpp:430 tableactionmenu.cpp:463
+#: tableactionmenu.cpp:431 tableactionmenu.cpp:464
 #, kde-format
 msgid "Column Before"
 msgstr "Önceki Sütun"
 
-#: tableactionmenu.cpp:438 tableactionmenu.cpp:471
+#: tableactionmenu.cpp:439 tableactionmenu.cpp:472
 #, kde-format
 msgid "Column After"
 msgstr "Sonraki Sütun"
 
-#: tableactionmenu.cpp:445
+#: tableactionmenu.cpp:446
 #, kde-format
 msgid "Delete"
 msgstr "Sil"
 
-#: tableactionmenu.cpp:479
+#: tableactionmenu.cpp:480
 #, kde-format
 msgid "Cell Contents"
 msgstr "Hücre İçeriği"
 
-#: tableactionmenu.cpp:488
+#: tableactionmenu.cpp:489
 #, kde-format
 msgid "Join With Cell to the Right"
 msgstr "Sağdaki Hücreyle Birleştir"
 
-#: tableactionmenu.cpp:495
+#: tableactionmenu.cpp:496
 #, kde-format
 msgid "Join Selected Cells"
 msgstr "Seçili Hücreleri Birleştir"
 
-#: tableactionmenu.cpp:502
+#: tableactionmenu.cpp:503
 #, kde-format
 msgid "Split cells"
 msgstr "Hücreleri böl"
 
-#: tableactionmenu.cpp:511
+#: tableactionmenu.cpp:512
 #, kde-format
 msgid "Table Format..."
 msgstr "Tablo Biçimi..."
 
-#: tableactionmenu.cpp:518
+#: tableactionmenu.cpp:519
 #, kde-format
 msgid "Table Cell Format..."
 msgstr "Tablo Hücre Biçimi..."

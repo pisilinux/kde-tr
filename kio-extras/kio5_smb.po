@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio_smb\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-04 02:24+0100\n"
+"POT-Creation-Date: 2021-04-13 00:18+0000\n"
 "PO-Revision-Date: 2017-07-31 15:20+0000\n"
 "Last-Translator: Mesutcan <mesutcank@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -152,7 +152,7 @@ msgstr "%1<nl/>%2 erişimi denenirken hata oluştu"
 msgid "libsmbclient failed to create context"
 msgstr "libsmbclient başlatılamadı"
 
-#: kio_smb_mount.cpp:91 kio_smb_mount.cpp:117
+#: kio_smb_mount.cpp:91 kio_smb_mount.cpp:118
 #, kde-format
 msgid ""
 "\n"
@@ -171,7 +171,7 @@ msgstr ""
 "bağlanması işlemi başarısız oldu.\n"
 "%4"
 
-#: kio_smb_mount.cpp:127
+#: kio_smb_mount.cpp:128
 #, kde-format
 msgid ""
 "Unmounting of mountpoint \"%1\" failed.\n"

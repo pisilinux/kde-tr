@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeutils-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-28 13:55+0000\n"
+"POT-Creation-Date: 2021-05-10 00:23+0000\n"
 "PO-Revision-Date: 2017-10-23 08:43+0000\n"
 "Last-Translator: İşbaran <isbaran@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -127,49 +127,49 @@ msgstr ""
 "Arşiv <filename>%1</filename> olarak farklı kaydedilemedi. Başka bir yere "
 "kaydetmeyi deneyin."
 
-#: app/compressfileitemaction.cpp:70
+#: app/compressfileitemaction.cpp:77
 #, kde-format
 msgctxt "@action:inmenu Part of Compress submenu in Dolphin context menu"
 msgid "Here (as TAR.GZ)"
 msgstr "Buraya (TAR.GZ olarak)"
 
-#: app/compressfileitemaction.cpp:79
+#: app/compressfileitemaction.cpp:86
 #, kde-format
 msgctxt "@action:inmenu Part of Compress submenu in Dolphin context menu"
 msgid "Here (as ZIP)"
 msgstr "Buraya (ZIP olarak)"
 
-#: app/compressfileitemaction.cpp:86
+#: app/compressfileitemaction.cpp:93
 #, kde-format
 msgctxt "@action:inmenu Part of Compress submenu in Dolphin context menu"
 msgid "Compress to..."
 msgstr "Şuraya sıkıştır..."
 
-#: app/compressfileitemaction.cpp:91
+#: app/compressfileitemaction.cpp:98
 #, kde-format
 msgctxt "@action:inmenu Compress submenu in Dolphin context menu"
 msgid "Compress"
 msgstr "Sıkıştır"
 
-#: app/extractfileitemaction.cpp:72
+#: app/extractfileitemaction.cpp:76
 #, kde-format
 msgctxt "@action:inmenu Part of Extract submenu in Dolphin context menu"
 msgid "Extract archive to..."
 msgstr "Arşivi çıkart..."
 
-#: app/extractfileitemaction.cpp:84
+#: app/extractfileitemaction.cpp:88
 #, kde-format
 msgctxt "@action:inmenu Part of Extract submenu in Dolphin context menu"
 msgid "Extract archive here"
 msgstr "Arşivi buraya çıkart"
 
-#: app/extractfileitemaction.cpp:92
+#: app/extractfileitemaction.cpp:96
 #, kde-format
 msgctxt "@action:inmenu Part of Extract submenu in Dolphin context menu"
 msgid "Extract archive here, autodetect subfolder"
 msgstr "Arşivi buradan çıkart, alt klasörü otomatik algıla"
 
-#: app/extractfileitemaction.cpp:98
+#: app/extractfileitemaction.cpp:102
 #, kde-format
 msgctxt "@action:inmenu Extract submenu in Dolphin context menu"
 msgid "Extract"
@@ -413,33 +413,50 @@ msgstr ""
 msgid "List supported MIME types."
 msgstr ""
 
-#: app/mainwindow.cpp:147
+#: app/mainwindow.cpp:143
 #, kde-format
 msgid "Unable to find Ark's KPart component, please check your installation."
 msgstr ""
 "Ark uygulamasının KPart bileşeni bulunamadı, lütfen kurulumunuzu kontrol "
 "edin."
 
-#: app/mainwindow.cpp:186
-#, kde-format
-msgctxt "action, to open an archive"
-msgid "Open"
-msgstr "Aç"
-
-#: app/mainwindow.cpp:187
-#, kde-format
-msgid "Open an archive"
-msgstr "Bir arşiv aç"
-
-#: app/mainwindow.cpp:209
+#: app/mainwindow.cpp:216
 #, kde-format
 msgctxt "to open an archive"
 msgid "Open Archive"
 msgstr "Arşivi Aç"
 
-#: app/mainwindow.cpp:310
+#: app/mainwindow.cpp:323
 #, kde-format
 msgid "Create New Archive"
+msgstr "Yeni Arşiv Oluştur"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, WelcomeScreen)
+#: app/welcomescreen.ui:18
+#, kde-format
+msgid "Form"
+msgstr "Form"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: app/welcomescreen.ui:53
+#, kde-format
+msgid "Welcome to Ark"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, openButton)
+#: app/welcomescreen.ui:97
+#, fuzzy, kde-format
+#| msgctxt "to open an archive"
+#| msgid "Open Archive"
+msgctxt "to open an archive"
+msgid "Open Archive..."
+msgstr "Arşivi Aç"
+
+#. i18n: ectx: property (text), widget (QPushButton, newButton)
+#: app/welcomescreen.ui:107
+#, fuzzy, kde-format
+#| msgid "Create New Archive"
+msgid "Create New Archive..."
 msgstr "Yeni Arşiv Oluştur"
 
 #: kerfuffle/adddialog.cpp:59 kerfuffle/adddialog.cpp:97
@@ -955,34 +972,34 @@ msgstr ""
 msgid "Loading archive"
 msgstr "Arşiv yükleniyor"
 
-#: kerfuffle/jobs.cpp:268 kerfuffle/jobs.cpp:524 kerfuffle/jobs.cpp:670
-#: kerfuffle/jobs.cpp:723 kerfuffle/jobs.cpp:761 kerfuffle/jobs.cpp:793
-#: kerfuffle/jobs.cpp:841
+#: kerfuffle/jobs.cpp:268 kerfuffle/jobs.cpp:525 kerfuffle/jobs.cpp:671
+#: kerfuffle/jobs.cpp:724 kerfuffle/jobs.cpp:762 kerfuffle/jobs.cpp:794
+#: kerfuffle/jobs.cpp:842
 #, kde-format
 msgid "Archive"
 msgstr "Arşivle"
 
-#: kerfuffle/jobs.cpp:520
+#: kerfuffle/jobs.cpp:521
 #, kde-format
 msgid "Extracting all files"
 msgstr "Tüm dosyalar çıkartılıyor"
 
 #. i18np on purpose so this translation may properly be reused.
-#: kerfuffle/jobs.cpp:522 kerfuffle/jobs.cpp:596
+#: kerfuffle/jobs.cpp:523 kerfuffle/jobs.cpp:597
 #, kde-format
 msgid "Extracting one file"
 msgid_plural "Extracting %1 files"
 msgstr[0] "%1 dosya çıkartılıyor"
 msgstr[1] "%1 dosya çıkartılıyor"
 
-#: kerfuffle/jobs.cpp:524
+#: kerfuffle/jobs.cpp:525
 #, fuzzy, kde-format
 #| msgid "Destination"
 msgctxt "extraction folder"
 msgid "Destination"
 msgstr "Hedef"
 
-#: kerfuffle/jobs.cpp:528
+#: kerfuffle/jobs.cpp:529
 #, kde-kuit-format
 msgid ""
 "Could not write to destination <filename>%1</filename>.<nl/>Check whether "
@@ -991,40 +1008,40 @@ msgstr ""
 "<filename>%1</filename> hedefine yazılamadı.<nl/>Yeterli izinlere sahip olup "
 "olmadığınızı kontrol edin."
 
-#: kerfuffle/jobs.cpp:669
+#: kerfuffle/jobs.cpp:670
 #, kde-format
 msgid "Compressing a file"
 msgid_plural "Compressing %1 files"
 msgstr[0] "Bir dosya sıkıştırılıyor"
 msgstr[1] "%1 dosya sıkıştırılıyor"
 
-#: kerfuffle/jobs.cpp:722
+#: kerfuffle/jobs.cpp:723
 #, kde-format
 msgid "Moving a file"
 msgid_plural "Moving %1 files"
 msgstr[0] "Bir dosya taşınıyor"
 msgstr[1] "%1 dosya taşınıyor"
 
-#: kerfuffle/jobs.cpp:760
+#: kerfuffle/jobs.cpp:761
 #, kde-format
 msgid "Copying a file"
 msgid_plural "Copying %1 files"
 msgstr[0] "Bir dosya kopyalanıyor"
 msgstr[1] "%1 dosya kopyalanıyor"
 
-#: kerfuffle/jobs.cpp:792
+#: kerfuffle/jobs.cpp:793
 #, kde-format
 msgid "Deleting a file from the archive"
 msgid_plural "Deleting %1 files"
 msgstr[0] "%1 dosya siliniyor"
 msgstr[1] "%1 dosya siliniyor"
 
-#: kerfuffle/jobs.cpp:816
+#: kerfuffle/jobs.cpp:817
 #, kde-format
 msgid "Adding comment"
 msgstr "Yorum ekleniyor"
 
-#: kerfuffle/jobs.cpp:841
+#: kerfuffle/jobs.cpp:842
 #, kde-format
 msgid "Testing archive"
 msgstr "Arşivi test ediliyor"
@@ -1277,90 +1294,90 @@ msgstr ""
 "başarısız oldu:<nl/>    %2<nl/><nl/>Çıkartma işlemine devam etmek istiyor "
 "musunuz?<nl/>"
 
-#: part/archivemodel.cpp:175
+#: part/archivemodel.cpp:177
 #, kde-format
 msgctxt "Name of a file inside an archive"
 msgid "Name"
 msgstr "İsim"
 
-#: part/archivemodel.cpp:177
+#: part/archivemodel.cpp:179
 #, kde-format
 msgctxt "Uncompressed size of a file inside an archive"
 msgid "Size"
 msgstr "Boyut"
 
-#: part/archivemodel.cpp:179
+#: part/archivemodel.cpp:181
 #, kde-format
 msgctxt "Compressed size of a file inside an archive"
 msgid "Compressed"
 msgstr "Sıkıştırılmış"
 
-#: part/archivemodel.cpp:181
+#: part/archivemodel.cpp:183
 #, kde-format
 msgctxt "Compression rate of file"
 msgid "Rate"
 msgstr "Oran"
 
-#: part/archivemodel.cpp:183
+#: part/archivemodel.cpp:185
 #, kde-format
 msgctxt "File's owner username"
 msgid "Owner"
 msgstr "Sahip"
 
-#: part/archivemodel.cpp:185
+#: part/archivemodel.cpp:187
 #, kde-format
 msgctxt "File's group"
 msgid "Group"
 msgstr "Grup"
 
-#: part/archivemodel.cpp:187
+#: part/archivemodel.cpp:189
 #, kde-format
 msgctxt "File permissions"
 msgid "Mode"
 msgstr "Kip"
 
-#: part/archivemodel.cpp:189
+#: part/archivemodel.cpp:191
 #, kde-format
 msgctxt "CRC hash code"
 msgid "CRC checksum"
 msgstr ""
 
-#: part/archivemodel.cpp:191
+#: part/archivemodel.cpp:193
 #, kde-format
 msgctxt "BLAKE2 hash code"
 msgid "BLAKE2 checksum"
 msgstr ""
 
-#: part/archivemodel.cpp:193
+#: part/archivemodel.cpp:195
 #, kde-format
 msgctxt "Compression method"
 msgid "Method"
 msgstr "Yöntem"
 
-#: part/archivemodel.cpp:196
+#: part/archivemodel.cpp:198
 #, kde-format
 msgctxt "File version"
 msgid "Version"
 msgstr "Sürüm"
 
-#: part/archivemodel.cpp:198
+#: part/archivemodel.cpp:200
 #, kde-format
 msgctxt "Timestamp"
 msgid "Date"
 msgstr "Tarih"
 
-#: part/archivemodel.cpp:200
+#: part/archivemodel.cpp:202
 #, kde-format
 msgctxt "Unnamed column"
 msgid "??"
 msgstr "??"
 
-#: part/archivemodel.cpp:311
+#: part/archivemodel.cpp:313
 #, kde-format
 msgid "Adding files is not supported for this archive."
 msgstr "Bu arşive dosya ekleme desteklenmiyor."
 
-#: part/archivemodel.cpp:319
+#: part/archivemodel.cpp:321
 #, fuzzy, kde-format
 #| msgctxt "@info:tooltip"
 #| msgid "Click to add files to the archive"
@@ -1401,7 +1418,12 @@ msgstr "Önizleme kapatılıyor"
 msgid "Please wait while the preview is being closed..."
 msgstr "Önizleme kapatılırken lütfen bekleyin..."
 
-#: part/arkviewer.cpp:128
+#: part/arkviewer.cpp:114
+#, kde-format
+msgid "The internal viewer cannot preview this file."
+msgstr "Dahili gösterici bu dosyanın önizlemesini gösteremiyor."
+
+#: part/arkviewer.cpp:130
 #, kde-kuit-format
 msgid ""
 "The internal viewer cannot preview this type of file<nl/>(%1).<nl/><nl/>Do "
@@ -1410,19 +1432,19 @@ msgstr ""
 "Dahili gösterici bu dosyanın önizlemesini gösteremiyor<nl/>(%1).<nl/><nl/"
 ">Dosya önizlemesinin düz metin olarak yapılmasını ister misiniz?"
 
-#: part/arkviewer.cpp:129 part/arkviewer.cpp:141
+#: part/arkviewer.cpp:131 part/arkviewer.cpp:143
 #, kde-format
 msgctxt "@title:window"
 msgid "Cannot Preview File"
 msgstr "Dosya Önizlemesi Yapılamadı"
 
-#: part/arkviewer.cpp:130 part/arkviewer.cpp:142
+#: part/arkviewer.cpp:132 part/arkviewer.cpp:144
 #, kde-format
 msgctxt "@action:button"
 msgid "Preview as Text"
 msgstr "Metin Olarak Önizle"
 
-#: part/arkviewer.cpp:140
+#: part/arkviewer.cpp:142
 #, kde-kuit-format
 msgid ""
 "The internal viewer cannot preview this unknown type of file.<nl/><nl/>Do "
@@ -1431,12 +1453,7 @@ msgstr ""
 "Dahili gösterici bu dosyanın önizlemesini gösteremiyor.<nl/><nl/>Dosya "
 "önizlemesinin düz metin olarak yapılmasını ister misiniz?"
 
-#: part/arkviewer.cpp:167
-#, kde-format
-msgid "The internal viewer cannot preview this file."
-msgstr "Dahili gösterici bu dosyanın önizlemesini gösteremiyor."
-
-#: part/arkviewer.cpp:214
+#: part/arkviewer.cpp:208
 #, kde-format
 msgctxt "@action"
 msgid "About Viewer Component"
@@ -2129,95 +2146,102 @@ msgid ""
 "There was an error while reading <filename>%1</filename> during extraction."
 msgstr "Çıkartma işlemi sırasında <filename>%1</filename> dosyası okunamadı."
 
-#: plugins/libzipplugin/libzipplugin.cpp:83
-#: plugins/libzipplugin/libzipplugin.cpp:126
-#: plugins/libzipplugin/libzipplugin.cpp:400
-#: plugins/libzipplugin/libzipplugin.cpp:445
-#: plugins/libzipplugin/libzipplugin.cpp:532
-#: plugins/libzipplugin/libzipplugin.cpp:800
-#: plugins/libzipplugin/libzipplugin.cpp:849
+#: plugins/libzipplugin/libzipplugin.cpp:84
+#: plugins/libzipplugin/libzipplugin.cpp:127
+#: plugins/libzipplugin/libzipplugin.cpp:402
+#: plugins/libzipplugin/libzipplugin.cpp:447
+#: plugins/libzipplugin/libzipplugin.cpp:536
+#: plugins/libzipplugin/libzipplugin.cpp:804
+#: plugins/libzipplugin/libzipplugin.cpp:853
 #, kde-kuit-format
 msgid "Failed to open archive: %1"
 msgstr "Arşiv açılamadı: %1"
 
-#: plugins/libzipplugin/libzipplugin.cpp:178
-#: plugins/libzipplugin/libzipplugin.cpp:429
-#: plugins/libzipplugin/libzipplugin.cpp:457
-#: plugins/libzipplugin/libzipplugin.cpp:830
-#: plugins/libzipplugin/libzipplugin.cpp:912
+#: plugins/libzipplugin/libzipplugin.cpp:179
+#: plugins/libzipplugin/libzipplugin.cpp:431
+#: plugins/libzipplugin/libzipplugin.cpp:459
+#: plugins/libzipplugin/libzipplugin.cpp:834
+#: plugins/libzipplugin/libzipplugin.cpp:916
 #, kde-kuit-format
 msgid "Failed to write archive."
 msgstr "Arşiv yazılamadı."
 
-#: plugins/libzipplugin/libzipplugin.cpp:223
-#: plugins/libzipplugin/libzipplugin.cpp:886
+#: plugins/libzipplugin/libzipplugin.cpp:224
+#: plugins/libzipplugin/libzipplugin.cpp:890
 #, kde-kuit-format
 msgid "Failed to add entry: %1"
 msgstr "Girdi eklenemedi: %1"
 
-#: plugins/libzipplugin/libzipplugin.cpp:270
+#: plugins/libzipplugin/libzipplugin.cpp:271
 #, kde-kuit-format
 msgid "Failed to set compression options for entry: %1"
 msgstr "Girdi için sıkışıtırma seçeneklerini ayarlama başarısız oldu: %1"
 
-#: plugins/libzipplugin/libzipplugin.cpp:370
-#: plugins/libzipplugin/libzipplugin.cpp:754
-#: plugins/libzipplugin/libzipplugin.cpp:895
+#: plugins/libzipplugin/libzipplugin.cpp:372
+#: plugins/libzipplugin/libzipplugin.cpp:758
+#: plugins/libzipplugin/libzipplugin.cpp:899
 #, kde-kuit-format
 msgid "Failed to read metadata for entry: %1"
 msgstr "Girdi için meta veri okuma başarısız oldu: %1"
 
-#: plugins/libzipplugin/libzipplugin.cpp:414
-#: plugins/libzipplugin/libzipplugin.cpp:419
+#: plugins/libzipplugin/libzipplugin.cpp:416
+#: plugins/libzipplugin/libzipplugin.cpp:421
 #, kde-kuit-format
 msgid "Failed to delete entry: %1"
 msgstr "Girdi silinemedi: %1"
 
-#: plugins/libzipplugin/libzipplugin.cpp:637
+#: plugins/libzipplugin/libzipplugin.cpp:641
 #, kde-kuit-format
 msgid "Failed to create directory: %1"
 msgstr "Dizin oluşturulamadı: %1"
 
-#: plugins/libzipplugin/libzipplugin.cpp:710
+#: plugins/libzipplugin/libzipplugin.cpp:714
 #, kde-kuit-format
 msgid "Failed to open '%1':<nl/>%2"
 msgstr "'%1' açılamadı:<nl/>%2"
 
-#: plugins/libzipplugin/libzipplugin.cpp:718
+#: plugins/libzipplugin/libzipplugin.cpp:722
 #, kde-kuit-format
 msgid "Failed to open file for writing: %1"
 msgstr "Dosya yazma için açılamadı: %1"
 
-#: plugins/libzipplugin/libzipplugin.cpp:731
+#: plugins/libzipplugin/libzipplugin.cpp:735
 #, kde-kuit-format
 msgid "Failed to read data for entry: %1"
 msgstr "Girdi için veriler okunamadı: %1"
 
-#: plugins/libzipplugin/libzipplugin.cpp:736
+#: plugins/libzipplugin/libzipplugin.cpp:740
 #, kde-kuit-format
 msgid "Failed to write data for entry: %1"
 msgstr "Girdi için veriler yazılamadı: %1"
 
-#: plugins/libzipplugin/libzipplugin.cpp:746
+#: plugins/libzipplugin/libzipplugin.cpp:750
 #, kde-kuit-format
 msgid "Failed to locate entry: %1"
 msgstr "Girdi konumlandırılamadı: %1"
 
-#: plugins/libzipplugin/libzipplugin.cpp:814
-#: plugins/libzipplugin/libzipplugin.cpp:820
+#: plugins/libzipplugin/libzipplugin.cpp:818
+#: plugins/libzipplugin/libzipplugin.cpp:824
 #, kde-kuit-format
 msgid "Failed to move entry: %1"
 msgstr "Giriş taşınamadı: %1"
 
-#: plugins/libzipplugin/libzipplugin.cpp:872
+#: plugins/libzipplugin/libzipplugin.cpp:876
 #, kde-kuit-format
 msgid "Failed to copy entry: %1"
 msgstr "Girdi kopyalanamadı: %1"
 
-#: plugins/libzipplugin/libzipplugin.cpp:902
+#: plugins/libzipplugin/libzipplugin.cpp:906
 #, kde-kuit-format
 msgid "Failed to set metadata for entry: %1"
 msgstr "Girdi için meta veri ayarlama başarısız oldu: %1"
+
+#~ msgctxt "action, to open an archive"
+#~ msgid "Open"
+#~ msgstr "Aç"
+
+#~ msgid "Open an archive"
+#~ msgstr "Bir arşiv aç"
 
 #~ msgid "ArkPart"
 #~ msgstr "Ark Parçacığı"
@@ -2547,9 +2571,6 @@ msgstr "Girdi için meta veri ayarlama başarısız oldu: %1"
 
 #~ msgid "Developer, KF5 port"
 #~ msgstr "Geliştirici, KF5 portu"
-
-#~ msgid "Form"
-#~ msgstr "Form"
 
 #~ msgid ""
 #~ "Click to open an archive, click and hold to open a recently-opened archive"

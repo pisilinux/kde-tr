@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-25 06:58+0000\n"
+"POT-Creation-Date: 2021-04-23 00:27+0000\n"
 "PO-Revision-Date: 2021-03-23 12:42+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -22,12 +22,12 @@ msgctxt "Name"
 msgid "KDE Connect"
 msgstr "KDE Connect"
 
-#: app/org.kde.kdeconnect.app.desktop:48
+#: app/org.kde.kdeconnect.app.desktop:49
 msgctxt "GenericName"
 msgid "Device Synchronization"
 msgstr "Aygıt Eşzamanlaması"
 
-#: app/org.kde.kdeconnect.app.desktop:90
+#: app/org.kde.kdeconnect.app.desktop:92
 msgctxt "Comment"
 msgid "Make all your devices one"
 msgstr "Tüm aygıtlarınızı birleştirin"
@@ -42,12 +42,12 @@ msgctxt "GenericName"
 msgid "Open on connected device via KDE Connect"
 msgstr "KDE Connect ile bağlı cihazda aç"
 
-#: data/org.kde.kdeconnect_open.desktop:38
+#: data/org.kde.kdeconnect_open.desktop:39
 msgctxt "Name"
 msgid "Open on connected device via KDE Connect"
 msgstr "KDE Connect aracılığıyla bağlı cihazda aç"
 
-#: data/org.kde.kdeconnect_open.desktop:74
+#: data/org.kde.kdeconnect_open.desktop:76
 msgctxt "Comment"
 msgid "Open on a connected device using KDE Connect"
 msgstr "KDE Connect kullanarak bağlı bir cihazda açın"
@@ -62,17 +62,17 @@ msgctxt "Comment"
 msgid "Display information about your devices"
 msgstr "Aygıtlarınız hakkında bilgi görüntüleyin"
 
-#: kcm/kcm_kdeconnect.desktop:60
+#: kcm/kcm_kdeconnect.desktop:61
 msgctxt "Comment"
 msgid "Connect and sync your devices"
 msgstr "Aygıtlarınıza bağlanın ve eşitleyin"
 
-#: kcm/kcm_kdeconnect.desktop:104
+#: kcm/kcm_kdeconnect.desktop:106
 msgctxt "X-KDE-Keywords"
 msgid "Network,Android,Devices"
 msgstr "Ağ,Android,Cihazlar,Aygıtlar"
 
-#: plasmoid/package/metadata.desktop:48
+#: plasmoid/package/metadata.desktop:49
 msgctxt "Comment"
 msgid "Show notifications from your devices using KDE Connect"
 msgstr "KDE Connect kullanılarak cihazınızdan bildirimleri görüntüleyin"
@@ -82,67 +82,67 @@ msgctxt "Name"
 msgid "Find This Device plugin settings"
 msgstr "Bu cihaz eklenti ayarlarını bulun"
 
-#: plugins/kdeconnect.notifyrc:49
+#: plugins/kdeconnect.notifyrc:50
 msgctxt "Comment"
 msgid "Notifications from your devices"
 msgstr "Cihazınızdan bildirimler"
 
-#: plugins/kdeconnect.notifyrc:94
+#: plugins/kdeconnect.notifyrc:96
 msgctxt "Name"
 msgid "Pairing Request"
 msgstr "Eşleşme İsteği"
 
-#: plugins/kdeconnect.notifyrc:138
+#: plugins/kdeconnect.notifyrc:141
 msgctxt "Comment"
 msgid "Pairing request received from a device"
 msgstr "Bir cihazdan alınan eşleştirme isteği"
 
-#: plugins/kdeconnect.notifyrc:182
+#: plugins/kdeconnect.notifyrc:186
 msgctxt "Name"
 msgid "Incoming Call"
 msgstr "Gelen Çağrı"
 
-#: plugins/kdeconnect.notifyrc:226
+#: plugins/kdeconnect.notifyrc:231
 msgctxt "Comment"
 msgid "Someone is calling you"
 msgstr "Biri sizi arıyor"
 
-#: plugins/kdeconnect.notifyrc:273
+#: plugins/kdeconnect.notifyrc:279
 msgctxt "Name"
 msgid "Missed Call"
 msgstr "Cevapsız Çağrı"
 
-#: plugins/kdeconnect.notifyrc:317
+#: plugins/kdeconnect.notifyrc:324
 msgctxt "Comment"
 msgid "You have a missed call"
 msgstr "Cevapsız çağrınız var"
 
-#: plugins/kdeconnect.notifyrc:365
+#: plugins/kdeconnect.notifyrc:373
 msgctxt "Name"
 msgid "Battery Low"
 msgstr "Pil Zayıf"
 
-#: plugins/kdeconnect.notifyrc:407
+#: plugins/kdeconnect.notifyrc:416
 msgctxt "Comment"
 msgid "Your battery is in low state"
 msgstr "Pilinizin seviyesi düşük"
 
-#: plugins/kdeconnect.notifyrc:455
+#: plugins/kdeconnect.notifyrc:465
 msgctxt "Name"
 msgid "Ping Received"
 msgstr "Ping Alındı"
 
-#: plugins/kdeconnect.notifyrc:499
+#: plugins/kdeconnect.notifyrc:510
 msgctxt "Comment"
 msgid "Ping received"
 msgstr "Ping alındı"
 
-#: plugins/kdeconnect.notifyrc:547
+#: plugins/kdeconnect.notifyrc:559
 msgctxt "Name"
 msgid "Generic Notification"
 msgstr "Genel Bildirim"
 
-#: plugins/kdeconnect.notifyrc:591
+#: plugins/kdeconnect.notifyrc:603
 msgctxt "Comment"
 msgid "Notification received"
 msgstr "Bildirim alındı"
@@ -172,7 +172,7 @@ msgctxt "Name"
 msgid " Find my device"
 msgstr "Cihazımı bul"
 
-#: runners/findmyphone/plasma-runner-kdeconnect-findmyphone.desktop:37
+#: runners/findmyphone/plasma-runner-kdeconnect-findmyphone.desktop:38
 msgctxt "Comment"
 msgid "Ring connected devices"
 msgstr "Bağlı cihazları çaldır"
@@ -182,7 +182,7 @@ msgctxt "Name"
 msgid "Run command"
 msgstr "Komut çalıştır"
 
-#: runners/remotecommands/plasma-runner-kdeconnect-remotecommands.desktop:37
+#: runners/remotecommands/plasma-runner-kdeconnect-remotecommands.desktop:38
 msgctxt "Comment"
 msgid "Run commands on connected devices"
 msgstr "Bağlı cihazlarda komutları çalıştır"
@@ -192,7 +192,7 @@ msgctxt "Name"
 msgid "KDE Connect Settings"
 msgstr "KDE Connect Ayarları"
 
-#: settings/org.kde.kdeconnect.settings.desktop:49
+#: settings/org.kde.kdeconnect.settings.desktop:50
 msgctxt "GenericName"
 msgid "Connect and sync your devices"
 msgstr "Aygıtlarınıza bağlanın ve eşitleyin"
@@ -202,12 +202,12 @@ msgctxt "Name"
 msgid "KDE Connect SMS"
 msgstr "KDE Connect SMS"
 
-#: smsapp/org.kde.kdeconnect.sms.desktop:39
+#: smsapp/org.kde.kdeconnect.sms.desktop:40
 msgctxt "GenericName"
 msgid "SMS"
 msgstr "SMS"
 
-#: smsapp/org.kde.kdeconnect.sms.desktop:76
+#: smsapp/org.kde.kdeconnect.sms.desktop:78
 msgctxt "Comment"
 msgid "Text Messaging"
 msgstr "Metin Mesajlaşma"

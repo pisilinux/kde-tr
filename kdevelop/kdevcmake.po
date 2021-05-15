@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-kdevelop-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-28 13:53+0000\n"
+"POT-Creation-Date: 2021-03-28 16:09+0000\n"
 "PO-Revision-Date: 2017-10-23 09:39+0000\n"
 "Last-Translator: İşbaran <isbaran@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -228,7 +228,7 @@ msgstr "Politikalar"
 msgid "<p>For better CMake documentation rendering, install rst2html.</p>"
 msgstr "<p>Daha iyi görünümlü cmake belgelendirmesi için, rst2html kurun</p>"
 
-#: cmakedocumentation.cpp:60 cmakemanager.cpp:91
+#: cmakedocumentation.cpp:60 cmakemanager.cpp:94
 #, kde-format
 msgid "Unable to find a CMake executable. Is one installed on the system?"
 msgstr "CMake çalıştırılabiliri bulunamıyor. Sistemde kurulu bir tane var mı?"
@@ -248,7 +248,7 @@ msgstr "<br /><em>Önbellek Belgelendirmesi:</em> %1\n"
 msgid "CMake Content Page"
 msgstr "CMake İçindekiler Sayfası"
 
-#: cmakemanager.cpp:557
+#: cmakemanager.cpp:616
 #, kde-format
 msgid ""
 "Failed to configure project '%1' (error message: %2). As a result, "
@@ -386,10 +386,11 @@ msgid "Advanced"
 msgstr "Gelişmiş"
 
 #: settings/cmakecachemodel.cpp:55
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Strings"
 msgctxt "@title:column"
 msgid "Strings"
-msgstr ""
+msgstr "Dizgeler"
 
 #: settings/cmakepreferences.cpp:358
 #, kde-format
@@ -419,7 +420,7 @@ msgctxt "@title:tab"
 msgid "Configure CMake Settings"
 msgstr "CMake ayarlarını yapılandır"
 
-#: testing/ctestfindjob.cpp:38
+#: testing/ctestfindjob.cpp:37
 #, kde-format
 msgid "Parse test suite %1"
 msgstr "%1 test setini ayrıştır"
@@ -452,6 +453,21 @@ msgstr[1] "CTest %2 (%1)"
 #~ msgid "Remove"
 #~ msgstr "Kaldır"
 
+#~ msgid "%1 is a deprecated command and should not be used"
+#~ msgstr "%1 eski bir komuttur ve kullanılmamalıdır"
+
+#~ msgid "Unfinished function."
+#~ msgstr "Bitmemiş fonksiyon. "
+
+#~ msgid "You need to select a CMake executable."
+#~ msgstr "Bir CMake çalıştırılabilir dosyası seçmelisiniz."
+
+#~ msgid "&CMake executable:"
+#~ msgstr "&CMake çalıştırılabiliri:"
+
+#~ msgid "Configure a build directory"
+#~ msgstr "Bir inşa dizini yapılandır"
+
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
 #~ msgstr "Serdar Soytetir"
@@ -460,27 +476,23 @@ msgstr[1] "CTest %2 (%1)"
 #~ msgid "Your emails"
 #~ msgstr "tulliana@gmail.com"
 
-#~ msgid "You need to select a cmake binary."
-#~ msgstr "Bir cmake çalıştırılabilir dosyası seçmelisiniz."
-
 #~ msgid "CMake &Binary:"
 #~ msgstr "CMake Çalıştırılabilir &Dosyası:"
 
-#~ msgid "%1 is a deprecated command and should not be used"
-#~ msgstr "%1 eski bir komuttur ve kullanılmamalıdır"
+#, fuzzy
+#~| msgid "Build &type:"
+#~ msgid "Build Type:"
+#~ msgstr "İnşa &türü:"
 
-#~ msgid "Unfinished function."
-#~ msgstr "Bitmemiş fonksiyon. "
+#, fuzzy
+#~| msgid "CMake &Binary:"
+#~ msgid "CMake Binary:"
+#~ msgstr "CMake Çalıştırılabilir &Dosyası:"
 
 #, fuzzy
 #~| msgid "&Installation Prefix:"
 #~ msgid "Installation Prefix"
 #~ msgstr "&Kurulum Öneki:"
-
-#, fuzzy
-#~| msgid "Build &type:"
-#~ msgid "Build Type"
-#~ msgstr "İnşa &türü:"
 
 #, fuzzy
 #~| msgid "Extra Arguments:"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-26 02:57+0100\n"
+"POT-Creation-Date: 2021-04-14 00:18+0000\n"
 "PO-Revision-Date: 2021-03-23 12:43+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -56,7 +56,19 @@ msgstr "KDE Connect"
 msgid "Use your phone as a touchpad and keyboard"
 msgstr "Telefonunuzu bir dokunmatik yüzey ve klavye olarak kullanın"
 
-#: notifications/notification.cpp:118
+#: notifications/notification.cpp:127
+#, kde-format
+msgctxt "@action:button"
+msgid "Reply"
+msgstr "Yanıtla"
+
+#: notifications/notification.cpp:128
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Reply to %1..."
+msgstr "%1 kişisini yanıtla..."
+
+#: notifications/notification.cpp:134
 #, kde-format
 msgid "Reply"
 msgstr "Cevapla"
@@ -283,28 +295,28 @@ msgstr "Asgari aciliyet seviyesi"
 msgid "Applications"
 msgstr "Uygulamalar"
 
-#: sftp/mounter.cpp:171
+#: sftp/mounter.cpp:175
 #, kde-format
 msgid "Failed to start sshfs"
 msgstr "Sshfs başlatılamadı"
 
-#: sftp/mounter.cpp:175
+#: sftp/mounter.cpp:179
 #, kde-format
 msgid "sshfs process crashed"
 msgstr "sshfs işlemi çöktü"
 
-#: sftp/mounter.cpp:179
+#: sftp/mounter.cpp:183
 #, kde-format
 msgid "Unknown error in sshfs"
 msgstr "Sshfs'de bilinmeyen hata"
 
-#: sftp/mounter.cpp:193
+#: sftp/mounter.cpp:197
 #, kde-format
 msgid "Error when accessing filesystem. sshfs finished with exit code %0"
 msgstr ""
 "Dosya sistemine erişirken hata oluştu. sshfs çıkış kodu %0 ile tamamlandı"
 
-#: sftp/mounter.cpp:202
+#: sftp/mounter.cpp:206
 #, kde-format
 msgid "Failed to mount filesystem: device not responding"
 msgstr "Dosya sistemi bağlanamadı: cihaz yanıt vermiyor"

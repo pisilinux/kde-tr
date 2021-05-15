@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-30 05:56+0000\n"
+"POT-Creation-Date: 2020-10-09 00:45+0000\n"
 "PO-Revision-Date: 2017-08-08 14:09+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1502201360.000000\n"
 
-#: testclient/AtCoreTest.desktop:2
+#: testclient/org.kde.atcore.desktop:4
 msgctxt "Name"
 msgid "AtCore Test Client"
 msgstr "AtCore Test İstemcisi"

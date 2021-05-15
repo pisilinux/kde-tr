@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calligra-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:40+0200\n"
+"POT-Creation-Date: 2021-04-25 00:18+0000\n"
 "PO-Revision-Date: 2014-06-08 13:44+0000\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/calligra-k-tr/"
@@ -19,28 +19,28 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: KoEventSemanticItemFactory.cpp:44
+#: KoEventSemanticItemFactory.cpp:31
 #, kde-format
 msgctxt "displayname of the semantic item type Event"
 msgid "Event"
 msgstr "Olay"
 
-#: KoRdfCalendarEvent.cpp:171
+#: KoRdfCalendarEvent.cpp:158
 #, kde-format
 msgid "Area"
 msgstr "Alan"
 
-#: KoRdfCalendarEvent.cpp:172
+#: KoRdfCalendarEvent.cpp:159
 #, kde-format
 msgid "Region"
 msgstr "Bölge"
 
-#: KoRdfCalendarEvent.cpp:394
+#: KoRdfCalendarEvent.cpp:381
 #, kde-format
 msgid "Select a calendar for saving:"
 msgstr "Kaydetmek için bir takvim seçin:"
 
-#: KoRdfCalendarEvent.cpp:414
+#: KoRdfCalendarEvent.cpp:401
 #, kde-format
 msgid ""
 "Could not add entry\n"
@@ -49,7 +49,7 @@ msgstr ""
 "Giriş eklenemedi\n"
 "%1"
 
-#: KoRdfCalendarEvent.cpp:441
+#: KoRdfCalendarEvent.cpp:428
 #, kde-format
 msgid ""
 "Could not save iCal file\n"
@@ -94,22 +94,22 @@ msgstr "Zaman ve Saat"
 msgid "Timezone"
 msgstr "Saat dilimi"
 
-#: KoRdfCalendarEventTreeWidgetItem.cpp:43
+#: KoRdfCalendarEventTreeWidgetItem.cpp:30
 #, kde-format
 msgid "Calendar Event"
 msgstr "Takvim Etkinliği"
 
-#: KoRdfCalendarEventTreeWidgetItem.cpp:50
+#: KoRdfCalendarEventTreeWidgetItem.cpp:37
 #, kde-format
 msgid "Edit..."
 msgstr "Düzenle..."
 
-#: KoRdfCalendarEventTreeWidgetItem.cpp:53
+#: KoRdfCalendarEventTreeWidgetItem.cpp:40
 #, kde-format
 msgid "Import event to Calendar"
 msgstr "Etkinliği Takvime aktar"
 
-#: KoRdfCalendarEventTreeWidgetItem.cpp:56
+#: KoRdfCalendarEventTreeWidgetItem.cpp:43
 #, kde-format
 msgid "Export event to iCal file..."
 msgstr "Etkinliği iCal dosyasına aktar..."

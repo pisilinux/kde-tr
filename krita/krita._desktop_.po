@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calligra-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-25 01:54+0000\n"
+"POT-Creation-Date: 2021-04-26 00:29+0000\n"
 "PO-Revision-Date: 2019-05-08 10:06+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -18,6 +18,117 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Lokalize 2.0\n"
+
+#: krita/data/paintoppresets/Digital.tag:3
+msgctxt "Name"
+msgid "Digital"
+msgstr "Sayısal"
+
+#: krita/data/paintoppresets/Digital.tag:34
+msgctxt "Comment"
+msgid "Brush presets with a digital look and feel."
+msgstr ""
+
+#: krita/data/paintoppresets/Erasers.tag:4
+msgctxt "Name"
+msgid "Erasers"
+msgstr ""
+
+#: krita/data/paintoppresets/Erasers.tag:23
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Ten Brushes"
+msgctxt "Comment"
+msgid "Eraser Brush Presets"
+msgstr "On Fırça"
+
+#: krita/data/paintoppresets/Favorites.tag:4
+msgctxt "Name"
+msgid "★ My Favorites"
+msgstr ""
+
+#: krita/data/paintoppresets/Favorites.tag:22
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Ten Brushes"
+msgctxt "Comment"
+msgid "Your favorite brush presets"
+msgstr "On Fırça"
+
+#: krita/data/paintoppresets/FX.tag:4
+msgctxt "Name"
+msgid "FX"
+msgstr ""
+
+#: krita/data/paintoppresets/FX.tag:22
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Filter Effects"
+msgctxt "Comment"
+msgid "Special Effects.kpp"
+msgstr "Filtre Etkileri"
+
+#: krita/data/paintoppresets/Ink.tag:4
+msgctxt "Name"
+msgid "Ink"
+msgstr ""
+
+#: krita/data/paintoppresets/Ink.tag:22
+#, fuzzy
+msgctxt "Comment"
+msgid "Inking Brush Presets"
+msgstr "Bozma fırçası"
+
+#: krita/data/paintoppresets/Paint.tag:4
+msgctxt "Name"
+msgid "Paint"
+msgstr ""
+
+#: krita/data/paintoppresets/Paint.tag:22
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Ten Brushes"
+msgctxt "Comment"
+msgid "Paint Brushes"
+msgstr "On Fırça"
+
+#: krita/data/paintoppresets/Pixel_Art.tag:4
+msgctxt "Name"
+msgid "Pixel Art"
+msgstr ""
+
+#: krita/data/paintoppresets/Pixel_Art.tag:20
+msgctxt "Comment"
+msgid "Presets for working with individual pixels"
+msgstr ""
+
+#: krita/data/paintoppresets/Sketch.tag:4
+#, fuzzy
+msgctxt "Name"
+msgid "Sketch"
+msgstr "Bozma fırçası"
+
+#: krita/data/paintoppresets/Sketch.tag:22
+#, fuzzy
+msgctxt "Comment"
+msgid "Sketching brush presets"
+msgstr "Bozma fırçası"
+
+#: krita/data/paintoppresets/Textures.tag:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Texture Templates"
+msgctxt "Name"
+msgid "Textures"
+msgstr "Doku Şablonları"
+
+#: krita/data/paintoppresets/Textures.tag:22
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Ten Brushes"
+msgctxt "Comment"
+msgid "Textured Brush Presets"
+msgstr "On Fırça"
 
 #: krita/data/templates/animation/Anim-Jp-EN.desktop:5
 msgctxt "Name"
@@ -39,7 +150,7 @@ msgctxt "Name"
 msgid "waffle-iron grid"
 msgstr "waffle-çelik ızgara"
 
-#: krita/data/templates/comics/a4_waffle_grid.desktop:40
+#: krita/data/templates/comics/a4_waffle_grid.desktop:41
 msgctxt "Comment"
 msgid "300 dpi, A4 waffle-iron grid comic page with ink and color layers"
 msgstr ""
@@ -50,7 +161,7 @@ msgctxt "Name"
 msgid "European BD template"
 msgstr "Avrupa BD Şablonu"
 
-#: krita/data/templates/comics/BD-EuroTemplate.desktop:44
+#: krita/data/templates/comics/BD-EuroTemplate.desktop:45
 msgctxt "Comment"
 msgid "template for European BD-style comics"
 msgstr "Avrupa BD tarzı çizgi romanlar için şablon"
@@ -60,7 +171,7 @@ msgctxt "Name"
 msgid "US-style comics template"
 msgstr "US tarzı çizgi roman şablonu"
 
-#: krita/data/templates/comics/Comics-USTemplate.desktop:45
+#: krita/data/templates/comics/Comics-USTemplate.desktop:46
 msgctxt "Comment"
 msgid "template for US-style comics"
 msgstr "US tarzı çizgi romanlar için şablon"
@@ -75,7 +186,7 @@ msgctxt "Name"
 msgid "Manga template"
 msgstr "Manga şablonu"
 
-#: krita/data/templates/comics/Manga-JpTemplate.desktop:46
+#: krita/data/templates/comics/Manga-JpTemplate.desktop:47
 msgctxt "Comment"
 msgid "template for Japanese Manga-style comics"
 msgstr "Japon Manga çizgi romanları için şablon"
@@ -223,9 +334,9 @@ msgstr "Doku 8k 8bit srgb"
 #: plugins/impex/heightmap/krita_heightmap.desktop:7
 #: plugins/impex/jp2/krita_jp2.desktop:54
 #: plugins/impex/jpeg/krita_jpeg.desktop:6
-#: plugins/impex/kra/krita_kra.desktop:7 plugins/impex/ora/krita_ora.desktop:7
-#: plugins/impex/pdf/krita_pdf.desktop:6 plugins/impex/png/krita_png.desktop:2
-#: plugins/impex/psd/krita_psd.desktop:6
+#: plugins/impex/kra/krita_kra.desktop:7 plugins/impex/krz/krita_krz.desktop:7
+#: plugins/impex/ora/krita_ora.desktop:7 plugins/impex/pdf/krita_pdf.desktop:6
+#: plugins/impex/png/krita_png.desktop:2 plugins/impex/psd/krita_psd.desktop:6
 #: plugins/impex/qimageio/krita_qimageio.desktop:2
 #: plugins/impex/raw/krita_raw.desktop:2
 #: plugins/impex/spriter/krita_spriter.desktop:2
@@ -241,7 +352,7 @@ msgctxt "GenericName"
 msgid "Digital Painting"
 msgstr "Sayısal Boyama"
 
-#: krita/org.kde.krita.desktop:109
+#: krita/org.kde.krita.desktop:110
 msgctxt "Comment"
 msgid "Digital Painting"
 msgstr "Sayısal Boyama"
@@ -258,7 +369,7 @@ msgctxt "Name"
 msgid "Assign Profile to Image"
 msgstr "Görüntüye Profil Ata"
 
-#: plugins/python/assignprofiledialog/kritapykrita_assignprofiledialog.desktop:34
+#: plugins/python/assignprofiledialog/kritapykrita_assignprofiledialog.desktop:38
 msgctxt "Comment"
 msgid "Assign a profile to an image without converting it."
 msgstr "Bir görüntüye, görüntüyü değiştirmeden bir profil ata."
@@ -268,7 +379,7 @@ msgctxt "Name"
 msgid "Batch Exporter"
 msgstr ""
 
-#: plugins/python/batch_exporter/kritapykrita_batch_exporter.desktop:30
+#: plugins/python/batch_exporter/kritapykrita_batch_exporter.desktop:31
 msgctxt "Comment"
 msgid ""
 "Smart export tool that uses layer names to scale and (re-)export art assets "
@@ -281,7 +392,7 @@ msgctxt "Name"
 msgid "Channels to layers"
 msgstr "Öntanımlı Araçlar"
 
-#: plugins/python/channels2layers/kritapykrita_channels2layers.desktop:31
+#: plugins/python/channels2layers/kritapykrita_channels2layers.desktop:32
 msgctxt "Comment"
 msgid "Extract channels as color layers"
 msgstr ""
@@ -291,7 +402,7 @@ msgctxt "Name"
 msgid "Color Space"
 msgstr "Renk Aralığı"
 
-#: plugins/python/colorspace/kritapykrita_colorspace.desktop:34
+#: plugins/python/colorspace/kritapykrita_colorspace.desktop:38
 msgctxt "Comment"
 msgid "Plugin to change color space to selected documents"
 msgstr "Seçili belgede renk aralığını değiştirmek için eklenti"
@@ -301,7 +412,7 @@ msgctxt "Name"
 msgid "Comics Project Management Tools"
 msgstr "Çizgi Roman Projesi Yönetimi Araçları"
 
-#: plugins/python/comics_project_management_tools/kritapykrita_comics_project_management_tools.desktop:35
+#: plugins/python/comics_project_management_tools/kritapykrita_comics_project_management_tools.desktop:39
 msgctxt "Comment"
 msgid "Tools for managing comics."
 msgstr "Çizgi romanları yönetmek için araçlar."
@@ -311,7 +422,7 @@ msgctxt "Name"
 msgid "Document Tools"
 msgstr "Belge Araçları"
 
-#: plugins/python/documenttools/kritapykrita_documenttools.desktop:35
+#: plugins/python/documenttools/kritapykrita_documenttools.desktop:38
 msgctxt "Comment"
 msgid "Plugin to manipulate properties of selected documents"
 msgstr "Seçili belgelerin özelliklerini değiştirmek için eklenti"
@@ -321,7 +432,7 @@ msgctxt "Name"
 msgid "Export Layers"
 msgstr "Katmanları Dışa Aktar"
 
-#: plugins/python/exportlayers/kritapykrita_exportlayers.desktop:34
+#: plugins/python/exportlayers/kritapykrita_exportlayers.desktop:38
 msgctxt "Comment"
 msgid "Plugin to export layers from a document"
 msgstr "Belgenin katmanlarını dışa aktarmak için eklenti"
@@ -331,7 +442,7 @@ msgctxt "Name"
 msgid "Filter Manager"
 msgstr "Süzgeç Yöneticisi"
 
-#: plugins/python/filtermanager/kritapykrita_filtermanager.desktop:35
+#: plugins/python/filtermanager/kritapykrita_filtermanager.desktop:38
 msgctxt "Comment"
 msgid "Plugin to filters management"
 msgstr "Süzgeç yönetimi için eklenti"
@@ -341,7 +452,7 @@ msgctxt "Name"
 msgid "Highpass Filter"
 msgstr "Yüksek Geçirgen Süzgeç"
 
-#: plugins/python/highpass/kritapykrita_highpass.desktop:32
+#: plugins/python/highpass/kritapykrita_highpass.desktop:33
 msgctxt "Comment"
 msgid "Highpass Filter, based on http://registry.gimp.org/node/7385"
 msgstr "http://registry.gimp.org/node/7385 tabanlı Yüksek Geçirgen Süzgeç"
@@ -351,7 +462,7 @@ msgctxt "Name"
 msgid "Krita Script Starter"
 msgstr "Krita Betik Başlatıcı"
 
-#: plugins/python/krita_script_starter/kritapykrita_krita_script_starter.desktop:33
+#: plugins/python/krita_script_starter/kritapykrita_krita_script_starter.desktop:34
 msgctxt "Comment"
 msgid "Create the metadata and file structure for a new Krita script"
 msgstr "Yeni Krita betiği için üstveri ve dosya yapısı oluştur"
@@ -361,7 +472,7 @@ msgctxt "Name"
 msgid "Last Documents Docker"
 msgstr "Son Belgeler Doku"
 
-#: plugins/python/lastdocumentsdocker/kritapykrita_lastdocumentsdocker.desktop:34
+#: plugins/python/lastdocumentsdocker/kritapykrita_lastdocumentsdocker.desktop:36
 msgctxt "Comment"
 msgid "A Python-based docker for show thumbnails to last ten documents"
 msgstr "Son on belgenin küçük resmini göstermek için Python-tabanlı bir dok"
@@ -384,27 +495,42 @@ msgctxt "Name"
 msgid "Palette docker"
 msgstr "Palet doku"
 
-#: plugins/python/palette_docker/kritapykrita_palette_docker.desktop:34
+#: plugins/python/palette_docker/kritapykrita_palette_docker.desktop:37
 msgctxt "Comment"
 msgid "A Python-based docker to edit color palettes."
 msgstr "Renk paletlerini düzenlemek için Python-tabanlı bir dok."
 
+#: plugins/python/photobash_images/kritapykrita_photobash_images.desktop:6
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Krita PhotoShop Import Filter"
+msgctxt "Name"
+msgid "Krita Photobash Images"
+msgstr "Krita PhotoShop İçe Aktarım Filtresi"
+
+#: plugins/python/photobash_images/kritapykrita_photobash_images.desktop:24
+msgctxt "Comment"
+msgid ""
+"A plugin to fetch images from a specified folder. Very useful for "
+"photobashing!"
+msgstr ""
+
 #: plugins/python/plugin_importer/kritapykrita_plugin_importer.desktop:7
 msgctxt "Name"
 msgid "Python Plugin Importer"
-msgstr ""
+msgstr "Python Eklenti İçe Aktarıcı"
 
-#: plugins/python/plugin_importer/kritapykrita_plugin_importer.desktop:32
+#: plugins/python/plugin_importer/kritapykrita_plugin_importer.desktop:34
 msgctxt "Comment"
 msgid "Imports Python plugins from zip files."
-msgstr ""
+msgstr "Python eklentilerini zip dosyasından içe aktarır."
 
 #: plugins/python/quick_settings_docker/kritapykrita_quick_settings_docker.desktop:7
 msgctxt "Name"
 msgid "Quick Settings Docker"
 msgstr "Hızlı Ayarlar Doku"
 
-#: plugins/python/quick_settings_docker/kritapykrita_quick_settings_docker.desktop:34
+#: plugins/python/quick_settings_docker/kritapykrita_quick_settings_docker.desktop:37
 msgctxt "Comment"
 msgid "A Python-based docker for quickly changing brush size and opacity."
 msgstr ""
@@ -415,7 +541,7 @@ msgctxt "Name"
 msgid "Script Docker"
 msgstr "Betik Doku"
 
-#: plugins/python/scriptdocker/kritapykrita_scriptdocker.desktop:34
+#: plugins/python/scriptdocker/kritapykrita_scriptdocker.desktop:36
 msgctxt "Comment"
 msgid "A Python-based docker for create actions and point to Python scripts"
 msgstr ""
@@ -427,7 +553,7 @@ msgctxt "Name"
 msgid "Scripter"
 msgstr "Betik yazarı"
 
-#: plugins/python/scripter/kritapykrita_scripter.desktop:33
+#: plugins/python/scripter/kritapykrita_scripter.desktop:34
 msgctxt "Comment"
 msgid "Plugin to execute ad-hoc Python code"
 msgstr "Geçici Python kodu çalıştırmak için eklenti"
@@ -437,7 +563,7 @@ msgctxt "Name"
 msgid "Selections Bag Docker"
 msgstr "Seçim Çantası Doku"
 
-#: plugins/python/selectionsbagdocker/kritapykrita_selectionsbagdocker.desktop:31
+#: plugins/python/selectionsbagdocker/kritapykrita_selectionsbagdocker.desktop:32
 msgctxt "Comment"
 msgid "A docker that allow to store a list of selections"
 msgstr "Seçimlerin bir listesini saklamayı sağlayan bir dok"
@@ -447,24 +573,20 @@ msgctxt "Name"
 msgid "Ten Brushes"
 msgstr "On Fırça"
 
-#: plugins/python/tenbrushes/kritapykrita_tenbrushes.desktop:34
+#: plugins/python/tenbrushes/kritapykrita_tenbrushes.desktop:38
 msgctxt "Comment"
-msgid "Assign a preset to ctrl-1 to ctrl-0"
-msgstr " ctrl-1 ve ctrl-0 için ayar atama"
+msgid "Assign a brush preset to any of ten configurable shortcuts."
+msgstr ""
 
 #: plugins/python/tenscripts/kritapykrita_tenscripts.desktop:7
 msgctxt "Name"
 msgid "Ten Scripts"
 msgstr "On Betik"
 
-#: plugins/python/tenscripts/kritapykrita_tenscripts.desktop:34
+#: plugins/python/tenscripts/kritapykrita_tenscripts.desktop:37
 msgctxt "Comment"
-msgid ""
-"A Python-based plugin for creating ten actions and assign them to Python "
-"scripts"
+msgid "Assign a Python script to any of ten configurable shortcuts."
 msgstr ""
-"On eylem oluşturmak ve Python betiklerine atamak için Python tabanlı bir "
-"eklenti"
 
 #~ msgctxt "Name"
 #~ msgid "Hello World"
@@ -473,6 +595,18 @@ msgstr ""
 #~ msgctxt "Comment"
 #~ msgid "Basic plugin to test PyKrita"
 #~ msgstr "PyKrita'yı test etmek için temel eklenti"
+
+#~ msgctxt "Comment"
+#~ msgid "Assign a preset to ctrl-1 to ctrl-0"
+#~ msgstr " ctrl-1 ve ctrl-0 için ayar atama"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "A Python-based plugin for creating ten actions and assign them to Python "
+#~ "scripts"
+#~ msgstr ""
+#~ "On eylem oluşturmak ve Python betiklerine atamak için Python tabanlı bir "
+#~ "eklenti"
 
 #~ msgctxt "Comment"
 #~ msgid "Pixel-based image manipulation program for the Calligra Suite"
@@ -918,10 +1052,6 @@ msgstr ""
 #~ msgstr "Krita PhotoShop Dışa Aktarım Filtresi"
 
 #~ msgctxt "Name"
-#~ msgid "Krita PhotoShop Import Filter"
-#~ msgstr "Krita PhotoShop İçe Aktarım Filtresi"
-
-#~ msgctxt "Name"
 #~ msgid "Krita QML Export Filter"
 #~ msgstr "Krita QML Dışa Aktarım Filtresi"
 
@@ -1018,11 +1148,6 @@ msgstr ""
 #~ msgid "Particle brush"
 #~ msgstr "Dinamik fırça"
 
-#, fuzzy
-#~ msgctxt "Name"
-#~ msgid "Sketch brush"
-#~ msgstr "Bozma fırçası"
-
 #~ msgctxt "Name"
 #~ msgid "Spray"
 #~ msgstr "Püskürtme aracı"
@@ -1090,10 +1215,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "Calligra Dockers plugin"
 #~ msgstr "Calligra Dockers eklentisi"
-
-#~ msgctxt "Name"
-#~ msgid "Filter Effects"
-#~ msgstr "Filtre Etkileri"
 
 #~ msgctxt "Name"
 #~ msgid "Karbon Tools"
@@ -4540,10 +4661,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "buff v"
 #~ msgstr "dikey tampon kapısı"
-
-#~ msgctxt "Name"
-#~ msgid "Digital"
-#~ msgstr "Sayısal"
 
 #~ msgctxt "Name"
 #~ msgid "conn"

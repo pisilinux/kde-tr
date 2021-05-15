@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdepimlibs-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-27 03:08+0100\n"
+"POT-Creation-Date: 2021-04-21 12:50+0000\n"
 "PO-Revision-Date: 2017-06-13 16:54+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -22,26 +22,26 @@ msgstr ""
 "X-Generator: Lokalize 2.0\n"
 "(http: //www.transifex.com/projects/p/kdepimlibs-k-tr/language/tr/)\n"
 
-#: identitymanager.cpp:161
+#: identitymanager.cpp:164
 #, kde-format
 msgctxt "use default address from control center"
 msgid "Default"
 msgstr "Öntanımlı"
 
-#: identitymanager.cpp:186
+#: identitymanager.cpp:189
 #, kde-format
 msgctxt "Default name for new email accounts/identities."
 msgid "Unnamed"
 msgstr "İsimsiz"
 
-#: identitymanager.cpp:366
+#: identitymanager.cpp:370
 #, kde-format
 msgctxt ""
 "%1: name; %2: number appended to it to make it unique among a list of names"
 msgid "%1 #%2"
 msgstr "%1 #%2"
 
-#: identitymanager.cpp:560
+#: identitymanager.cpp:564
 #, kde-format
 msgid "Unnamed"
 msgstr "İsimsiz"

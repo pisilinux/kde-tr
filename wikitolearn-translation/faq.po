@@ -1,0 +1,393 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WikiPages-en b3838de29fa8fc0bd798c67213a4c54b90491e33\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-15 19:39+0200\n"
+"PO-Revision-Date: 2017-07-31 15:24+0000\n"
+"Last-Translator: Mesutcan <mesutcank@gmail.com>\n"
+"Language-Team: Turkish <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+
+#: faq.mw:1
+msgid "__TOC__"
+msgstr "__İÇİNDEKİLER__"
+
+#: faq.mw:1
+msgid "What is WikiToLearn?"
+msgstr "WikiToLearn nedir?"
+
+#: faq.mw:4
+msgid ""
+"Imagine a world where educational material is freely available to everyone, "
+"always up-to-date and written by thousands of experts and educators."
+msgstr ""
+"Eğitimsel materyalin her zaman güncel olduğu ve binlerce uzman ve eğitimci "
+"tarafından yazıldığı, herkese özgürce erişilebilir olduğu bir dünya hayal "
+"edin."
+
+#: faq.mw:6
+msgid ""
+"WikiToLearn is an open platform where students, researchers and key people "
+"in the academia can create and refine notes and textbooks, tailored "
+"precisely to their needs, and giving them the power to customize the "
+"teaching beyond what traditional textbooks allow. Our philosophy inherits "
+"from the very foundation of how science works. We believe that “Knowledge "
+"only grows if shared” and we want learners to “Stand on the shoulder of "
+"giants!”."
+msgstr ""
+"WikiToLearn öğrencilerin, araştırmacıların ve akademideki kilit insanların, "
+"notları ve ders kitaplarını oluşturabildiği ve iyileştirebildiği, kendi "
+"ihtiyaçlarına tam olarak uyarlanmış ve onlara eğitimi geleneksel ders "
+"kitaplarının izin verdiğinin ötesinde özelleştirme gücü veren açık bir "
+"platformdur. Felsefemiz, bilimin nasıl çalıştığının temellerini miras alır. "
+"Biz \"bilgi eğer paylaşılırsa büyür\" 'e inanırız ve öğrenenlerin \"devlerin "
+"omzundan bakması\" 'nı isteriz.   "
+
+#: faq.mw:8
+msgid ""
+"WikiToLearn was founded in September 2015, when a group of students from the "
+"University of Milano-Bicocca had the necessity to share their notes to study "
+"for their exams. [https://meta.wikitolearn.org/Academic_institutions Many "
+"different universities and research centers] from all around the world have "
+"since decided to join."
+msgstr ""
+"Eylül 2015 ' te, Milano Bicocca Üniversitesi ' nden bir grup öğrenci "
+"sınavlarına çalışmak için notlarını paylaşma ihtiyacı duyduğunda WikiToLearn "
+"kuruldu. [https://meta.wikitolearn.org/Academic_institutions Dünyanın "
+"heryerinden birçok farklı üniversite ve araştırma merkezi] o zamandan beri "
+"katılmaya karar verdi."
+
+#: faq.mw:10
+msgid ""
+"Legally represented by KDE e.V., and part of KDE, WikiToLearn was born as a "
+"non-profit community and an open source project, which wants to provide free "
+"and collaborative textbooks with the help of University and Academia."
+msgstr ""
+"Yasal olarak KDE e.V. tarafından temsil edilen ve KDE ' nin bir parçası "
+"olan, üniversite ve akademi dünyasının yardımıyla özgür ve ortak ders "
+"kitapları sağlamak isteyen WikiToLearn, kar amacı gütmeyen bir topluluk ve "
+"bir açık kaynak projesi olarak doğdu."
+
+#: faq.mw:10
+msgid "How does WikiToLearn work?"
+msgstr "WikiToLearn nasıl çalışır?"
+
+#: faq.mw:13
+msgid ""
+"Anyone can contribute to different topics: every page is editable and you "
+"can start making an impact right now!"
+msgstr ""
+"Herhangi bir kimse farklı konulara katkı verebilir: her sayfa "
+"düzenlenebilirdir ve bir etki yaratmaya hemen şimdi başlayabilirsiniz!"
+
+#: faq.mw:15
+msgid ""
+"Whether you’re a student, a teacher, a translator or a programmer, you can "
+"start contributing to WikiToLearn! Visit [https://join.wikitolearn.org join."
+"wikitolearn.org] for all the possible options!"
+msgstr ""
+"İster bir öğrenci, bir öğretmen, bir çevirmen veya bir programcı olun, "
+"WikiToLearn 'e katkıda bulunmaya başlayabilirsiniz! Olası tüm seçenekler "
+"için [https://join.wikitolearn.org join.wikitolearn.org] adresini ziyaret "
+"edin!"
+
+#: faq.mw:15
+msgid "How do you ensure reliability?"
+msgstr "Güvenilirliğinden nasıl emin olursunuz?"
+
+#: faq.mw:18
+msgid ""
+"Reliability of content is ensured through a simple, non-blocking review "
+"process.\n"
+"Every page, after it is modified, is considered a draft. Experienced users "
+"with working knowledge on the topic can later review the course and ensure "
+"it is correct and well written, giving it a \"seal of approval\". The "
+"resulting PDF is later exported as \"reviewed version\", a copy is uploaded "
+"on Wikimedia Commons, and every user on the website can choose whether to "
+"download the last version available, or the last reviewed version."
+msgstr ""
+"İçeriğin güvenilirliği, basit kesintisiz bir gözden geçirme süreci üzerinden "
+"sağlanır.\n"
+"Her sayfa, değişikliğe uğradıktan sonra taslak olarak kabul edilir. Konu "
+"üzerinde bilgi sahibi olan tecrübeli kullanıcılar daha sonra kursu gözden "
+"geçirebilir ve doğruluğundan ve iyi yazıldığından emin olarak ona bir \"onay "
+"mührü\" verir. Ortaya çıkan PDF daha sonra \"gözden geçirilmiş sürüm\" "
+"olarak dışa aktarılır, bir kopyası Wikimedia Commons üzerine yüklenir ve "
+"site üzerindeki her kullanıcı mümkün olan en son sürümü veya en son gözden "
+"geçirilmiş sürümü indirmeyi seçebilir."
+
+#: faq.mw:21
+msgid ""
+"All editors also have the possibility of assembling their own books, "
+"specifying a precise revision of the content which they want to download. "
+"This gives everyone the possibility to assemble their own books, even if "
+"they don't have the reviewer privileges on our platform."
+msgstr ""
+"Tüm yayıncılar, indirmek istedikleri içeriğin kesin bir revizyonunu "
+"belirterek kendi kitaplarını birleştirme imkânına sahiptirler. Bu, "
+"platformumuzda gözden geçirme yetkileri olmasa bile herkese kendi "
+"kitaplarını bir araya getirme imkânı verir."
+
+#: faq.mw:21
+msgid "What about different ways of explaining the same topic?"
+msgstr "Peki ya aynı konuyu farklı yollarla açıklamak?"
+
+#: faq.mw:24
+msgid ""
+"We support and encourage multiple courses for one same topic! We realize it "
+"is a fundamental and enriching practice to see a topic from many different "
+"point of views, and it is a behavior we want to encourage. This is why we "
+"don't have a single reference course for a topic, but anyone is free to "
+"create their own, explaining it from whichever angle they prefer."
+msgstr ""
+"Biz aynı konu için birden fazla kursu destekliyor ve teşvik ediyoruz! Bir "
+"konuyu birçok farklı bakış açılarından görmenin zenginleştirici ve temel bir "
+"uygulama olduğunun farkındayız. Bu nedenle bir konu için tek bir başvuru "
+"kursumuz yok ancak herhangi bir kimse kendininkini oluşturmakta ve tercih "
+"ettiği açıdan açıklamakta özgür."
+
+#: faq.mw:24
+msgid ""
+"What differentiates WikiToLearn from other wiki projects such as Wikipedia, "
+"Wikibooks, Wikiversity?"
+msgstr ""
+"WikiToLearn ' ü Wikipedia, Wikibooks, Wikiversity gibi diğer wiki "
+"projelerinden ayıran nedir?"
+
+#: faq.mw:27
+msgid ""
+"Wikipedia wants to create a free encyclopedia, not free textbooks. It is not "
+"focused on academic learning and it is not optimized for it: it is a place "
+"where you go to look up facts, not to learn."
+msgstr ""
+"Wikipedia özgür ders kitaplarını değil bir özgür ansiklopedi oluşturmayı "
+"ister. Akademik öğrenme üzerine odaklanmış değildir ve bunun için optimize "
+"edilmemiştir: o sizin gerçekleri öğrenmek için değil de aratmak için "
+"gideceğiniz bir yerdir."
+
+#: faq.mw:29
+msgid ""
+"Wikibooks and Wikiversity are projects which are indeed closer to us. There "
+"are two main differences: our unique focus on learning and delivering the "
+"best didactical experience, and the software development freedom to grant "
+"our users the best experience possible."
+msgstr ""
+"Wikibooks ve Wikiversity aslında bize yakın olan projelerdir. İki ana "
+"farklılık vardır: bizim en iyi didaktik deneyimi sunmak ve öğrenmek üzerine "
+"eşsiz odaklanmamız ve mümkün olan en iyi deneyim için kullanıcılarımıza "
+"verdiğimiz yazılım geliştirme özgürlüğü."
+
+#: faq.mw:31
+msgid ""
+"Not being hosted by Wikimedia Foundation (and instead relying on similarly "
+"resilient infrastructure from [https://www.garr.it GARR]) means we are not "
+"subject to restrictions on the software, which we can customize for the best "
+"book editing experience. For example, we integrate external elements in our "
+"infrastructure, provide a PDF generation feature, and in general offer a "
+"streamlined and compelling user experience."
+msgstr ""
+"Wikimedia Vakfı tarafından barındırılmamak (ve bunun yerine [https://www."
+"garr.it GARR] adresinden benzer şekilde esnek altyapıya dayanarak), en iyi "
+"kitap düzenleme deneyimi için özelleştirebileceğimiz yazılımla ilgili "
+"kısıtlamalara tabi olmadığımızı ifade ederiz. Örneğin, harici öğeleri "
+"altyapıya entegre ediyoruz, bir PDF oluşturma özelliği sunuyoruz ve genelde "
+"düzgün biçimli ve etkileyici bir kullanıcı deneyimi sunuyoruz."
+
+#: faq.mw:33
+msgid ""
+"We are also working to provide features which are very hard to integrate in "
+"a standard MediaWiki, such as collaborative editing and many other features "
+"needed for using a wiki platform in an educational environment."
+msgstr ""
+"Ayrıca bir standart MediaWiki içerisine tümleştirmesi çok zor olan "
+"özelliklerin sağlanması için çalışıyoruz, ortaklaşa düzenleme ve bir eğitim "
+"ortamında bir wiki platformu kullanmak için ihtiyaç duyulan birçok diğer "
+"özellikler gibi."
+
+#: faq.mw:35
+msgid ""
+"We also have a strong focus on offline usage of the content, from the layout "
+"of the pages to the content type."
+msgstr ""
+"Ayrıca, sayfaların düzeninden içerik türüne kadar içeriğin çevrimdışı "
+"kullanımı üzerinde yoğun bir şekilde odaklanıyoruz."
+
+#: faq.mw:35
+msgid ""
+"What differentiates WikiToLearn from other online learning platforms such as "
+"Khan Academy, Coursera...?"
+msgstr ""
+"WikiToLearn ' ü Khan Academy, Coursera... gibi diğer öğrenme "
+"platformlarından ayıran nedir?"
+
+#: faq.mw:38
+msgid ""
+"We focus on writing ONLY educational textbooks, no videos, no MOOCs, no "
+"direct interaction with your teacher. We believe that there are projects and "
+"software tools better suited for that job, and while we aim to integrate "
+"with them, we have no intention of being a replacement."
+msgstr ""
+"Biz SADECE eğitsel ders kitapları yazmak üzerine yoğunlaşırız, videolar "
+"değil, MOOCs değil, öğretmeninizle direk iletişim değil. Biz o işler için "
+"daha iyi uyarlanmış projelerin ve yazılım araçlarının var olduğuna "
+"inanıyoruz ve bir yandan onlarla tümleştirmeye çalışırken onların bir "
+"değiştirmesi olma niyetine de sahip değiliz."
+
+#: faq.mw:40
+msgid ""
+"The focus of WikiToLearn is on the collaboration: we believe that if "
+"everyone can contribute to a common knowledge, everybody benefits. And it is "
+"very hard, if not directly impossible, to do that with video editing and "
+"more advanced tools.\n"
+"The outcomes that we want to achieve are high quality, evolving, exhaustive "
+"and proofread textbooks."
+msgstr ""
+"WikiToLearn ' ün odağı işbirliği üzerinedir: biz eğer herkes ortak bir "
+"bilgiye katkı verebilirse, herkesin yarar sağlayacağına inanıyoruz. Bunu "
+"video düzenleme ve daha gelişmiş araçlarla yapmak direk olarak imkansız "
+"olmasa da çok zor olduğuna inanıyoruz.\n"
+"Elde etmek istediğimiz sonuçlar, yüksek kaliteli, evrimleşen, eksiksiz ve "
+"düzeltilmiş ders kitaplarıdır."
+
+#: faq.mw:40
+msgid "Who can I contact if I need more help?"
+msgstr "Daha fazla yardıma ihtiyacım olursa kiminle iletişime geçebilirim?"
+
+#: faq.mw:44
+msgid ""
+"If you need further assistance, or if you simply want to meet and join the "
+"community, this is what you are looking for: https://join.wikitolearn."
+"org/ .\n"
+"You can also:\n"
+"send an email to info@wikitolearn.org"
+msgstr ""
+"Daha fazla yardıma ihtiyacınız varsa veya basitçe toplulukla tanışmak ve "
+"katılmak isterseniz, aradağınız şey budur:https://join.wikitolearn.org/ .\n"
+"Ayrıca:\n"
+"info@wikitolearn.org ' a bir e-posta gönderebilirsiniz."
+
+#: faq.mw:44
+msgid "join the [https://chat.wikitolearn.org WikiToLearn chat]"
+msgstr "[https://chat.wikitolearn.org WikiToLearn sohbet] ' e katıl"
+
+#: faq.mw:44
+msgid ""
+"subscribe to our social pages ([https://www.facebook.com/WikiToLearn/ "
+"Facebook], [https://twitter.com/WikiToLearn Twitter], [https://www.linkedin."
+"com/company/wikitolearn LinkedIn])"
+msgstr ""
+"Sosyal sayfalarımıza üye olun ([https://www.facebook.com/WikiToLearn/ "
+"Facebook], [https://twitter.com/WikiToLearn Twitter], [https://www.linkedin."
+"com/company/wikitolearn LinkedIn])"
+
+#: faq.mw:44
+msgid "or find us on the [https://t.me/WikiToLearn Telegram help group]"
+msgstr "veya bizi [https://t.me/WikiToLearn Telegram yardım grubu] ' nda bulun"
+
+#: faq.mw:51
+msgid "We are always happy to answer! :-)"
+msgstr "Cevap vermekten her zaman mutluluk duyarız! :-)"
+
+#: faq.mw:51
+msgid "How can I as a student use WikiToLearn and how much does it cost me?"
+msgstr ""
+"Bir öğrenci olarak WikiToLearn ' ü nasıl kullanabilirim ve bunun bana "
+"maliyeti nedir?"
+
+#: faq.mw:54
+msgid ""
+"Cost? What cost? WikiToLearn is free as in freedom, and free as in “free "
+"beer”. :-)\n"
+"The only motivation that keeps us going is our love for a free and diffuse "
+"knowledge."
+msgstr ""
+"Maliyet? Ne maliyeti? WikiToLearn özgürlük kadar özgürdür ve \"ücretsiz bira"
+"\" kadar ücretsizdir. :-)\n"
+" Bizim devam etmemizi sağlayan tek motivasyon özgür ve yayılan bilgiye "
+"aşkımızdır."
+
+#: faq.mw:57
+msgid ""
+"That said, there are many ways in which you can work, depending on your "
+"interests and abilities.\n"
+"If you are a student or a teacher, usually it does not take much to figure "
+"out how to contribute content, which often already exist, because they are "
+"useful to the whole world. Promotion is also vital, a poster attached to the "
+"right place can have great impact."
+msgstr ""
+"Bunu demekle birlikte, İlgi alanlarınıza ve yapabileceklerinize bağlı olarak "
+"çalışabileceğiniz birçok yol vardır. Bir öğrenci veya öğretmen iseniz, tüm "
+"dünyaya yararlı olduğundan dolayı genellikle zaten var olan içeriğe nasıl "
+"katkıda bulunacağınızı bulmak çok fazla zaman almaz. Tanıtım da ayrıca "
+"hayati önem taşır, doğru bir yere asılmış bir poster çok büyük bir etkiye "
+"sahip olabilir."
+
+#: faq.mw:60
+msgid ""
+"In any case, almost every team can be reached by joining a room on https://"
+"chat.wikitolearn.org. Don't forget to check out also https://phabricator.kde."
+"org/tag/wikitolearn/, our main tracker of activities."
+msgstr ""
+"Herhangi bir durumda, https://chat.wikitolearn.org üzerinde bir odaya "
+"katılarak hemen hemen tüm takımlara erişilebilir. Ayrıca bizim ana etkinlik "
+"takipçimiz olan https://phabricator.kde.org/tag/wikitolearn/ ' e göz atmayı "
+"unutmayın."
+
+#: faq.mw:62
+msgid ""
+"The best thing to do to start contributing is to reach us and speak to us "
+"directly. Usually, some WikiToLearn developer is always active and on the "
+"web. :-)"
+msgstr ""
+"Katkı vermeye başlamak için yapılacak en iyi şey bize ulaşmak ve doğrudan "
+"bizimle konuşmaktır. Genellikle, bazı WikiToLearn geliştiricileri her zaman "
+"aktif ve web üzerindedirler."
+
+#: faq.mw:64
+msgid ""
+"We are looking for people who share our love for the free knowledge who can "
+"help us grow this reality."
+msgstr ""
+"Biz bu gerçekliğin büyümesinde bize yardımcı olabilecek özgür bilgiye olan "
+"sevgimizi paylaşan insanlar arıyoruz."
+
+#: faq.mw:64
+msgid "What is LaTeX?"
+msgstr "LaTeX nedir?"
+
+#: faq.mw:67
+msgid ""
+"LaTeX is a document preparation language for high-quality typesetting. LaTeX "
+"includes features designed for the production of technical and scientific "
+"documentation.\n"
+"For more information, visit: http://www.latex-project.org"
+msgstr ""
+"LaTeX yüksek-kaliteli dizgi için bir belge hazırlama dilidir. LaTeX teknik "
+"ve bilimsel belgelendirmenin üretilmesi için tasarlanmış özellikleri içerir."
+"*nDaha fazla bilgi için, ziyaret edin http://www.latex-project.org"
+
+#: faq.mw:67
+msgid ""
+"In which languages can I find material and/or can I write on WikiToLearn?"
+msgstr ""
+"Hangi dillerde materyal bulabilirim ve/veya WikiToLearn üzerinde yazabilirim?"
+
+#: faq.mw:71
+msgid ""
+"The list of the languages that are currently open is in the homepage.\n"
+"Missing yours?\n"
+"The only requirement In order to open a new portal, is a community of people "
+"willing to help and actively contribute. If you would like to start up a new "
+"language, just [https://chat.wikitolearn.org get in touch with us]!"
+msgstr ""
+"Dillerin listesi şu anda anasayfada açıktır.\n"
+"Sizinki yok mu?\n"
+"Yeni bir portal açmak için tek gereksinim aktif katkı vermeye ve yardım "
+"etmeye hevesli bir insan topluluğudur. Eğer yeni bir dil başlatmak "
+"isterseniz, sadece [https://chat.wikitolearn.org bizimle iletişime geçin]!"

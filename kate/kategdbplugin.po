@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: applications-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-14 02:52+0100\n"
+"POT-Creation-Date: 2021-05-06 00:20+0000\n"
 "PO-Revision-Date: 2015-07-25 13:27+0000\n"
 "Last-Translator: Necdet <necdetyucel@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -316,32 +316,32 @@ msgstr "popup_breakpoint"
 msgid "popup_run_to_cursor"
 msgstr "popup_run_to_cursor"
 
-#: plugin_kategdb.cpp:333 plugin_kategdb.cpp:349
+#: plugin_kategdb.cpp:331 plugin_kategdb.cpp:347
 #, kde-format
 msgid "Insert breakpoint"
 msgstr "Kesme noktası ekle"
 
-#: plugin_kategdb.cpp:347
+#: plugin_kategdb.cpp:345
 #, kde-format
 msgid "Remove breakpoint"
 msgstr "Kesme noktasını kaldır"
 
-#: plugin_kategdb.cpp:371
+#: plugin_kategdb.cpp:369
 #, kde-format
 msgid "Breakpoint"
 msgstr "Kesme noktası"
 
-#: plugin_kategdb.cpp:466
+#: plugin_kategdb.cpp:464
 #, kde-format
 msgid "Execution point"
 msgstr "Çalıştırma noktası"
 
-#: plugin_kategdb.cpp:583 plugin_kategdb.cpp:585
+#: plugin_kategdb.cpp:581 plugin_kategdb.cpp:583
 #, kde-format
 msgid "Thread %1"
 msgstr "%1 Süreci"
 
-#: plugin_kategdb.cpp:678
+#: plugin_kategdb.cpp:676
 #, kde-format
 msgid "IO"
 msgstr "Girdi/Çıktı"

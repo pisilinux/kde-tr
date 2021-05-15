@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calligra-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-31 02:41+0200\n"
+"POT-Creation-Date: 2021-04-25 00:18+0000\n"
 "PO-Revision-Date: 2015-02-08 13:26+0100\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -18,27 +18,27 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Lokalize 1.5\n"
 
-#: ChangeSomethingCommand.cpp:47
+#: ChangeSomethingCommand.cpp:34
 msgctxt "(qtundo-format)"
 msgid "Change something"
 msgstr "Bir şey değiştir"
 
-#: TemplateShapeFactory.cpp:45
+#: TemplateShapeFactory.cpp:32
 #, kde-format
 msgid "Template shape"
 msgstr "Şablon şekli"
 
-#: TemplateShapeFactory.cpp:47
+#: TemplateShapeFactory.cpp:34
 #, kde-format
 msgid "Simple shape that is used as a template for developing other shapes."
 msgstr "Başka şekiller geliştirmek için kullanılan basit şekil şablonu."
 
-#: TemplateTool.cpp:90
+#: TemplateTool.cpp:77
 #, kde-format
 msgid "Open"
 msgstr "Aç"
 
-#: TemplateToolFactory.cpp:39
+#: TemplateToolFactory.cpp:26
 #, kde-format
 msgid "Template shape editing"
 msgstr "Şablon şekli düzenleme"

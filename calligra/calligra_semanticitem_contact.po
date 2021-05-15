@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calligra-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:40+0200\n"
+"POT-Creation-Date: 2021-04-25 00:18+0000\n"
 "PO-Revision-Date: 2014-06-08 13:44+0000\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/calligra-k-tr/"
@@ -25,7 +25,7 @@ msgctxt "displayname of the semantic item type Contact"
 msgid "Contact"
 msgstr "Kişi"
 
-#: KoRdfFoaF.cpp:192
+#: KoRdfFoaF.cpp:179
 #, kde-format
 msgid "Select an address book for saving:"
 msgstr "Kayıt için bir adres defteri seçin:"
@@ -54,22 +54,22 @@ msgstr "&Telefon Numarası:"
 msgid "&Home Page:"
 msgstr "&Ana Sayfa:"
 
-#: KoRdfFoaFTreeWidgetItem.cpp:43
+#: KoRdfFoaFTreeWidgetItem.cpp:30
 #, kde-format
 msgid "Contact Information"
 msgstr "Kişi Bilgileri"
 
-#: KoRdfFoaFTreeWidgetItem.cpp:61
+#: KoRdfFoaFTreeWidgetItem.cpp:48
 #, kde-format
 msgid "Edit..."
 msgstr "Düzenle..."
 
-#: KoRdfFoaFTreeWidgetItem.cpp:64
+#: KoRdfFoaFTreeWidgetItem.cpp:51
 #, kde-format
 msgid "Import contact"
 msgstr "Kişiyi içeri aktar"
 
-#: KoRdfFoaFTreeWidgetItem.cpp:67
+#: KoRdfFoaFTreeWidgetItem.cpp:54
 #, kde-format
 msgid "Export as vcard..."
 msgstr "Vcard olarak dışarı aktar..."

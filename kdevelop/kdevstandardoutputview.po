@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-kdevelop-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-17 07:46+0200\n"
+"POT-Creation-Date: 2020-10-16 02:15+0200\n"
 "PO-Revision-Date: 2017-05-16 06:58+0000\n"
 "Last-Translator: Mete <metebilgin48@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -111,11 +111,11 @@ msgctxt "@info:placeholder"
 msgid "Search..."
 msgstr "Ara..."
 
-#: outputwidget.cpp:157
+#: outputwidget.cpp:158
 #, fuzzy, kde-format
 #| msgid "Enter a wild card string to filter the output view"
 msgctxt "@info:tooltip"
-msgid "Enter a wild card string to filter the output view"
+msgid "Enter a case-insensitive regular expression to filter the output view"
 msgstr "Çıktı görünümünü filtrelemek için bir joker karakter dizgesi girin"
 
 #: standardoutputview.cpp:115

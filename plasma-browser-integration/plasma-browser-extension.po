@@ -1,49 +1,48 @@
 # Volkan Gezer <volkangezer@gmail.com>, 2021.
-# Erkan IŞIK <erkanisik@pisilinux.org>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-01-02 02:39:09.793433\n"
-"PO-Revision-Date: 2021-05-15 12:05+0300\n"
-"Last-Translator: Erkan IŞIK <erkanisik@pisilinux.org>\n"
+"PO-Revision-Date: 2021-04-20 15:37+0200\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 21.04.0\n"
+"X-Generator: Lokalize 20.08.2\n"
 
 #: browseraction_mpris_enable_on:0
 msgctxt "Heading for list of domains to enable media controls on"
 msgid "Enable media controls on:"
-msgstr "Medya kontrollerini etkinleştirin:"
+msgstr ""
 
 #: browseraction_mpris_title:0
 msgctxt "Title for Media controls in popup"
 msgid "Media Controls"
-msgstr "Medya Kontrolleri"
+msgstr ""
 
 #: browseraction_title:0
 msgctxt "Title for toolbar popup"
 msgid "Plasma Browser Integration"
-msgstr "Plasma tarayıcı entegrasyonu"
+msgstr ""
 
 #: general_error_host_disconnected_title:0
 msgctxt ""
 "Title for plasma-browser-integration-host binary unexpectedly closing/"
 "crashing"
 msgid "The native host disconnected unexpectedly."
-msgstr "Yerel ana bilgisayarın bağlantısı beklenmedik bir şekilde kesildi."
+msgstr ""
 
 #: general_error_not_supported_os:0
 msgid "This extension is only supported on Linux and FreeBSD."
-msgstr "Bu uzantı yalnızca Linux ve FreeBSD'de desteklenmektedir."
+msgstr ""
 
 #: general_error_not_supported_os_title:0
 msgid "Unsupported operating system"
-msgstr "Desteklenmeyen işletim sistemi"
+msgstr ""
 
 #: general_error_startup_failed:0
 msgctxt ""
@@ -52,39 +51,37 @@ msgid ""
 "Make sure the 'plasma-browser-integration' package is installed correctly "
 "and that you are running Plasma 5.13 or later."
 msgstr ""
-"'Plazma tarayıcı entegrasyonu' paketinin doğru kurulduğundan ve Plasma 5.13"
-" veya üstünü çalıştırdığınızdan emin olun."
 
 #: general_error_startup_failed_title:0
 msgctxt "Title for failure to start plasma-browser-integration-host binary"
 msgid "Failed to connect to the native host."
-msgstr "Yerel ana bilgisayara bağlanılamadı."
+msgstr ""
 
 #: general_error_startup_failed_wiki_link:0
 msgid "Visit project wiki page for more information"
-msgstr "Daha fazla bilgi için projenin wiki sayfasını ziyaret edin"
+msgstr ""
 
 #: general_error_unknown:0
 msgctxt ""
 "An unknown error occurred, usually used when an error message by the system "
 "is not provided"
 msgid "Unknown Error"
-msgstr "Bilinmeyen Hata"
+msgstr ""
 
 #: kdeconnect_call_device:0
 msgctxt "Context menu, call phone number on device $1"
 msgid "Call on '$1'"
-msgstr "'$1' üzerinden ara"
+msgstr ""
 
 #: kdeconnect_open_device:0
 msgctxt "Context menu, open link on device $1, similar to 'Open in New Tab'"
 msgid "Open on '$1'"
-msgstr "'$1' üzerinden aç"
+msgstr ""
 
 #: kdeconnect_open_via:0
 msgctxt "Context menu, open link on device whose name we don't (yet) know"
 msgid "Open via KDE Connect"
-msgstr "KDE Connect ile aç"
+msgstr ""
 
 #: options_about_bugs:0
 msgid ""
@@ -99,7 +96,7 @@ msgstr ""
 
 #: options_about_copyright:0
 msgid "© 2017-2020 Kai Uwe Broulik and David Edmundson"
-msgstr "© 2017-2020 Kai Uwe Broulik and David Edmundson"
+msgstr ""
 
 #: options_about_created_by_kde:0
 msgid ""
@@ -156,21 +153,21 @@ msgstr ""
 
 #: options_about_translated_by:0
 msgid "Translated by: $1"
-msgstr "Çeviren: $1"
+msgstr ""
 
 #: options_about_translators:0
 msgctxt "Name of translators"
 msgid "Your names"
-msgstr "Erkan Işık"
+msgstr ""
 
 #: options_heading_krunner:0
 msgctxt "Title for settings about KRunner plugins"
 msgid "Plasma Search"
-msgstr "Plazma Araması"
+msgstr ""
 
 #: options_not_supported_os:0
 msgid "This extension is not supported on this operating system."
-msgstr "Bu uzantıyı, bu işletim sisteminde desteklenmiyor."
+msgstr ""
 
 #: options_plugin_breezeScrollBars_description:0
 msgctxt "Description for Breeze style scroll bars plugin"
@@ -249,7 +246,7 @@ msgstr ""
 #: options_plugin_mpris_title:0
 msgctxt "Title for Media Controls plugin"
 msgid "Media Controls"
-msgstr "Medya Kontrolleri"
+msgstr ""
 
 #: options_plugin_purpose_description:0
 msgctxt "Description for Purpose / Web Share plugin"
@@ -261,7 +258,7 @@ msgstr ""
 #: options_plugin_purpose_title:0
 msgctxt "Title for Purpose / Web Share plugin"
 msgid "Content Sharing"
-msgstr "İçerik Paylaşımı"
+msgstr ""
 
 #: options_plugin_tabsrunner_description:0
 msgctxt "Description for Browser Tabs KRunner plugin"
@@ -286,33 +283,36 @@ msgstr ""
 #: options_tab_about:0
 msgctxt "The 'About this plugin' tab in settings"
 msgid "About"
-msgstr "Hakkımızda"
+msgstr ""
 
 #: options_tab_general:0
+#, fuzzy
 #| msgctxt "error##description"
 #| msgid "general"
 msgctxt "The 'General settings' tab in settings"
 msgid "General"
-msgstr "Genel"
+msgstr ""
+"An unknown error occurred, usually used when an error message by the system "
+"is not provided"
 
 #: options_title:0
 msgctxt "Title for settings page"
 msgid "Plasma Integration Settings"
-msgstr "Plazma Entegrasyon Ayarları"
+msgstr ""
 
 #: permission_request_already:0
 msgid "You have already granted this permission."
-msgstr "Bu izni zaten verdiniz."
+msgstr ""
 
 #: permission_request_button_request:0
 msgctxt "@action:button"
 msgid "Request Permission"
-msgstr "İstek İzni"
+msgstr ""
 
 #: permission_request_button_revoke:0
 msgctxt "@action:button"
 msgid "Revoke Permission"
-msgstr "İzni İptal Et"
+msgstr ""
 
 #: permission_request_historyrunner_1:0
 msgctxt "Explanation for why additional permissions are needed"
@@ -320,8 +320,6 @@ msgid ""
 "In order to provide search results for your browser history, additional "
 "permissions are required."
 msgstr ""
-"Tarayıcı geçmişiniz için arama sonuçları için, ek olarak"
-"izinler gereklidir."
 
 #: permission_request_historyrunner_2:0
 msgctxt "Explanation about disabling history runner"
@@ -338,7 +336,7 @@ msgstr ""
 #: purpose_share:0
 msgctxt "Context menu, share link or page via Purpose framework"
 msgid "Share..."
-msgstr "Paylaş..."
+msgstr ""
 
 #: purpose_share_failed_text:0
 msgctxt "Text of share failed notification"
@@ -358,7 +356,7 @@ msgstr ""
 #: purpose_share_finished_title:0
 msgctxt "Title of share finished notification"
 msgid "Content Shared"
-msgstr "Paylaşılan İçerik"
+msgstr ""
 
 #: store_description:0
 msgctxt "The extension description on the extension store"

@@ -1,0 +1,181 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-elisa-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: config.yaml:0
+msgid "Elisa"
+msgstr ""
+
+#: config.yaml:0
+msgid "Donate"
+msgstr ""
+
+#: content/_index.md:0
+msgid "A music player that is simple, reliable, and a joy to use."
+msgstr ""
+
+#: content/download.md:0
+msgid "Download"
+msgstr ""
+
+#: content/download.md:0
+msgid "org.kde.elisa.desktop"
+msgstr ""
+
+#: content/download.md:0
+msgid "/assets/img/windows.png"
+msgstr ""
+
+#: content/download.md:0
+msgid ""
+"* [Microsoft store](https://www.microsoft.com/en-us/p/elisa/9pb5md7zh8tl)\n"
+"* [Win64 executable](https://binary-factory.kde.org/view/Windows%2064-bit/job/Elisa_Release_win64/)\n"
+msgstr ""
+
+#: content/get-involved.md:0
+msgid "Get Involved"
+msgstr ""
+
+#: content/get-involved.md:0
+msgid ""
+"Most development-related discussions take place on the [Elisa mailing list](http://mail.kde.org/mailman/listinfo/).\n"
+"Just join in, say hi and tell us what you would like to help us with!\n"
+msgstr ""
+
+#: content/get-involved.md:5
+msgid ""
+"Want to contribute to Elisa? Check out "
+"[Phabricator](https://phabricator.kde.org/tag/elisa/) for some fun task or "
+"[browse the source code](https://invent.kde.org/multimedia/elisa)."
+msgstr ""
+
+#: content/users.md:0
+msgid "User support"
+msgstr ""
+
+#: content/users.md:0
+msgid "https://forum.kde.org/"
+msgstr ""
+
+#: content/users.md:0
+msgid "https://docs.kde.org/stable5/en/kdemultimedia/elisa/index.html"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Linux"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "FreeBSD"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Windows"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Other ways to download"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"<b>Elisa</b> is a music player developed by the KDE community that strives "
+"to be simple and nice to use. We also recognize that we need a flexible "
+"product to account for the different workflows and use-cases of our users. "
+"We focus on a very good integration with the Plasma desktop of the KDE "
+"community without compromising support for other platforms (other Linux "
+"desktop environments, Windows, and Android). We are creating a reliable "
+"product that is a joy to use and respects our users' privacy. As such, we "
+"prefer to support online services where users are in control of their data."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Available on all major platforms"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Browse music by album, artist, or tracks"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Elisa, powered with Baloo indexing support, automatically looks in your "
+"music folder for music files and cover art. The left column has various "
+"viewing options: Now Playing, Albums, Artists, and Tracks."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Create and manage playlists"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Create and manage all your playlists from the built-in side panel."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Screenshot of the playlist feature"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Party mode"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Turn Party Mode on with Elisa's immersive built-in party mode feature."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Screenshot of Elisa's party mode"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Dark / Light Themes"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Elisa has both a <b>Light</b> and a <b>Dark</b> theme, so you can enjoy your"
+" music without the colors bothering you."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Fast indexing"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"With the help of <a href=\"https://community.kde.org/Baloo\">Baloo</a>, "
+"Elisa is fast to index and sort all your files. It is also possible to use "
+"Elisa without Baloo."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Adapts to your screen"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Elisa uses <a "
+"href=\"https://develop.kde.org/frameworks/kirigami/\">Kirigami</a> to be the"
+" best convergent, responsive music player that adapts its content to your "
+"screen. Soon on your phone!"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Open Source"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Elisa is Open Source and you can browse, edit and share the source code.  "
+"Elisa is <a href=\"https://kde.org\">Made By KDE</a>, a community building "
+"high-quality projects that your are free to use. Check out all <a "
+"href=\"https://kde.org/products\"> our projects!</a>"
+msgstr ""

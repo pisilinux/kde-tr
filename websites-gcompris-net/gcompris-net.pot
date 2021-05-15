@@ -1,0 +1,597 @@
+# Translations template for PROJECT.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-03-28 16:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#. news title
+msgctxt "20210321.html"
+msgid "Release GCompris 1.1"
+msgstr ""
+
+#. paragraph
+msgctxt "20210321.html"
+msgid ""
+"Hi,<br />\\nWe are pleased to announce the release of GCompris version 1.1."
+msgstr ""
+
+#. paragraph
+msgctxt "20210321.html"
+msgid ""
+"This is a maintenance release, so every GNU/Linux distribution shipping 1.0 "
+"should update to 1.1."
+msgstr ""
+
+#. paragraph
+msgctxt "20210321.html"
+msgid "Here is a summary of included changes:"
+msgstr ""
+
+#. list item
+msgctxt "20210321.html"
+msgid "Graphics have been updated for 21 activities."
+msgstr ""
+
+#. list item
+msgctxt "20210321.html"
+msgid "We have fixed lots of bugs."
+msgstr ""
+
+#. list item
+msgctxt "20210321.html"
+msgid "A build for Ubuntu Touch has been added."
+msgstr ""
+
+#. list item
+msgctxt "20210321.html"
+msgid "The spelling of the Turkish districts has been fixed."
+msgstr ""
+
+#. list item
+msgctxt "20210321.html"
+msgid "We added a minimal .msi alternative package for Windows."
+msgstr ""
+
+#. list item
+msgctxt "20210321.html"
+msgid ""
+"The GCompris executable has been relicenced to AGPLv3 due to a dependency of"
+" analog electricity."
+msgstr ""
+
+#. paragraph
+msgctxt "20210321.html"
+msgid "On the translation side:"
+msgstr ""
+
+#. list item
+msgctxt "20210321.html"
+msgid ""
+"Albanian, Belarusian, Brazilian Portuguese and Russian have been completed."
+msgstr ""
+
+#. list item
+msgctxt "20210321.html"
+msgid ""
+"Irish Gaelic and Macedonian have returned (partial translation above 80% for"
+" now)."
+msgstr ""
+
+#. list item
+msgctxt "20210321.html"
+msgid ""
+"Wordset for vocabulary activities has been added for Albanian and "
+"Macedonian."
+msgstr ""
+
+#. list item
+msgctxt "20210321.html"
+msgid "All the voices have been added for Lithuanian."
+msgstr ""
+
+#. paragraph
+msgctxt "20210321.html"
+msgid ""
+"We have now 27 languages fully supported: Albanian, Basque, Belarusian, "
+"Brazilian Portuguese, Breton, British English, Catalan, Catalan (Valencian),"
+" Chinese Traditional, Dutch, French, Greek, Hebrew, Hungarian, Indonesian, "
+"Italian, Macedonian, Malayalam, Polish, Portuguese, Romanian, Russian, "
+"Slovenian, Spanish, Swedish, Turkish and Ukrainian."
+msgstr ""
+
+#. paragraph
+msgctxt "20210321.html"
+msgid ""
+"We also have 4 languages partially supported: German (91%), Irish Gaelic "
+"(87%), Lithuanian (96%) and Norwegian Nynorsk (85%)."
+msgstr ""
+
+#. paragraph
+msgctxt "20210321.html"
+msgid ""
+"You can find packages of this new version for GNU/Linux, Windows and MacOS "
+"on the <a href=\\\"https://gcompris.net/downloads{{ suffix "
+"}}.html\\\">download page</a>. This update will be available soon in the "
+"Android Play store, the F-Droid repository and the Windows store. The "
+"package for Raspberry Pi will also be available soon."
+msgstr ""
+
+#. paragraph
+msgctxt "20210321.html"
+msgid "Thank you all, <br/>\\nTimothée & Johnny"
+msgstr ""
+
+#: template/base.html:66 template/downloads.html:3 template/downloads.html:8
+msgid "Download"
+msgstr ""
+
+#: template/base.html:67 template/donate.html:3 template/donate.html:12
+msgid "Donate"
+msgstr ""
+
+#: template/base.html:68 template/screenshots.html:3
+#: template/screenshots.html:6
+msgid "Screenshots"
+msgstr ""
+
+#: template/base.html:69 template/schools.html:3 template/schools.html:12
+msgid "Schools"
+msgstr ""
+
+#: template/base.html:70
+msgid "Manual"
+msgstr ""
+
+#: template/base.html:71
+msgid "Contribute"
+msgstr ""
+
+#: template/christmas.html:55
+msgid "GCompris for Christmas"
+msgstr ""
+
+#: template/christmas.html:62
+msgid ""
+"For Christmas, offer GCompris to your children. It's free and will give them"
+" hours of educational fun."
+msgstr ""
+
+#: template/christmas.html:64
+msgid "Get GCompris from our Download page"
+msgstr ""
+
+#: template/christmas.html:65
+msgid "Get GCompris from the Play Store"
+msgstr ""
+
+#: template/christmas.html:66
+msgid "Get GCompris from the Windows Store"
+msgstr ""
+
+#: template/donate.html:15
+msgid ""
+"You, your children or your school love GCompris. You can support the project"
+" with a donation."
+msgstr ""
+
+#: template/donate.html:16
+msgid ""
+"Developing software takes a lot of time, it needs hardware, and other "
+"requirements that have a cost."
+msgstr ""
+
+#: template/donate.html:18
+msgid ""
+"If you want to support the development of GCompris in a sustainable way, "
+"please become a patron of GCompris on Patreon:"
+msgstr ""
+
+#: template/donate.html:20 template/downloads.html:10
+#: template/index.html:175
+msgid "Become a Patron"
+msgstr ""
+
+#: template/donate.html:23
+msgid "Also, you can donate the amount of your choice to KDE:"
+msgstr ""
+
+#: template/donate.html:24
+msgid "Donate to KDE"
+msgstr ""
+
+#: template/donate.html:26
+msgid "Thanks for supporting Free Software in education."
+msgstr ""
+
+#: template/donate.html:29
+msgid "Patreon"
+msgstr ""
+
+#: template/donate.html:32
+msgid "Thanks to everyone supporting GCompris on Patreon!"
+msgstr ""
+
+#: template/downloads.html:16
+msgid "Windows"
+msgstr ""
+
+#: template/downloads.html:20
+msgid ""
+"You can install GCompris <a href=\"https://www.microsoft.com/en-"
+"us/store/p/gcompris/9pgxjtcxn8qm\">from the Windows Store</a>."
+msgstr ""
+
+#: template/downloads.html:21
+msgid "Note: the Windows Store requires Windows 10."
+msgstr ""
+
+#: template/downloads.html:23
+msgid "Else, you can download the installer from the links below."
+msgstr ""
+
+#: template/downloads.html:24
+msgid "System requirements: Windows 7, 8 or 10 with OpenGL 2 support."
+msgstr ""
+
+#: template/downloads.html:29
+msgid ""
+"Note: If your system doesn't have OpenGL 2 support or if it's not working "
+"properly, please use the entry GCompris (Safe Mode) in the start menu to "
+"launch GCompris with the software rendering mode which doesn't use OpenGL."
+msgstr ""
+
+#: template/downloads.html:30
+msgid ""
+"If you really need a version that runs on Windows XP, or if your system "
+"doesn't support the new version, you can use the last installer from the old"
+" GCompris 15.10."
+msgstr ""
+
+#: template/downloads.html:34
+msgid ""
+"To enable all the activities in this old version, you can use the code "
+"200202 in the entry box that contains the word CODE when you start the "
+"application."
+msgstr ""
+
+#: template/downloads.html:44
+msgid "Android"
+msgstr ""
+
+#: template/downloads.html:48
+msgid "The version for Android is distributed in the Play Store."
+msgstr ""
+
+#: template/downloads.html:52
+msgid ""
+"We support both android 32bit and 64bit from the Play Store. The appropriate"
+" version is downloaded automatically depending on your Android operating "
+"system."
+msgstr ""
+
+#: template/downloads.html:54
+msgid ""
+"WARNING: For Android version 4.4.2, it is recommended to directly download "
+"and install manually <a href= "
+"\"https://gcompris.net/download/qt/android/GCompris-Android-release-signed-"
+"aligned-armeabi-v7a-dl-0.95.apk\">GCompris version 0.95 from our "
+"website</a>, as the version 0.96 from the Play Store will not be able to "
+"download external assets with this Android version."
+msgstr ""
+
+#: template/downloads.html:56
+msgid ""
+"GCompris is also available from F-Droid, the Free and Open Source Android "
+"app repository."
+msgstr ""
+
+#: template/downloads.html:61
+msgid ""
+"You can also directly download the apk from our website to install it "
+"manually on your device."
+msgstr ""
+
+#: template/downloads.html:75
+msgid "macOS"
+msgstr ""
+
+#: template/downloads.html:79
+msgid "You can get the macOS version from the link below."
+msgstr ""
+
+#: template/downloads.html:80
+msgid "Built and tested on macOS 10.13."
+msgstr ""
+
+#: template/downloads.html:93
+msgid "GNU/Linux"
+msgstr ""
+
+#: template/downloads.html:97
+msgid ""
+"You can check if your distribution provides a package for the latest version"
+" of GCompris."
+msgstr ""
+
+#: template/downloads.html:98
+msgid ""
+"We also provide standalone packages for GNU/Linux. They should work on any "
+"recent distribution."
+msgstr ""
+
+#: template/downloads.html:98
+msgid "System requirements:"
+msgstr ""
+
+#: template/downloads.html:103 template/downloads.html:129
+msgid ""
+"To use it, open a terminal in the folder where you downloaded the installer "
+"and run these commands:"
+msgstr ""
+
+#: template/downloads.html:108 template/downloads.html:134
+msgid ""
+"Then read the license or press q to skip it, answer yes to the questions, "
+"and the software will be installed in a new folder next to the installer."
+msgstr ""
+
+#: template/downloads.html:109 template/downloads.html:135
+msgid ""
+"Finally, to launch gcompris, go in the new folder, in bin, and double-click "
+"on gcompris-qt.sh."
+msgstr ""
+
+#: template/downloads.html:110
+msgid ""
+"Note: If your system doesn't have OpenGL 2 support or if it's not working "
+"properly, please add the option \"--software-renderer\" at the end of the "
+"last line of the script gcompris-qt.sh. Another way is to edit the "
+"configuration file (in ~/.config/gcompris-qt/gcompris-qt.conf): find the "
+"line renderer=auto , replace auto with software and save the file."
+msgstr ""
+
+#: template/downloads.html:121
+msgid "Raspberry Pi"
+msgstr ""
+
+#: template/downloads.html:125
+msgid "We provide a standalone package for Raspberry Pi."
+msgstr ""
+
+#: template/downloads.html:125
+msgid "It was tested only on Raspberry Pi 3."
+msgstr ""
+
+#: template/downloads.html:145
+msgid "Source code"
+msgstr ""
+
+#: template/downloads.html:149
+msgid "The source code is available under the AGPLv3 license."
+msgstr ""
+
+#: template/downloads.html:162
+msgid "MD5 and GPG"
+msgstr ""
+
+#: template/downloads.html:166
+#, python-format
+msgid ""
+"To check the integrity of your downloads, you can compare the md5sums with "
+"those in this file: <a "
+"href=\"https://gcompris.net/download/qt/md5sums-%(version)s.txt\">MD5SUMS</a>"
+msgstr ""
+
+#: template/downloads.html:167
+msgid ""
+"The source tarball and the Linux installers are signed with the GPG key from"
+" Timothée Giet (public key: "
+msgstr ""
+
+#: template/downloads.html:169
+msgid "sig files:"
+msgstr ""
+
+#: template/index.html:3
+msgid "GCompris Educational Software"
+msgstr ""
+
+#: template/index.html:17 template/index.html:61
+#, python-format
+msgid "Version %(version)s"
+msgstr ""
+
+#: template/index.html:86 template/index.html:87
+msgid "Download GCompris"
+msgstr ""
+
+#. other platform
+#: template/index.html:97
+msgid "All"
+msgstr ""
+
+#: template/index.html:171
+msgid "View all screenshots"
+msgstr ""
+
+#: template/index.html:181
+msgid ""
+"GCompris is a high quality educational software suite, including a large "
+"number of activities for children aged 2 to 10."
+msgstr ""
+
+#: template/index.html:182
+msgid ""
+"Some of the activities are game orientated, but nonetheless still "
+"educational."
+msgstr ""
+
+#: template/index.html:183
+msgid "Here is the list of activity categories with some examples:"
+msgstr ""
+
+#: template/index.html:185
+msgid "computer discovery: keyboard, mouse, touchscreen ..."
+msgstr ""
+
+#: template/index.html:186
+msgid "reading: letters, words, reading practice, typing text ..."
+msgstr ""
+
+#: template/index.html:187
+msgid ""
+"arithmetic: numbers, operations, table memory, enumeration, double entry "
+"table ..."
+msgstr ""
+
+#: template/index.html:188
+msgid "science: the canal lock, the water cycle, renewable energy ..."
+msgstr ""
+
+#: template/index.html:189
+msgid "geography: countries, regions, culture ..."
+msgstr ""
+
+#: template/index.html:190
+msgid "games: chess, memory, align 4, hangman, tic-tac-toe ..."
+msgstr ""
+
+#: template/index.html:191
+msgid "other: colors, shapes, Braille, learn to tell time ..."
+msgstr ""
+
+#: template/index.html:193
+msgid ""
+"Currently GCompris offers more than 100 activities, and more are being "
+"developed. GCompris is free software, it means that you can adapt it to your"
+" own needs, improve it, and most importantly share it with children "
+"everywhere."
+msgstr ""
+
+#: template/index.html:194
+msgid ""
+"The GCompris project is hosted and developed by <a target=\"_blank\" "
+"rel=\"noopener\" href=\"https://www.kde.org/\">the KDE community</a>."
+msgstr ""
+
+#: template/index.html:201
+msgid "Latest news"
+msgstr ""
+
+#: template/index.html:205 template/singlenews.html:13
+msgid "All the news"
+msgstr ""
+
+#: template/schools.html:15
+msgid ""
+"GCompris is an e-learning tool to provide training exercises within and "
+"outside the classroom. It is a Free Software released under the GNU General "
+"Public License. It is multiplatform (GNU/Linux, Windows, Android, macOS), "
+"and can run on low power computers."
+msgstr ""
+
+#: template/schools.html:16
+msgid ""
+"GCompris has been present for over twenty years in schools worldwide and "
+"offers more than 150 activities covering the main pedagogical domains, "
+"including:"
+msgstr ""
+
+#: template/schools.html:17
+msgid "Learning how to use a computer"
+msgstr ""
+
+#: template/schools.html:18
+msgid ""
+"Practising reading with activities to learn letters, words and lexical sets"
+msgstr ""
+
+#: template/schools.html:19
+msgid ""
+"Acquiring proficiency in math by practising numeration, arithmetic, measures"
+" and puzzles"
+msgstr ""
+
+#: template/schools.html:20
+msgid "Discovering the world through logic, the arts and music"
+msgstr ""
+
+#: template/schools.html:21
+msgid ""
+"Exploring science and humanities through experimentation, history and "
+"geography"
+msgstr ""
+
+#: template/schools.html:22
+msgid "Developing strategic thinking with board games"
+msgstr ""
+
+#: template/schools.html:24
+msgid ""
+"GCompris does not require an Internet connection, does not collect any data,"
+" and so strictly complies with the EU's General Data Protection Regulation."
+msgstr ""
+
+#: template/schools.html:26
+msgid ""
+"GCompris 1.0 lets educators select the level of activities according to the "
+"skill of each child. For example, in an activity that lets children practice"
+" numbers, you can select what numbers they can work with, leaving higher and"
+" more difficult numbers for a later stage. Or in an activity in which the "
+"child has to order pictures chronologically, you can grade the activity for "
+"children who can only read numbers or make it harder for children who can "
+"read both numbers and words."
+msgstr ""
+
+#: template/schools.html:29
+msgid ""
+"This grading functionality allows you to propose training exercises to "
+"pupils to practice mathematics, language, science and humanities. They will "
+"also be able to play strategic games to train their problem-solving skills."
+msgstr ""
+
+#: template/schools.html:31
+msgid ""
+"To provide a solid pedagogical background, GCompris levels of activities "
+"have been based on the French elementary school curriculum, which defines "
+"what French teachers must teach in class."
+msgstr ""
+
+#: template/screenshot.html:41
+msgid "Description:"
+msgstr ""
+
+#: template/screenshot.html:44
+msgid "Prerequisite:"
+msgstr ""
+
+#: template/screenshot.html:48
+msgid "Goal:"
+msgstr ""
+
+#. activity handbook
+#: template/screenshot.html:52
+msgid "Manual:"
+msgstr ""
+
+#. activity thanks to
+#: template/screenshot.html:56
+msgid "Credit:"
+msgstr ""
+
+#: template/singlenews.html:3 template/singlenews.html:9
+msgid "News"
+msgstr ""

@@ -1,0 +1,542 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the angelfish package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: angelfish\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-15 00:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: angelfish-webapp/contents/ui/WebAppView.qml:35
+#: lib/contents/ui/WebView.qml:72
+#, kde-format
+msgid "Copy"
+msgstr ""
+
+#: angelfish-webapp/contents/ui/WebAppView.qml:40
+#: lib/contents/ui/WebView.qml:77
+#, kde-format
+msgid "Cut"
+msgstr ""
+
+#: angelfish-webapp/contents/ui/WebAppView.qml:45
+#: lib/contents/ui/WebView.qml:82
+#, kde-format
+msgid "Paste"
+msgstr ""
+
+#: angelfish-webapp/contents/ui/WebAppView.qml:50
+#: lib/contents/ui/WebView.qml:87
+#, kde-format
+msgid "Search online for '%1'"
+msgstr ""
+
+#: angelfish-webapp/contents/ui/WebAppView.qml:50
+#: lib/contents/ui/WebView.qml:87
+#, kde-format
+msgid "Search online"
+msgstr ""
+
+#: angelfish-webapp/contents/ui/WebAppView.qml:55
+#: lib/contents/ui/WebView.qml:92
+#, kde-format
+msgid "Copy Url"
+msgstr ""
+
+#: angelfish-webapp/contents/ui/WebAppView.qml:59
+#: lib/contents/ui/DownloadQuestion.qml:25
+#: lib/contents/ui/WebView.qml:100 src/contents/ui/AdblockFilterDownloadQuestion.qml:25
+#, kde-format
+msgid "Download"
+msgstr ""
+
+#: angelfish-webapp/main.cpp:55
+#, kde-format
+msgid "desktop file to open"
+msgstr ""
+
+#: angelfish-webapp/main.cpp:80
+#, kde-format
+msgid "Angelfish Web App runtime"
+msgstr ""
+
+#: angelfish-webapp/main.cpp:82
+#, kde-format
+msgid "Copyright 2020 Angelfish developers"
+msgstr ""
+
+#: angelfish-webapp/main.cpp:84
+#, kde-format
+msgid "Marco Martin"
+msgstr ""
+
+#: lib/angelfishwebprofile.cpp:58
+#, kde-format
+msgid "Download finished"
+msgstr ""
+
+#: lib/angelfishwebprofile.cpp:62
+#, kde-format
+msgid "Download failed"
+msgstr ""
+
+#: lib/contents/ui/AuthSheet.qml:26
+#, kde-format
+msgid "Authentication required"
+msgstr ""
+
+#: lib/contents/ui/AuthSheet.qml:35
+#, kde-format
+msgid "Username"
+msgstr ""
+
+#: lib/contents/ui/AuthSheet.qml:42
+#, kde-format
+msgid "Password"
+msgstr ""
+
+#: lib/contents/ui/AuthSheet.qml:51 lib/contents/ui/PermissionQuestion.qml:47
+#, kde-format
+msgid "Accept"
+msgstr ""
+
+#: lib/contents/ui/AuthSheet.qml:60 lib/contents/ui/DownloadQuestion.qml:33
+#: lib/contents/ui/JavaScriptDialogSheet.qml:48
+#: lib/contents/ui/JavaScriptDialogSheet.qml:71
+#: src/contents/ui/Downloads.qml:32
+#, kde-format
+msgid "Cancel"
+msgstr ""
+
+#: lib/contents/ui/DownloadQuestion.qml:17
+#, kde-format
+msgid "Do you want to download this file?"
+msgstr ""
+
+#: lib/contents/ui/ErrorHandler.qml:41
+#, kde-format
+msgid "Error loading the page"
+msgstr ""
+
+#: lib/contents/ui/ErrorHandler.qml:52
+#, kde-format
+msgid "Retry"
+msgstr ""
+
+#: lib/contents/ui/JavaScriptDialogSheet.qml:26
+#, kde-format
+msgid "Close"
+msgstr ""
+
+#: lib/contents/ui/JavaScriptDialogSheet.qml:40
+#, kde-format
+msgid "Confirm"
+msgstr ""
+
+#: lib/contents/ui/JavaScriptDialogSheet.qml:80
+#, kde-format
+msgid "Submit"
+msgstr ""
+
+#: lib/contents/ui/JavaScriptDialogSheet.qml:94
+#, kde-format
+msgid "Leave page"
+msgstr ""
+
+#: lib/contents/ui/JavaScriptDialogSheet.qml:134
+#, kde-format
+msgid ""
+"The website asks for confirmation that you want to leave. Unsaved "
+"information might not be saved."
+msgstr ""
+
+#: lib/contents/ui/PermissionQuestion.qml:20
+#, kde-format
+msgid "Do you want to allow the website to access the geo location?"
+msgstr ""
+
+#: lib/contents/ui/PermissionQuestion.qml:23
+#, kde-format
+msgid "Do you want to allow the website to access the microphone?"
+msgstr ""
+
+#: lib/contents/ui/PermissionQuestion.qml:26
+#, kde-format
+msgid "Do you want to allow the website to access the camera?"
+msgstr ""
+
+#: lib/contents/ui/PermissionQuestion.qml:29
+#, kde-format
+msgid ""
+"Do you want to allow the website to access the camera and the microphone?"
+msgstr ""
+
+#: lib/contents/ui/PermissionQuestion.qml:32
+#, kde-format
+msgid "Do you want to allow the website to share your screen?"
+msgstr ""
+
+#: lib/contents/ui/PermissionQuestion.qml:35
+#, kde-format
+msgid "Do you want to allow the website to share the sound output?"
+msgstr ""
+
+#: lib/contents/ui/PermissionQuestion.qml:38
+#, kde-format
+msgid "Do you want to allow the website to send you notifications?"
+msgstr ""
+
+#: lib/contents/ui/PermissionQuestion.qml:57
+#, kde-format
+msgid "Decline"
+msgstr ""
+
+#: lib/contents/ui/WebView.qml:96
+#, kde-format
+msgid "View source"
+msgstr ""
+
+#: lib/contents/ui/WebView.qml:105
+#, kde-format
+msgid "Open in new Tab"
+msgstr ""
+
+#: lib/contents/ui/WebView.qml:193
+#, kde-format
+msgid "Website was opened in a new tab"
+msgstr ""
+
+#: src/contents/ui/AdblockFilterDownloadQuestion.qml:14
+#, kde-format
+msgid ""
+"The ad blocker is missing its filter lists, do you want to download them now?"
+msgstr ""
+
+#: src/contents/ui/AdblockFilterDownloadQuestion.qml:30
+#, kde-format
+msgid "Downloading..."
+msgstr ""
+
+#: src/contents/ui/Bookmarks.qml:16 src/contents/ui/webbrowser.qml:87
+#, kde-format
+msgid "Bookmarks"
+msgstr ""
+
+#: src/contents/ui/Downloads.qml:15 src/contents/ui/webbrowser.qml:99
+#, kde-format
+msgid "Downloads"
+msgstr ""
+
+#: src/contents/ui/Downloads.qml:26
+#, kde-format
+msgid "No running downloads"
+msgstr ""
+
+#: src/contents/ui/Downloads.qml:38
+#, kde-format
+msgid "Pause"
+msgstr ""
+
+#: src/contents/ui/Downloads.qml:44
+#, kde-format
+msgid "Continue"
+msgstr ""
+
+#: src/contents/ui/Downloads.qml:82
+#, kde-format
+msgctxt "download state"
+msgid "Starting…"
+msgstr ""
+
+#: src/contents/ui/Downloads.qml:84
+#, kde-format
+msgid "Completed"
+msgstr ""
+
+#: src/contents/ui/Downloads.qml:86
+#, kde-format
+msgid "Cancelled"
+msgstr ""
+
+#: src/contents/ui/Downloads.qml:88
+#, kde-format
+msgctxt "download state"
+msgid "Interrupted"
+msgstr ""
+
+#: src/contents/ui/FindInPageBar.qml:49
+#, kde-format
+msgid "Search..."
+msgstr ""
+
+#: src/contents/ui/History.qml:16 src/contents/ui/webbrowser.qml:95
+#, kde-format
+msgid "History"
+msgstr ""
+
+#: src/contents/ui/InputSheet.qml:51
+#, kde-format
+msgid "OK"
+msgstr ""
+
+#: src/contents/ui/NewTabQuestion.qml:17
+#, kde-format
+msgid ""
+"Site wants to open a new tab: \n"
+"%1"
+msgstr ""
+
+#: src/contents/ui/NewTabQuestion.qml:25
+#, kde-format
+msgid "Open"
+msgstr ""
+
+#: src/contents/ui/SettingsAdblock.qml:17
+#, kde-format
+msgid "Adblock settings"
+msgstr ""
+
+#: src/contents/ui/SettingsAdblock.qml:38
+#, kde-format
+msgid "The adblock functionality isn't included in this build."
+msgstr ""
+
+#: src/contents/ui/SettingsAdblock.qml:44
+#, kde-format
+msgid "Add filterlist"
+msgstr ""
+
+#: src/contents/ui/SettingsAdblock.qml:49
+#, kde-format
+msgid "Name"
+msgstr ""
+
+#: src/contents/ui/SettingsAdblock.qml:58
+#, kde-format
+msgid "Url"
+msgstr ""
+
+#: src/contents/ui/SettingsAdblock.qml:67
+#, kde-format
+msgid "Add"
+msgstr ""
+
+#: src/contents/ui/SettingsAdblock.qml:110
+#, kde-format
+msgid "Remove this filter list"
+msgstr ""
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:18
+#: src/contents/ui/SettingsPage.qml:77
+#, kde-format
+msgid "Navigation bar"
+msgstr ""
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:37
+#, kde-format
+msgid ""
+"Choose the buttons enabled in navigation bar. Some of the buttons can be "
+"hidden only in portrait orientation of the browser and are always shown if  "
+"the browser is wider than its height.\n"
+"\n"
+" Note that if you disable the menu buttons, you will be able to access the "
+"menus either by swiping from the left or right side or to a side along the "
+"bottom of the window."
+msgstr ""
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:55
+#, kde-format
+msgid "Main menu in portrait"
+msgstr ""
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:69
+#, kde-format
+msgid "Tabs in portrait"
+msgstr ""
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:83
+#, kde-format
+msgid "Context menu in portrait"
+msgstr ""
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:97
+#, kde-format
+msgid "Go back"
+msgstr ""
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:111
+#: src/contents/ui/webbrowser.qml:310
+#, kde-format
+msgid "Go forward"
+msgstr ""
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:125
+#, kde-format
+msgid "Reload/Stop"
+msgstr ""
+
+#: src/contents/ui/SettingsPage.qml:17 src/contents/ui/webbrowser.qml:107
+#, kde-format
+msgid "Settings"
+msgstr ""
+
+#: src/contents/ui/SettingsPage.qml:36
+#, kde-format
+msgid "Enable JavaScript"
+msgstr ""
+
+#: src/contents/ui/SettingsPage.qml:50
+#, kde-format
+msgid "Load images"
+msgstr ""
+
+#: src/contents/ui/SettingsPage.qml:64 src/contents/ui/SettingsSearchEnginePage.qml:18
+#: src/contents/ui/SettingsSearchEnginePage.qml:42
+#, kde-format
+msgid "Search Engine"
+msgstr ""
+
+#: src/contents/ui/SettingsPage.qml:90
+#, kde-format
+msgid "Adblock filter lists"
+msgstr ""
+
+#: src/contents/ui/SettingsPage.qml:103 src/contents/ui/SettingsWebApps.qml:13
+#, kde-format
+msgid "Web Apps"
+msgstr ""
+
+#: src/contents/ui/SettingsSearchEnginePage.qml:37
+#, kde-format
+msgid "Custom"
+msgstr ""
+
+#: src/contents/ui/SettingsSearchEnginePage.qml:43
+#, kde-format
+msgid "Base URL of your preferred search engine"
+msgstr ""
+
+#: src/contents/ui/SettingsWebApps.qml:42
+#, kde-format
+msgid "Remove app"
+msgstr ""
+
+#: src/contents/ui/ShareSheet.qml:22 src/contents/ui/webbrowser.qml:273
+#, kde-format
+msgid "Share page"
+msgstr ""
+
+#: src/contents/ui/Tabs.qml:65
+#, kde-format
+msgid "Private Tabs"
+msgstr ""
+
+#: src/contents/ui/Tabs.qml:65 src/contents/ui/webbrowser.qml:72
+#, kde-format
+msgid "Tabs"
+msgstr ""
+
+#: src/contents/ui/Tabs.qml:70
+#, kde-format
+msgid "New Tab"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:22
+#, kde-format
+msgid "Angelfish Web Browser"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:79
+#, kde-format
+msgid "Leave private mode"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:79
+#, kde-format
+msgid "Private mode"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:118
+#, kde-format
+msgid "Enable Adblock"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:269
+#, kde-format
+msgid "Find in page"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:284
+#, kde-format
+msgid "Add to homescreen"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:294
+#, kde-format
+msgid "Open in app"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:302
+#, kde-format
+msgid "Go previous"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:317
+#, kde-format
+msgid "Stop loading"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:317
+#, kde-format
+msgid "Refresh"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:327
+#, kde-format
+msgid "Bookmarked"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:327
+#, kde-format
+msgid "Bookmark"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:343
+#, kde-format
+msgid "Show desktop site"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:352
+#, kde-format
+msgid "Hide navigation bar"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:352
+#, kde-format
+msgid "Show navigation bar"
+msgstr ""
+
+#: src/main.cpp:65
+#, kde-format
+msgid "URL to open"
+msgstr ""

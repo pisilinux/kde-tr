@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extragear-utils-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-01 07:41+0000\n"
+"POT-Creation-Date: 2020-06-19 00:26+0000\n"
 "PO-Revision-Date: 2014-06-08 13:52+0000\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/extragear-utils-"
@@ -17,6 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: src/kdiff3part.desktop:2
+msgctxt "Name"
+msgid "KDiff3Part"
+msgstr "KDiff3Part"
 
 #: src/org.kde.kdiff3.desktop:2
 msgctxt "Name"
@@ -35,10 +40,6 @@ msgstr "Diff/Patch Arayüzü"
 msgctxt "Comment"
 msgid "A File And Folder Comparison And Merge Tool"
 msgstr "Bir Dosya Ve Dizin Karşılaştırma Ve Birleştirme Aracı"
-
-#~ msgctxt "Name"
-#~ msgid "KDiff3Part"
-#~ msgstr "KDiff3Part"
 
 #~ msgctxt "Name"
 #~ msgid "Compare/Merge Files/Directories with KDiff3"

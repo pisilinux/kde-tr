@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the markdownpart package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: markdownpart\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-26 02:46+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: markdownpart.cpp:102
+#, kde-format
+msgctxt "@action"
+msgid "&Copy Text"
+msgstr ""
+
+#: markdownpart.cpp:253
+#, kde-format
+msgctxt "@action"
+msgid "Open Link"
+msgstr ""
+
+#: markdownpart.cpp:301
+#, kde-format
+msgctxt "@action"
+msgid "&Copy Email Address"
+msgstr ""
+
+#: markdownpart.cpp:314
+#, kde-format
+msgctxt "@action"
+msgid "Copy Link &URL"
+msgstr ""
+
+#: markdownpartfactory.cpp:26
+#, kde-format
+msgid "MarkdownPart"
+msgstr ""
+
+#: markdownpartfactory.cpp:28
+#, kde-format
+msgid "For the rendered display of Markdown files in a webpage-like layout"
+msgstr ""
+
+#: markdownpartfactory.cpp:30
+#, kde-format
+msgid "Copyright 2020 Friedrich W. H. Kossebau"
+msgstr ""
+
+#: markdownpartfactory.cpp:35
+#, kde-format
+msgctxt "@info:credit"
+msgid "Friedrich W. H. Kossebau"
+msgstr ""
+
+#: markdownpartfactory.cpp:36
+#, kde-format
+msgctxt "@info:credit"
+msgid "Author"
+msgstr ""
+
+#. i18n: ectx: Menu (edit)
+#: markdownpartui.rc:5
+#, kde-format
+msgid "&Edit"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: searchtoolbar.ui:42
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Find:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, nextButton)
+#: searchtoolbar.ui:59
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Jump to next match"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, previousButton)
+#: searchtoolbar.ui:72
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Jump to previous match"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, matchCaseCheckButton)
+#: searchtoolbar.ui:85
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Match case sensitive"
+msgstr ""

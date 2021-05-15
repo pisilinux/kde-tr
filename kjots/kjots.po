@@ -1,0 +1,1041 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Adem GUNES <adem@alaeddin.cc.selcuk.edu.tr>, 2000.
+# Bekir SONAT <cortexbs@yahoo.com>, 2005.
+# Engin Çağatay <engincagatay@yahoo.com>, 2004.
+# Görkem Çetin <gorkem@kde.org>, 2003.
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2010.
+# Ömer Fadıl USTA <omer_fad@hotmail.com>, 2002.
+# obsoleteman <tulliana@gmail.com>, 2008-2009.
+# Volkan Gezer <volkangezer@gmail.com>, 2013.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-02-23 02:57+0100\n"
+"PO-Revision-Date: 2017-05-04 14:16+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.4\n"
+"(http: //www.transifex.com/projects/p/kdepim-k-tr/language/tr/)\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Serdar Soytetir, H. İbrahim Güngör, Volkan Gezer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "tulliana@gmail.com, ibrahim@pardus.org.tr, volkangezer@gmail.com"
+
+#: src/aboutdata.cpp:16 src/kjotspart.cpp:34
+#: src/kontact_plugin/kjots_plugin.cpp:46
+#, kde-format
+msgid "KJots"
+msgstr "Kjots"
+
+#: src/aboutdata.cpp:18
+#, kde-format
+msgid "KDE note taking utility"
+msgstr "KDE not alma uygulaması"
+
+#: src/aboutdata.cpp:20
+#, fuzzy, kde-format
+#| msgid "Copyright © 1997–2015 KJots authors"
+msgid "Copyright © 1997–2020 KJots authors"
+msgstr "Telif Hakkı © 1997–2015 KJots yazarları"
+
+#: src/aboutdata.cpp:22
+#, kde-format
+msgid "Igor Poboiko"
+msgstr ""
+
+#: src/aboutdata.cpp:22
+#, kde-format
+msgid "Maintainer"
+msgstr "Projeyi Yürüten"
+
+#: src/aboutdata.cpp:23
+#, kde-format
+msgid "Daniel Vrátil"
+msgstr "Daniel Vrátil"
+
+#: src/aboutdata.cpp:23
+#, kde-format
+msgid "Port to KDE Frameworks 5"
+msgstr ""
+
+#: src/aboutdata.cpp:24
+#, kde-format
+msgid "Stephen Kelly"
+msgstr "Stephen Kelly"
+
+#: src/aboutdata.cpp:25
+#, kde-format
+msgid "Pradeepto K. Bhattacharya"
+msgstr "Pradeepto K. Bhattacharya"
+
+#: src/aboutdata.cpp:26
+#, kde-format
+msgid "Jaison Lee"
+msgstr "Jaison Lee"
+
+#: src/aboutdata.cpp:27
+#, kde-format
+msgid "Aaron J. Seigo"
+msgstr "Aaron J. Seigo"
+
+#: src/aboutdata.cpp:28
+#, kde-format
+msgid "Stanislav Kljuhhin"
+msgstr "Stanislav Kljuhhin"
+
+#: src/aboutdata.cpp:29
+#, kde-format
+msgid "Christoph Neerfeld"
+msgstr "Christoph Neerfeld"
+
+#: src/aboutdata.cpp:29
+#, kde-format
+msgid "Original author"
+msgstr "Asıl yazar"
+
+#: src/aboutdata.cpp:30
+#, kde-format
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, textLabel1)
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, kcfg_AutoSaveInterval)
+#: src/confpagemisc.ui:19 src/confpagemisc.ui:35
+#, kde-format
+msgid ""
+"This is the number of minutes KJots will wait before automatically saving "
+"changes."
+msgstr "Bu KJots'un otomatik olarak kaydetmeden önce bekleyeceği süredir."
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: src/confpagemisc.ui:22
+#, kde-format
+msgid "S&ave every:"
+msgstr "Kay&detme aralığı:"
+
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, kcfg_AutoSaveInterval)
+#: src/confpagemisc.ui:38
+#, kde-format
+msgid "1 minute"
+msgstr "1 dakika"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_AutoSaveInterval)
+#: src/confpagemisc.ui:41
+#, kde-format
+msgid " minutes"
+msgstr "dakika"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_AutoSave)
+#: src/confpagemisc.ui:54
+#, kde-format
+msgid ""
+"When \"Save changes periodically\" is checked, KJots will automatically save "
+"changes made to books at the interval defined below."
+msgstr ""
+"\"Değişiklikleri periyodik olarak kaydet\" seçili olduğunda, KJots aşağıda "
+"belirtilen süre aralıklarında kitaba yapılan değişiklikleri otomatik olarak "
+"kaydeder."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AutoSave)
+#: src/confpagemisc.ui:57
+#, kde-format
+msgid "&Save changes periodically"
+msgstr "Ara &sıra değişiklikleri kaydet"
+
+#. i18n: ectx: label, entry (AutoSave), group (kjots)
+#: src/kjots.kcfg:9
+#, kde-format
+msgid "Whether books should be saved automatically."
+msgstr "Defterler otomatik olarak kaydedilecek."
+
+#. i18n: ectx: label, entry (AutoSaveInterval), group (kjots)
+#: src/kjots.kcfg:13
+#, kde-format
+msgid "The interval in minutes at which books should be saved automatically."
+msgstr ""
+"Defterlerin otomatik olarak kaydedileceği dakika cinsinden zaman aralığı."
+
+#: src/kjotsbrowser.cpp:133
+#, fuzzy, kde-format
+#| msgid "Link Text:"
+msgctxt "@info:action"
+msgid "Speak Text"
+msgstr "Bağlantı Metni:"
+
+#: src/kjotsbrowser.cpp:177
+#, kde-format
+msgctxt "@info:tooltip %1 is hyperlink address"
+msgid "Click to follow the hyperlink: %1"
+msgstr ""
+
+#: src/kjotsbrowser.cpp:181
+#, kde-format
+msgctxt ""
+"@info:tooltip %1 is a full path to note (i.e. Notes / Notebook / Note)"
+msgid "Click to open note: %1"
+msgstr ""
+
+#: src/kjotsbrowser.cpp:183
+#, kde-format
+msgctxt "@info:tooltip %1 is a full path to book (i.e. Notes / Notebook)"
+msgid "Click to open book: %1"
+msgstr ""
+
+#: src/kjotsedit.cpp:94
+#, fuzzy, kde-format
+#| msgid "Copy &into Page Title"
+msgctxt "@action"
+msgid "Copy &Into Page Title"
+msgstr "Sayfa Başlığına &Kopyala"
+
+#: src/kjotsedit.cpp:104
+#, fuzzy, kde-format
+#| msgid "Link"
+msgctxt "@action creates and manages hyperlinks"
+msgid "Link"
+msgstr "Bağlantı Koy"
+
+#: src/kjotsedit.cpp:112
+#, fuzzy, kde-format
+#| msgid "Auto Bullets"
+msgctxt "@action"
+msgid "Auto Bullet List"
+msgstr "Otomatik Madde İmleri"
+
+#: src/kjotsedit.cpp:121
+#, fuzzy, kde-format
+#| msgid "Auto Decimal List"
+msgctxt "@action"
+msgid "Auto Decimal List"
+msgstr "Otomatik Ondalık Liste"
+
+#: src/kjotsedit.cpp:130
+#, fuzzy, kde-format
+#| msgid "Insert Date"
+msgctxt "@action"
+msgid "Insert Date"
+msgstr "Tarih Ekle"
+
+#: src/kjotsedit.cpp:463
+#, kde-format
+msgctxt ""
+"@info:tooltip %1 is a full path to note (i.e. Notes / Notebook / Note)"
+msgid "Ctrl+click to open note: %1"
+msgstr ""
+
+#: src/kjotsedit.cpp:465
+#, kde-format
+msgctxt "@info:tooltip %1 is a full path to book (i.e. Notes / Notebook)"
+msgid "Ctrl+click to open book: %1"
+msgstr ""
+
+#: src/kjotsedit.cpp:468
+#, kde-format
+msgctxt "@info:tooltip %1 is hyperlink address"
+msgid "Ctrl+click to follow the hyperlink: %1"
+msgstr ""
+
+#: src/kjotslinkdialog.cpp:32
+#, kde-format
+msgid "Enter link URL, or another note or note book..."
+msgstr ""
+
+#: src/kjotsmodel.cpp:295
+#, kde-format
+msgctxt "@title:column"
+msgid "Name"
+msgstr ""
+
+#: src/kjotsmodel.cpp:299
+#, kde-format
+msgctxt "@title:column title of a note"
+msgid "Title"
+msgstr ""
+
+#: src/kjotsmodel.cpp:301
+#, kde-format
+msgctxt "@title:column creation date and time of a note"
+msgid "Created"
+msgstr ""
+
+#: src/kjotsmodel.cpp:303
+#, kde-format
+msgctxt "@title:column last modification date and time of a note"
+msgid "Modified"
+msgstr ""
+
+#: src/kjotsmodel.cpp:305
+#, kde-format
+msgctxt "@title:column size of a note"
+msgid "Size"
+msgstr ""
+
+#: src/kjotspart.cpp:47
+#, kde-format
+msgid "&Configure KJots..."
+msgstr "&KJots'u Yapılandır..."
+
+#. i18n: ectx: Menu (format)
+#: src/kjotsui.rc:21
+#, kde-format
+msgid "F&ormat"
+msgstr "&Biçim"
+
+#. i18n: ectx: Menu (view)
+#: src/kjotsui.rc:45
+#, kde-format
+msgid "&View"
+msgstr ""
+
+#. i18n: ectx: Menu (go)
+#: src/kjotsui.rc:51
+#, kde-format
+msgid "&Go"
+msgstr "Gi&t"
+
+#. i18n: ectx: Menu (tools)
+#: src/kjotsui.rc:60
+#, kde-format
+msgid "&Tools"
+msgstr "A&raçlar"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: src/kjotsui.rc:110
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Ana Araç Çubuğu"
+
+#. i18n: ectx: ToolBar (textToolBar)
+#: src/kjotsui.rc:126
+#, kde-format
+msgid "Text Toolbar"
+msgstr "Metin Araç Çubuğu"
+
+#. i18n: ectx: ToolBar (formatToolBar)
+#: src/kjotsui.rc:141
+#, kde-format
+msgid "Format Toolbar"
+msgstr "Biçimlendirme Araç Çubuğu"
+
+#. i18n: ectx: ToolBar (toolsToolBar)
+#: src/kjotsui.rc:156
+#, fuzzy, kde-format
+#| msgid "Text Toolbar"
+msgid "Tools Toolbar"
+msgstr "Metin Araç Çubuğu"
+
+#: src/kjotswidget.cpp:411
+#, kde-format
+msgid "&Bookmarks"
+msgstr "&Yer İmleri"
+
+#: src/kjotswidget.cpp:429
+#, kde-format
+msgid "Export"
+msgstr "Dışarı Aktar"
+
+#: src/kjotswidget.cpp:433
+#, kde-format
+msgid "To Text File..."
+msgstr "Metin Dosyasına..."
+
+#: src/kjotswidget.cpp:441
+#, kde-format
+msgid "To HTML File..."
+msgstr "HTML Dosyasına..."
+
+#: src/kjotswidget.cpp:450
+#, kde-format
+msgid "Next Book"
+msgstr "Sonraki Defter"
+
+#: src/kjotswidget.cpp:461
+#, kde-format
+msgid "Previous Book"
+msgstr "Önceki Defter"
+
+#: src/kjotswidget.cpp:474
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Two Columns"
+msgstr ""
+
+#: src/kjotswidget.cpp:479
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Three Columns"
+msgstr ""
+
+#: src/kjotswidget.cpp:541
+#, kde-format
+msgctxt "@title:window config dialog page"
+msgid "Misc"
+msgstr ""
+
+#: src/kjotswidget.cpp:576
+#, kde-format
+msgctxt "Header for 'Table of contents' section of rendered output"
+msgid "Table of contents"
+msgstr "İçindekiler Tablosu"
+
+#: src/kjotswidget.cpp:601
+#, kde-format
+msgid "<qt>Could not open \"%1\" for writing</qt>"
+msgstr ""
+
+#: src/kjotswidget.cpp:697
+#, fuzzy, kde-format
+#| msgid "Multiple selections"
+msgctxt "@title:window"
+msgid "Multiple selection"
+msgstr "Çoklu seçimler"
+
+#: src/kjotswidget.cpp:715
+#, kde-format
+msgid ""
+"Unable to save the note.\n"
+"You can save your note to a local file using the \"File - Export\" menu,\n"
+"otherwise you will lose your changes!\n"
+"Do you want to close anyways?"
+msgstr ""
+
+#: src/kjotswidget.cpp:719
+#, kde-format
+msgid "Close Document"
+msgstr ""
+
+#: src/kjotswidget.cpp:724
+#, kde-format
+msgid ""
+"Error message:\n"
+"%1"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, LinkDialog)
+#: src/linkdialog.ui:14
+#, kde-format
+msgid "Manage Link"
+msgstr "Bağlantıyı Yönet"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel)
+#: src/linkdialog.ui:29
+#, fuzzy, kde-format
+#| msgid "Link Text:"
+msgid "Link &Text:"
+msgstr "Bağlantı Metni:"
+
+#. i18n: ectx: property (text), widget (QLabel, linkUrlLabel)
+#: src/linkdialog.ui:46
+#, kde-format
+msgid "Link URL:"
+msgstr "Bağlantı Adresi:"
+
+#: src/noteshared/notecreatorandselector.cpp:75
+#, kde-format
+msgctxt "The default name for new pages."
+msgid "New Page"
+msgstr "Yeni Sayfa"
+
+#: src/noteshared/standardnoteactionmanager.cpp:96
+#, fuzzy, kde-format
+#| msgid "New &Book..."
+msgid "New Note Book..."
+msgstr "&Yeni Defter..."
+
+#: src/noteshared/standardnoteactionmanager.cpp:101
+#, kde-format
+msgid "Add a new note book to the currently selected bookshelf."
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:104
+#, fuzzy, kde-format
+#| msgctxt "The default name for new books."
+#| msgid "New Book"
+msgctxt "@title:window"
+msgid "New Note Book"
+msgstr "Yeni Kitap"
+
+#: src/noteshared/standardnoteactionmanager.cpp:108
+#, kde-format
+msgid "Could not create note book: %1"
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:112
+#, fuzzy, kde-format
+#| msgid "Sort children by creation date"
+msgid "Note book creation failed"
+msgstr "Alt ögeleri oluşturma tarihine göre sırala"
+
+#: src/noteshared/standardnoteactionmanager.cpp:118
+#, fuzzy, kde-format
+#| msgctxt "The default name for new books."
+#| msgid "New Book"
+msgid "Copy Note Book"
+msgid_plural "Copy %1 Note Books"
+msgstr[0] "Yeni Kitap"
+msgstr[1] "Yeni Kitap"
+
+#: src/noteshared/standardnoteactionmanager.cpp:121
+#, kde-format
+msgid "Copy the selected note books to the clipboard."
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:125
+#, fuzzy, kde-format
+#| msgid "Delete Boo&k"
+msgid "Delete Note Book"
+msgid_plural "Delete %1 Note Books"
+msgstr[0] "&Kitabı Sil"
+msgstr[1] "&Kitabı Sil"
+
+#: src/noteshared/standardnoteactionmanager.cpp:128
+#, fuzzy, kde-format
+#| msgid "The IDs of the books in the bookshelf."
+msgid "Delete the selected note books from the bookshelf."
+msgstr "Kitaplıktaki defterlerin kimlikleri."
+
+#: src/noteshared/standardnoteactionmanager.cpp:132
+#, fuzzy, kde-format
+#| msgid "Do you really want to delete all selected books and pages?"
+msgid "Do you really want to delete this note book and all its contents?"
+msgid_plural ""
+"Do you really want to delete %1 note books and all their contents?"
+msgstr[0] "Gerçekten seçili tüm kitap ve sayfaları silmek istiyor musunuz?"
+msgstr[1] "Gerçekten seçili tüm kitap ve sayfaları silmek istiyor musunuz?"
+
+#: src/noteshared/standardnoteactionmanager.cpp:136
+#, fuzzy, kde-format
+#| msgid "Delete Boo&k"
+msgctxt "@title:window"
+msgid "Delete note book?"
+msgid_plural "Delete note books?"
+msgstr[0] "&Kitabı Sil"
+msgstr[1] "&Kitabı Sil"
+
+#: src/noteshared/standardnoteactionmanager.cpp:140
+#, kde-format
+msgid "Could not delete note book: %1"
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:144
+#, kde-format
+msgid "Note book deletion failed"
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:148
+#, kde-format
+msgid "Update Note Book"
+msgid_plural "Update %1 Note Books"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:151
+#, kde-format
+msgid "Update the content of the selected note books."
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:155
+#, fuzzy, kde-format
+#| msgctxt "The default name for new books."
+#| msgid "New Book"
+msgid "Cut Note Book"
+msgid_plural "Cut %1 Note Books"
+msgstr[0] "Yeni Kitap"
+msgstr[1] "Yeni Kitap"
+
+#: src/noteshared/standardnoteactionmanager.cpp:158
+#, fuzzy, kde-format
+#| msgid "The IDs of the books in the bookshelf."
+msgid "Cut the selected note books from the bookshelf."
+msgstr "Kitaplıktaki defterlerin kimlikleri."
+
+#: src/noteshared/standardnoteactionmanager.cpp:162
+#, fuzzy, kde-format
+#| msgid "To Book File..."
+msgid "Note Book Properties..."
+msgstr "Defter Dosyasına..."
+
+#: src/noteshared/standardnoteactionmanager.cpp:164
+#, kde-format
+msgid "Open a dialog to edit the properties of the selected note book."
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:167
+#, kde-format
+msgctxt "@title:window"
+msgid "Properties of Note Book %1"
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:172
+#, kde-format
+msgid "Copy Note"
+msgid_plural "Copy %1 Notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:174
+#, kde-format
+msgid "Copy the selected notes to the clipboard."
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:178
+#, fuzzy, kde-format
+#| msgid "Delete"
+msgid "Delete Note"
+msgid_plural "Delete %1 Notes"
+msgstr[0] "Sil"
+msgstr[1] "Sil"
+
+#: src/noteshared/standardnoteactionmanager.cpp:180
+#, kde-format
+msgid "Delete the selected notes from the note book."
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:183
+#, fuzzy, kde-format
+#| msgid "Do you really want to delete all selected books and pages?"
+msgid "Do you really want to delete the selected note?"
+msgid_plural "Do you really want to delete %1 notes?"
+msgstr[0] "Gerçekten seçili tüm kitap ve sayfaları silmek istiyor musunuz?"
+msgstr[1] "Gerçekten seçili tüm kitap ve sayfaları silmek istiyor musunuz?"
+
+#: src/noteshared/standardnoteactionmanager.cpp:188
+#, fuzzy, kde-format
+#| msgid "Delete?"
+msgctxt "@title:window"
+msgid "Delete Note?"
+msgid_plural "Delete Notes?"
+msgstr[0] "Silinsin mi?"
+msgstr[1] "Silinsin mi?"
+
+#: src/noteshared/standardnoteactionmanager.cpp:192
+#, kde-format
+msgid "Could not delete note: %1"
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:196
+#, kde-format
+msgid "Note deletion failed"
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:200
+#, kde-format
+msgid "Cut Note"
+msgid_plural "Cut %1 Notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:202
+#, kde-format
+msgid "Cut the selected notes from the note book."
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:206
+#, fuzzy, kde-format
+#| msgid "New &Book..."
+msgid "Add &Bookshelf..."
+msgstr "&Yeni Defter..."
+
+#: src/noteshared/standardnoteactionmanager.cpp:208
+#, kde-format
+msgid ""
+"Add a new bookshelf<p>You will be presented with a dialog where you can "
+"select the type of the bookshelf that shall be added.</p>"
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:213
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Bookshelf"
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:217
+#, kde-format
+msgid "Could not create bookshelf: %1"
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:221
+#, kde-format
+msgid "Bookshelf creation failed"
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:226
+#, fuzzy, kde-format
+#| msgid "Delete Boo&k"
+msgid "&Delete Bookshelf"
+msgid_plural "&Delete %1 Bookshelfs"
+msgstr[0] "&Kitabı Sil"
+msgstr[1] "&Kitabı Sil"
+
+#: src/noteshared/standardnoteactionmanager.cpp:229
+#, kde-format
+msgid ""
+"Delete the selected bookshelfs<p>The currently selected bookshelfs will be "
+"deleted, along with all the notes they contain.</p>"
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:234
+#, fuzzy, kde-format
+#| msgid "Do you really want to delete all selected books and pages?"
+msgid "Do you really want to delete this bookshelf?"
+msgid_plural "Do you really want to delete %1 bookshelfs?"
+msgstr[0] "Gerçekten seçili tüm kitap ve sayfaları silmek istiyor musunuz?"
+msgstr[1] "Gerçekten seçili tüm kitap ve sayfaları silmek istiyor musunuz?"
+
+#: src/noteshared/standardnoteactionmanager.cpp:239
+#, fuzzy, kde-format
+#| msgid "Delete Boo&k"
+msgctxt "@title:window"
+msgid "Delete Bookshelf?"
+msgid_plural "Delete Bookshelfs?"
+msgstr[0] "&Kitabı Sil"
+msgstr[1] "&Kitabı Sil"
+
+#: src/noteshared/standardnoteactionmanager.cpp:245
+#, kde-format
+msgid "Bookshelf Properties..."
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:247
+#, kde-format
+msgid "Open a dialog to edit properties of the selected bookshelf."
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:251
+#, kde-format
+msgid "Update Bookshelf"
+msgid_plural "Update %1 Bookshelfs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:255
+#, fuzzy, kde-format
+#| msgid "The IDs of the books in the bookshelf."
+msgid "Updates the content of all note books of the selected bookshelfs."
+msgstr "Kitaplıktaki defterlerin kimlikleri."
+
+#: src/noteshared/standardnoteactionmanager.cpp:261
+#, kde-format
+msgid "Could not paste note: %1"
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:265
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@action Paste the text in the clipboard without rich text formatting."
+#| msgid "Paste Plain Text"
+msgid "Paste failed"
+msgstr "Düz Metin Yapıştır"
+
+#: src/noteshared/standardnoteactionmanager.cpp:285
+#, fuzzy, kde-format
+#| msgctxt "Default name for resource holding notes"
+#| msgid "Local Notes"
+msgctxt "@action"
+msgid "Lock Note"
+msgid_plural "Lock Notes"
+msgstr[0] "Yerel Notlar"
+msgstr[1] "Yerel Notlar"
+
+#: src/noteshared/standardnoteactionmanager.cpp:287
+#, fuzzy, kde-format
+#| msgid "Lock Selected"
+msgid "Lock selected notes"
+msgstr "Seçileni Kilitle"
+
+#: src/noteshared/standardnoteactionmanager.cpp:290
+#, fuzzy, kde-format
+#| msgid "Unlock Selected"
+msgctxt "@action"
+msgid "Unlock Note"
+msgid_plural "Unlock Notes"
+msgstr[0] "Seçilenin Kilidini Kaldır"
+msgstr[1] "Seçilenin Kilidini Kaldır"
+
+#: src/noteshared/standardnoteactionmanager.cpp:292
+#, fuzzy, kde-format
+#| msgid "Unlock Selected"
+msgid "Unlock selected notes"
+msgstr "Seçilenin Kilidini Kaldır"
+
+#: src/noteshared/standardnoteactionmanager.cpp:305
+#, fuzzy, kde-format
+#| msgid "Unlock Selected"
+msgctxt "@action"
+msgid "Pin Note"
+msgid_plural "Pin Notes"
+msgstr[0] "Seçilenin Kilidini Kaldır"
+msgstr[1] "Seçilenin Kilidini Kaldır"
+
+#: src/noteshared/standardnoteactionmanager.cpp:307
+#, fuzzy, kde-format
+#| msgid "Unlock Selected"
+msgid "Pin selected notes"
+msgstr "Seçilenin Kilidini Kaldır"
+
+#: src/noteshared/standardnoteactionmanager.cpp:310
+#, fuzzy, kde-format
+#| msgid "Unlock Selected"
+msgctxt "@action"
+msgid "Unpin Note"
+msgid_plural "Unpin Notes"
+msgstr[0] "Seçilenin Kilidini Kaldır"
+msgstr[1] "Seçilenin Kilidini Kaldır"
+
+#: src/noteshared/standardnoteactionmanager.cpp:312
+#, fuzzy, kde-format
+#| msgid "Unlock Selected"
+msgid "Unpin selected notes"
+msgstr "Seçilenin Kilidini Kaldır"
+
+#: src/noteshared/standardnoteactionmanager.cpp:353
+#, fuzzy, kde-format
+#| msgctxt "The default name for new books."
+#| msgid "New Book"
+msgctxt "@action"
+msgid "Lock Note Book"
+msgid_plural "Lock Note Books"
+msgstr[0] "Yeni Kitap"
+msgstr[1] "Yeni Kitap"
+
+#: src/noteshared/standardnoteactionmanager.cpp:355
+#, fuzzy, kde-format
+#| msgid "Delete Boo&k"
+msgid "Lock selected note books"
+msgstr "&Kitabı Sil"
+
+#: src/noteshared/standardnoteactionmanager.cpp:358
+#, fuzzy, kde-format
+#| msgctxt "The default name for new books."
+#| msgid "New Book"
+msgctxt "@action"
+msgid "Unlock Note Book"
+msgid_plural "Unlock Note Books"
+msgstr[0] "Yeni Kitap"
+msgstr[1] "Yeni Kitap"
+
+#: src/noteshared/standardnoteactionmanager.cpp:360
+#, fuzzy, kde-format
+#| msgid "Delete Boo&k"
+msgid "Unlock selected note books"
+msgstr "&Kitabı Sil"
+
+#: src/noteshared/standardnoteactionmanager.cpp:593
+#, fuzzy, kde-format
+#| msgid "&New Page"
+msgid "&New Note"
+msgstr "Ye&ni Sayfa"
+
+#: src/noteshared/standardnoteactionmanager.cpp:594
+#, kde-format
+msgid "Add a new note to a selected note book"
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:623
+#, fuzzy, kde-format
+#| msgid "Change Color..."
+msgid "Change Note Color..."
+msgstr "Rengi Değiştir..."
+
+#: src/noteshared/standardnoteactionmanager.cpp:624
+#, kde-format
+msgid "Changes the color of a selected notes"
+msgstr ""
+
+#: src/noteshared/standardnoteactionmanager.cpp:632
+#, fuzzy, kde-format
+#| msgid "Change Color..."
+msgid "Change Note Book Color..."
+msgstr "Rengi Değiştir..."
+
+#: src/noteshared/standardnoteactionmanager.cpp:633
+#, kde-format
+msgid "Changes the color of a selected note books"
+msgstr ""
+
+#~ msgid "How the main window is divided."
+#~ msgstr "Ana pencerenin nasıl bölündüğü."
+
+#~ msgid "Sort children alphabetically"
+#~ msgstr "Alt ögeleri alfabetik sırala"
+
+#~ msgid "Sort children by creation date"
+#~ msgstr "Alt ögeleri oluşturma tarihine göre sırala"
+
+#~ msgid "&Settings"
+#~ msgstr "&Ayarlar"
+
+#~ msgid "Replace"
+#~ msgstr "Değiştir"
+
+#~ msgid "&All"
+#~ msgstr "&Tümü"
+
+#~ msgid "&Skip"
+#~ msgstr "&Atla"
+
+#~ msgid "Replace '%1' with '%2'?"
+#~ msgstr "'%1' '%2' ögesinin üzerine yazılsın mı?"
+
+#~ msgid "Insert Image"
+#~ msgstr "Resim Ekle"
+
+#~ msgid "Insert Checkmark"
+#~ msgstr "Kontrol İşareti Ekle"
+
+#~ msgctxt ""
+#~ "@action Paste the text in the clipboard without rich text formatting."
+#~ msgid "Paste Plain Text"
+#~ msgstr "Düz Metin Yapıştır"
+
+#~ msgid "Search all pages"
+#~ msgstr "Tüm sayfaları ara"
+
+#~ msgid "<qt>No matches found.</qt>"
+#~ msgstr "<qt>Eşleşme bulunamadı.</qt>"
+
+#~ msgid "<qt>Replaced 1 occurrence.</qt>"
+#~ msgid_plural "<qt>Replaced %1 occurrences.</qt>"
+#~ msgstr[0] "<qt>Bulunan %1 sonuç değiştirildi.</qt>"
+#~ msgstr[1] "<qt>Bulunan %1 sonuç değiştirildi.</qt>"
+
+#~ msgid "<qt>Replaced %2 of 1 occurrence.</qt>"
+#~ msgid_plural "<qt>Replaced %2 of %1 occurrences.</qt>"
+#~ msgstr[0] "<qt>Bulunan %2 sonucun %1 tanesi değiştirildi.</qt>"
+#~ msgstr[1] "<qt>Bulunan %2 sonucun %1 tanesi değiştirildi.</qt>"
+
+#~ msgid ""
+#~ "<qt>End of search area reached. Do you want to wrap around and continue?</"
+#~ "qt>"
+#~ msgstr ""
+#~ "<qt>Arama alanının sonuna gelindi. Baştan devam etmek ister misiniz?</qt>"
+
+#~ msgctxt "The default name for new books."
+#~ msgid "New Book"
+#~ msgstr "Yeni Kitap"
+
+#~ msgid "Path to maildir"
+#~ msgstr "Maildir yolu"
+
+#~ msgid ""
+#~ "Path points to a folder containing Maildirs instead of to a maildir "
+#~ "itself."
+#~ msgstr "Konum maildir yerine Maildir'leri içeren klasörü işaret ediyor."
+
+#~ msgid "Do not change the actual backend data."
+#~ msgstr "Güncel arka uç verilerini değiştirme."
+
+#~ msgid "Select image file"
+#~ msgstr "Resim dosyasını seç"
+
+#~ msgid "The book or page that is currently active."
+#~ msgstr "Defter veya sayfa zaten açık."
+
+#~ msgid "The font used to display the contents of books."
+#~ msgstr "Defterlerin içeriğini göstermekte kullanılan yazı tipi."
+
+#~ msgid "Whether UTF-8 encoding should be forced for saving and loading."
+#~ msgstr "Kaydetme ve yükleme için UTF-8 şifrelemeye zorlanacak."
+
+#~ msgid "The last ID that was used for a book or page."
+#~ msgstr "Defter veya sayfa için kullanılan son kimlik."
+
+#~ msgid "The IDs of the books in the bookshelf."
+#~ msgstr "Kitaplıktaki defterlerin kimlikleri."
+
+#~ msgid "Ask for a name when creating a new page?"
+#~ msgstr "Yeni sayfa oluşturulurken ismi sorulsun mu?"
+
+#~ msgid "To Book File..."
+#~ msgstr "Defter Dosyasına..."
+
+#~ msgid "Settings"
+#~ msgstr "Ayarlar"
+
+#~ msgid "Change Theme"
+#~ msgstr "Temayı Değiştir"
+
+#~ msgid "<qt>Error opening internal file.</qt>"
+#~ msgstr "<qt>İç dosya açma hatası.</qt>"
+
+#~ msgid "&Delete Page"
+#~ msgstr "S&ayfayı Sil"
+
+#~ msgid "Delete Selected"
+#~ msgstr "Seçileni Sil"
+
+#~ msgid "Copy Link Address"
+#~ msgstr "Bağlantı Adresini Kopyala"
+
+#~ msgid ""
+#~ "This page is locked. You can only delete it when you first unlock it."
+#~ msgstr ""
+#~ "Bu sayfa kilitli. Silmek için ilk olarak kilidini kaldırmanız gereklidir."
+
+#~ msgid "Item is locked"
+#~ msgstr "Öge kilitli"
+
+#~ msgctxt "remove the page, by title"
+#~ msgid ""
+#~ "<qt>Are you sure you want to delete the page <strong>%1</strong>?</qt>"
+#~ msgstr ""
+#~ "<qt><strong>%1</strong> sayfasını silmek istediğinizden emin misiniz?</qt>"
+
+#~ msgid ""
+#~ "This book is locked. You can only delete it when you first unlock it."
+#~ msgstr ""
+#~ "Bu kitap kilitli. Silmek için ilk olarak kilidini kaldırmanız gereklidir."
+
+#~ msgctxt "remove the book, by title"
+#~ msgid ""
+#~ "<qt>Are you sure you want to delete the book <strong>%1</strong>?</qt>"
+#~ msgstr ""
+#~ "<qt><strong>%1</strong> adlı defteri silmek istediğinizden emin misiniz?</"
+#~ "qt>"
+
+#~ msgid "Rename..."
+#~ msgstr "Yeniden İsimlendir..."
+
+#~ msgid "Rename Page"
+#~ msgstr "Sayfayı Yeniden Adlandır"
+
+#~ msgid "Page title:"
+#~ msgstr "Sayfa başlığı:"
+
+#~ msgid "Rename Book"
+#~ msgstr "Kitabı Yeniden İsimlendir"
+
+#~ msgid "Book name:"
+#~ msgstr "Defter adı:"
+
+#~ msgid "Next Page"
+#~ msgstr "Sonraki Sayfa"
+
+#~ msgid "Previous Page"
+#~ msgstr "Önceki Sayfa"
+
+#~ msgid "Manual Save"
+#~ msgstr "Elle Kaydet"
+
+#~ msgid "Send To Printer"
+#~ msgstr "Yazıcıya Gönder"
+
+#~ msgctxt "Name for the top level book created to hold the imported data."
+#~ msgid "KNowIt Import"
+#~ msgstr "KNowIt İçeriye Aktar"

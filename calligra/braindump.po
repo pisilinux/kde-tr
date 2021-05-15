@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calligra-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-31 02:40+0200\n"
+"POT-Creation-Date: 2021-04-25 00:18+0000\n"
 "PO-Revision-Date: 2017-05-03 18:54+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -239,22 +239,22 @@ msgstr "Beyaz tahtayı üste taşı"
 msgid "Delete the whiteboard"
 msgstr "Beyaz tahtayı sil"
 
-#: src/import/DockerManager_p.h:64
+#: src/import/DockerManager_p.h:51
 #, kde-format
 msgid "Tool Bars"
 msgstr "Araç Çubukları"
 
-#: src/import/ToolDocker.cpp:44
+#: src/import/ToolDocker.cpp:31
 #, kde-format
 msgid "Tool Options"
 msgstr "Araç Seçenekleri"
 
-#: src/import/ToolDocker.cpp:83
+#: src/import/ToolDocker.cpp:70
 #, kde-format
 msgid "Toggles showing a title bar"
 msgstr "Başlık çubuğu gösterimini açar, kapatır"
 
-#: src/import/ToolDocker.cpp:91
+#: src/import/ToolDocker.cpp:78
 #, kde-format
 msgid "Toggles organising the options in tabs or not"
 msgstr "Seçenekleri sekmeler halinde düzenlemeyi açıp kapar"

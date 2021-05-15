@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libakonadi\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-28 13:54+0000\n"
+"POT-Creation-Date: 2021-04-23 00:19+0000\n"
 "PO-Revision-Date: 2017-06-05 12:48+0000\n"
 "Last-Translator: Mesutcan <mesutcank@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -43,121 +43,121 @@ msgstr ""
 msgid "Accounts integration is not supported"
 msgstr ""
 
-#: agentbase/agentbase.cpp:356 agentbase/preprocessorbase_p.cpp:26
+#: agentbase/agentbase.cpp:359 agentbase/preprocessorbase_p.cpp:26
 #, kde-format
 msgid "Unable to register object at dbus: %1"
 msgstr "Nesne dbus'ta kaydedilemedi: %1"
 
-#: agentbase/agentbase.cpp:445
+#: agentbase/agentbase.cpp:448
 #, kde-format
 msgctxt "Name and type of Akonadi resource"
 msgid "%1 of type %2"
 msgstr "%2 tipindeki %1"
 
-#: agentbase/agentbase.cpp:894
+#: agentbase/agentbase.cpp:897
 #, kde-format
 msgid "Agent identifier"
 msgstr "Temsilci tanımlayıcı"
 
-#: agentbase/agentbase.cpp:900
+#: agentbase/agentbase.cpp:903
 #, kde-format
 msgid "Akonadi Agent"
 msgstr "Akonadi Aracı"
 
-#: agentbase/agentbase_p.h:50 agentbase/resourcescheduler.cpp:281
+#: agentbase/agentbase_p.h:49 agentbase/resourcescheduler.cpp:281
 #, kde-format
 msgctxt "@info:status Application ready for work"
 msgid "Ready"
 msgstr "Hazır"
 
-#: agentbase/agentbase_p.h:52
+#: agentbase/agentbase_p.h:51
 #, kde-format
 msgctxt "@info:status"
 msgid "Offline"
 msgstr "Çevrimdışı"
 
-#: agentbase/agentbase_p.h:57
+#: agentbase/agentbase_p.h:56
 #, kde-format
 msgctxt "@info:status"
 msgid "Syncing..."
 msgstr "Eşzamanlanıyor..."
 
-#: agentbase/agentbase_p.h:62
+#: agentbase/agentbase_p.h:61
 #, kde-format
 msgctxt "@info:status"
 msgid "Error."
 msgstr "Hata."
 
-#: agentbase/agentbase_p.h:67
+#: agentbase/agentbase_p.h:66
 #, kde-format
 msgctxt "@info:status"
 msgid "Not configured"
 msgstr "Yapılandırılmamış"
 
-#: agentbase/resourcebase.cpp:533
+#: agentbase/resourcebase.cpp:525
 #, kde-format
 msgctxt "@label command line option"
 msgid "Resource identifier"
 msgstr "Kaynak tanımlayıcı"
 
-#: agentbase/resourcebase.cpp:539
+#: agentbase/resourcebase.cpp:531
 #, kde-format
 msgid "Akonadi Resource"
 msgstr "Akonadi Kaynağı"
 
-#: agentbase/resourcebase.cpp:587
+#: agentbase/resourcebase.cpp:579
 #, kde-format
 msgctxt "@info"
 msgid "Invalid item retrieved"
 msgstr "Geçersiz öge alındı"
 
-#: agentbase/resourcebase.cpp:610
+#: agentbase/resourcebase.cpp:602
 #, kde-format
 msgctxt "@info"
 msgid "Error while creating item: %1"
 msgstr "Öge oluştururken hata: %1"
 
-#: agentbase/resourcebase.cpp:634
+#: agentbase/resourcebase.cpp:626
 #, kde-format
 msgctxt "@info"
 msgid "Error while updating collection: %1"
 msgstr "Yerel koleksiyon güncellenirken hata: %1"
 
-#: agentbase/resourcebase.cpp:721
+#: agentbase/resourcebase.cpp:713
 #, kde-format
 msgctxt "@info"
 msgid "Updating local collection failed: %1."
 msgstr "Yerel koleksiyon güncellenemedi: %1."
 
-#: agentbase/resourcebase.cpp:726
+#: agentbase/resourcebase.cpp:718
 #, kde-format
 msgctxt "@info"
 msgid "Updating local items failed: %1."
 msgstr "Yerel ögeler güncellenemedi: %1."
 
-#: agentbase/resourcebase.cpp:745
+#: agentbase/resourcebase.cpp:737
 #, kde-format
 msgctxt "@info"
 msgid "Cannot fetch item in offline mode."
 msgstr "Çevrimdışı kipte ögeler alınamaz."
 
-#: agentbase/resourcebase.cpp:945
+#: agentbase/resourcebase.cpp:916
 #, kde-format
 msgctxt "@info:status"
 msgid "Syncing folder '%1'"
 msgstr "'%1' dizini eşzamanlanıyor"
 
-#: agentbase/resourcebase.cpp:965 agentbase/resourcebase.cpp:972
+#: agentbase/resourcebase.cpp:936 agentbase/resourcebase.cpp:943
 #, kde-format
 msgid "Failed to retrieve collection for sync."
 msgstr "Eşleme için koleksiyon alınamadı."
 
-#: agentbase/resourcebase.cpp:1012
+#: agentbase/resourcebase.cpp:983
 #, kde-format
 msgid "Failed to retrieve collection for attribute sync."
 msgstr "Öznitelik eşlemesi için koleksiyon alınamadı."
 
-#: agentbase/resourcebase.cpp:1066
+#: agentbase/resourcebase.cpp:1037
 #, kde-format
 msgid "The requested item no longer exists"
 msgstr "İstenilen öge artık yok"
@@ -261,7 +261,7 @@ msgid "No objects specified for moving"
 msgstr "Taşımak için bir öge belirtilmedi"
 
 #: core/jobs/collectionmovejob.cpp:59 core/jobs/itemmovejob.cpp:97
-#: core/jobs/linkjobimpl_p.h:39
+#: core/jobs/linkjobimpl_p.h:38
 #, kde-format
 msgid "No valid destination specified"
 msgstr "Geçerli bir hedef belirtilmedi"
@@ -541,7 +541,7 @@ msgstr "İsimsiz eklenti"
 msgid "No description available"
 msgstr "Açıklama yok"
 
-#: core/servermanager.cpp:264
+#: core/servermanager.cpp:268
 #, kde-format
 msgid ""
 "The Akonadi server protocol version differs from the protocol version used "
@@ -554,7 +554,7 @@ msgstr ""
 "Sisteminizi yeni güncellediyseniz, tüm uygulamaların doğru protokol sürümünü "
 "kullandığından emin olmak için, çıkış yapıp tekrar giriş yapın."
 
-#: core/servermanager.cpp:281
+#: core/servermanager.cpp:285
 #, kde-format
 msgid ""
 "There are no Akonadi Agents available. Please verify your KDE PIM "
@@ -773,7 +773,7 @@ msgstr "Ye&ni Alt Dizin..."
 msgid "Create a new subfolder under the currently selected folder"
 msgstr "Seçili dizinin altına yeni bir alt dizin oluştur"
 
-#: widgets/collectiondialog.cpp:262 widgets/standardactionmanager.cpp:359
+#: widgets/collectiondialog.cpp:262 widgets/standardactionmanager.cpp:360
 #, kde-format
 msgctxt "@title:window"
 msgid "New Folder"
@@ -785,12 +785,12 @@ msgctxt "@label:textbox, name of a thing"
 msgid "Name"
 msgstr "İsim"
 
-#: widgets/collectiondialog.cpp:283 widgets/standardactionmanager.cpp:361
+#: widgets/collectiondialog.cpp:283 widgets/standardactionmanager.cpp:362
 #, kde-format
 msgid "Could not create folder: %1"
 msgstr "Dizin oluşturulamadı: %1"
 
-#: widgets/collectiondialog.cpp:283 widgets/standardactionmanager.cpp:362
+#: widgets/collectiondialog.cpp:283 widgets/standardactionmanager.cpp:363
 #, kde-format
 msgid "Folder creation failed"
 msgstr "Dizin oluşturma işlemi başarısız oldu"
@@ -1194,7 +1194,7 @@ msgstr "K&aldır"
 msgid "Restart"
 msgstr "Yeniden Başlat"
 
-#: widgets/recentcollectionaction.cpp:31
+#: widgets/recentcollectionaction.cpp:43
 #, kde-format
 msgid "Recent Folder"
 msgstr "Yakın Zamandaki Klasör"
@@ -1215,24 +1215,24 @@ msgstr "Yer İmini Yeniden Adlandır"
 msgid "Name:"
 msgstr "İsim:"
 
-#: widgets/selftestdialog.cpp:53
+#: widgets/selftestdialog.cpp:60
 #, fuzzy, kde-format
 #| msgid "Akonadi Server Self-Test"
 msgctxt "@title:window"
 msgid "Akonadi Server Self-Test"
 msgstr "Akonadi Sunucusu Kendi Kendine Denetim"
 
-#: widgets/selftestdialog.cpp:64
+#: widgets/selftestdialog.cpp:71
 #, kde-format
 msgid "Save Report..."
 msgstr "Raporu Kaydet..."
 
-#: widgets/selftestdialog.cpp:66
+#: widgets/selftestdialog.cpp:73
 #, kde-format
 msgid "Copy Report to Clipboard"
 msgstr "Raporu Panoya Kopyala"
 
-#: widgets/selftestdialog.cpp:182
+#: widgets/selftestdialog.cpp:189
 #, kde-format
 msgid ""
 "The QtSQL driver '%1' is required by your current Akonadi server "
@@ -1241,7 +1241,7 @@ msgstr ""
 "QtSQL sürücüsü '%1' geçerli Akonadi sunucu yapılandırması için gerekiyor "
 "ancak sisteminizde bulunamadı."
 
-#: widgets/selftestdialog.cpp:184
+#: widgets/selftestdialog.cpp:191
 #, kde-format
 msgid ""
 "The QtSQL driver '%1' is required by your current Akonadi server "
@@ -1253,28 +1253,28 @@ msgstr ""
 "Şu sürücüler yüklü: %2.\n"
 "Gerekli sürücünün yüklü olduğundan emin olun."
 
-#: widgets/selftestdialog.cpp:191
+#: widgets/selftestdialog.cpp:198
 #, kde-format
 msgid "Database driver found."
 msgstr "Veritabanı sürücüsü bulundu."
 
-#: widgets/selftestdialog.cpp:193
+#: widgets/selftestdialog.cpp:200
 #, kde-format
 msgid "Database driver not found."
 msgstr "Veritabanı sürücüsü bulunamadı."
 
-#: widgets/selftestdialog.cpp:201
+#: widgets/selftestdialog.cpp:208
 #, kde-format
 msgid "MySQL server executable not tested."
 msgstr "MySQL sunucusu çalıştırılabilir dosyası denenmedi."
 
-#: widgets/selftestdialog.cpp:201 widgets/selftestdialog.cpp:242
-#: widgets/selftestdialog.cpp:293
+#: widgets/selftestdialog.cpp:208 widgets/selftestdialog.cpp:249
+#: widgets/selftestdialog.cpp:300
 #, kde-format
 msgid "The current configuration does not require an internal MySQL server."
 msgstr "Geçerli yapılandırma bir iç MySQL sunucu gerektirmiyor."
 
-#: widgets/selftestdialog.cpp:209
+#: widgets/selftestdialog.cpp:216
 #, kde-format
 msgid ""
 "You have currently configured Akonadi to use the MySQL server '%1'.\n"
@@ -1290,63 +1290,63 @@ msgstr ""
 "'mysqld' olarak adlandırılmıştır; konumu dağıtıma göre değişiklik "
 "göstermektedir."
 
-#: widgets/selftestdialog.cpp:217
+#: widgets/selftestdialog.cpp:224
 #, kde-format
 msgid "MySQL server not found."
 msgstr "MySQL sunucusu bulunamadı."
 
-#: widgets/selftestdialog.cpp:219
+#: widgets/selftestdialog.cpp:226
 #, kde-format
 msgid "MySQL server not readable."
 msgstr "MySQL sunucusu okunabilir değil."
 
-#: widgets/selftestdialog.cpp:221
+#: widgets/selftestdialog.cpp:228
 #, kde-format
 msgid "MySQL server not executable."
 msgstr "MySQL sunucusu çalıştırılabilir değil."
 
-#: widgets/selftestdialog.cpp:223
+#: widgets/selftestdialog.cpp:230
 #, kde-format
 msgid "MySQL found with unexpected name."
 msgstr "MySQL beklenmeyen bir isimle bulundu."
 
-#: widgets/selftestdialog.cpp:225
+#: widgets/selftestdialog.cpp:232
 #, kde-format
 msgid "MySQL server found."
 msgstr "MySQL sunucusu bulundu."
 
-#: widgets/selftestdialog.cpp:231
+#: widgets/selftestdialog.cpp:238
 #, kde-format
 msgid "MySQL server found: %1"
 msgstr "MySQL sunucusu bulundu: %1"
 
-#: widgets/selftestdialog.cpp:232
+#: widgets/selftestdialog.cpp:239
 #, kde-format
 msgid "MySQL server is executable."
 msgstr "MySQL sunucusu çalıştırılabilir durumda."
 
-#: widgets/selftestdialog.cpp:234
+#: widgets/selftestdialog.cpp:241
 #, kde-format
 msgid ""
 "Executing the MySQL server '%1' failed with the following error message: '%2'"
 msgstr "'%1' MySQL sunucusu şu hata iletisini vererek başarısız oldu: '%2'"
 
-#: widgets/selftestdialog.cpp:235
+#: widgets/selftestdialog.cpp:242
 #, kde-format
 msgid "Executing the MySQL server failed."
 msgstr "MySQL sunucusunu çalıştırma işlemi başarısız oldu."
 
-#: widgets/selftestdialog.cpp:242
+#: widgets/selftestdialog.cpp:249
 #, kde-format
 msgid "MySQL server error log not tested."
 msgstr "MySQL sunucusunun hata günlük kaydı denenmedi."
 
-#: widgets/selftestdialog.cpp:250
+#: widgets/selftestdialog.cpp:257
 #, kde-format
 msgid "No current MySQL error log found."
 msgstr "Geçerli MySQL hata günlük kaydı bulunamadı."
 
-#: widgets/selftestdialog.cpp:251
+#: widgets/selftestdialog.cpp:258
 #, kde-format
 msgid ""
 "The MySQL server did not report any errors during this startup. The log can "
@@ -1355,57 +1355,57 @@ msgstr ""
 "MySQL sunucusu bu başlangıçta bir hata bildirmedi. Günlük '%1' içerisinde "
 "bulunabilir."
 
-#: widgets/selftestdialog.cpp:257
+#: widgets/selftestdialog.cpp:264
 #, kde-format
 msgid "MySQL error log not readable."
 msgstr "MySQL sunucusu hata günlük kaydı okunabilir değil."
 
-#: widgets/selftestdialog.cpp:258
+#: widgets/selftestdialog.cpp:265
 #, kde-format
 msgid "A MySQL server error log file was found but is not readable: %1"
 msgstr "Bir MySQL sunucusu hata kaydı bulundu ancak okunabilir değil: %1"
 
-#: widgets/selftestdialog.cpp:267
+#: widgets/selftestdialog.cpp:274
 #, kde-format
 msgid "MySQL server log contains errors."
 msgstr "MySQL sunucu hata günlük kaydı hatalar içeriyor."
 
-#: widgets/selftestdialog.cpp:268
+#: widgets/selftestdialog.cpp:275
 #, kde-format
 msgid "The MySQL server error log file '%1' contains errors."
 msgstr "MySQL sunucu hata günlük kaydı dosyası '%1' hatalar içeriyor."
 
-#: widgets/selftestdialog.cpp:278
+#: widgets/selftestdialog.cpp:285
 #, kde-format
 msgid "MySQL server log contains warnings."
 msgstr "MySQL sunucusu günlük kaydı içerisinde uyarılar var."
 
-#: widgets/selftestdialog.cpp:279
+#: widgets/selftestdialog.cpp:286
 #, kde-format
 msgid "The MySQL server log file '%1' contains warnings."
 msgstr "MySQL sunucusu günlük kaydı '%1' içerisinde uyarılar var."
 
-#: widgets/selftestdialog.cpp:282
+#: widgets/selftestdialog.cpp:289
 #, kde-format
 msgid "MySQL server log contains no errors."
 msgstr "MySQL sunucusu günlük kaydı hiç hata içermiyor."
 
-#: widgets/selftestdialog.cpp:283
+#: widgets/selftestdialog.cpp:290
 #, kde-format
 msgid "The MySQL server log file '%1' does not contain any errors or warnings."
 msgstr "MySQL sunucusu günlük kaydı '%1' hiç hata ya da uyarı içermiyor."
 
-#: widgets/selftestdialog.cpp:293
+#: widgets/selftestdialog.cpp:300
 #, kde-format
 msgid "MySQL server configuration not tested."
 msgstr "MySQL sunucu yapılandırması denenmedi."
 
-#: widgets/selftestdialog.cpp:302
+#: widgets/selftestdialog.cpp:309
 #, kde-format
 msgid "MySQL server default configuration found."
 msgstr "MySQL sunucunun öntanımlı yapılandırması bulundu."
 
-#: widgets/selftestdialog.cpp:303
+#: widgets/selftestdialog.cpp:310
 #, kde-format
 msgid ""
 "The default configuration for the MySQL server was found and is readable at "
@@ -1414,12 +1414,12 @@ msgstr ""
 "MySQL öntanımlı sunucu yapılandırması %1 konumunda bulundu ve okunabilir "
 "durumda."
 
-#: widgets/selftestdialog.cpp:307
+#: widgets/selftestdialog.cpp:314
 #, kde-format
 msgid "MySQL server default configuration not found."
 msgstr "MySQL sunucunun öntanımlı yapılandırması bulunamadı."
 
-#: widgets/selftestdialog.cpp:308
+#: widgets/selftestdialog.cpp:315
 #, kde-format
 msgid ""
 "The default configuration for the MySQL server was not found or was not "
@@ -1430,35 +1430,35 @@ msgstr ""
 "Akonadi kurulumunuzun eksiksiz olduğunu ve tüm gerekli erişim haklarına "
 "sahip olduğunuzu kontrol edin."
 
-#: widgets/selftestdialog.cpp:316
+#: widgets/selftestdialog.cpp:323
 #, kde-format
 msgid "MySQL server custom configuration not available."
 msgstr "MySQL sunucunun özel yapılandırması yok."
 
-#: widgets/selftestdialog.cpp:317
+#: widgets/selftestdialog.cpp:324
 #, kde-format
 msgid ""
 "The custom configuration for the MySQL server was not found but is optional."
 msgstr "MySQL sunucunun özel yapılandırması bulunamadı ancak isteğe bağlıdır."
 
-#: widgets/selftestdialog.cpp:320
+#: widgets/selftestdialog.cpp:327
 #, kde-format
 msgid "MySQL server custom configuration found."
 msgstr "MySQL sunucunun özel yapılandırması bulundu."
 
-#: widgets/selftestdialog.cpp:321
+#: widgets/selftestdialog.cpp:328
 #, kde-format
 msgid ""
 "The custom configuration for the MySQL server was found and is readable at %1"
 msgstr ""
 "MySQL sunucusunun özel yapılandırması bulundu ve %1 konumunda okunabilir."
 
-#: widgets/selftestdialog.cpp:325
+#: widgets/selftestdialog.cpp:332
 #, kde-format
 msgid "MySQL server custom configuration not readable."
 msgstr "MySQL sunucunun özel yapılandırması okunabilir değil."
 
-#: widgets/selftestdialog.cpp:326
+#: widgets/selftestdialog.cpp:333
 #, kde-format
 msgid ""
 "The custom configuration for the MySQL server was found at %1 but is not "
@@ -1467,48 +1467,48 @@ msgstr ""
 "MySQL sunucusunun özel yapılandırması %1 konumunda bulundu ancak okunabilir "
 "değil. Erişim haklarınızı kontrol edin."
 
-#: widgets/selftestdialog.cpp:335
+#: widgets/selftestdialog.cpp:342
 #, kde-format
 msgid "MySQL server configuration not found or not readable."
 msgstr "MySQL sunucunun yapılandırması bulunamadı ya da okunabilir değil."
 
-#: widgets/selftestdialog.cpp:336
+#: widgets/selftestdialog.cpp:343
 #, kde-format
 msgid "The MySQL server configuration was not found or is not readable."
 msgstr "MySQL sunucunun yapılandırması bulunamadı ya da okunabilir değil."
 
-#: widgets/selftestdialog.cpp:339
+#: widgets/selftestdialog.cpp:346
 #, kde-format
 msgid "MySQL server configuration is usable."
 msgstr "MySQL sunucunun yapılandırması kullanılabilir durumda."
 
-#: widgets/selftestdialog.cpp:340
+#: widgets/selftestdialog.cpp:347
 #, kde-format
 msgid "The MySQL server configuration was found at %1 and is readable."
 msgstr ""
 "MySQL sunucu yapılandırması %1 konumunda bulundu ve kullanılabilir durumda."
 
-#: widgets/selftestdialog.cpp:369
+#: widgets/selftestdialog.cpp:376
 #, kde-format
 msgid "Cannot connect to PostgreSQL server."
 msgstr "PostgreSQL sunucusuna bağlanılamadı."
 
-#: widgets/selftestdialog.cpp:371
+#: widgets/selftestdialog.cpp:378
 #, kde-format
 msgid "PostgreSQL server found."
 msgstr "PostgreSQL sunucusu bulundu."
 
-#: widgets/selftestdialog.cpp:371
+#: widgets/selftestdialog.cpp:378
 #, kde-format
 msgid "The PostgreSQL server was found and connection is working."
 msgstr "PostgreSQL sunucusu bulundu ve bağlantı çalışıyor."
 
-#: widgets/selftestdialog.cpp:381
+#: widgets/selftestdialog.cpp:388
 #, kde-format
 msgid "akonadictl not found"
 msgstr "akonadictl bulunamadı"
 
-#: widgets/selftestdialog.cpp:382
+#: widgets/selftestdialog.cpp:389
 #, kde-format
 msgid ""
 "The program 'akonadictl' needs to be accessible in $PATH. Make sure you have "
@@ -1517,12 +1517,12 @@ msgstr ""
 "'akonadictl' uygulamasının $PATH içerisinden erişilebilir olması gerekiyor. "
 "Akonadi sunucusunu yüklediğinizden emin olun."
 
-#: widgets/selftestdialog.cpp:389
+#: widgets/selftestdialog.cpp:396
 #, kde-format
 msgid "akonadictl found and usable"
 msgstr "akonadictl bulundu ve kullanılabilir durumda"
 
-#: widgets/selftestdialog.cpp:390
+#: widgets/selftestdialog.cpp:397
 #, kde-format
 msgid ""
 "The program '%1' to control the Akonadi server was found and could be "
@@ -1535,12 +1535,12 @@ msgstr ""
 "Sonuç:\n"
 "%2"
 
-#: widgets/selftestdialog.cpp:396
+#: widgets/selftestdialog.cpp:403
 #, kde-format
 msgid "akonadictl found but not usable"
 msgstr "akonadictl bulundu ama kullanılabilir durumda değil"
 
-#: widgets/selftestdialog.cpp:397
+#: widgets/selftestdialog.cpp:404
 #, kde-format
 msgid ""
 "The program '%1' to control the Akonadi server was found but could not be "
@@ -1555,12 +1555,12 @@ msgstr ""
 "%2\n"
 "Akonadi sunucusunun doğru bir şekilde kurulduğundan emin olun."
 
-#: widgets/selftestdialog.cpp:409
+#: widgets/selftestdialog.cpp:416
 #, kde-format
 msgid "Akonadi control process registered at D-Bus."
 msgstr "Akonadi denetim süreci D-Bus'a kaydedildi."
 
-#: widgets/selftestdialog.cpp:410
+#: widgets/selftestdialog.cpp:417
 #, kde-format
 msgid ""
 "The Akonadi control process is registered at D-Bus which typically indicates "
@@ -1569,12 +1569,12 @@ msgstr ""
 "Akonadi kontrol süreci, sıklıkla kontrol sürecinin işlevsel olduğunu "
 "bildiren D-Bus'a kayıtlıdır."
 
-#: widgets/selftestdialog.cpp:413
+#: widgets/selftestdialog.cpp:420
 #, kde-format
 msgid "Akonadi control process not registered at D-Bus."
 msgstr "Akonadi denetim süreci D-Bus'a kaydedilmedi."
 
-#: widgets/selftestdialog.cpp:414
+#: widgets/selftestdialog.cpp:421
 #, kde-format
 msgid ""
 "The Akonadi control process is not registered at D-Bus which typically means "
@@ -1583,12 +1583,12 @@ msgstr ""
 "Akonadi kontrol süreci, açılışta sıklıkla kontrol sürecinin başlatılmadığını "
 "veya ölümcül bir hatayla karşılaştığını ifade eden D-Bus'a kayıtlı değildir."
 
-#: widgets/selftestdialog.cpp:420
+#: widgets/selftestdialog.cpp:427
 #, kde-format
 msgid "Akonadi server process registered at D-Bus."
 msgstr "Akonadi sunucu süreci D-Bus'a kaydedildi."
 
-#: widgets/selftestdialog.cpp:421
+#: widgets/selftestdialog.cpp:428
 #, kde-format
 msgid ""
 "The Akonadi server process is registered at D-Bus which typically indicates "
@@ -1597,12 +1597,12 @@ msgstr ""
 "Akonadi sunucu süreci, sıklıkla sunucu sürecinin işlevsel olduğunu bildiren "
 "D-Bus'a kayıtlıdır."
 
-#: widgets/selftestdialog.cpp:424
+#: widgets/selftestdialog.cpp:431
 #, kde-format
 msgid "Akonadi server process not registered at D-Bus."
 msgstr "Akonadi sunucu süreci D-Bus'a kaydedilmedi."
 
-#: widgets/selftestdialog.cpp:425
+#: widgets/selftestdialog.cpp:432
 #, kde-format
 msgid ""
 "The Akonadi server process is not registered at D-Bus which typically means "
@@ -1611,12 +1611,12 @@ msgstr ""
 "Akonadi sunucu süreci, açılışta sıklıkla sunucu sürecinin başlatılmadığını "
 "veya ölümcül bir hatayla karşılaştığını ifade eden D-Bus'a kayıtlı değildir."
 
-#: widgets/selftestdialog.cpp:434
+#: widgets/selftestdialog.cpp:441
 #, kde-format
 msgid "Protocol version check not possible."
 msgstr "Protokol sürüm denetimi mümkün değil."
 
-#: widgets/selftestdialog.cpp:435
+#: widgets/selftestdialog.cpp:442
 #, kde-format
 msgid ""
 "Without a connection to the server it is not possible to check if the "
@@ -1625,12 +1625,12 @@ msgstr ""
 "Sunucuya bağlantı olmadan protokol sürümünün gereklilikleri karşılayıp "
 "karşılamadığını kontrol etmek mümkün değildir."
 
-#: widgets/selftestdialog.cpp:440
+#: widgets/selftestdialog.cpp:447
 #, kde-format
 msgid "Server protocol version is too old."
 msgstr "Sunucu protokol sürümü çok eski."
 
-#: widgets/selftestdialog.cpp:441 widgets/selftestdialog.cpp:448
+#: widgets/selftestdialog.cpp:448 widgets/selftestdialog.cpp:455
 #, kde-format
 msgid ""
 "The server protocol version is %1, but version %2 is required by the client. "
@@ -1640,37 +1640,37 @@ msgstr ""
 "Sunucu protokol sürümü %1, ancak en az %2 sürümü gerekli. Yakında KDE PIM'i "
 "güncellediyseniz hem Akonadi hem de KDE PIM uygulamalarını yeniden başlatın."
 
-#: widgets/selftestdialog.cpp:447
+#: widgets/selftestdialog.cpp:454
 #, kde-format
 msgid "Server protocol version is too new."
 msgstr "Sunucu protokol sürümü çok yeni."
 
-#: widgets/selftestdialog.cpp:453
+#: widgets/selftestdialog.cpp:460
 #, kde-format
 msgid "Server protocol version matches."
 msgstr "Sunucu protokol sürümü eşleşiyor."
 
-#: widgets/selftestdialog.cpp:453
+#: widgets/selftestdialog.cpp:460
 #, kde-format
 msgid "The current Protocol version is %1."
 msgstr "Geçerli Protokol sürümü %1."
 
-#: widgets/selftestdialog.cpp:471
+#: widgets/selftestdialog.cpp:478
 #, kde-format
 msgid "Resource agents found."
 msgstr "Kaynak aracı bulundu."
 
-#: widgets/selftestdialog.cpp:471
+#: widgets/selftestdialog.cpp:478
 #, kde-format
 msgid "At least one resource agent has been found."
 msgstr "En azından bir kaynak temsili bulunmuş olmalı."
 
-#: widgets/selftestdialog.cpp:474
+#: widgets/selftestdialog.cpp:481
 #, kde-format
 msgid "No resource agents found."
 msgstr "Hiç kaynak aracı bulunamadı."
 
-#: widgets/selftestdialog.cpp:475
+#: widgets/selftestdialog.cpp:482
 #, kde-format
 msgid ""
 "No resource agents have been found, Akonadi is not usable without at least "
@@ -1685,23 +1685,23 @@ msgstr ""
 "değişkeni '%2' olarak ayarlanmış, bu değişkenin Akonadi araçlarının kurulu "
 "olduğu tüm yolları dahil ettiğinden emin olun."
 
-#: widgets/selftestdialog.cpp:492
+#: widgets/selftestdialog.cpp:499
 #, kde-format
 msgid "No current Akonadi server error log found."
 msgstr "Geçerli Akonadi sunucusunun hata günlük kaydı yok."
 
-#: widgets/selftestdialog.cpp:492
+#: widgets/selftestdialog.cpp:499
 #, kde-format
 msgid ""
 "The Akonadi server did not report any errors during its current startup."
 msgstr "Akonadi sunucusu geçerli açılışında hiç hata bildirmedi."
 
-#: widgets/selftestdialog.cpp:496
+#: widgets/selftestdialog.cpp:503
 #, kde-format
 msgid "Current Akonadi server error log found."
 msgstr "Geçerli Akonadi sunucusunun hata günlük kaydı bulundu."
 
-#: widgets/selftestdialog.cpp:497
+#: widgets/selftestdialog.cpp:504
 #, kde-format
 msgid ""
 "The Akonadi server reported errors during its current startup. The log can "
@@ -1710,23 +1710,23 @@ msgstr ""
 "Akonadi sunucusu mevcut başlatmada meydana gelen hataları raporladı. Kayıt "
 "şurada bulunabilir: %1."
 
-#: widgets/selftestdialog.cpp:505
+#: widgets/selftestdialog.cpp:512
 #, kde-format
 msgid "No previous Akonadi server error log found."
 msgstr "Önceki Akonadi sunucu hata kaydı bulunmadı."
 
-#: widgets/selftestdialog.cpp:506
+#: widgets/selftestdialog.cpp:513
 #, kde-format
 msgid ""
 "The Akonadi server did not report any errors during its previous startup."
 msgstr "Akonadi sunucusu önceki açılışında hiç hata bildirmedi."
 
-#: widgets/selftestdialog.cpp:510
+#: widgets/selftestdialog.cpp:517
 #, kde-format
 msgid "Previous Akonadi server error log found."
 msgstr "Akonadi sunucusunun önceki hata günlük kaydı bulundu."
 
-#: widgets/selftestdialog.cpp:511
+#: widgets/selftestdialog.cpp:518
 #, kde-format
 msgid ""
 "The Akonadi server reported errors during its previous startup. The log can "
@@ -1735,24 +1735,24 @@ msgstr ""
 "Akonadi sunucusu önceki başlatmada meydana gelen hataları raporladı. Kayıt "
 "şurada bulunabilir: %1."
 
-#: widgets/selftestdialog.cpp:522
+#: widgets/selftestdialog.cpp:529
 #, kde-format
 msgid "No current Akonadi control error log found."
 msgstr "Geçerli Akonadi kontrol hata kaydı bulunmadı."
 
-#: widgets/selftestdialog.cpp:523
+#: widgets/selftestdialog.cpp:530
 #, kde-format
 msgid ""
 "The Akonadi control process did not report any errors during its current "
 "startup."
 msgstr "Akonadi kontrol süreci geçerli açılışında hiç hata bildirmedi."
 
-#: widgets/selftestdialog.cpp:527
+#: widgets/selftestdialog.cpp:534
 #, kde-format
 msgid "Current Akonadi control error log found."
 msgstr "Geçerli Akonadi kontrol hata kaydı bulundu."
 
-#: widgets/selftestdialog.cpp:528
+#: widgets/selftestdialog.cpp:535
 #, kde-format
 msgid ""
 "The Akonadi control process reported errors during its current startup. The "
@@ -1761,24 +1761,24 @@ msgstr ""
 "Akonadi kontrol süreci mevcut başlatmada meydana gelen hataları raporladı. "
 "Kayıt şurada bulunabilir: %1."
 
-#: widgets/selftestdialog.cpp:536
+#: widgets/selftestdialog.cpp:543
 #, kde-format
 msgid "No previous Akonadi control error log found."
 msgstr "Akonadi denetiminin önceki hata günlük kaydı bulunamadı."
 
-#: widgets/selftestdialog.cpp:537
+#: widgets/selftestdialog.cpp:544
 #, kde-format
 msgid ""
 "The Akonadi control process did not report any errors during its previous "
 "startup."
 msgstr "Akonadi kontrol süreci önceki açılışında hiç hata bildirmedi."
 
-#: widgets/selftestdialog.cpp:541
+#: widgets/selftestdialog.cpp:548
 #, kde-format
 msgid "Previous Akonadi control error log found."
 msgstr "Akonadi denetiminin önceki hata günlük kaydı bulundu."
 
-#: widgets/selftestdialog.cpp:542
+#: widgets/selftestdialog.cpp:549
 #, kde-format
 msgid ""
 "The Akonadi control process reported errors during its previous startup. The "
@@ -1787,12 +1787,12 @@ msgstr ""
 "Akonadi kontrol süreci önceki başlatmada meydana gelen hataları raporladı. "
 "Kayıt şurada bulunabilir: %1."
 
-#: widgets/selftestdialog.cpp:552
+#: widgets/selftestdialog.cpp:559
 #, kde-format
 msgid "Akonadi was started as root"
 msgstr "Akonadi root olarak başlatıldı"
 
-#: widgets/selftestdialog.cpp:553
+#: widgets/selftestdialog.cpp:560
 #, kde-format
 msgid ""
 "Running Internet-facing applications as root/administrator exposes you to "
@@ -1804,12 +1804,12 @@ msgstr ""
 "kurulumu için kullanılan MySQL, sizi bu risklerden korumak için yönetici "
 "olarak çalışmasına izin vermeyecek."
 
-#: widgets/selftestdialog.cpp:557
+#: widgets/selftestdialog.cpp:564
 #, kde-format
 msgid "Akonadi is not running as root"
 msgstr "Akonadi root olarak çalışmıyor"
 
-#: widgets/selftestdialog.cpp:558
+#: widgets/selftestdialog.cpp:565
 #, kde-format
 msgid ""
 "Akonadi is not running as a root/administrator user, which is the "
@@ -1818,17 +1818,17 @@ msgstr ""
 "Akonadi root/yetkili kullanıcı haklarıyla çalışmıyor, ki güvenli bir sistem "
 "için önerilen çalışma şekli budur."
 
-#: widgets/selftestdialog.cpp:636
+#: widgets/selftestdialog.cpp:643
 #, kde-format
 msgid "Save Test Report"
 msgstr "Deneme Raporunu Kaydet"
 
-#: widgets/selftestdialog.cpp:643
+#: widgets/selftestdialog.cpp:650
 #, kde-format
 msgid "Error"
 msgstr "Hata"
 
-#: widgets/selftestdialog.cpp:643
+#: widgets/selftestdialog.cpp:650
 #, kde-format
 msgid "Could not open file '%1'"
 msgstr "'%1' dosyası açılamadı"
@@ -1864,273 +1864,273 @@ msgstr ""
 "<p>Sorun giderme ile ilgili daha fazla ipucu için lütfen <a href=\"http://"
 "userbase.kde.org/Akonadi\">userbase.kde.org/Akonadi</a> adresine bakın.</p>"
 
-#: widgets/standardactionmanager.cpp:75
+#: widgets/standardactionmanager.cpp:76
 #, kde-format
 msgid "&New Folder..."
 msgstr "Ye&ni Dizin..."
 
-#: widgets/standardactionmanager.cpp:75
+#: widgets/standardactionmanager.cpp:76
 #, kde-format
 msgid "New"
 msgstr "Yeni"
 
-#: widgets/standardactionmanager.cpp:77
+#: widgets/standardactionmanager.cpp:78
 #, fuzzy, kde-format
 #| msgid "&Delete Folder"
 #| msgid_plural "&Delete %1 Folders"
 msgid "&Delete Folder"
 msgstr "Dizini &Sil"
 
-#: widgets/standardactionmanager.cpp:77
+#: widgets/standardactionmanager.cpp:78
 #, kde-format
 msgid "Delete"
 msgstr "Sil"
 
-#: widgets/standardactionmanager.cpp:79
+#: widgets/standardactionmanager.cpp:80
 #, fuzzy, kde-format
 #| msgid "&Synchronize Folder"
 #| msgid_plural "&Synchronize %1 Folders"
 msgid "&Synchronize Folder"
 msgstr "&Dizini Eşzamanla"
 
-#: widgets/standardactionmanager.cpp:80 widgets/standardactionmanager.cpp:161
-#: widgets/standardactionmanager.cpp:254
+#: widgets/standardactionmanager.cpp:81 widgets/standardactionmanager.cpp:162
+#: widgets/standardactionmanager.cpp:255
 #, kde-format
 msgid "Synchronize"
 msgstr "Eşzamanla"
 
-#: widgets/standardactionmanager.cpp:87
+#: widgets/standardactionmanager.cpp:88
 #, kde-format
 msgid "Folder &Properties"
 msgstr "Dizin &Özellikleri"
 
-#: widgets/standardactionmanager.cpp:88 widgets/standardactionmanager.cpp:153
+#: widgets/standardactionmanager.cpp:89 widgets/standardactionmanager.cpp:154
 #, kde-format
 msgid "Properties"
 msgstr "Özellikler"
 
-#: widgets/standardactionmanager.cpp:95
+#: widgets/standardactionmanager.cpp:96
 #, kde-format
 msgid "&Paste"
 msgstr "&Yapıştır"
 
-#: widgets/standardactionmanager.cpp:95
+#: widgets/standardactionmanager.cpp:96
 #, kde-format
 msgid "Paste"
 msgstr "Yapıştır"
 
-#: widgets/standardactionmanager.cpp:98
+#: widgets/standardactionmanager.cpp:99
 #, kde-format
 msgid "Manage Local &Subscriptions..."
 msgstr "Yerel &Üyelikleri Yönet..."
 
-#: widgets/standardactionmanager.cpp:99
+#: widgets/standardactionmanager.cpp:100
 #, kde-format
 msgid "Manage Local Subscriptions"
 msgstr "Yerel Üyelikleri Yönet"
 
-#: widgets/standardactionmanager.cpp:106
+#: widgets/standardactionmanager.cpp:107
 #, kde-format
 msgid "Add to Favorite Folders"
 msgstr "Yer İmi Dizinlerine Ekle"
 
-#: widgets/standardactionmanager.cpp:107
+#: widgets/standardactionmanager.cpp:108
 #, kde-format
 msgid "Add to Favorite"
 msgstr "Yer İmlerine Ekle"
 
-#: widgets/standardactionmanager.cpp:114
+#: widgets/standardactionmanager.cpp:115
 #, kde-format
 msgid "Remove from Favorite Folders"
 msgstr "Yer İmi Dizinlerinden Kaldır"
 
-#: widgets/standardactionmanager.cpp:115
+#: widgets/standardactionmanager.cpp:116
 #, kde-format
 msgid "Remove from Favorite"
 msgstr "Yer İmlerinden Kaldır"
 
-#: widgets/standardactionmanager.cpp:122
+#: widgets/standardactionmanager.cpp:123
 #, kde-format
 msgid "Rename Favorite..."
 msgstr "Yer İmini Yeniden Adlandır..."
 
-#: widgets/standardactionmanager.cpp:123
+#: widgets/standardactionmanager.cpp:124
 #, kde-format
 msgid "Rename"
 msgstr "Yeniden Adlandır"
 
-#: widgets/standardactionmanager.cpp:130 widgets/standardactionmanager.cpp:169
+#: widgets/standardactionmanager.cpp:131 widgets/standardactionmanager.cpp:170
 #, kde-format
 msgid "Copy Folder To..."
 msgstr "Dizini Buraya Kopyala..."
 
-#: widgets/standardactionmanager.cpp:131 widgets/standardactionmanager.cpp:137
-#: widgets/standardactionmanager.cpp:170 widgets/standardactionmanager.cpp:184
+#: widgets/standardactionmanager.cpp:132 widgets/standardactionmanager.cpp:138
+#: widgets/standardactionmanager.cpp:171 widgets/standardactionmanager.cpp:185
 #, kde-format
 msgid "Copy To"
 msgstr "Kopyala"
 
-#: widgets/standardactionmanager.cpp:137 widgets/standardactionmanager.cpp:184
+#: widgets/standardactionmanager.cpp:138 widgets/standardactionmanager.cpp:185
 #, kde-format
 msgid "Copy Item To..."
 msgstr "Ögeyi Buraya Kopyala..."
 
-#: widgets/standardactionmanager.cpp:138 widgets/standardactionmanager.cpp:185
+#: widgets/standardactionmanager.cpp:139 widgets/standardactionmanager.cpp:186
 #, kde-format
 msgid "Move Item To..."
 msgstr "Ögeyi Buraya Taşı..."
 
-#: widgets/standardactionmanager.cpp:138 widgets/standardactionmanager.cpp:141
-#: widgets/standardactionmanager.cpp:178 widgets/standardactionmanager.cpp:185
+#: widgets/standardactionmanager.cpp:139 widgets/standardactionmanager.cpp:142
+#: widgets/standardactionmanager.cpp:179 widgets/standardactionmanager.cpp:186
 #, kde-format
 msgid "Move To"
 msgstr "Taşı"
 
-#: widgets/standardactionmanager.cpp:140 widgets/standardactionmanager.cpp:177
+#: widgets/standardactionmanager.cpp:141 widgets/standardactionmanager.cpp:178
 #, kde-format
 msgid "Move Folder To..."
 msgstr "Dizini Buraya Taşı..."
 
-#: widgets/standardactionmanager.cpp:147
+#: widgets/standardactionmanager.cpp:148
 #, fuzzy, kde-format
 #| msgid "&Cut Item"
 #| msgid_plural "&Cut %1 Items"
 msgid "&Cut Item"
 msgstr "Ögeyi &Kes"
 
-#: widgets/standardactionmanager.cpp:147 widgets/standardactionmanager.cpp:148
+#: widgets/standardactionmanager.cpp:148 widgets/standardactionmanager.cpp:149
 #, kde-format
 msgid "Cut"
 msgstr "Kes"
 
-#: widgets/standardactionmanager.cpp:148
+#: widgets/standardactionmanager.cpp:149
 #, fuzzy, kde-format
 #| msgid "&Cut Folder"
 #| msgid_plural "&Cut %1 Folders"
 msgid "&Cut Folder"
 msgstr "Dizini &Kes"
 
-#: widgets/standardactionmanager.cpp:149
+#: widgets/standardactionmanager.cpp:150
 #, kde-format
 msgid "Create Resource"
 msgstr "Kaynak Oluştur"
 
-#: widgets/standardactionmanager.cpp:150
+#: widgets/standardactionmanager.cpp:151
 #, fuzzy, kde-format
 #| msgid "Delete Resource"
 #| msgid_plural "Delete %1 Resources"
 msgid "Delete Resource"
 msgstr "Kaynağı Sil"
 
-#: widgets/standardactionmanager.cpp:152
+#: widgets/standardactionmanager.cpp:153
 #, kde-format
 msgid "&Resource Properties"
 msgstr "&Kaynak Özellikleri"
 
-#: widgets/standardactionmanager.cpp:160
+#: widgets/standardactionmanager.cpp:161
 #, fuzzy, kde-format
 #| msgid "Synchronize Resource"
 #| msgid_plural "Synchronize %1 Resources"
 msgid "Synchronize Resource"
 msgstr "Kaynağı Eşzamanla"
 
-#: widgets/standardactionmanager.cpp:167
+#: widgets/standardactionmanager.cpp:168
 #, kde-format
 msgid "Work Offline"
 msgstr "Çevrimdışı Çalış"
 
-#: widgets/standardactionmanager.cpp:187
+#: widgets/standardactionmanager.cpp:188
 #, kde-format
 msgid "&Synchronize Folder Recursively"
 msgstr "&Dizinleri Özyinelemeli Eşzamanla"
 
-#: widgets/standardactionmanager.cpp:188
+#: widgets/standardactionmanager.cpp:189
 #, kde-format
 msgid "Synchronize Recursively"
 msgstr "Özyinelemeli Eşzamanla"
 
-#: widgets/standardactionmanager.cpp:195
+#: widgets/standardactionmanager.cpp:196
 #, kde-format
 msgid "&Move Folder To Trash"
 msgstr "Dizini &Çöp Kutusuna Taşı"
 
-#: widgets/standardactionmanager.cpp:196
+#: widgets/standardactionmanager.cpp:197
 #, kde-format
 msgid "Move Folder To Trash"
 msgstr "Dizini Çöp Kutusuna Taşı"
 
-#: widgets/standardactionmanager.cpp:203
+#: widgets/standardactionmanager.cpp:204
 #, kde-format
 msgid "&Move Item To Trash"
 msgstr "Ögeyi &Çöp Kutusuna Taşı"
 
-#: widgets/standardactionmanager.cpp:204
+#: widgets/standardactionmanager.cpp:205
 #, kde-format
 msgid "Move Item To Trash"
 msgstr "Ögeyi Çöp Kutusuna Taşı"
 
-#: widgets/standardactionmanager.cpp:211 widgets/standardactionmanager.cpp:227
+#: widgets/standardactionmanager.cpp:212 widgets/standardactionmanager.cpp:228
 #, kde-format
 msgid "&Restore Folder From Trash"
 msgstr "&Klasörü Çöpten Geri Al"
 
-#: widgets/standardactionmanager.cpp:212 widgets/standardactionmanager.cpp:228
+#: widgets/standardactionmanager.cpp:213 widgets/standardactionmanager.cpp:229
 #, kde-format
 msgid "Restore Folder From Trash"
 msgstr "Klasörü Çöpten Geri Al"
 
-#: widgets/standardactionmanager.cpp:219 widgets/standardactionmanager.cpp:236
-#: widgets/standardactionmanager.cpp:243
+#: widgets/standardactionmanager.cpp:220 widgets/standardactionmanager.cpp:237
+#: widgets/standardactionmanager.cpp:244
 #, kde-format
 msgid "&Restore Item From Trash"
 msgstr "&Ögeyi Çöpten Geri Al"
 
-#: widgets/standardactionmanager.cpp:220 widgets/standardactionmanager.cpp:237
-#: widgets/standardactionmanager.cpp:243
+#: widgets/standardactionmanager.cpp:221 widgets/standardactionmanager.cpp:238
+#: widgets/standardactionmanager.cpp:244
 #, kde-format
 msgid "Restore Item From Trash"
 msgstr "Ögeyi Çöpten Geri Al"
 
-#: widgets/standardactionmanager.cpp:234
+#: widgets/standardactionmanager.cpp:235
 #, kde-format
 msgid "&Restore Collection From Trash"
 msgstr "&Koleksiyonu Çöpten Geri Al"
 
-#: widgets/standardactionmanager.cpp:234
+#: widgets/standardactionmanager.cpp:235
 #, kde-format
 msgid "Restore Collection From Trash"
 msgstr "Koleksiyonu Çöpten Geri Al"
 
-#: widgets/standardactionmanager.cpp:245
+#: widgets/standardactionmanager.cpp:246
 #, kde-format
 msgid "&Synchronize Favorite Folders"
 msgstr "&Yer İmi Dizinlerini Eşzamanla"
 
-#: widgets/standardactionmanager.cpp:246
+#: widgets/standardactionmanager.cpp:247
 #, kde-format
 msgid "Synchronize Favorite Folders"
 msgstr "Yer İmi Dizinlerini Eşzamanla"
 
-#: widgets/standardactionmanager.cpp:253
+#: widgets/standardactionmanager.cpp:254
 #, kde-format
 msgid "Synchronize Folder Tree"
 msgstr "Klasör Ağacını Eşzamanla"
 
-#: widgets/standardactionmanager.cpp:339
+#: widgets/standardactionmanager.cpp:340
 #, kde-format
 msgid "&Copy Folder"
 msgid_plural "&Copy %1 Folders"
 msgstr[0] "Dizini &Kopyala"
 msgstr[1] "%1 Dizini &Kopyala"
 
-#: widgets/standardactionmanager.cpp:340
+#: widgets/standardactionmanager.cpp:341
 #, kde-format
 msgid "&Copy Item"
 msgid_plural "&Copy %1 Items"
 msgstr[0] "Öge &Kopyala"
 msgstr[1] "%1 Öge &Kopyala"
 
-#: widgets/standardactionmanager.cpp:341
+#: widgets/standardactionmanager.cpp:342
 #, fuzzy, kde-format
 #| msgid "&Cut Item"
 #| msgid_plural "&Cut %1 Items"
@@ -2140,7 +2140,7 @@ msgid_plural "&Cut %1 Items"
 msgstr[0] "Ögeyi &Kes"
 msgstr[1] "%1 Ögeyi &Kes"
 
-#: widgets/standardactionmanager.cpp:342
+#: widgets/standardactionmanager.cpp:343
 #, fuzzy, kde-format
 #| msgid "&Cut Folder"
 #| msgid_plural "&Cut %1 Folders"
@@ -2150,14 +2150,14 @@ msgid_plural "&Cut %1 Folders"
 msgstr[0] "Dizini &Kes"
 msgstr[1] "%1 Dizini &Kes"
 
-#: widgets/standardactionmanager.cpp:343
+#: widgets/standardactionmanager.cpp:344
 #, kde-format
 msgid "&Delete Item"
 msgid_plural "&Delete %1 Items"
 msgstr[0] "Öge &Sil"
 msgstr[1] "%1 Öge &Sil"
 
-#: widgets/standardactionmanager.cpp:344
+#: widgets/standardactionmanager.cpp:345
 #, fuzzy, kde-format
 #| msgid "&Delete Folder"
 #| msgid_plural "&Delete %1 Folders"
@@ -2167,7 +2167,7 @@ msgid_plural "&Delete %1 Folders"
 msgstr[0] "Dizini &Sil"
 msgstr[1] "%1 Dizini &Sil"
 
-#: widgets/standardactionmanager.cpp:345
+#: widgets/standardactionmanager.cpp:346
 #, fuzzy, kde-format
 #| msgid "&Synchronize Folder"
 #| msgid_plural "&Synchronize %1 Folders"
@@ -2177,70 +2177,70 @@ msgid_plural "&Synchronize %1 Folders"
 msgstr[0] "&Dizini Eşzamanla"
 msgstr[1] "%1 &Dizini Eşzamanla"
 
-#: widgets/standardactionmanager.cpp:346
+#: widgets/standardactionmanager.cpp:347
 #, kde-format
 msgid "&Delete Resource"
 msgid_plural "&Delete %1 Resources"
 msgstr[0] "Kaynağı &Sil"
 msgstr[1] "%1 Kaynağı &Sil"
 
-#: widgets/standardactionmanager.cpp:347
+#: widgets/standardactionmanager.cpp:348
 #, kde-format
 msgid "&Synchronize Resource"
 msgid_plural "&Synchronize %1 Resources"
 msgstr[0] "Kaynağı &Eşzamanla"
 msgstr[1] "%1 Kaynağı &Eşzamanla"
 
-#: widgets/standardactionmanager.cpp:349
+#: widgets/standardactionmanager.cpp:350
 #, kde-format
 msgid "Copy Folder"
 msgid_plural "Copy %1 Folders"
 msgstr[0] "Dizini Kopyala"
 msgstr[1] "%1 Dizini Kopyala"
 
-#: widgets/standardactionmanager.cpp:350
+#: widgets/standardactionmanager.cpp:351
 #, kde-format
 msgid "Copy Item"
 msgid_plural "Copy %1 Items"
 msgstr[0] "Ögeyi Kopyala"
 msgstr[1] "%1 Ögeyi Kopyala"
 
-#: widgets/standardactionmanager.cpp:351
+#: widgets/standardactionmanager.cpp:352
 #, kde-format
 msgid "Cut Item"
 msgid_plural "Cut %1 Items"
 msgstr[0] "Ögeyi Kes"
 msgstr[1] "%1 Ögeyi Kes"
 
-#: widgets/standardactionmanager.cpp:352
+#: widgets/standardactionmanager.cpp:353
 #, kde-format
 msgid "Cut Folder"
 msgid_plural "Cut %1 Folders"
 msgstr[0] "Dizini Kes"
 msgstr[1] "%1 Dizini Kes"
 
-#: widgets/standardactionmanager.cpp:353
+#: widgets/standardactionmanager.cpp:354
 #, kde-format
 msgid "Delete Item"
 msgid_plural "Delete %1 Items"
 msgstr[0] "Ögeyi Sil"
 msgstr[1] "%1 Ögeyi Sil"
 
-#: widgets/standardactionmanager.cpp:354
+#: widgets/standardactionmanager.cpp:355
 #, kde-format
 msgid "Delete Folder"
 msgid_plural "Delete %1 Folders"
 msgstr[0] "Dizini Sil"
 msgstr[1] "%1 Dizini Sil"
 
-#: widgets/standardactionmanager.cpp:355
+#: widgets/standardactionmanager.cpp:356
 #, kde-format
 msgid "Synchronize Folder"
 msgid_plural "Synchronize %1 Folders"
 msgstr[0] "Dizini Eşzamanla"
 msgstr[1] "%1 Dizini Eşzamanla"
 
-#: widgets/standardactionmanager.cpp:356
+#: widgets/standardactionmanager.cpp:357
 #, fuzzy, kde-format
 #| msgid "Delete Resource"
 #| msgid_plural "Delete %1 Resources"
@@ -2250,7 +2250,7 @@ msgid_plural "Delete %1 Resources"
 msgstr[0] "Kaynağı Sil"
 msgstr[1] "%1 Kaynağı Sil"
 
-#: widgets/standardactionmanager.cpp:357
+#: widgets/standardactionmanager.cpp:358
 #, fuzzy, kde-format
 #| msgid "Synchronize Resource"
 #| msgid_plural "Synchronize %1 Resources"
@@ -2260,13 +2260,13 @@ msgid_plural "Synchronize %1 Resources"
 msgstr[0] "Kaynağı Eşzamanla"
 msgstr[1] "%1 Kaynağı Eşzamanla"
 
-#: widgets/standardactionmanager.cpp:360
+#: widgets/standardactionmanager.cpp:361
 #, kde-format
 msgctxt "@label:textbox name of Akonadi folder"
 msgid "Name"
 msgstr "İsim"
 
-#: widgets/standardactionmanager.cpp:367
+#: widgets/standardactionmanager.cpp:368
 #, kde-format
 msgid "Do you really want to delete this folder and all its sub-folders?"
 msgid_plural ""
@@ -2276,7 +2276,7 @@ msgstr[0] ""
 msgstr[1] ""
 "%1 dizini ve tüm alt dizinlerini silmek istediğinizden emin misiniz?"
 
-#: widgets/standardactionmanager.cpp:370
+#: widgets/standardactionmanager.cpp:371
 #, kde-format
 msgctxt "@title:window"
 msgid "Delete folder?"
@@ -2284,30 +2284,30 @@ msgid_plural "Delete folders?"
 msgstr[0] "Dizin silinsin mi?"
 msgstr[1] "Dizinler silinsin mi?"
 
-#: widgets/standardactionmanager.cpp:371
+#: widgets/standardactionmanager.cpp:372
 #, kde-format
 msgid "Could not delete folder: %1"
 msgstr "Dizin silinemedi: %1"
 
-#: widgets/standardactionmanager.cpp:372
+#: widgets/standardactionmanager.cpp:373
 #, kde-format
 msgid "Folder deletion failed"
 msgstr "Dizin silme işlemi başarısız oldu"
 
-#: widgets/standardactionmanager.cpp:374
+#: widgets/standardactionmanager.cpp:375
 #, kde-format
 msgctxt "@title:window"
 msgid "Properties of Folder %1"
 msgstr "%1 Dizininin Özellikleri"
 
-#: widgets/standardactionmanager.cpp:378
+#: widgets/standardactionmanager.cpp:379
 #, kde-format
 msgid "Do you really want to delete the selected item?"
 msgid_plural "Do you really want to delete %1 items?"
 msgstr[0] "Seçili ögeyi gerçekten silmek istediğinize emin misiniz?"
 msgstr[1] "%1 ögeyi gerçekten silmek istediğinize emin misiniz?"
 
-#: widgets/standardactionmanager.cpp:379
+#: widgets/standardactionmanager.cpp:380
 #, kde-format
 msgctxt "@title:window"
 msgid "Delete item?"
@@ -2315,52 +2315,52 @@ msgid_plural "Delete items?"
 msgstr[0] "Öge silinsin mi?"
 msgstr[1] "Ögeler silinsin mi?"
 
-#: widgets/standardactionmanager.cpp:380
+#: widgets/standardactionmanager.cpp:381
 #, kde-format
 msgid "Could not delete item: %1"
 msgstr "Öge silinemedi: %1"
 
-#: widgets/standardactionmanager.cpp:381
+#: widgets/standardactionmanager.cpp:382
 #, kde-format
 msgid "Item deletion failed"
 msgstr "Öge silme işlemi başarısız"
 
-#: widgets/standardactionmanager.cpp:383
+#: widgets/standardactionmanager.cpp:384
 #, kde-format
 msgctxt "@title:window"
 msgid "Rename Favorite"
 msgstr "Yer İmini Yeniden Adlandır"
 
-#: widgets/standardactionmanager.cpp:384
+#: widgets/standardactionmanager.cpp:385
 #, kde-format
 msgctxt "@label:textbox name of the folder"
 msgid "Name:"
 msgstr "İsim:"
 
-#: widgets/standardactionmanager.cpp:386
+#: widgets/standardactionmanager.cpp:387
 #, kde-format
 msgctxt "@title:window"
 msgid "New Resource"
 msgstr "Yeni Kaynak"
 
-#: widgets/standardactionmanager.cpp:387
+#: widgets/standardactionmanager.cpp:388
 #, kde-format
 msgid "Could not create resource: %1"
 msgstr "Kaynak oluşturulamadı: %1"
 
-#: widgets/standardactionmanager.cpp:388
+#: widgets/standardactionmanager.cpp:389
 #, kde-format
 msgid "Resource creation failed"
 msgstr "Kaynak oluşturma işlemi başarısız"
 
-#: widgets/standardactionmanager.cpp:392
+#: widgets/standardactionmanager.cpp:393
 #, kde-format
 msgid "Do you really want to delete this resource?"
 msgid_plural "Do you really want to delete %1 resources?"
 msgstr[0] "Bu kaynağı silmek istediğinizden emin misiniz?"
 msgstr[1] "%1 kaynağı silmek istediğinizden emin misiniz?"
 
-#: widgets/standardactionmanager.cpp:395
+#: widgets/standardactionmanager.cpp:396
 #, kde-format
 msgctxt "@title:window"
 msgid "Delete Resource?"
@@ -2368,32 +2368,32 @@ msgid_plural "Delete Resources?"
 msgstr[0] "Kaynak Silinsin mi?"
 msgstr[1] "Kaynaklar Silinsin mi?"
 
-#: widgets/standardactionmanager.cpp:397
+#: widgets/standardactionmanager.cpp:398
 #, kde-format
 msgid "Could not paste data: %1"
 msgstr "Veri yapıştırılamadı: %1"
 
-#: widgets/standardactionmanager.cpp:398
+#: widgets/standardactionmanager.cpp:399
 #, kde-format
 msgid "Paste failed"
 msgstr "Yapıştırma işlemi başarısız oldu"
 
-#: widgets/standardactionmanager.cpp:747
+#: widgets/standardactionmanager.cpp:748
 #, kde-format
 msgid "We can not add \"/\" in folder name."
 msgstr "Dizin adına \"/\" eklenemez."
 
-#: widgets/standardactionmanager.cpp:747 widgets/standardactionmanager.cpp:751
+#: widgets/standardactionmanager.cpp:748 widgets/standardactionmanager.cpp:752
 #, kde-format
 msgid "Create new folder error"
 msgstr "Yeni dizin oluşturma hatası"
 
-#: widgets/standardactionmanager.cpp:751
+#: widgets/standardactionmanager.cpp:752
 #, kde-format
 msgid "We can not add \".\" at begin or end of folder name."
 msgstr "Dizin adının başına veya sonuna \".\" ekleyemeyiz."
 
-#: widgets/standardactionmanager.cpp:990
+#: widgets/standardactionmanager.cpp:991
 #, kde-format
 msgid ""
 "Before syncing folder \"%1\" it is necessary to have the resource online. Do "
@@ -2402,23 +2402,23 @@ msgstr ""
 "\"%1\" klasörünü eşzamanlamadan önce, kaynakların çevrimiçi olması "
 "gereklidir. Çevrimiçi yapmak ister misiniz?"
 
-#: widgets/standardactionmanager.cpp:991
+#: widgets/standardactionmanager.cpp:992
 #, kde-format
 msgid "Account \"%1\" is offline"
 msgstr "\"%1\" hesabı çevrimdışı"
 
-#: widgets/standardactionmanager.cpp:992
+#: widgets/standardactionmanager.cpp:993
 #, kde-format
 msgctxt "@action:button"
 msgid "Go Online"
 msgstr "Çevrimiçi Ol"
 
-#: widgets/standardactionmanager.cpp:1587
+#: widgets/standardactionmanager.cpp:1588
 #, kde-format
 msgid "Move to This Folder"
 msgstr "Bu Dizine Taşı"
 
-#: widgets/standardactionmanager.cpp:1587
+#: widgets/standardactionmanager.cpp:1588
 #, kde-format
 msgid "Copy to This Folder"
 msgstr "Bu Dizine Kopyala"
@@ -2470,17 +2470,17 @@ msgstr "Abone ol"
 msgid "&Unsubscribe"
 msgstr "Üyelikten Ayrıl"
 
-#: widgets/tageditwidget.cpp:114
+#: widgets/tageditwidget.cpp:116
 #, kde-format
 msgid "Failed to create a new tag"
 msgstr "Yeni etiket oluşturma başarısız"
 
-#: widgets/tageditwidget.cpp:114
+#: widgets/tageditwidget.cpp:116
 #, kde-format
 msgid "An error occurred while creating a new tag"
 msgstr "Etiket oluşturulurken bnir hata oluştu"
 
-#: widgets/tageditwidget.cpp:162
+#: widgets/tageditwidget.cpp:164
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Do you really want to remove the tag <resource>%1</resource>?"
@@ -2488,13 +2488,13 @@ msgstr ""
 "<resource>%1</resource> etiketini gerçekten silmek istediğinizden emin "
 "misiniz?"
 
-#: widgets/tageditwidget.cpp:163
+#: widgets/tageditwidget.cpp:165
 #, kde-format
 msgctxt "@title"
 msgid "Delete tag"
 msgstr "Etiketi sil"
 
-#: widgets/tageditwidget.cpp:187
+#: widgets/tageditwidget.cpp:189
 #, kde-format
 msgctxt "@info"
 msgid "Delete tag"
@@ -2524,7 +2524,7 @@ msgstr "Yeni etiket oluştur"
 msgid "Manage Tags"
 msgstr "Etiketleri Yönet"
 
-#: widgets/tagselectioncombobox.cpp:121
+#: widgets/tagselectioncombobox.cpp:124
 #, fuzzy, kde-format
 #| msgctxt "@title"
 #| msgid "Delete tag"

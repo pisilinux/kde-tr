@@ -1,0 +1,189 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kweathercore package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kweathercore\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-04-18 00:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kweathercore_p.h:75
+#, kde-format
+msgid "Extreme"
+msgstr ""
+
+#: kweathercore_p.h:78
+#, kde-format
+msgid "Severe"
+msgstr ""
+
+#: kweathercore_p.h:81
+#, kde-format
+msgid "Moderate"
+msgstr ""
+
+#: kweathercore_p.h:84
+#, kde-format
+msgid "Minor"
+msgstr ""
+
+#: kweathercore_p.h:87 kweathercore_p.h:107 kweathercore_p.h:127
+#: kweathercore_p.h:150
+#, kde-format
+msgid "Unknown"
+msgstr ""
+
+#: kweathercore_p.h:95
+#, kde-format
+msgid "Immediate"
+msgstr ""
+
+#: kweathercore_p.h:98
+#, kde-format
+msgid "Expected"
+msgstr ""
+
+#: kweathercore_p.h:101
+#, kde-format
+msgid "Future"
+msgstr ""
+
+#: kweathercore_p.h:104
+#, kde-format
+msgid "Past"
+msgstr ""
+
+#: kweathercore_p.h:115
+#, kde-format
+msgid "Observed"
+msgstr ""
+
+#: kweathercore_p.h:118
+#, kde-format
+msgid "Likely"
+msgstr ""
+
+#: kweathercore_p.h:121
+#, kde-format
+msgid "Possible"
+msgstr ""
+
+#: kweathercore_p.h:124
+#, kde-format
+msgid "Unlikely"
+msgstr ""
+
+#: kweathercore_p.h:161 kweathercore_p.h:162 kweathercore_p.h:163
+#: kweathercore_p.h:164 kweathercore_p.h:165 kweathercore_p.h:166
+#: kweathercore_p.h:167 kweathercore_p.h:168 kweathercore_p.h:169
+#: kweathercore_p.h:173 kweathercore_p.h:174 kweathercore_p.h:175
+#: kweathercore_p.h:176 kweathercore_p.h:177 kweathercore_p.h:178
+#: kweathercore_p.h:188 kweathercore_p.h:189 kweathercore_p.h:190
+#: kweathercore_p.h:194 kweathercore_p.h:195 kweathercore_p.h:196
+#: kweathercore_p.h:203 kweathercore_p.h:204 kweathercore_p.h:205
+#: kweathercore_p.h:206 kweathercore_p.h:207 kweathercore_p.h:208
+#: kweathercore_p.h:209 kweathercore_p.h:210 kweathercore_p.h:211
+#: kweathercore_p.h:215 kweathercore_p.h:216 kweathercore_p.h:217
+#: kweathercore_p.h:218 kweathercore_p.h:219 kweathercore_p.h:220
+#: kweathercore_p.h:239 kweathercore_p.h:240 kweathercore_p.h:241
+#: kweathercore_p.h:245 kweathercore_p.h:246 kweathercore_p.h:247
+#: kweathercore_p.h:272 kweathercore_p.h:273 kweathercore_p.h:274
+#: kweathercore_p.h:275 kweathercore_p.h:276 kweathercore_p.h:277
+#, kde-format
+msgid "Storm"
+msgstr ""
+
+#: kweathercore_p.h:170 kweathercore_p.h:171 kweathercore_p.h:172
+#: kweathercore_p.h:251 kweathercore_p.h:252 kweathercore_p.h:253
+#, kde-format
+msgid "Heavy Snow"
+msgstr ""
+
+#: kweathercore_p.h:179 kweathercore_p.h:180 kweathercore_p.h:181
+#: kweathercore_p.h:248 kweathercore_p.h:249 kweathercore_p.h:250
+#, kde-format
+msgid "Rain"
+msgstr ""
+
+#: kweathercore_p.h:182 kweathercore_p.h:183 kweathercore_p.h:184
+#, kde-format
+msgid "Fog"
+msgstr ""
+
+#: kweathercore_p.h:185 kweathercore_p.h:186 kweathercore_p.h:187
+#: kweathercore_p.h:200 kweathercore_p.h:201 kweathercore_p.h:202
+#, kde-format
+msgid "Heavy Sleet"
+msgstr ""
+
+#: kweathercore_p.h:191 kweathercore_p.h:192 kweathercore_p.h:193
+#, kde-format
+msgid "Cloudy"
+msgstr ""
+
+#: kweathercore_p.h:197 kweathercore_p.h:198 kweathercore_p.h:199
+#: kweathercore_p.h:221 kweathercore_p.h:222 kweathercore_p.h:223
+#, kde-format
+msgid "Light Snow"
+msgstr ""
+
+#: kweathercore_p.h:212 kweathercore_p.h:213 kweathercore_p.h:214
+#: kweathercore_p.h:230 kweathercore_p.h:231 kweathercore_p.h:232
+#, kde-format
+msgid "Light Sleet"
+msgstr ""
+
+#: kweathercore_p.h:224 kweathercore_p.h:225 kweathercore_p.h:226
+#: kweathercore_p.h:269 kweathercore_p.h:270 kweathercore_p.h:271
+#, kde-format
+msgid "Sleet"
+msgstr ""
+
+#: kweathercore_p.h:227 kweathercore_p.h:228 kweathercore_p.h:229
+#: kweathercore_p.h:278 kweathercore_p.h:279 kweathercore_p.h:280
+#, kde-format
+msgid "Heavy Rain"
+msgstr ""
+
+#: kweathercore_p.h:233 kweathercore_p.h:234 kweathercore_p.h:235
+#: kweathercore_p.h:236 kweathercore_p.h:237 kweathercore_p.h:238
+#: kweathercore_p.h:242 kweathercore_p.h:243 kweathercore_p.h:244
+#, kde-format
+msgid "Snow"
+msgstr ""
+
+#: kweathercore_p.h:254 kweathercore_p.h:255 kweathercore_p.h:256
+#: kweathercore_p.h:266 kweathercore_p.h:267 kweathercore_p.h:268
+#, kde-format
+msgid "Light Rain"
+msgstr ""
+
+#: kweathercore_p.h:257 kweathercore_p.h:259
+#, kde-format
+msgid "Light Clouds"
+msgstr ""
+
+#: kweathercore_p.h:258
+#, kde-format
+msgid "Partly Sunny"
+msgstr ""
+
+#: kweathercore_p.h:260 kweathercore_p.h:261 kweathercore_p.h:262
+#, kde-format
+msgid "Partly Cloudy"
+msgstr ""
+
+#: kweathercore_p.h:263 kweathercore_p.h:264 kweathercore_p.h:265
+#, kde-format
+msgid "Clear"
+msgstr ""

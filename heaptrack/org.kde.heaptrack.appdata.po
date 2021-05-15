@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.heaptrack.appdata\n"
-"POT-Creation-Date: 2018-05-06 06:06+0200\n"
+"POT-Creation-Date: 2021-01-12 02:57+0100\n"
 "PO-Revision-Date: 2017-10-04 16:24+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
@@ -19,7 +19,7 @@ msgstr "Heaptrack"
 #. (itstool) path: component/summary
 #: org.kde.heaptrack.appdata.xml:7
 msgid "A heap memory profiler for Linux"
-msgstr ""
+msgstr "Linux için yığın bellek profili"
 
 #. (itstool) path: description/p
 #: org.kde.heaptrack.appdata.xml:9
@@ -68,15 +68,21 @@ msgstr "tahsisin ardından bırakılacak olan, geçici tahsisleri bulun"
 
 #. (itstool) path: screenshot/caption
 #: org.kde.heaptrack.appdata.xml:25
-msgid "Summary of tracked heap memory allocation data."
+#, fuzzy
+#| msgid "Summary of tracked heap memory allocation data."
+msgid "Summary of tracked heap memory allocation data"
 msgstr "İzlenen yığın bellek tahsis verilerinin özeti."
 
 #. (itstool) path: screenshot/caption
 #: org.kde.heaptrack.appdata.xml:29
-msgid "Flamegraph visualization of number of heap memory allocations."
+#, fuzzy
+#| msgid "Flamegraph visualization of number of heap memory allocations."
+msgid "Flamegraph visualization of number of heap memory allocations"
 msgstr "Yığın bellek tahis etme sayısının Flamegraph görüntüsü."
 
 #. (itstool) path: screenshot/caption
 #: org.kde.heaptrack.appdata.xml:33
-msgid "Chart of heap memory allocations over time."
+#, fuzzy
+#| msgid "Chart of heap memory allocations over time."
+msgid "Chart of heap memory allocations over time"
 msgstr "Zaman için yığın bellek tahsislerinin grafiği."

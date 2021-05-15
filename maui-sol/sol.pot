@@ -1,0 +1,181 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the maui-sol package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: maui-sol\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-26 02:17+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/main.cpp:54
+#, kde-format
+msgid "Sol"
+msgstr ""
+
+#: src/main.cpp:54
+#, kde-format
+msgid "Sol allows you to browse the web and organize the web."
+msgstr ""
+
+#: src/main.cpp:55
+#, kde-format
+msgid "© 2020 Nitrux Development Team"
+msgstr ""
+
+#: src/main.cpp:56
+#, kde-format
+msgid "Camilo Higuita"
+msgstr ""
+
+#: src/main.cpp:56
+#, kde-format
+msgid "Developer"
+msgstr ""
+
+#: src/main.qml:39
+#, kde-format
+msgid "Previous"
+msgstr ""
+
+#: src/main.qml:45
+#, kde-format
+msgid "Next"
+msgstr ""
+
+#: src/views/browser/BrowserView.qml:25
+#, kde-format
+msgid "Start Browsing"
+msgstr ""
+
+#: src/views/browser/BrowserView.qml:26
+#, kde-format
+msgid "Enter a new URL or open a recent site."
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:13
+#, kde-format
+msgid "General"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:14
+#, kde-format
+msgid "Configure the app UI, behaviour and plugins."
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:21
+#, kde-format
+msgid "Enable places sidebar"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:34
+#, kde-format
+msgid "Open blank file by default"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:48
+#, kde-format
+msgid "Enable embedded terminal"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:59
+#, kde-format
+msgid "Editor"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:60
+#, kde-format
+msgid ""
+"Configure the look and feel of the editor. The settings are applied globally"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:67
+#, kde-format
+msgid "Show line numbers"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:80
+#, kde-format
+msgid "Show syntax highlighting languages"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:91
+#, kde-format
+msgid "Enable syntax highlighting"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:104
+#, kde-format
+msgid "Fonts"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:105
+#, kde-format
+msgid "Configure the global editor font family and size"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:110
+#, kde-format
+msgid "Family"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:123
+#, kde-format
+msgid "Size"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:136
+#, kde-format
+msgid "Style"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:137
+#, kde-format
+msgid ""
+"Configure the style of the syntax highlighting. This configuration in not "
+"applied for rich text formats."
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:143
+#, kde-format
+msgid "Theme"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:162
+#, kde-format
+msgid "Color"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:250
+#, kde-format
+msgid "Interface"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:251
+#, kde-format
+msgid "Configure the app UI."
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:255
+#, kde-format
+msgid "Focus Mode"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:266
+#, kde-format
+msgid "Translucent Sidebar"
+msgstr ""
+
+#: src/views/widgets/SettingsDialog.qml:275
+#, kde-format
+msgid "Dark Mode"
+msgstr ""

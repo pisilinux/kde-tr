@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdegraphics-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-13 01:40+0000\n"
+"POT-Creation-Date: 2019-12-24 03:03+0100\n"
 "PO-Revision-Date: 2014-06-08 13:55+0000\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/kdegraphics-k-tr/"
@@ -29,20 +29,20 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "tulliana@gmail.com"
 
-#: document.cpp:99
+#: document.cpp:98
 #, fuzzy, kde-format
 #| msgid "Cannot open document, unrar was not found."
 msgid "Cannot open document, neither unrar nor unarchiver were found."
 msgstr "Belge açılamadı, unrar uygulaması bulunamadı."
 
-#: document.cpp:104
+#: document.cpp:103
 #, kde-format
 msgid ""
 "The version of unrar on your system is not suitable for opening comicbooks."
 msgstr ""
 "Sisteminizdeki unrar sürümü comicbook dosyalarını açmak için uygun değil."
 
-#: document.cpp:133
+#: document.cpp:132
 #, kde-format
 msgid "Unknown ComicBook format."
 msgstr "Bilinmeyen ComicBook biçimi."

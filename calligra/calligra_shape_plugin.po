@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calligra-kde4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:40+0200\n"
+"POT-Creation-Date: 2021-04-25 00:18+0000\n"
 "PO-Revision-Date: 2014-06-08 13:44+0000\n"
 "Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/calligra-k-tr/"
@@ -19,22 +19,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: PluginShape.cpp:49
+#: PluginShape.cpp:36
 #, kde-format
 msgid "Unknown"
 msgstr "Bilinmeyen"
 
-#: PluginShape.cpp:53
+#: PluginShape.cpp:40
 #, kde-format
 msgid "Plugin of mimetype: %1"
 msgstr "Mime Türü eklentisi: %1"
 
-#: PluginShapeFactory.cpp:35
+#: PluginShapeFactory.cpp:22
 #, kde-format
 msgid "Plugin Placeholder"
 msgstr "Eklenti Tutucusu"
 
-#: PluginShapeFactory.cpp:37
+#: PluginShapeFactory.cpp:24
 #, kde-format
 msgid "Plugin Placeholder, embedded or fullscreen"
 msgstr "Eklenti tutucusu, gömülü veya tam ekran"

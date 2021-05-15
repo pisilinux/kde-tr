@@ -17,7 +17,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdepim\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-14 02:12+0000\n"
+"POT-Creation-Date: 2021-05-10 00:29+0000\n"
 "PO-Revision-Date: 2015-09-15 09:28+0000\n"
 "Last-Translator: Necdet <necdetyucel@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -48,72 +48,72 @@ msgctxt "Comment"
 msgid "Adds notes received via network and handles note alarm notifications"
 msgstr "Ağ üzerinden alınan notlar ekler ve not uyarı bildirimlerini işler"
 
-#: src/data/knote_config_action.desktop:15
+#: src/data/knote_config_action.desktop:14
 msgctxt "Name"
 msgid "Actions"
 msgstr "Eylemler"
 
-#: src/data/knote_config_action.desktop:67
+#: src/data/knote_config_action.desktop:66
 msgctxt "Comment"
 msgid "Setup actions for notes"
 msgstr "Notlar için eylemleri ayarla"
 
-#: src/data/knote_config_collection.desktop:15
+#: src/data/knote_config_collection.desktop:14
 msgctxt "Name"
 msgid "Collections"
 msgstr "Koleksiyonlar"
 
-#: src/data/knote_config_collection.desktop:54
+#: src/data/knote_config_collection.desktop:53
 msgctxt "Comment"
 msgid "Setup collections for notes"
 msgstr "Notlar için koleksiyonları ayarla"
 
-#: src/data/knote_config_display.desktop:15
+#: src/data/knote_config_display.desktop:14
 msgctxt "Name"
 msgid "Display"
 msgstr "Görünüm"
 
-#: src/data/knote_config_display.desktop:68
+#: src/data/knote_config_display.desktop:67
 msgctxt "Comment"
 msgid "Setup display for notes"
 msgstr "Notların görünümünü ayarla"
 
-#: src/data/knote_config_editor.desktop:15
+#: src/data/knote_config_editor.desktop:14
 msgctxt "Name"
 msgid "Editor"
 msgstr "Düzenleyici"
 
-#: src/data/knote_config_editor.desktop:69
+#: src/data/knote_config_editor.desktop:68
 msgctxt "Comment"
 msgid "Setup editor"
 msgstr "Düzenleyiciyi ayarla"
 
-#: src/data/knote_config_misc.desktop:15
+#: src/data/knote_config_misc.desktop:14
 msgctxt "Name"
 msgid "Misc"
 msgstr "Çeşitli"
 
-#: src/data/knote_config_misc.desktop:85
+#: src/data/knote_config_misc.desktop:84
 msgctxt "Comment"
 msgid "Settings that don't fit elsewhere"
 msgstr "Diğer bölümlere uymayan yapılandırma seçenekleri"
 
-#: src/data/knote_config_network.desktop:15
+#: src/data/knote_config_network.desktop:14
 msgctxt "Name"
 msgid "Network"
 msgstr "Ağ"
 
-#: src/data/knote_config_network.desktop:68
+#: src/data/knote_config_network.desktop:67
 msgctxt "Comment"
 msgid "Network Settings"
 msgstr "Ağ Ayarları"
 
-#: src/data/knote_config_print.desktop:15
+#: src/data/knote_config_print.desktop:14
 msgctxt "Name"
 msgid "Print"
 msgstr "Yazdır"
 
-#: src/data/knote_config_print.desktop:56
+#: src/data/knote_config_print.desktop:55
 msgctxt "Comment"
 msgid "Setup printing for notes"
 msgstr "Notlar için yazdırma ayarı"

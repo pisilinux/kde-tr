@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.kronometer.appdata\n"
-"POT-Creation-Date: 2017-11-22 08:51+0100\n"
+"POT-Creation-Date: 2016-04-26 08:54+0000\n"
 "PO-Revision-Date: 2017-08-10 15:13+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"

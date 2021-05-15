@@ -1,0 +1,2786 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Anıl Özbek <ozbekanil@gmail.com>, 2012
+# obsoleteman <tulliana@gmail.com>, 2012
+# Volkan Gezer <volkangezer@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: www-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-27 02:38+0100\n"
+"PO-Revision-Date: 2014-06-08 14:08+0000\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/www-k-tr/"
+"language/tr/)\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: config.yaml:0
+#, fuzzy
+#| msgid "Okular logo"
+msgid "Okular"
+msgstr "Okular logosu"
+
+#: config.yaml:0
+msgid "About"
+msgstr ""
+
+#: config.yaml:0
+msgid "Donate"
+msgstr ""
+
+#: content/_index.md:0
+#, fuzzy
+#| msgid "Okular - more than a reader"
+msgid "Okular - The Universal PDF Reader"
+msgstr "Okular - bir okuyucudan daha fazlası"
+
+#: content/build-it.md:0
+#, fuzzy
+#| msgid "Compiling Okular"
+msgid "Compiling Okular from source on Linux"
+msgstr "Okular'ı Derlemek"
+
+#: content/build-it.md:0
+msgid "Build It"
+msgstr ""
+
+#: content/build-it.md:5
+msgid ""
+"<span style=\"background-color:#e8f4fa\">If you are looking for the pre-"
+"compiled packages, visit the [download page](/download/). You can check the "
+"packaging status [here](https://repology.org/project/okular/versions)</span>"
+msgstr ""
+
+#: content/build-it.md:7
+msgid ""
+"If you want to compile Okular, you need to have a compilation environment "
+"set up, which, in general, should be provided by your distribution. In case "
+"you want to compile the development version of Okular, please refer to Build "
+"from source at KDE's Community Wiki."
+msgstr ""
+
+#: content/build-it.md:9
+#, fuzzy
+#| msgid "You can contact the Okular team in many ways."
+msgid "You can download and compile Okular this way:"
+msgstr "Birçok şekilde Okular takımıyla iletişime geçebilirsiniz."
+
+#: content/build-it.md:11
+msgid "`git clone https://invent.kde.org/graphics/okular.git`"
+msgstr ""
+
+#: content/build-it.md:12
+msgid "`cd okular`"
+msgstr ""
+
+#: content/build-it.md:13
+msgid "`mkdir build`"
+msgstr ""
+
+#: content/build-it.md:14
+msgid "`cd build`"
+msgstr ""
+
+#: content/build-it.md:15
+msgid "`cmake -DCMAKE_INSTALL_PREFIX=/path/to/your/install/dir ..`"
+msgstr ""
+
+#: content/build-it.md:16
+msgid "`make`"
+msgstr ""
+
+#: content/build-it.md:17
+msgid "`make install`"
+msgstr ""
+
+#: content/build-it.md:19
+#, fuzzy
+#| msgid ""
+#| "If you install Okular in a different path than your system kde4 install "
+#| "directory it is possible that you need to run"
+msgid ""
+"If you install Okular in a different path than your system install directory "
+"it is possible that you need to run `source build/prefix.sh; okular` so that "
+"the correct Okular instance and libraries are picked up."
+msgstr ""
+"Okular'ı sisteminizdeki kde kurulum dizininden farklı bir yola kurarsanız "
+"aşağıdaki komutu çalıştırmanız gerekebilir"
+
+#: content/build-it.md:21
+msgid "Optional packages"
+msgstr "İsteğe bağlı paketler"
+
+#: content/build-it.md:23
+msgid ""
+"There are some optional packages you could install in order to have some "
+"more functionalities in Okular. Some might already be packaged for your "
+"distro, but other may not. If you want to avoid any issues, stick to the "
+"packages supported by your distribution"
+msgstr ""
+
+#: content/build-it.md:25
+#, fuzzy
+#| msgid ""
+#| "To compile the PDF backend, you need the Poppler library (<a href='http://"
+#| "poppler.freedesktop.org'>http://poppler.freedesktop.org</a>)."
+msgid ""
+"Poppler (PDF backend): To compile the PDF backend, you need [the Poppler "
+"library](http://poppler.freedesktop.org), for which the minimum version "
+"required is 0.24"
+msgstr ""
+"PDF arka ucunu derlemek için Poppler kütüphanesine (<a href='http://poppler."
+"freedesktop.org'>http://poppler.freedesktop.org</a>) ihtiyacınız var."
+
+#: content/build-it.md:26
+#, fuzzy
+#| msgid ""
+#| "If your distro does not package libspectre, or the packaged version is "
+#| "not enough, you can download it from <a href='http://libspectre."
+#| "freedesktop.org'>http://libspectre.freedesktop.org</a>."
+msgid ""
+"Libspectre: In order to compile and use this PostScipt (PS) backend, you "
+"need libspectre >= 0.2. If your distro does not package it, or the packaged "
+"version is not enough, you can download it [here](http://libspectre."
+"freedesktop.org)"
+msgstr ""
+"Dağıtımınız libspectre'yi paketlemediyse veya paketlenen sürüm yeterli "
+"değilse kütüphaneyi <a href='http://libspectre.freedesktop.org'>http://"
+"libspectre.freedesktop.org</a> adresinden indirebilirsiniz."
+
+#: content/build-it.md:27
+msgid ""
+"DjVuLibre: To compile the DjVu backend, you need DjVuLibre >= 3.5.17. As "
+"with Libspectre, you can get it from your distro or [here](http://djvulibre."
+"djvuzone.org)."
+msgstr ""
+
+#: content/build-it.md:28
+#, fuzzy
+#| msgid ""
+#| "libTIFF is needed to compile the TIFF/fax backend. Currently there is no "
+#| "minimum required version, so any quite recent version of the library "
+#| "available from your distro should work. In case of troubles with that, do "
+#| "not hesitate to contact the <a href='contact.php'>Okular developers</a>."
+msgid ""
+"libTIFF: This is required for TIFF/fax support. Currently there is no "
+"minimum required version, so any quite recent version of the library "
+"available from your distro should work. In case of trouble, do not hesitate "
+"to contact the Okular developers."
+msgstr ""
+"libTIFF, TIFF/faks arka ucunu derlemek için gerekmektedir. Şu an gerekli en "
+"düşük sürüm yoktur, dağıtımınızdaki son sürümlerden biri çalışacaktır. "
+"Herhangi bir sorun durumunda <a href='contact.php'>Okular geliştiricileri</"
+"a> ile iletişime geçmekten çekinmeyin."
+
+#: content/build-it.md:29
+msgid ""
+"libCHM: This is needed to compile the CHM backend. As with libTIFF, there is "
+"no minimum version requirement"
+msgstr ""
+
+#: content/build-it.md:30
+msgid ""
+"Libepub: If you need EPub support, you can install this library from your "
+"distro or from [sourceforge](http://sourceforge.net/projects/ebook-tools)."
+msgstr ""
+
+#: content/contact.md:0
+msgid "Contact"
+msgstr "İletişim"
+
+#: content/contact.md:5
+msgid ""
+"<img src=\"/images/konqi-dev.png\" align=\"right\" alt=\"Konqi, the KDE "
+"mascot\" style=\"height: 200px;\"/>"
+msgstr ""
+
+#: content/contact.md:7
+#, fuzzy
+#| msgid "You can contact the Okular team in many ways."
+msgid "You can contact the Okular team in many ways:"
+msgstr "Birçok şekilde Okular takımıyla iletişime geçebilirsiniz."
+
+#: content/contact.md:9
+#, fuzzy
+#| msgid ""
+#| "You can use it to talk about the development of the core application, but "
+#| "also\n"
+#| "feedback about existent or new backends is appreciated."
+msgid ""
+"Mailing list: To coordinate okular development, we use the [okular-devel "
+"mailing list](https://mail.kde.org/mailman/listinfo/okular-devel) at kde."
+"org. You can use it to talk about the development of the core application, "
+"and feedback about existent or new backends is appreciated."
+msgstr ""
+"Bu listeyi çekirdek uygulamanın geliştirimi hakkında konuşmak için "
+"kullanabilirsiniz, ancak bunun dışında\n"
+"mevcut veya yeni arka uçlar hakkında da geri bildirimde bulunabilirsiniz."
+
+#: content/contact.md:11
+msgid ""
+"IRC: For general chat, we use the IRC [#okular](irc://irc.kde.org/#okular) "
+"and [#kde-devel](irc://irc.kde.org/#kde-devel) on the [Freenode network]"
+"(http://www.freenode.net/). Some of the Okular developers can be found "
+"hanging there."
+msgstr ""
+
+#: content/contact.md:13
+msgid ""
+"Matrix: The aforementioned chat can also be accessed over the Matrix network "
+"via [#okular:kde.org](https://matrix.to/#/#okular:kde.org)."
+msgstr ""
+
+#: content/contact.md:15
+#, fuzzy
+#| msgid ""
+#| "If you prefer using a forum you can use <a href='http://forum.kde.org/"
+#| "viewforum.php?f=251'>the Okular forum</a> inside the bigger <a "
+#| "href='http://forum.kde.org/'>KDE Community Forums</a>."
+msgid ""
+"Forum: If you prefer to use a forum you can use the [Okular forum](http://"
+"forum.kde.org/viewforum.php?f=251) inside the bigger [KDE Community Forums]"
+"(http://forum.kde.org/)."
+msgstr ""
+"Eğer forum kullanmayı tercih ediyorsanız <a href='http://forum.kde.org/'>KDE "
+"Topluluk Forumu</a> içerisindeki <a href='http://forum.kde.org/viewforum.php?"
+"f=251'>Okular forum</a>una bakabilirsiniz."
+
+#: content/contact.md:17
+#, fuzzy
+#| msgid ""
+#| "Bugs and Wishes should be reported to the KDE bug tracker at <a "
+#| "href='http://bugs.kde.org'>http://bugs.kde.org</a>."
+msgid ""
+"Bugs and Wishes: Bugs and Wishes should be reported to the [KDE bug tracker]"
+"(https://bugs.kde.org/). If you want to help, you can find a list of top "
+"bugs [here](https://community.kde.org/Okular)."
+msgstr ""
+"Hatalar ve İstekler, KDE hata izleyicisi <a href='http://bugs.kde."
+"org'>http://bugs.kde.org</a> adresine bildirilmelidir."
+
+#: content/download.md:0
+msgid ""
+"Okular is available as a precompiled package in a wide range of platforms. "
+"You can check the package status for your Linux distro on the right or keep "
+"reading for info on other operating systems"
+msgstr ""
+
+#: content/download.md:0
+msgid "Linux"
+msgstr ""
+
+#: content/download.md:0
+msgid "Tux"
+msgstr ""
+
+#: content/download.md:0
+msgid ""
+"Okular is already available on most Linux distributions. You can install it "
+"from the [KDE Software Center](https://apps.kde.org/okular)."
+msgstr ""
+
+#: content/download.md:0
+msgid "Flatpak"
+msgstr ""
+
+#: content/download.md:0
+#, fuzzy
+#| msgid "Okular logo"
+msgid "Flatpak logo"
+msgstr "Okular logosu"
+
+#: content/download.md:0
+msgid ""
+"You can install the latest [Okular Flatpak](https://flathub.org/apps/details/"
+"org.kde.okular) from Flathub. Experimental Flatpaks with nightly builds of "
+"Okular can be [installed from the KDE Flatpak repository](https://community."
+"kde.org/Guidelines_and_HOWTOs/Flatpak#Applications )."
+msgstr ""
+
+#: content/download.md:0
+msgid "Release Sources"
+msgstr ""
+
+#: content/download.md:0
+#, fuzzy
+#| msgid "Okular logo"
+msgid "Ark logo"
+msgstr "Okular logosu"
+
+#: content/download.md:0
+msgid ""
+"Okular is released regularly as part of KDE Gear. If you want to build from "
+"source, you can check the [Build It section](/build-it)."
+msgstr ""
+
+#: content/download.md:0
+msgid "Windows"
+msgstr ""
+
+#: content/download.md:0
+msgid "Windows logo"
+msgstr ""
+
+#: content/download.md:0
+#, fuzzy
+#| msgid ""
+#| "For Windows have a look at the <a href='http://windows.kde.org/'>KDE on "
+#| "Windows Initiative</a> webpage for information on how to install KDE on "
+#| "Windows."
+msgid ""
+"Have a look at the [KDE on Windows initiative](https://community.kde.org/"
+"Windows) for information on how to install KDE Software on Windows. The "
+"stable release is available on the [Microsoft Store](https://www.microsoft."
+"com/store/apps/9n41msq1wnm8). There are also [experimental nightly builds]"
+"(https://binary-factory.kde.org/job/Okular_Nightly_win64/), for which "
+"testing and bug reports would be welcome."
+msgstr ""
+"Windows için <a href='http://windows.kde.org/'>Windows Üzerinde KDE "
+"Girişimi</a>'ne bakabilir ve Windows'ta KDE'nin nasıl kurulacağıyla ilgili "
+"bilgi edinebilirsiniz."
+
+#: content/faq.md:0
+msgid "Frequently Asked Questions"
+msgstr "Sıkça Sorulan Sorular"
+
+#: content/faq.md:0
+#, fuzzy
+#| msgid ""
+#| "Using Ubuntu, I cannot read CHM and EPub documents,\n"
+#| "even if I have okular-extra-backends and libchm1 installed. Why?"
+msgid ""
+"When using Ubuntu, I cannot read CHM and EPub documents, even if I have "
+"okular-extra-backends and libchm1 installed. Why?"
+msgstr ""
+"Ubuntu kullanırken okular-extra-backends ve libchm1 paketlerini\n"
+"yüklesem bile CHM ve EPub belgelerini okuyamıyorum. Bu neden olabilir?"
+
+#: content/faq.md:0
+#, fuzzy
+#| msgid ""
+#| "Ubuntu (thus Kubuntu as well) packages of Okular are compiled without\n"
+#| "the support for these two formats."
+msgid ""
+"Ubuntu (thus Kubuntu as well) packages of Okular are compiled without "
+"support for these two formats. The reason is explained in [this](https://"
+"bugs.launchpad.net/kdegraphics/+bug/277007) Launchpad report."
+msgstr ""
+"Okular'ın Ubuntu (aynı şekilde Kubuntu) paketleri bu iki biçimi\n"
+"desteklemeyecek şekilde derlenmiştir."
+
+#: content/faq.md:0
+#, fuzzy
+#| msgid "Why the speak options in the Tools menu are grayed out?"
+msgid "Why are the speak options in the Tools menu grayed out?"
+msgstr "Neden Araçlar menüsündeki oku seçeneği grileştirilmiş?"
+
+#: content/faq.md:0
+#, fuzzy
+#| msgid ""
+#| "Because you don't have the KDE Text To Speech tools, install Jovie "
+#| "(formerly known as ktts) and they should be enabled"
+msgid ""
+"Because you don't have a speech service on your system. Install the Qt "
+"Speech library and they should be enabled"
+msgstr ""
+"Çünkü KDE Text To Speech araçlarına sahip değilsiniz, (daha önce ktts olarak "
+"bilinen) Jovie'yi yüklerseniz bu seçenekler aktifleşecektir."
+
+#: content/faq.md:0
+msgid ""
+"Some characters are not rendered and when enabling debug some lines mention "
+"'Missing language pack for xxx'"
+msgstr ""
+"Bazı karakterler gösterilmiyor ve hata ayıklama aktifleştirildiğinde bazı "
+"satırlar 'xxx için eksik dil paketi' olduğundan bahsediyor."
+
+#: content/faq.md:0
+msgid "Install the poppler-data package"
+msgstr "poppler-data paketini yükleyin"
+
+#: content/formats.md:0
+#, fuzzy
+#| msgid "Document format handlers status"
+msgid "Document Format Handlers Status"
+msgstr "Belge biçimi işleyicileri durumu"
+
+#: content/formats.md:0
+msgid ""
+"Okular supports a wide variety of document formats and use cases. This page "
+"always refers to the stable series of Okular, currently Okular 20.12"
+msgstr ""
+
+#: content/formats.md:0
+#, fuzzy
+#| msgid "Document information"
+msgid "Document Format"
+msgstr "Belge bilgileri"
+
+#: content/news/_index.md:0
+msgid "News"
+msgstr ""
+
+#: content/news/aKademy_2007_Okular_presentation_material_online.md:0
+msgid "aKademy 2007 Okular presentation material online"
+msgstr "aKademy 2007 Okular sunum materyali çevrimiçi"
+
+#: content/news/aKademy_2007_Okular_presentation_material_online.md:5
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "\t\t\t\tThe Okular talk given by Pino Toscano at <a href=\"http://"
+#| "akademy2007.kde.org\">aKademy 2007</a> is now online. There are both <a "
+#| "href=\"http://akademy2007.kde.org/conference/slides/okular.pdf\">slides</"
+#| "a> and <a href=\"http://home.kde.org/~akademy07/videos/2-05-Okular:"
+#| "simply_a_document_viewer.ogg\">video</a> available.\n"
+#| "\t\t\t"
+msgid ""
+"The Okular talk given by Pino Toscano at <a href=\"http://akademy2007.kde.org"
+"\">aKademy 2007</a> is now online. There are both <a href=\"http://"
+"akademy2007.kde.org/conference/slides/okular.pdf\">slides</a> and <a href="
+"\"http://home.kde.org/~akademy07/videos/2-05-Okular:simply_a_document_viewer."
+"ogg\">video</a> available."
+msgstr ""
+"\n"
+"\t\t\t\tPino Toscano tarafından yapılan <a href=\"http://akademy2007.kde.org"
+"\">aKademy 2007</a>'da yapılan Okular konuşması şimdi çevrimiçi. Hem <a href="
+"\"http://akademy2007.kde.org/conference/slides/okular.pdf\">slaytlar</a> hem "
+"de <a href=\"http://home.kde.org/~akademy07/videos/2-05-Okular:"
+"simply_a_document_viewer.ogg\">video</a> hazır.\n"
+"\t\t\t"
+
+#: content/news/Okular_0.10_released.md:0
+msgid "Okular 0.10 released"
+msgstr "Okular 0.10 yayımlandı"
+
+#: content/news/Okular_0.10_released.md:5
+msgid ""
+"The 0.10 version of Okular has been released together with KDE SC 4.4. "
+"Besides general improvements in stability this release sports new/improved "
+"support for both inverse search and forward search linking latex source code "
+"lines with the corresponding locations in dvi and pdf files."
+msgstr ""
+"Okular'ın 0.10 sürümü KDE 4.4 yazılım derlemesiyle birlikte yayımlandı. "
+"Kararlılıktaki genel iyileştirmelerin yanında bu sürüme, yeni/geliştirilmiş "
+"ters ve ileri arama özelliği ile dvi ve pdf dosyalarının lateks kaynak kod "
+"satırlarına bağlı ilgili yerlerde arama desteği eklenmiştir..."
+
+#: content/news/Okular_0.11_released.md:0
+msgid "Okular 0.11 released"
+msgstr "Okular 0.11 yayımlandı"
+
+#: content/news/Okular_0.11_released.md:5
+msgid ""
+"The 0.11 version of Okular has been released together with KDE Applications "
+"4.5 release. This release introduce small fixes and features and is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.11 sürümü KDE uygulamalarının 4.5 sürümüyle birlikte yayımlandı. "
+"Bu yayım küçük hata düzültmeleriyle özellikler içeriyor ve Okular kullanan "
+"herkese güncelleme yapmaları önerilir."
+
+#: content/news/Okular_0.12_released.md:0
+msgid "Okular 0.12 released"
+msgstr "Okular 0.12 yayımlandı"
+
+#: content/news/Okular_0.12_released.md:5
+msgid ""
+"The 0.12 version of Okular has been released together with KDE Applications "
+"4.6 release. This release introduce small fixes and features and is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.12 sürümü KDE uygulamalarının 4.6 sürümüyle birlikte yayımlandı. "
+"Bu yayım küçük hata düzültmeleriyle özellikler içeriyor ve Okular kullanan "
+"herkese güncelleme yapmaları önerilir."
+
+#: content/news/Okular_0.13_released.md:0
+msgid "Okular 0.13 released"
+msgstr "Okular 0.13 yayımlandı"
+
+#: content/news/Okular_0.13_released.md:5
+msgid ""
+"The 0.13 version of Okular has been released together with KDE Applications "
+"4.7 release. This release introduce small fixes and features and is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.13 sürümü KDE uygulamalarının 4.7 sürümüyle birlikte yayımlandı. "
+"Bu yayım küçük hata düzültmeleriyle özellikler içeriyor ve Okular kullanan "
+"herkese güncelleme yapmaları önerilir."
+
+#: content/news/Okular_0.14_released.md:0
+msgid "Okular 0.14 released"
+msgstr "Okular 0.14 yayımlandı"
+
+#: content/news/Okular_0.14_released.md:5
+msgid ""
+"The 0.14 version of Okular has been released together with KDE Applications "
+"4.8 release. This release introduces new features like improved text "
+"selection in documents with columns, table selection tool, LaTex rendering "
+"in annotations, improved embedded support (for use in e.g. Kile), better "
+"layouting for faced pages, smarter screensaver/powermanagement handling, "
+"improved page label support, default zoom configuration, improved Landscape "
+"printing, etc. You can find a non complete list of bugs and features in <a "
+"href=\"https://bugs.kde.org/buglist.cgi?query_format=advanced&amp;"
+"short_desc_type=allwordssubstr&amp;short_desc=&amp;product=okular&amp;"
+"long_desc_type=allwordssubstr&amp;long_desc=&amp;"
+"bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;"
+"keywords_type=allwords&amp;keywords=&amp;bug_status=RESOLVED&amp;"
+"bug_status=VERIFIED&amp;bug_status=CLOSED&amp;emailtype1=exact&amp;"
+"email1=&amp;emailtype2=substring&amp;email2=&amp;bugidtype=include&amp;"
+"bug_id=&amp;votes=&amp;chfieldfrom=2010-10-10&amp;chfieldto=Now&amp;"
+"chfield=cf_versionfixedin&amp;chfieldvalue=4.8.0&amp;cmdtype=doit&amp;"
+"order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;"
+"type0-0-0=noop&amp;value0-0-0=\">bugzilla</a>. Okular 0.14 is a recommended "
+"update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.14  sürümü KDE uygulamalarının 4.8 sürümüyle birlikte "
+"yayımlandı. Bu yayım sütunlu belgelerde geliştirilmiş metin seçimi, tablo "
+"seçim aracı, notlarda LaTex tarama, geliştirilmiş gömülü dosya desteği (ör. "
+"Kile ile kullanım için), karşı karşıya sayfalar için daha iyi yerleşim, daha "
+"akıllı ekran koruyucu / güç yönetimi uyumu, geliştirilmiş sayfa etiketi "
+"desteği, öntanımlı yakınlaştırma yapılandırması, geliştirilmiş yatay "
+"yazdırma, vb. içeriyor. Hata ve özelliklerin tam olmayan bir listesini <a "
+"href=\"https://bugs.kde.org/buglist.cgi?query_format=advanced&amp;"
+"short_desc_type=allwordssubstr&amp;short_desc=&amp;product=okular&amp;"
+"long_desc_type=allwordssubstr&amp;long_desc=&amp;"
+"bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;"
+"keywords_type=allwords&amp;keywords=&amp;bug_status=RESOLVED&amp;"
+"bug_status=VERIFIED&amp;bug_status=CLOSED&amp;emailtype1=exact&amp;"
+"email1=&amp;emailtype2=substring&amp;email2=&amp;bugidtype=include&amp;"
+"bug_id=&amp;votes=&amp;chfieldfrom=2010-10-10&amp;chfieldto=Now&amp;"
+"chfield=cf_versionfixedin&amp;chfieldvalue=4.8.0&amp;cmdtype=doit&amp;"
+"order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;"
+"type0-0-0=noop&amp;value0-0-0=\">bugzilla</a>'da bulabilirsiniz. Okular "
+"kullanan herkese Okular 0.14'e güncelleme yapmaları önerilir."
+
+#: content/news/Okular_0.15_released.md:0
+msgid "Okular 0.15 released"
+msgstr "Okular 0.15 yayımlandı"
+
+#: content/news/Okular_0.15_released.md:5
+msgid ""
+"The 0.15 version of Okular has been released together with KDE Applications "
+"4.9 release. This release introduces new features like the ability to store "
+"annotations with PDF documents, more support for PDF movies, multiple "
+"bookmarks per page and some other minor improvements. You can find a non "
+"complete list of bugs and features in <a href=\"https://bugs.kde.org/buglist."
+"cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;"
+"short_desc=&amp;product=okular&amp;long_desc_type=allwordssubstr&amp;"
+"long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;"
+"keywords_type=allwords&amp;keywords=&amp;bug_status=RESOLVED&amp;"
+"bug_status=VERIFIED&amp;bug_status=CLOSED&amp;emailtype1=exact&amp;"
+"email1=&amp;emailtype2=substring&amp;email2=&amp;bugidtype=include&amp;"
+"bug_id=&amp;votes=&amp;chfieldfrom=2010-10-10&amp;chfieldto=Now&amp;"
+"chfield=cf_versionfixedin&amp;chfieldvalue=4.9.0&amp;cmdtype=doit&amp;"
+"order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;"
+"type0-0-0=noop&amp;value0-0-0=\">bugzilla</a>. Okular 0.15 is a recommended "
+"update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.15 sürümü KDE Uygulamaları 4.9 sürümü ile birlikte yayınlandı. "
+"Bu sürüm açıklama notlarını PDF belgelerinde saklama, PDF videoları için "
+"daha fazla destek, her sayfa için birden fazla yer imi ve bazı diğer "
+"ilerlemeler içeriyor. Tam olmayan hata ve özellikleri  <a href=\"https://"
+"bugs.kde.org/buglist.cgi?query_format=advanced&amp;"
+"short_desc_type=allwordssubstr&amp;short_desc=&amp;product=okular&amp;"
+"long_desc_type=allwordssubstr&amp;long_desc=&amp;"
+"bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;"
+"keywords_type=allwords&amp;keywords=&amp;bug_status=RESOLVED&amp;"
+"bug_status=VERIFIED&amp;bug_status=CLOSED&amp;emailtype1=exact&amp;"
+"email1=&amp;emailtype2=substring&amp;email2=&amp;bugidtype=include&amp;"
+"bug_id=&amp;votes=&amp;chfieldfrom=2010-10-10&amp;chfieldto=Now&amp;"
+"chfield=cf_versionfixedin&amp;chfieldvalue=4.9.0&amp;cmdtype=doit&amp;"
+"order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;"
+"type0-0-0=noop&amp;value0-0-0=\">bugzilla</a> içerisinde bulabilirsiniz. "
+"Okular 0.15, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_0.16_released.md:0
+msgid "Okular 0.16 released"
+msgstr "Okular 0.16 yayımlandı"
+
+#: content/news/Okular_0.16_released.md:5
+msgid ""
+"The 0.16 version of Okular has been released together with KDE Applications "
+"4.10 release. This release introduces new features like the ability to zoom "
+"to higher levels in PDF documents, an Active based viewer for your tablet "
+"devices, more support for PDF movies, viewport follows selection, and "
+"annotation editing improvements. Okular 0.16 is a recommended update for "
+"everyone using Okular."
+msgstr ""
+"Okular'ın 0.16 sürümü KDE uygulamalarının 4.10  sürümüyle birlikte "
+"yayımlandı. Bu sürüm PDF belgelerinde daha yüksek seviyelerde yakınlaştırma, "
+"tablet cihazlarınızda Active tabanlı görüntüleyici, PDF videoları için daha "
+"fazla destek, görünüm noktasının seçimi takip etmesi ve açıklama düzenleme "
+"ilerlemeleri. Okular 0.16, Okular kullanan herkes için önerilen bir "
+"güncellemedir."
+
+#: content/news/Okular_0.17_released.md:0
+msgid "Okular 0.17 released"
+msgstr "Okular 0.17 yayımlandı"
+
+#: content/news/Okular_0.17_released.md:5
+msgid ""
+"The 0.17 version of Okular has been released together with KDE Applications "
+"4.11 release. This release introduces new features like undo/redo support "
+"for forms and annotations and configurable review tools. Okular 0.17 is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_0.18_released.md:0
+#, fuzzy
+#| msgid "Okular 0.8 released"
+msgid "Okular 0.18 released"
+msgstr "Okular 0.8 yayımlandı"
+
+#: content/news/Okular_0.18_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 0.18 version of Okular has been released together with KDE Applications "
+"4.12 release. This release introduces new features like audio/video support "
+"in EPub files and also improvements to existing features like searching and "
+"printing. Okular 0.18 is a recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_0.19_released.md:0
+#, fuzzy
+#| msgid "Okular 0.17 released"
+msgid "Okular 0.19 released"
+msgstr "Okular 0.17 yayımlandı"
+
+#: content/news/Okular_0.19_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 0.19 version of Okular has been released together with KDE Applications "
+"4.13 release. This release introduces new features like tabs support in the "
+"interface, use of DPI screen so that page size matches real paper size, "
+"improvements to the Undo/Redo framework and other features/refinements. "
+"Okular 0.19 is a recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_0.21_released.md:0
+#, fuzzy
+#| msgid "Okular 0.11 released"
+msgid "Okular 0.21 released"
+msgstr "Okular 0.11 yayımlandı"
+
+#: content/news/Okular_0.21_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 0.21 version of Okular has been released together with KDE Applications "
+"14.12 release. This release introduces new features like latex-synctex "
+"reverse searching in dvi and small bugfixes. Okular 0.21 is a recommended "
+"update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_0.22_released.md:0
+#, fuzzy
+#| msgid "Okular 0.11 released"
+msgid "Okular 0.22 released"
+msgstr "Okular 0.11 yayımlandı"
+
+#: content/news/Okular_0.22_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.12 version of Okular has been released together with KDE "
+#| "Applications 4.6 release. This release introduce small fixes and features "
+#| "and is a recommended update for everyone using Okular."
+msgid ""
+"The 0.22 version of Okular has been released together with KDE Applications "
+"15.04 release. Okular 0.22 is a recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.12 sürümü KDE uygulamalarının 4.6 sürümüyle birlikte yayımlandı. "
+"Bu yayım küçük hata düzültmeleriyle özellikler içeriyor ve Okular kullanan "
+"herkese güncelleme yapmaları önerilir."
+
+#: content/news/Okular_0.23_released.md:0
+#, fuzzy
+#| msgid "Okular 0.11 released"
+msgid "Okular 0.23 released"
+msgstr "Okular 0.11 yayımlandı"
+
+#: content/news/Okular_0.23_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 0.23 version of Okular has been released together with KDE Applications "
+"15.08 release. This release introduces support for the Fade transition in "
+"presentation mode as well as some fixes regarding annotations and video "
+"playback. Okular 0.23 is a recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_0.24_released.md:0
+#, fuzzy
+#| msgid "Okular 0.11 released"
+msgid "Okular 0.24 released"
+msgstr "Okular 0.11 yayımlandı"
+
+#: content/news/Okular_0.24_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 0.24 version of Okular has been released together with KDE Applications "
+"15.12 release. This release introduces minor bugfixes and features, you can "
+"check the full changelog at <a href='https://www.kde.org/announcements/"
+"fulllog_applications-15.12.0.php#okular'>https://www.kde.org/announcements/"
+"fulllog_applications-15.12.0.php#okular</a>. Okular 0.24 is a recommended "
+"update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_0.26_released.md:0
+#, fuzzy
+#| msgid "Okular 0.11 released"
+msgid "Okular 0.26 released"
+msgstr "Okular 0.11 yayımlandı"
+
+#: content/news/Okular_0.26_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 0.26 version of Okular has been released together with KDE Applications "
+"16.08 release. This release introduces very small changes, you can check the "
+"full changelog at <a href='https://www.kde.org/announcements/"
+"fulllog_applications.php?version=16.08.0#okular'>https://www.kde.org/"
+"announcements/fulllog_applications.php?version=16.08.0#okular</a>. Okular "
+"0.26 is a recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_0.5.81_unstable_snapshot_released.md:0
+msgid "Okular 0.5.81 unstable snapshot released"
+msgstr "Okular 0.5.81 kararsız anlık görüntüsü yayımlandı"
+
+#: content/news/Okular_0.5.81_unstable_snapshot_released.md:5
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "\t\t\t\tThe Okular team is proud to announce the release of a snapshot of "
+#| "Okular that compiles against the <a href=\"http://dot.kde.org/1162475911/"
+#| "\">Second KDE 4 Developers Snapshot</a>. This snapshot is not completely "
+#| "functional, yet, as we have lots of things to polish and finish, but you "
+#| "are free to test it and provide as much feedback as you want. You can "
+#| "find the snapshot package at <a href=\"ftp://ftp.kde.org/pub/kde/unstable/"
+#| "apps/KDE4.x/graphics/okular-0.5.81.tar.bz2\">ftp://ftp.kde.org/pub/kde/"
+#| "unstable/apps/KDE4.x/graphics/okular-0.5.81.tar.bz2</a>. Have a look at "
+#| "the <a href=\"download.php\">download</a> page to be sure you have all "
+#| "the necessary libraries.\n"
+#| "\t\t\t"
+msgid ""
+"The Okular team is proud to announce the release of a snapshot of Okular "
+"that compiles against the <a href=\"http://dot.kde.org/1162475911/\">Second "
+"KDE 4 Developers Snapshot</a>. This snapshot is not completely functional, "
+"yet, as we have lots of things to polish and finish, but you are free to "
+"test it and provide as much feedback as you want. You can find the snapshot "
+"package at <a href=\"ftp://ftp.kde.org/pub/kde/unstable/apps/KDE4.x/graphics/"
+"okular-0.5.81.tar.bz2\">ftp://ftp.kde.org/pub/kde/unstable/apps/KDE4.x/"
+"graphics/okular-0.5.81.tar.bz2</a>. Have a look at the <a href=\"download.php"
+"\">download</a> page to be sure you have all the necessary libraries."
+msgstr ""
+"\n"
+"\t\t\t\tOkular takımı <a href=\"http://dot.kde.org/1162475911/\">İkinci KDE "
+"4 Geliştirici Derlemesi</a>'ne karşı Okular'ın bu derleme dağıtımını gururla "
+"bildirir. Hala tamamlamamız ve düzeltmemiz gereken birçok şey olduğundan, bu "
+"derleme henüz tamamen işlevsel değildir, ancak istediğiniz kadar geri "
+"bildirim göndermekte ve test etmekte özgürsünüz. Derleme paketini <a href="
+"\"ftp://ftp.kde.org/pub/kde/unstable/apps/KDE4.x/graphics/okular-0.5.81.tar."
+"bz2\">ftp://ftp.kde.org/pub/kde/unstable/apps/KDE4.x/graphics/okular-0.5.81."
+"tar.bz2</a> adresinde bulabilirsiniz. Tüm gerekli kütüphanelere sahip "
+"olduğunuzdan emin olmak için <a href=\"download.php\">indirme</a> sayfasına "
+"bakın.\n"
+"\t\t\t"
+
+#: content/news/Okular_0.5_unstable_snapshot_released.md:0
+msgid "Okular 0.5 unstable snapshot released"
+msgstr "Okular 0.5 kararsız anlık görüntüsü yayımlandı"
+
+#: content/news/Okular_0.5_unstable_snapshot_released.md:5
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "\t\t\t\tThe Okular team is proud to announce the release of a snapshot of "
+#| "Okular that compiles against the <a href=\"http://dot.kde.org/1155935483/"
+#| "\">KDE 4 'Krash' snapshot</a>. This snapshot is still not completely "
+#| "functional as we have lots of things to polish and finish but you are "
+#| "free to test it and provide as much feedback as you want. You can find "
+#| "the snapshot package at <a href=\"ftp://ftp.kde.org/pub/kde/unstable/apps/"
+#| "KDE4.x/graphics/okular-0.5.tar.bz2\">ftp://ftp.kde.org/pub/kde/unstable/"
+#| "apps/KDE4.x/graphics/okular-0.5.tar.bz2</a>. Have a look at the <a href="
+#| "\"download.php\">download</a> page to be sure you have all the necessary "
+#| "libraries.\n"
+#| "\t\t\t"
+msgid ""
+"The Okular team is proud to announce the release of a snapshot of Okular "
+"that compiles against the <a href=\"http://dot.kde.org/1155935483/\">KDE 4 "
+"'Krash' snapshot</a>. This snapshot is still not completely functional as we "
+"have lots of things to polish and finish but you are free to test it and "
+"provide as much feedback as you want. You can find the snapshot package at "
+"<a href=\"ftp://ftp.kde.org/pub/kde/unstable/apps/KDE4.x/graphics/okular-0.5."
+"tar.bz2\">ftp://ftp.kde.org/pub/kde/unstable/apps/KDE4.x/graphics/okular-0.5."
+"tar.bz2</a>. Have a look at the <a href=\"download.php\">download</a> page "
+"to be sure you have all the necessary libraries."
+msgstr ""
+"\n"
+"\t\t\t\tOkular takımı <a href=\"http://dot.kde.org/1155935483/\">KDE 4 "
+"'Krash' derlemesi</a>'ne karşı Okular'ın bu derleme dağıtımını gururla "
+"bildirir. Hala tamamlamamız ve düzeltmemiz gereken birçok şey olduğundan, bu "
+"derleme henüz tamamen işlevsel değildir, ancak istediğiniz kadar geri "
+"bildirim göndermekte ve test etmekte özgürsünüz. Derleme paketini <a href="
+"\"ftp://ftp.kde.org/pub/kde/unstable/apps/KDE4.x/graphics/okular-0.5.tar."
+"bz2\">ftp://ftp.kde.org/pub/kde/unstable/apps/KDE4.x/graphics/okular-0.5.tar."
+"bz2</a> adresinde bulabilirsiniz. Tüm gerekli kütüphanelere sahip "
+"olduğunuzdan emin olmak için <a href=\"download.php\">indirme</a> sayfasına "
+"bakın.\n"
+"\t\t\t"
+
+#: content/news/Okular_0.6.1_released.md:0
+msgid "Okular 0.6.1 released"
+msgstr "Okular 0.6.1 yayımlandı"
+
+#: content/news/Okular_0.6.1_released.md:5
+msgid ""
+"The first maintenance release of the KDE 4.0 series includes Okular 0.6.1. "
+"It includes quite a few bug fixes, including better not redownloading files "
+"when saving, usability improvements, etc. You can read all the fixed issues "
+"at <a href=\"http://www.kde.org/announcements/changelogs/changelog4_0to4_0_1."
+"php#okular\">http://www.kde.org/announcements/changelogs/changelog4_0to4_0_1."
+"php</a>"
+msgstr ""
+"KDE 4.0 serisinin ilk bakım sürümü Okular 0.6.1'i içeriyor. Bu sürüm tekrar "
+"indirilmeyen dosyaların daha iyi kaydedilmesi, kullanılabilirlik "
+"iyileştirmeleri dahil olmak üzere pek çok hata düzeltmesi içeriyor. Tüm "
+"düzeltilen durumları <a href=\"http://www.kde.org/announcements/changelogs/"
+"changelog4_0to4_0_1.php#okular\">http://www.kde.org/announcements/changelogs/"
+"changelog4_0to4_0_1.php</a> adresinde okuyabilirsiniz."
+
+#: content/news/Okular_0.6.2_released.md:0
+msgid "Okular 0.6.2 released"
+msgstr "Okular 0.6.2 yayımlandı"
+
+#: content/news/Okular_0.6.2_released.md:5
+msgid ""
+"The second maintenance release of the KDE 4.0 series includes Okular 0.6.2. "
+"It includes quite a few bug fixes, including more stability when closing a "
+"document, and small fixes for the bookmark system. You can read all the "
+"fixed issues at <a href=\"http://www.kde.org/announcements/changelogs/"
+"changelog4_0_1to4_0_2.php#okular\">http://www.kde.org/announcements/"
+"changelogs/changelog4_0_1to4_0_2.php</a>"
+msgstr ""
+"KDE 4.0 serisinin ikinci bakım sürümü Okular 0.6.2'yi içeriyor. Bu sürüm "
+"belge kapatırken daha fazla kararlılık sağlanması ve yer imleme sisteminde "
+"küçük düzeltmeler dahil olmak üzere pek çok hata düzeltmesi içermektedir. "
+"Tüm düzeltilen durumları <a href=\"http://www.kde.org/announcements/"
+"changelogs/changelog4_0_1to4_0_2.php#okular\">http://www.kde.org/"
+"announcements/changelogs/changelog4_0_1to4_0_2.php</a> adresinde "
+"okuyabilirsiniz."
+
+#: content/news/Okular_0.6.3_released.md:0
+msgid "Okular 0.6.3 released"
+msgstr "Okular 0.6.3 yayımlandı"
+
+#: content/news/Okular_0.6.3_released.md:5
+msgid ""
+"The third maintenance release of the KDE 4.0 series includes Okular 0.6.3. "
+"It includes few bug fixes, i.e. a better way to get the text position in a "
+"PDF document, and a couple of fixes for the annotation system, and the table "
+"of contents. You can read all the fixed issues at <a href=\"http://www.kde."
+"org/announcements/changelogs/changelog4_0_2to4_0_3.php#okular\">http://www."
+"kde.org/announcements/changelogs/changelog4_0_2to4_0_3.php</a>"
+msgstr ""
+"KDE 4.0 serisinin üçüncü bakım sürümü Okular 0.6.3'ü içeriyor. Bu sürüm PDF "
+"belgelerinde metin konumu almak için daha iyi bir yol bulunması gibi birkaç "
+"hata düzeltmesi, not sisteminde ve içerik tablosunda çeşitli düzeltmeler "
+"içeriyor. Düzeltilen tüm durumları <a href=\"http://www.kde.org/"
+"announcements/changelogs/changelog4_0_2to4_0_3.php#okular\">http://www.kde."
+"org/announcements/changelogs/changelog4_0_2to4_0_3.php</a> adresinde "
+"okuyabilirsiniz."
+
+#: content/news/Okular_0.7.1_released.md:0
+msgid "Okular 0.7.1 released"
+msgstr "Okular 0.7.1 yayımlandı"
+
+#: content/news/Okular_0.7.1_released.md:5
+msgid ""
+"The first maintenance release of the KDE 4.1 series includes Okular 0.7.1. "
+"It includes some crash fixes among other minor fixes. You can read all the "
+"fixed issues at <a href=\"http://www.kde.org/announcements/changelogs/"
+"changelog4_1to4_1_1.php#okular\">http://www.kde.org/announcements/changelogs/"
+"changelog4_1to4_1_1.php</a>"
+msgstr ""
+"KDE 4.1 serisinin ilk bakım sürümü Okular 0.7.1'i içeriyor. Bu sürüm bazı "
+"çökme düzeltmelerinin yanı sıra bazı küçük düzeltmeleri içeriyor. Düzeltilen "
+"tüm durumları <a href=\"http://www.kde.org/announcements/changelogs/"
+"changelog4_1to4_1_1.php#okular\">http://www.kde.org/announcements/changelogs/"
+"changelog4_1to4_1_1.php</a> adresinde okuyabilirsiniz."
+
+#: content/news/Okular_0.7.2_released.md:0
+msgid "Okular 0.7.2 released"
+msgstr "Okular 0.7.2 yayımlandı"
+
+#: content/news/Okular_0.7.2_released.md:5
+msgid ""
+"The second maintenance release of the KDE 4.1 series includes Okular 0.7.2. "
+"It includes some minor fixes in the TIFF and Comicbook backends and the "
+"change to \"Fit Width\" as default zoom level. You can read all the fixed "
+"issues at <a href=\"http://www.kde.org/announcements/changelogs/"
+"changelog4_1_1to4_1_2.php#okular\">http://www.kde.org/announcements/"
+"changelogs/changelog4_1_1to4_1_2.php</a>"
+msgstr ""
+"KDE 4.1 serisinin ikinci bakım sürümü Okular 0.7.2'yi içeriyor. Bu sürüm "
+"TIFF ve Comicbook arka uçlarında bazı küçük düzeltmeleri ve \"Genişliğe "
+"Sığdır\" seçeneğinin öntanımlı yakınlaştırma seviyesi olması değişimini "
+"içeriyor. Düzeltilen tüm durumları <a href=\"http://www.kde.org/"
+"announcements/changelogs/changelog4_1_1to4_1_2.php#okular\">http://www.kde."
+"org/announcements/changelogs/changelog4_1_1to4_1_2.php</a> adresinde "
+"okuyabilirsiniz."
+
+#: content/news/Okular_0.7.3_released.md:0
+msgid "Okular 0.7.3 released"
+msgstr "Okular 0.7.3 yayımlandı"
+
+#: content/news/Okular_0.7.3_released.md:5
+msgid ""
+"The third maintenance release of the KDE 4.1 series includes Okular 0.7.3. "
+"It includes some minor fixes in the user interface and in the text search. "
+"You can read all the fixed issues at <a href=\"http://www.kde.org/"
+"announcements/changelogs/changelog4_1_2to4_1_3.php#okular\">http://www.kde."
+"org/announcements/changelogs/changelog4_1_2to4_1_3.php</a>"
+msgstr ""
+"KDE 4.1 serisinin üçüncü bakım sürümü Okular 0.7.3'ü içeriyor. Bu sürüm "
+"kullanıcı arayüzünde ve metin aramada bazı küçük düzeltmeleri içeriyor. "
+"Düzeltilen tüm durumları <a href=\"http://www.kde.org/announcements/"
+"changelogs/changelog4_1_2to4_1_3.php#okular\">http://www.kde.org/"
+"announcements/changelogs/changelog4_1_2to4_1_3.php</a> adresinde "
+"okuyabilirsiniz."
+
+#: content/news/Okular_0.7_released.md:0
+msgid "Okular 0.7 released"
+msgstr "Okular 0.7 yayımlandı"
+
+#: content/news/Okular_0.7_released.md:5
+msgid ""
+"The Okular team is proud to announce a new version of Okular, released as "
+"part of <a href=\"http://www.kde.org/announcements/4.1/\">KDE 4.1</a>. Some "
+"of the new features and improvements include (in random order):"
+msgstr ""
+
+#: content/news/Okular_0.7_released.md:7
+msgid "Possibility to save a PDF document with the changes to the form fields"
+msgstr ""
+
+#: content/news/Okular_0.7_released.md:8
+msgid ""
+"Presentation mode: support for more than one screen, and possibility to "
+"disable transitions"
+msgstr ""
+
+#: content/news/Okular_0.7_released.md:9
+msgid "The zoom level is stored per-document now"
+msgstr ""
+
+#: content/news/Okular_0.7_released.md:10
+msgid ""
+"Enhanced text-to-speech support, that can be used to read the whole "
+"document, a specific page or the text selection"
+msgstr ""
+
+#: content/news/Okular_0.7_released.md:11
+msgid "Backward direction for text search"
+msgstr ""
+
+#: content/news/Okular_0.7_released.md:12
+msgid "Improved support for forms"
+msgstr ""
+
+#: content/news/Okular_0.7_released.md:13
+msgid ""
+"Preliminary (really basic and most probably incomplete) support for "
+"JavaScript in PDF documents"
+msgstr ""
+
+#: content/news/Okular_0.7_released.md:14
+msgid "Support for file attachment annotations"
+msgstr ""
+
+#: content/news/Okular_0.7_released.md:15
+msgid "Possibility to remove the white border of pages when viewing pages"
+msgstr ""
+
+#: content/news/Okular_0.7_released.md:16
+msgid "New backend for EPub documents"
+msgstr ""
+
+#: content/news/Okular_0.7_released.md:17
+msgid ""
+"OpenDocument Text backend: support for encrypted documents, list and tables "
+"improvements"
+msgstr ""
+
+#: content/news/Okular_0.7_released.md:18
+msgid ""
+"XPS backend: various loading and rendering improvements, should be much more "
+"usable now"
+msgstr ""
+
+#: content/news/Okular_0.7_released.md:19
+msgid ""
+"PS backend: various improvements, mainly due to the newer libspectre required"
+msgstr ""
+
+#: content/news/Okular_0.8.1_released.md:0
+msgid "Okular 0.8.1 released"
+msgstr "Okular 0.8.1 yayımlandı"
+
+#: content/news/Okular_0.8.1_released.md:5
+msgid ""
+"The first maintenance release of the KDE 4.2 series includes Okular 0.8.1. "
+"It includes some crash fixes in the CHM and DjVu backends, and minor fixes "
+"in the user interface. You can read all the fixed issues at <a href=\"http://"
+"www.kde.org/announcements/changelogs/changelog4_2to4_2_1.php#okular\">http://"
+"www.kde.org/announcements/changelogs/changelog4_2to4_2_1.php</a>"
+msgstr ""
+"KDE 4.2 serisinin ilk bakım sürümü Okular 0.8.1'i içeriyor. Bu sürüm CHM ve "
+"DjVu arka uçlarında bazı çökme düzeltmeleri ve kullanıcı arayüzünde küçük "
+"düzeltmeleri içeriyor. Düzeltilen tüm durumları  <a href=\"http://www.kde."
+"org/announcements/changelogs/changelog4_2to4_2_1.php#okular\">http://www.kde."
+"org/announcements/changelogs/changelog4_2to4_2_1.php</a> adresinde "
+"okuyabilirsiniz."
+
+#: content/news/Okular_0.8.2_released.md:0
+msgid "Okular 0.8.2 released"
+msgstr "Okular 0.8.2 yayımlandı"
+
+#: content/news/Okular_0.8.2_released.md:5
+msgid ""
+"The second maintenance release of the KDE 4.2 series includes Okular 0.8.2. "
+"It includes better support (hopefully working) for DVI and pdfsync inverse "
+"search, and fixes and small improvements in the presentation mode. You can "
+"read all the fixed issues at <a href=\"http://www.kde.org/announcements/"
+"changelogs/changelog4_2_1to4_2_2.php#okular\">http://www.kde.org/"
+"announcements/changelogs/changelog4_2_1to4_2_2.php</a>"
+msgstr ""
+"KDE 4.2 serisinin ikinci bakım sürümü Okular 0.8.2'yi içeriyor. Bu sürüm DVI "
+"ve pdfsync için daha iyi (çalışmasının umulduğu) ters arama desteği, "
+"düzeltmeler ve sunum kipiyle ilgili küçük iyileştirmeler içeriyor. "
+"Düzeltilen tüm durumları <a href=\"http://www.kde.org/announcements/"
+"changelogs/changelog4_2_1to4_2_2.php#okular\">http://www.kde.org/"
+"announcements/changelogs/changelog4_2_1to4_2_2.php</a> adresinde "
+"okuyabilirsiniz."
+
+#: content/news/Okular_0.8.3_released.md:0
+msgid "Okular 0.8.3 released"
+msgstr "Okular 0.8.3 yayımlandı"
+
+#: content/news/Okular_0.8.3_released.md:5
+msgid ""
+"The third maintenance release of the KDE 4.2 series includes Okular 0.8.3. "
+"It does not provide much news for Okular, the only relevant change is about "
+"thread more safety when generating page images of XPS document. You can read "
+"all the fixed issues at <a href=\"http://www.kde.org/announcements/"
+"changelogs/changelog4_2_2to4_2_3.php#okular\">http://www.kde.org/"
+"announcements/changelogs/changelog4_2_2to4_2_3.php</a>"
+msgstr ""
+"KDE 4.2 serisinin üçüncü bakım sürümü Okular 0.8.3'ü içeriyor. Bu sürümde "
+"Okular için pek fazla haber yok, konuyla ilgili tek değişiklik XPS "
+"belgelerinin sayfa görüntüleri oluşturulurken daha güvenli iş "
+"parçacıklarının kullanımıyla ilgili. Tüm düzeltilmiş durumları <a href="
+"\"http://www.kde.org/announcements/changelogs/changelog4_2_2to4_2_3."
+"php#okular\">http://www.kde.org/announcements/changelogs/"
+"changelog4_2_2to4_2_3.php</a> adresinde okuyabilirsiniz."
+
+#: content/news/Okular_0.8.4_released.md:0
+msgid "Okular 0.8.4 released"
+msgstr "Okular 0.8.4 yayımlandı"
+
+#: content/news/Okular_0.8.4_released.md:5
+msgid ""
+"The forth maintenance release of the KDE 4.2 series includes Okular 0.8.4. "
+"It includes some fixes in OpenDocument Text documents, a couple of crash "
+"fixes, and few small bugs in the interface. You can read all the fixed "
+"issues at <a href=\"http://www.kde.org/announcements/changelogs/"
+"changelog4_2_3to4_2_4.php#okular\">http://www.kde.org/announcements/"
+"changelogs/changelog4_2_3to4_2_4.php</a>"
+msgstr ""
+"KDE 4.2 serisinin dördüncü bakım sürümü Okular 0.8.4'ü içeriyor. Bu sürüm "
+"OpenDocument metin belgelerinde bazı düzeltmeler, birkaç çökme düzeltmesi ve "
+"arayüzde bazı küçük hata düzeltmeleri içeriyor. Düzeltilen tüm durumları <a "
+"href=\"http://www.kde.org/announcements/changelogs/changelog4_2_3to4_2_4."
+"php#okular\">http://www.kde.org/announcements/changelogs/"
+"changelog4_2_3to4_2_4.php</a> adresinde okuyabilirsiniz."
+
+#: content/news/Okular_0.8_released.md:0
+msgid "Okular 0.8 released"
+msgstr "Okular 0.8 yayımlandı"
+
+#: content/news/Okular_0.8_released.md:5
+msgid ""
+"The Okular team is proud to announce a new version of Okular, released as "
+"part of <a href=\"http://www.kde.org/announcements/4.2/\">KDE 4.2</a>. Some "
+"of the new features and improvements include (in random order): <ul type="
+"\"disc\"> <li>Add a Document Archiving possibility</li> <li>Start a search "
+"from the current page</li> <li>Preliminar support for videos in PDF "
+"documents</li> <li>Presentation mode improvements: screen saver inhibition, "
+"and black screen mode</li> <li>More stamp annotations</li> <li>Support for "
+"Lilypond's \"point-and-click\" links</li> <li>Editor configuration for "
+"inverse search</li> <li>Export to OpenDocument Text and HTML for ODT, "
+"Fictionbook and EPub backends (requires Qt 4.5)</li> <li>New backend for G3/"
+"G4 fax documents</li> <li>DjVu backend: memory management improvements</li> "
+"<li>OpenDocument Text backend: various improvements</li> <li>... other small "
+"features and fixes</li> </ul> And, of course, many bugs were fixed."
+msgstr ""
+"Okular takımı <a href=\"http://www.kde.org/announcements/4.2/\">KDE 4.2</"
+"a>'nin bir parçası olarak Okular'ın yeni sürümünü duyurmaktan gurur duyar. "
+"İçerilen yeni özellik ve iyileştirmelerden bazıları (rastgele sırayla): <ul "
+"type=\"disc\"> <li>Belge Arşivleme olanağı eklendi</li> <li>Geçerli sayfadan "
+"arama başlatma</li> <li>PDF belgelerinde videolar için ön destek</li> "
+"<li>Sunum kipi iyileştirmeleri: ekran koruyucu engelleme ve siyah ekran "
+"kipi</li> <li>Daha çok damga notları</li> <li>Lilypond'un üzerine tıklamalı "
+"bağlantıları için destek</li> <li>Ters arama için düzenleyici "
+"yapılandırması</li> <li>OpenDocument metni ve ODT için HTML olarak aktarma, "
+"Fictionbook ve EPub arka uçları (Qt 4.5 gerektirir)</li> <li>G3/G4 faks "
+"belgeleri için yeni arka uç</li> <li>DjVu arka ucu: bellek yönetim "
+"iyileştirmeleri</li> <li>OpenDocument metin arka ucu: çeşitli "
+"iyileştirmeler</li> <li>... diğer küçük özellik ve düzeltmeler</li> </ul> Ve "
+"tabii ki pek çok hata düzeltildi."
+
+#: content/news/Okular_0.9.4_released.md:0
+msgid "Okular 0.9.4 released"
+msgstr "Okular 0.9.4 yayımlandı"
+
+#: content/news/Okular_0.9.4_released.md:5
+msgid ""
+"The forth maintenance release of the KDE 4.3 series includes Okular 0.9.4. "
+"It includes some crash fixes, and few small bug fixes in the interface. You "
+"can read all the fixed issues at <a href=\"http://www.kde.org/announcements/"
+"changelogs/changelog4_3_3to4_3_4.php#okular\">http://www.kde.org/"
+"announcements/changelogs/changelog4_3_3to4_3_4.php</a>"
+msgstr ""
+"KDE 4.3 serisinin dördüncü bakım sürümü Okular 0.9.4'ü içeriyor. Bu sürümde "
+"bazı çöküş düzeltmeleri ve arayüzde bazı küçük hata düzeltmeleri bulunuyor. "
+"Tüm düzeltilen durumları <a href=\"http://www.kde.org/announcements/"
+"changelogs/changelog4_3_3to4_3_4.php#okular\">http://www.kde.org/"
+"announcements/changelogs/changelog4_3_3to4_3_4.php</a> adresinde "
+"okuyabilirsiniz."
+
+#: content/news/Okular_1.0_released.md:0
+#, fuzzy
+#| msgid "Okular 0.10 released"
+msgid "Okular 1.0 released"
+msgstr "Okular 0.10 yayımlandı"
+
+#: content/news/Okular_1.0_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 1.0 version of Okular has been released together with KDE Applications "
+"16.12 release. This release is now based in KDE Frameworks 5, you can check "
+"the full changelog at <a href='https://www.kde.org/announcements/"
+"fulllog_applications.php?version=16.12.0#okular'>https://www.kde.org/"
+"announcements/fulllog_applications.php?version=16.12.0#okular</a>. Okular "
+"1.0 is a recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_1.10_released.md:0
+#, fuzzy
+#| msgid "Okular 0.10 released"
+msgid "Okular 1.10 released"
+msgstr "Okular 0.10 yayımlandı"
+
+#: content/news/Okular_1.10_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 1.10 version of Okular has been released. This release introduces "
+"kinetic scrolling, tab management improvements, improvements to the Mobile "
+"UI and various minor fixes and features all over. You can check the full "
+"changelog at <a href='https://kde.org/announcements/changelog-releases.php?"
+"version=20.04.0#okular'>https://kde.org/announcements/changelog-releases.php?"
+"version=20.04.0#okular</a>. Okular 1.10 is a recommended update for everyone "
+"using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_1.11_released.md:0
+#, fuzzy
+#| msgid "Okular 0.10 released"
+msgid "Okular 1.11 released"
+msgstr "Okular 0.10 yayımlandı"
+
+#: content/news/Okular_1.11_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 1.11 version of Okular has been released. This release introduces a new "
+"annotation user interface and various minor fixes and features all over. You "
+"can check the full changelog at <a href='https://kde.org/announcements/"
+"changelog-releases.php?version=20.08.0#okular'>https://kde.org/announcements/"
+"changelog-releases.php?version=20.08.0#okular</a>. Okular 1.11 is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_1.1_released.md:0
+#, fuzzy
+#| msgid "Okular 0.10 released"
+msgid "Okular 1.1 released"
+msgstr "Okular 0.10 yayımlandı"
+
+#: content/news/Okular_1.1_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 1.1 version of Okular has been released together with KDE Applications "
+"17.04 release. This release introduces annotation resize functionality, "
+"support for automatic calculation of form contents, touch screen "
+"improvements and more! You can check the full changelog at <a href='https://"
+"www.kde.org/announcements/fulllog_applications.php?"
+"version=17.04.0#okular'>https://www.kde.org/announcements/"
+"fulllog_applications.php?version=17.04.0#okular</a>. Okular 1.1 is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_1.2_released.md:0
+#, fuzzy
+#| msgid "Okular 0.10 released"
+msgid "Okular 1.2 released"
+msgstr "Okular 0.10 yayımlandı"
+
+#: content/news/Okular_1.2_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 1.2 version of Okular has been released together with KDE Applications "
+"17.08 release. This release introduces minor bugfixes and improvements. You "
+"can check the full changelog at <a href='https://www.kde.org/announcements/"
+"fulllog_applications.php?version=17.08.0#okular'>https://www.kde.org/"
+"announcements/fulllog_applications.php?version=17.08.0#okular</a>. Okular "
+"1.2 is a recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_1.3_released.md:0
+#, fuzzy
+#| msgid "Okular 0.10 released"
+msgid "Okular 1.3 released"
+msgstr "Okular 0.10 yayımlandı"
+
+#: content/news/Okular_1.3_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 1.3 version of Okular has been released together with KDE Applications "
+"17.12 release. This release introduces changes to how saving annotations and "
+"form data works, supports partial rendering updates for files that take long "
+"time to render, makes text links interactive on text selection mode, adds a "
+"Share option in the File menu, adds Markdown support and fixes some issues "
+"regarding HiDPI support. You can check the full changelog at <a "
+"href='https://www.kde.org/announcements/fulllog_applications.php?"
+"version=17.12.0#okular'>https://www.kde.org/announcements/"
+"fulllog_applications.php?version=17.12.0#okular</a>. Okular 1.3 is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_1.4_released.md:0
+#, fuzzy
+#| msgid "Okular 0.10 released"
+msgid "Okular 1.4 released"
+msgstr "Okular 0.10 yayımlandı"
+
+#: content/news/Okular_1.4_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 1.4 version of Okular has been released together with KDE Applications "
+"18.04 release. This release introduces improved JavaScript support in PDF "
+"files and supports PDF rendering cancelling, which means that if you have a "
+"complex PDF file and you change the zoom while it's rendering it will cancel "
+"immediately instead of waiting for the render to finish. You can check the "
+"full changelog at <a href='https://www.kde.org/announcements/"
+"fulllog_applications.php?version=18.04.0#okular'>https://www.kde.org/"
+"announcements/fulllog_applications.php?version=18.04.0#okular</a>. Okular "
+"1.4 is a recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_1.5_released.md:0
+#, fuzzy
+#| msgid "Okular 0.10 released"
+msgid "Okular 1.5 released"
+msgstr "Okular 0.10 yayımlandı"
+
+#: content/news/Okular_1.5_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 1.5 version of Okular has been released together with KDE Applications "
+"18.08 release. This release introduces Form improvements among various other "
+"fixes and small features. You can check the full changelog at <a "
+"href='https://www.kde.org/announcements/fulllog_applications.php?"
+"version=18.08.0#okular'>https://www.kde.org/announcements/"
+"fulllog_applications.php?version=18.08.0#okular</a>. Okular 1.5 is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_1.6_released.md:0
+#, fuzzy
+#| msgid "Okular 0.10 released"
+msgid "Okular 1.6 released"
+msgstr "Okular 0.10 yayımlandı"
+
+#: content/news/Okular_1.6_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 1.6 version of Okular has been released together with KDE Applications "
+"18.12 release. This release introduces the new Typewriter annotation tool "
+"among various other fixes and small features. You can check the full "
+"changelog at <a href='https://www.kde.org/announcements/fulllog_applications-"
+"aether.php?version=18.12.0#okular'>https://www.kde.org/announcements/"
+"fulllog_applications-aether.php?version=18.12.0#okular</a>. Okular 1.6 is a "
+"recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_1.8_released.md:0
+#, fuzzy
+#| msgid "Okular 0.10 released"
+msgid "Okular 1.8 released"
+msgstr "Okular 0.10 yayımlandı"
+
+#: content/news/Okular_1.8_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 1.8 version of Okular has been released together with KDE Applications "
+"19.08 release. This release introduces the feature of setting Line "
+"Annotation endings among various other fixes and small features. You can "
+"check the full changelog at <a href='https://www.kde.org/announcements/"
+"fulllog_applications-aether.php?version=19.08.0#okular'>https://www.kde.org/"
+"announcements/fulllog_applications-aether.php?version=19.08.0#okular</a>. "
+"Okular 1.8 is a recommended update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_1.9_released.md:0
+#, fuzzy
+#| msgid "Okular 0.10 released"
+msgid "Okular 1.9 released"
+msgstr "Okular 0.10 yayımlandı"
+
+#: content/news/Okular_1.9_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 1.9 version of Okular has been released. This release introduces cb7 "
+"support for ComicBook archives, improved JavaScript support for PDF files "
+"among various other fixes and small features. You can check the full "
+"changelog at <a href='https://kde.org/announcements/changelog-releases.php?"
+"version=19.12.0#okular'>https://kde.org/announcements/changelog-releases.php?"
+"version=19.12.0#okular</a>. Okular 1.9 is a recommended update for everyone "
+"using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_20.12_released.md:0
+#, fuzzy
+#| msgid "Okular 0.12 released"
+msgid "Okular 20.12 released"
+msgstr "Okular 0.12 yayımlandı"
+
+#: content/news/Okular_20.12_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 20.12 version of Okular has been released. This release introduces "
+"various minor fixes and features all over. You can check the full changelog "
+"at <a href='https://kde.org/announcements/changelog-releases.php?"
+"version=20.12.0#okular'>https://kde.org/announcements/changelog-releases.php?"
+"version=20.12.0#okular</a>. Okular 20.12 is a recommended update for "
+"everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_21.04_released.md:0
+#, fuzzy
+#| msgid "Okular 0.10 released"
+msgid "Okular 21.04 released"
+msgstr "Okular 0.10 yayımlandı"
+
+#: content/news/Okular_21.04_released.md:5
+#, fuzzy
+#| msgid ""
+#| "The 0.17 version of Okular has been released together with KDE "
+#| "Applications 4.11 release. This release introduces new features like undo/"
+#| "redo support for forms and annotations and configurable review tools. "
+#| "Okular 0.17 is a recommended update for everyone using Okular."
+msgid ""
+"The 21.04 version of Okular has been released. This release introduces "
+"Digital Signing of PDF files and various minor fixes and features all over. "
+"You can check the full changelog at <a href='https://kde.org/announcements/"
+"changelogs/releases/21.04.0/#okular'>https://kde.org/announcements/"
+"changelogs/releases/21.04.0/#okular</a>. Okular 21.04 is a recommended "
+"update for everyone using Okular."
+msgstr ""
+"Okular'ın 0.17 sürümü KDE uygulamalarının 4.11 sürümüyle birlikte "
+"yayımlandı. Bu sürüm formlar ve yorumlar için geri alma/yineleme özelliği ve "
+"yapılandırılabilir inceleme araçları gibi yeni özellikler içeriyor. Okular "
+"0.17, Okular kullanan herkes için önerilen bir güncellemedir."
+
+#: content/news/Okular_forums.md:0
+msgid "Okular forums"
+msgstr "Okular forumları"
+
+#: content/news/Okular_forums.md:5
+#, fuzzy
+#| msgid ""
+#| "We now have a subforum inside the KDE Community Forums. You can find it "
+#| "at <a href=\"http://forum.kde.org/viewforum.php?f=251\">http://forum.kde."
+#| "org/viewforum.php?f=251</href>."
+msgid ""
+"We now have a subforum inside the KDE Community Forums. You can find it at "
+"<a href=\"http://forum.kde.org/viewforum.php?f=251\">http://forum.kde.org/"
+"viewforum.php?f=251</a>."
+msgstr ""
+"Artık KDE Topluluk Forumları altında alt forumumuz var. <a href=\"http://"
+"forum.kde.org/viewforum.php?f=251\">http://forum.kde.org/viewforum.php?"
+"f=251</href> adresinden ulaşabilirsiniz."
+
+#: content/news/Okular_in_kdegraphics.md:0
+msgid "Okular in kdegraphics"
+msgstr "kdegraphics'te Okular"
+
+#: content/news/Okular_in_kdegraphics.md:5
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "\t\t\t\tThe Okular team is proud to announce Okular is now part of the "
+#| "kdegraphics module. The next version of Okular will be shipped with KDE "
+#| "4.0.\n"
+#| "\t\t\t"
+msgid ""
+"The Okular team is proud to announce Okular is now part of the kdegraphics "
+"module. The next version of Okular will be shipped with KDE 4.0."
+msgstr ""
+"\n"
+"\t\t\t\tOkular takımı kdegraphics modülünün bir parçası olarak Okular'ın "
+"yeni sürümünü duyurmaktan gurur duyar. Okular'ın gelecek sürümü KDE 4.0 ile "
+"birlikte sunulacak.\n"
+"\t\t\t"
+
+#: content/news/Okular_joins_The_Season_of_Usability_project.md:0
+msgid "Okular joins The Season of Usability project"
+msgstr "Okular, The Season of Usability projesine katılıyor"
+
+#: content/news/Okular_joins_The_Season_of_Usability_project.md:5
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "\t\t\t\tThe Okular team is proud to announce Okular has been one of the "
+#| "applications selected to participate in the <a href=\"http://www."
+#| "openusability.org/season/0607/\">Season of Usability</a> project, run by "
+#| "usability experts at <a href=\"http://www.openusability.org"
+#| "\">OpenUsability</a>. From here we want to welcome Sharad Baliyan to the "
+#| "team and thank Florian Graessle and Pino Toscano for their continued work "
+#| "on improving Okular.\n"
+#| "\t\t\t"
+msgid ""
+"The Okular team is proud to announce Okular has been one of the applications "
+"selected to participate in the <a href=\"http://www.openusability.org/"
+"season/0607/\">Season of Usability</a> project, run by usability experts at "
+"<a href=\"http://www.openusability.org\">OpenUsability</a>. From here we "
+"want to welcome Sharad Baliyan to the team and thank Florian Graessle and "
+"Pino Toscano for their continued work on improving Okular."
+msgstr ""
+"\n"
+"\t\t\t\tOkular takımı Okular'ın <a href=\"http://www.openusability.org"
+"\">OpenUsability</a>'deki kullanılabilirlik uzmanları tarafından "
+"gerçekleştirilen <a href=\"http://www.openusability.org/season/0607/"
+"\">Season of Usability</a>'e katılmak için seçilmiş uygulamalardan biri "
+"olduğunu duyurmaktan gurur duyar. Buradan Sharad Baliyan'a takıma hoş geldin "
+"demek ve Florian Graessle ile Pino Toscanois'e Okular'ın iyileştirilmesi "
+"konusundaki süren çalışmaları için teşekkür etmek isteriz.\n"
+"\t\t\t"
+
+#: i18n/en.yaml:0
+msgid "The Universal Document Viewer"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Multi-platform, fast and packed with features, Okular allows you to read PDF "
+"documents, comics and EPub books, browse images, visualize Markdown "
+"documents, and much more."
+msgstr ""
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Screenshots"
+msgid "Screenshot of Okular"
+msgstr "Ekran Görüntüleri"
+
+#: i18n/en.yaml:0
+msgid ""
+"Illustration from [David Revoy CC-BY-SA-4.0](https://www.peppercarrot.com/)"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Download"
+msgstr "İndir"
+
+#: i18n/en.yaml:0
+msgid "Support for Many Formats"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Okular supports many formats, including  PDF, EPub, DjVU and MD for "
+"documents; JPEG, PNG, GIF, Tiff, WebP for images; CBR and CBZ for comics; "
+"and many, many more."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "See Format Compatibility table"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Advanced User Interface"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Okular has a wide range of features that lets you easily manage your "
+"documents."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "A screenshot from Okular showing its annotation mode."
+msgstr ""
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Annotations"
+msgid "Annotate your PDFs"
+msgstr "Notlar"
+
+#: i18n/en.yaml:0
+msgid ""
+"With Okular's 'Annotation mode', you can easily add inline and popup notes, "
+"highlight and underline text, or even add your own text."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Select and View any Text"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"With Okular's 'Selection mode', you can copy and paste almost anything from "
+"your documents to elsewhere. And, for those times the text you want to read "
+"is too small, you can use the 'Magnifier mode'."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Okular's 'Selection mode', with text, area and table selection options."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Okular's 'Text Magnifier' feature."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Okular's 'Content panel' auto renders a table of contents for a document."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Okular's 'Thumbnails panel' shows a thumbnail for each page of a document."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Your Content, at a Glance"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Navigating your content is easier than ever. With Okular's 'Thumbnails "
+"panel', you can browse graphically the part of the document you were looking "
+"for. With the 'Content panel', find the chapter you need in all supported "
+"documents."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "First-class Signature Support"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"You can view and verify digital signatures embedded in PDFs, check if they "
+"are still valid, and detect any modifications since the moment the document "
+"was signed. You can even sign PDFs yourself!"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Okular showing a signed PDF."
+msgstr ""
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Free Software PDF readers"
+msgid "Free Software"
+msgstr "Özgür Yazılım PDF okuyucuları"
+
+#: i18n/en.yaml:0
+msgid ""
+"Okular is released under the [GPLv2+](https://spdx.org/licenses/GPL-2.0-or-"
+"later.html), and is thus fully Free Software."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Logo for the PDF freedom initiative"
+msgstr ""
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Okular news"
+msgid "Try Okular now!"
+msgstr "Okular haberleri"
+
+#: i18n/en.yaml:0
+msgid "Visit the download page."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Made by KDE"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Latest News"
+msgstr ""
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Development News"
+msgid "View all Development News"
+msgstr "Geliştirim Haberleri"
+
+#: i18n/en.yaml:0
+msgid "Read More"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Features/Formats"
+msgstr "Özellikler/Biçimler"
+
+#: i18n/en.yaml:0
+msgid "PDF"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "PS"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Tiff"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "ODT"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "CHM"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "DjVu"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Images"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "DVI"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "XPS"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Fiction Book"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Comic Book"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Plucker"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "EPub"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Fax"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Mobipocket"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Main library used"
+msgstr "Kullanılan ana kütüphane"
+
+#: i18n/en.yaml:0
+msgid "[poppler](http://poppler.freedesktop.org)"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "[libspectre](http://libspectre.freedesktop.org)"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "[chmlib](http://www.jedrea.com/chmlib)"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "[libTIFF](http://www.remotesensing.org/libtiff)"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "[DjVuLibre](http://djvulibre.djvuzone.org)"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "[epub](http://sourceforge.net/projects/ebook-tools)"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Loading"
+msgstr "Yükleniyor"
+
+#: i18n/en.yaml:0
+msgid "Rendering"
+msgstr "Hazırlama"
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Document information"
+msgid "Document Information"
+msgstr "Belge bilgileri"
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Threaded rendering"
+msgid "Threaded Rendering"
+msgstr "İş parçacıklı tarama"
+
+#: i18n/en.yaml:0
+msgid "TOC"
+msgstr "İÇT"
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Font information"
+msgid "Font Information"
+msgstr "Yazı tipi bilgileri"
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Text extraction"
+msgid "Text Extraction"
+msgstr "Metin dışa aktarımı"
+
+#: i18n/en.yaml:0
+msgid "Links"
+msgstr "Bağlantılar"
+
+#: i18n/en.yaml:0
+msgid "Paper Size"
+msgstr "Kağıt Boyutu"
+
+#: i18n/en.yaml:0
+msgid "Printing"
+msgstr "Yazdırma"
+
+#: i18n/en.yaml:0
+msgid "Text Exporting"
+msgstr "Metin Aktarımı"
+
+#: i18n/en.yaml:0
+msgid "Annotations"
+msgstr "Notlar"
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "<b>Other Features</b>"
+msgid "Other Features"
+msgstr "<b>Diğer Özellikler</b>"
+
+#: i18n/en.yaml:0
+msgid "Forms"
+msgstr "Formlar"
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Inverse search"
+msgid "Inverse Search"
+msgstr "Ters arama"
+
+#: i18n/en.yaml:0
+msgid "Document Rights"
+msgstr "Belge Hakları"
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Embedded files"
+msgid "Embedded Files"
+msgstr "Gömülü dosyalar"
+
+#: i18n/en.yaml:0
+msgid "Sounds"
+msgstr "Sesler"
+
+#: i18n/en.yaml:0
+msgid "Movies"
+msgstr "Filmler"
+
+#: i18n/en.yaml:0
+msgid "pdfsync, synctex"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Yes"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "No"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Work in Progress"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Search"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Search Results"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "No matches found"
+msgstr ""
+
+#~ msgid "Mailing list"
+#~ msgstr "E-posta listeleri"
+
+#~ msgid ""
+#~ "We have a mailing list to coordinate the Okular development. The mailing "
+#~ "list\n"
+#~ "is <a href='https://mail.kde.org/mailman/listinfo/okular-devel'>okular-"
+#~ "devel</a>\n"
+#~ "and hosted at kde.org."
+#~ msgstr ""
+#~ "Okular geliştirimini koordine ettiğimiz bir e-posta listemiz var. E-posta "
+#~ "listesinin\n"
+#~ "adı <a href='https://mail.kde.org/mailman/listinfo/okular-devel'>okular-"
+#~ "devel</a>'dir\n"
+#~ " ve kde.org'da barındırılmaktadır."
+
+#~ msgid "IRC"
+#~ msgstr "IRC"
+
+#~ msgid ""
+#~ "We have also an IRC channel where talk. The channel is\n"
+#~ "<a href='irc://irc.kde.org/#okular'>#okular</a>, on the\n"
+#~ "<a href='http://www.freenode.net'>Freenode</a> network."
+#~ msgstr ""
+#~ "Biz konuşmak için ayrıca bir IRC kanalına sahibiz. Kanala\n"
+#~ "<a href='http://www.freenode.net'>Freenode</a> ağı üzerindeki\n"
+#~ " <a href='irc://irc.kde.org/#okular'>#okular</a>'dan ulaşabilirsiniz."
+
+#~ msgid "Usually some of the Okular developers hang there."
+#~ msgstr "Genellikle Okular geliştiricilerinden bazıları orada takılmaktadır."
+
+#~ msgid "Forum"
+#~ msgstr "Forum"
+
+#~ msgid "Bugs and Wishes"
+#~ msgstr "Hatalar ve İstekler"
+
+#~ msgid "Binary packages"
+#~ msgstr "İkilik paketler"
+
+#~ msgid ""
+#~ "The recommended way for end-user installations of Okular is using binary "
+#~ "packages:"
+#~ msgstr ""
+#~ "Okular'ın son kullanıcı kurulumları için önerilen yöntem ikilik "
+#~ "paketlerin kullanımıdır:"
+
+#~ msgid ""
+#~ "For GNU/Linux and the BSDs use the package manager to find the Okular "
+#~ "package (might be part of the broader kdegraphics package) and install it."
+#~ msgstr ""
+#~ "GNU/Linux ve BSD sistemlerde Okular paketini bulmak için paket "
+#~ "yöneticisini kullanın (geniş kapsamlı kdegraphics paketinin bir parçası "
+#~ "olabilir) ve buradan yükleyin."
+
+#, fuzzy
+#~| msgid ""
+#~| "For Mac Os X have a look at the <a href='http://mac.kde.org/'>KDE on Mac "
+#~| "OS X</a> webpage for information on how to install KDE on Mac OS X."
+#~ msgid ""
+#~ "For macOS have a look at the <a href='https://community.kde.org/Mac'>KDE "
+#~ "on macOS</a> webpage for information on how to install KDE Software on "
+#~ "macOS."
+#~ msgstr ""
+#~ "Mac Os X için <a href='http://mac.kde.org/'>Mac OS X Üzerinde KDE</a> "
+#~ "internet sayfasına bakabilir ve Mac OS X'te KDE'nin nasıl kurulacağıyla "
+#~ "ilgili bilgi edinebilirsiniz."
+
+#, fuzzy
+#~| msgid ""
+#~| "If you want to try Okular, you need to have an already set up KDE 4 "
+#~| "environment."
+#~ msgid ""
+#~ "If you want to compile Okular, you need to have an already set up "
+#~ "compilation environment."
+#~ msgstr ""
+#~ "Okular'ı denemek istiyorsanız halihazırda bir KDE 4 ortamı kurmuş olmanız "
+#~ "gerekmektedir."
+
+#, fuzzy
+#~| msgid ""
+#~| "Distributions should provide development packages usable for compiling "
+#~| "KDE 4 applications."
+#~ msgid ""
+#~ "Distributions should provide development packages usable for compiling "
+#~ "KDE applications."
+#~ msgstr ""
+#~ "Dağılımlar KDE 4 uygulamalarını derlemek için kullanılabilir geliştirme "
+#~ "paketleri sunmalıdır."
+
+#, fuzzy
+#~| msgid ""
+#~| "If you are interested in stable tarballs of Okular visit the\n"
+#~| "<a href='http://www.kde.org/download/'>KDE download page</a> and "
+#~| "download the okular tarball."
+#~ msgid ""
+#~ "If you are interested in stable tarballs of Okular visit the\n"
+#~ "<a href='http://download.kde.org/stable/applications/'>KDE Applications "
+#~ "download folder</a> and download the okular tarball."
+#~ msgstr ""
+#~ "Okular'ın kararlı kaynak dosyalarıyla ilgileniyorsanız\n"
+#~ "<a href='http://www.kde.org/download/'>KDE indirme sayfasını</a> ziyaret "
+#~ "edebilir ve okular tarball dosyasını indirebilirsiniz."
+
+#~ msgid ""
+#~ "There are some optional package you could install in order to have some "
+#~ "more functionalities in Okular."
+#~ msgstr ""
+#~ "Okular'da daha çok fonksiyona sahip olmak için kurabileceğiniz bazı "
+#~ "isteğe bağlı paketler vardır."
+
+#~ msgid ""
+#~ "Some are already packaged for your distro, but other maybe not. So, if "
+#~ "possible, use the packages your distro ships."
+#~ msgstr ""
+#~ "Bazıları dağıtımınız için halihazırda paketlenmiştir ama bazıları "
+#~ "paketlenmemiş olabilir. Mümkünse dağıtımınızın sunduğu paketleri kullanın."
+
+#~ msgid "Poppler (PDF backend)"
+#~ msgstr "Poppler (PDF arka ucu)"
+
+#, fuzzy
+#~| msgid "The minimum version required is:"
+#~ msgid "The minimum version required is poppler 0.24"
+#~ msgstr "Gereken en düşük sürüm:"
+
+#, fuzzy
+#~| msgid "Libspectre (PostScript backend for Okular &gt;= 0.7/KDE &gt;= 4.1)"
+#~ msgid "Libspectre (PostScript backend)"
+#~ msgstr ""
+#~ "Libspectre (Okular &gt;= 0.7/KDE &gt;= 4.1 için PostScript arka ucu)"
+
+#~ msgid ""
+#~ "In order to compile and use the PostScipt (PS) backend, you need "
+#~ "libspectre &gt;= 0.2."
+#~ msgstr ""
+#~ "PostScipt (PS) arka ucunu derlemek ve kullanmak için libspectre &gt;= 0.2 "
+#~ "kütüphanesine ihtiyacınız var."
+
+#~ msgid "DjVuLibre (DjVu backend)"
+#~ msgstr "DjVuLibre (DjVu arka ucu)"
+
+#~ msgid "To compile the DjVu backend, you need DjVuLibre &gt;= 3.5.17."
+#~ msgstr ""
+#~ "DjVu arka ucunu derlemek için DjVuLibre &gt;= 3.5.17 kütüphanesine "
+#~ "ihtiyacınız var."
+
+#~ msgid ""
+#~ "If your distro does not package DjVuLibre, or the packaged version is not "
+#~ "enough, you can download it from <a href='http://djvulibre.djvuzone."
+#~ "org'>http://djvulibre.djvuzone.org</a>."
+#~ msgstr ""
+#~ "Dağıtımınız DjVuLibre'yi paketlemediyse veya paketlenen sürüm yeterli "
+#~ "değilse kütüphaneyi <a href='http://djvulibre.djvuzone.org'>http://"
+#~ "djvulibre.djvuzone.org</a> adresinden indirebilirsiniz."
+
+#~ msgid "libTIFF (TIFF/fax backend)"
+#~ msgstr "libTIFF (TIFF/faks arka ucu)"
+
+#~ msgid "libCHM (CHM backend)"
+#~ msgstr "libCHM (CHM arka ucu)"
+
+#~ msgid ""
+#~ "libCHM is needed to compile the CHM backend. Currently there is no "
+#~ "minimum required version, so any quite recent version of the library "
+#~ "available from your distro should work. In case of troubles with that, do "
+#~ "not hesitate to contact the <a href='contact.php'>Okular developers</a>."
+#~ msgstr ""
+#~ "libCHM, CHM arka ucunu derlemek için gerekmektedir. Şu an gerekli en "
+#~ "düşük sürüm yoktur, dağıtımınızdaki son sürümlerden biri çalışacaktır. "
+#~ "Herhangi bir sorun durumunda <a href='contact.php'>Okular "
+#~ "geliştiricileri</a> ile iletişime geçmekten çekinmeyin."
+
+#, fuzzy
+#~| msgid "DjVuLibre (DjVu backend)"
+#~ msgid "Libepub (EPub backend)"
+#~ msgstr "DjVuLibre (DjVu arka ucu)"
+
+#~ msgid ""
+#~ "In order to compile and use the EPub backend, you need the epub library."
+#~ msgstr ""
+#~ "EPub arka ucunu derlemek ve kullanmak için epub kütüphanesine ihtiyacınız "
+#~ "var."
+
+#~ msgid ""
+#~ "If your distro does not package libepub, or the packaged version is not "
+#~ "enough, you can download it from <a href='http://sourceforge.net/projects/"
+#~ "ebook-tools'>http://sourceforge.net/projects/ebook-tools</a>."
+#~ msgstr ""
+#~ "Dağıtımınız libepub'ı paketlemediyse veya paketlenen sürüm yeterli "
+#~ "değilse kütüphaneyi <a href='http://sourceforge.net/projects/ebook-"
+#~ "tools'>http://sourceforge.net/projects/ebook-tools</a> adresinden "
+#~ "indirebilirsiniz."
+
+#, fuzzy
+#~| msgid "so that the correct Okular instance and libraries are picked up"
+#~ msgid "so that the correct Okular instance and libraries are picked up."
+#~ msgstr "böylece doğru Okular örneği ve kütüphaneleri toplanır"
+
+#~ msgid "General usage"
+#~ msgstr "Genel kullanım"
+
+#~ msgid "The reason is explained in the following Launchpad report: "
+#~ msgstr "Neden aşağıdaki Launchpad kaydında açıklanmıştır: "
+
+#~ msgid "Document Format Handlers"
+#~ msgstr "Belge Biçimi İşleyicileri"
+
+#~ msgid ""
+#~ "This page always refers to the stable series of Okular (currently KDE "
+#~ "<b>4.5.x</b>)."
+#~ msgstr ""
+#~ "Bu sayfa her zaman Okular'ın kararlı serisini gösterir (şu an KDE <b>4.5."
+#~ "x</b>)."
+
+#~ msgid "What is it?"
+#~ msgstr "Nedir?"
+
+#, fuzzy
+#~| msgid ""
+#~| "Okular is a universal document viewer based on <a href='http://kpdf.kde."
+#~| "org'>KPDF</a> for KDE 4. This means Okular works on multiple platforms, "
+#~| "including but not limited to Linux, Windows, Mac OS X, *BSD, etc."
+#~ msgid ""
+#~ "Okular is a universal document viewer developed by <a href='%1'>KDE</a>. "
+#~ "Okular works on multiple platforms, including but not limited to Linux, "
+#~ "Windows, macOS, *BSD, etc."
+#~ msgstr ""
+#~ "Okular KDE 4 için <a href='http://kpdf.kde.org'>KPDF</a>'yi temel alan "
+#~ "evrensel bir belge görüntüleyicidir. Okular Linux, Windows, Mac OS X, "
+#~ "*BSD ve daha pek çok platformda çalışır."
+
+#, fuzzy
+#~| msgid ""
+#~| "Okular combines the excellent functionalities of KPDF with the "
+#~| "versatility of supporting different kind of documents, like PDF, "
+#~| "Postscript, DjVu, CHM, XPS, ePub and others."
+#~ msgid ""
+#~ "Okular combines the excellent functionalities with the versatility of "
+#~ "supporting different kind of documents, like PDF, Postscript, DjVu, CHM, "
+#~ "XPS, ePub and others."
+#~ msgstr ""
+#~ "Okular, KPDF'nin harika fonksiyonlarını PDF, Postscript, DjVu, CHM, XPS, "
+#~ "ePub vb. pek çok belge biçimi desteğiyle birleştirir."
+
+#~ msgid ""
+#~ "The <a href='formats.php'>document format handlers page</a> has a chart "
+#~ "describing in more detail the supported formats and the features "
+#~ "supported in each of them."
+#~ msgstr ""
+#~ "<a href='formats.php'>Belge biçimi işleyicileri sayfası</a>nda "
+#~ "desteklenen biçimleri ve her birinin desteklediği özellikleri daha "
+#~ "ayrıntılı açıklayan bir grafik bulunmaktadır."
+
+#~ msgid ""
+#~ "If you are interested in contributing to Okular, please <a href='contact."
+#~ "php'>contact us</a>."
+#~ msgstr ""
+#~ "Okular'a katkı vermekle ilgileniyorsanız lütfen <a href='contact."
+#~ "php'>bizimle iletişime geçin</a>."
+
+#~ msgid ""
+#~ "If you do not want or can not contribute, testers are fully welcome, so "
+#~ "follow <a href='download.php'>these instructions</a> to see how to "
+#~ "download and build Okular."
+#~ msgstr ""
+#~ "Katkı veremiyor veya vermek istemiyorsanız, testçi de olabilirsiniz, "
+#~ "Okular'ı nasıl indirip derleyeceğinizi öğrenmek için <a href='download."
+#~ "php'>şu talimatları</a> okuyabilirsiniz."
+
+#~ msgid ""
+#~ "Okular is a <a href='http://pdfreaders.org/' target='_blank'>Free "
+#~ "Software PDF reader</a>."
+#~ msgstr ""
+#~ "Okular <a href='http://pdfreaders.org/' target='_blank'>Özgür Yazılım PDF "
+#~ "okuyucuları</a>ndan biridir."
+
+#~ msgid "Okular Homepage"
+#~ msgstr "Okular Ana Sayfası"
+
+#~ msgid "Main"
+#~ msgstr "Ana Sayfa"
+
+#~ msgid "Format support"
+#~ msgstr "Biçim desteği"
+
+#~ msgid "FAQ"
+#~ msgstr "SSS"
+
+#~ msgid "Team"
+#~ msgstr "Takım"
+
+#~ msgid "Related apps/projects"
+#~ msgstr "İlgili uygulamalar/projeler"
+
+#, fuzzy
+#~| msgid "December 1, 2009"
+#~ msgid "December 10, 2020"
+#~ msgstr "1 Aralık 2009"
+
+#, fuzzy
+#~| msgid "August 1, 2012"
+#~ msgid "August 13, 2020"
+#~ msgstr "1 Ağustos 2012"
+
+#, fuzzy
+#~| msgid "April 2, 2009"
+#~ msgid "April 23, 2020"
+#~ msgstr "2 Nisan 2009"
+
+#, fuzzy
+#~| msgid "December 1, 2009"
+#~ msgid "December 12, 2019"
+#~ msgstr "1 Aralık 2009"
+
+#, fuzzy
+#~| msgid "August 1, 2012"
+#~ msgid "August 15, 2019"
+#~ msgstr "1 Ağustos 2012"
+
+#, fuzzy
+#~| msgid "December 1, 2009"
+#~ msgid "December 13, 2018"
+#~ msgstr "1 Aralık 2009"
+
+#, fuzzy
+#~| msgid "August 16, 2013"
+#~ msgid "August 16, 2018"
+#~ msgstr "16 Ağustos 2013"
+
+#, fuzzy
+#~| msgid "April 2, 2009"
+#~ msgid "April 19, 2018"
+#~ msgstr "2 Nisan 2009"
+
+#, fuzzy
+#~| msgid "December 1, 2009"
+#~ msgid "December 14, 2017"
+#~ msgstr "1 Aralık 2009"
+
+#, fuzzy
+#~| msgid "August 1, 2012"
+#~ msgid "August 17, 2017"
+#~ msgstr "1 Ağustos 2012"
+
+#, fuzzy
+#~| msgid "April 2, 2009"
+#~ msgid "April 20, 2017"
+#~ msgstr "2 Nisan 2009"
+
+#, fuzzy
+#~| msgid "December 1, 2009"
+#~ msgid "December 15, 2016"
+#~ msgstr "1 Aralık 2009"
+
+#, fuzzy
+#~| msgid "August 1, 2012"
+#~ msgid "August 18, 2016"
+#~ msgstr "1 Ağustos 2012"
+
+#, fuzzy
+#~| msgid "December 1, 2009"
+#~ msgid "December 16, 2015"
+#~ msgstr "1 Aralık 2009"
+
+#, fuzzy
+#~| msgid "August 1, 2012"
+#~ msgid "August 19, 2015"
+#~ msgstr "1 Ağustos 2012"
+
+#, fuzzy
+#~| msgid "April 2, 2009"
+#~ msgid "April 15, 2015"
+#~ msgstr "2 Nisan 2009"
+
+#, fuzzy
+#~| msgid "December 1, 2009"
+#~ msgid "December 17, 2014"
+#~ msgstr "1 Aralık 2009"
+
+#, fuzzy
+#~| msgid "April 2, 2009"
+#~ msgid "April 16, 2014"
+#~ msgstr "2 Nisan 2009"
+
+#, fuzzy
+#~| msgid "December 1, 2009"
+#~ msgid "December 12, 2013"
+#~ msgstr "1 Aralık 2009"
+
+#~ msgid "August 16, 2013"
+#~ msgstr "16 Ağustos 2013"
+
+#~ msgid "February 6, 2013"
+#~ msgstr "6 Şubat 2013"
+
+#~ msgid "October 10, 2012"
+#~ msgstr "10 Ekim 2012"
+
+#~ msgid "August 1, 2012"
+#~ msgstr "1 Ağustos 2012"
+
+#~ msgid "January 25, 2012"
+#~ msgstr "25 Ocak 2012"
+
+#~ msgid "July 27, 2011"
+#~ msgstr "27 Temmuz 2011"
+
+#~ msgid "January 26, 2011"
+#~ msgstr "26 Ocak 2011"
+
+#~ msgid "August 10, 2010"
+#~ msgstr "10 Ağustos 2010"
+
+#~ msgid "February 9, 2010"
+#~ msgstr "9 Şubat 2010"
+
+#~ msgid "December 1, 2009"
+#~ msgstr "1 Aralık 2009"
+
+#~ msgid "June 3, 2009"
+#~ msgstr "3 Haziran 2009"
+
+#~ msgid "May 6, 2009"
+#~ msgstr "6 Mayıs 2009"
+
+#~ msgid "April 2, 2009"
+#~ msgstr "2 Nisan 2009"
+
+#~ msgid "March 4, 2009"
+#~ msgstr "4 Mart 2009"
+
+#~ msgid "January 27, 2009"
+#~ msgstr "27 Ocak 2009"
+
+#~ msgid "November 4, 2008"
+#~ msgstr "4 Kasım 2008"
+
+#~ msgid "October 3, 2008"
+#~ msgstr "3 Ekim 2008"
+
+#~ msgid "September 3, 2008"
+#~ msgstr "3 Eylül 2008"
+
+#~ msgid "July 29, 2008"
+#~ msgstr "29 Temmuz 2008"
+
+#~ msgid ""
+#~ "<![CDATA[The Okular team is proud to announce a new version of Okular, "
+#~ "released as part of <a href=\"http://www.kde.org/announcements/4.1/\">KDE "
+#~ "4.1</a>. Some of the new features and improvements include (in random "
+#~ "order):\n"
+#~ "<ul type=\"disc\">\n"
+#~ "\t<li>Possibility to save a PDF document with the changes to the form "
+#~ "fields</li>\n"
+#~ "\t<li>Presentation mode: support for more than one screen, and "
+#~ "possibility to disable transitions</li>\n"
+#~ "\t<li>The zoom level is stored per-document now</li>\n"
+#~ "\t<li>Enhanced text-to-speech support, that can be used to read the whole "
+#~ "document, a specific page or the text selection</li>\n"
+#~ "\t<li>Backward direction for text search</li>\n"
+#~ "\t<li>Improved support for forms</li>\n"
+#~ "\t<li>Preliminary (really basic and most probably incomplete) support for "
+#~ "JavaScript in PDF documents</li>\n"
+#~ "\t<li>Support for file attachment annotations</li>\n"
+#~ "\t<li>Possibility to remove the white border of pages when viewing pages</"
+#~ "li>\n"
+#~ "\t<li>New backend for EPub documents</li>\n"
+#~ "\t<li>OpenDocument Text backend: support for encrypted documents, list "
+#~ "and tables improvements</li>\n"
+#~ "\t<li>XPS backend: various loading and rendering improvements, should be "
+#~ "much more usable now</li>\n"
+#~ "\t<li>PS backend: various improvements, mainly due to the newer "
+#~ "libspectre required</li>\n"
+#~ "\t<li>... other small features</li>\n"
+#~ "</ul>\n"
+#~ "And, of course, many bugs were fixed.]]>"
+#~ msgstr ""
+#~ "<![CDATA[Okular takımı <a href=\"http://www.kde.org/announcements/4.1/"
+#~ "\">KDE 4.1</a>'in bir parçası olarak Okular'ın yeni sürümünü duyurmaktan "
+#~ "gurur duyar. Yeni özellik ve iyileştirmelerden bazıları (rastgele "
+#~ "sırayla):\n"
+#~ "<ul type=\"disc\">\n"
+#~ "\t<li>Bir PDF belgesini form alanlarındaki değişikliklerle kaydetme "
+#~ "olanağı</li>\n"
+#~ "\t<li>Sunum kipi: birden fazla ekran desteği ve geçişleri devre dışı "
+#~ "bırakma imkanı</li>\n"
+#~ "\t<li>Her belgeye özel yakınlaştırma seviyesi desteği</li>\n"
+#~ "\t<li>Geliştirilmiş metinden konuşmaya desteği, tüm belgenin, belirtilen "
+#~ "bir sayfanın veya bir metin seçiminin okunması sağlanabilir</li>\n"
+#~ "\t<li>Metin arama için geriye doğru desteği</li>\n"
+#~ "\t<li>Formlar için geliştirilmiş destek</li>\n"
+#~ "\t<li>PDF belgelerinde JavaScript için ön (gerçekten basit ve tam "
+#~ "olmaktan uzak) destek</li>\n"
+#~ "\t<li>Dosya eki notları için destek</li>\n"
+#~ "\t<li>Sayfaları görüntülerken sayfaların beyaz kenarlıklarını kaldırma "
+#~ "imkanı</li>\n"
+#~ "\t<li>EPub belgeleri için yeni arka uç</li>\n"
+#~ "\t<li>OpenDocument metin arka ucu: şifreli belgeler için destek, liste ve "
+#~ "tablolarda iyileştirmeler</li>\n"
+#~ "\t<li>XPS arka ucu: çeşitli yükleme ve tarama iyileştirmeleri, artık çok "
+#~ "daha kullanışlı olmalı</li>\n"
+#~ "\t<li>PS arka ucu: çeşitli iyileştirmeler, çoğu gerekli yeni libspectre "
+#~ "dolayısıyla</li>\n"
+#~ "\t<li>... diğer küçük özellikler</li>\n"
+#~ "</ul>\n"
+#~ "Ve elbette pek çok hata düzeltildi.]]>"
+
+#~ msgid "April 2, 2008"
+#~ msgstr "2 Nisan 2008"
+
+#~ msgid "March 5, 2008"
+#~ msgstr "5 Mart 2008"
+
+#~ msgid "February 5, 2008"
+#~ msgstr "5 Şubat 2008"
+
+#~ msgid "Jul 10, 2007"
+#~ msgstr "10 Temmuz 2007"
+
+#~ msgid "Apr 4, 2007"
+#~ msgstr "4 Nisan 2007"
+
+#~ msgid "Jan 31, 2007"
+#~ msgstr "31 Ocak 2007"
+
+#~ msgid "Nov 2, 2006"
+#~ msgstr "2 Kasım 2006"
+
+#~ msgid "Aug 27, 2006"
+#~ msgstr "27 Ağustos 2006"
+
+#~ msgid "Some images of Okular &quot;in action&quot;..."
+#~ msgstr "Okular'ın &quot;iş başındayken&quot; bazı resimleri..."
+
+#~ msgid "Backends in action"
+#~ msgstr "Arka uçlar iş başında"
+
+#~ msgid "Here you can see some of the Okular backends in action on files."
+#~ msgstr ""
+#~ "Burada bazı Okular arka uçlarının dosyalar üzerinde çalışmasını "
+#~ "görebilirsiniz."
+
+#~ msgid "PDF backend"
+#~ msgstr "PDF arka ucu"
+
+#~ msgid "PostScript backend"
+#~ msgstr "PostScript arka ucu"
+
+#~ msgid "DjVu backend"
+#~ msgstr "DjVu arka ucu"
+
+#~ msgid "TIFF/fax backend"
+#~ msgstr "TIFF/faks arka ucu"
+
+#~ msgid "Extraction of embedded files"
+#~ msgstr "Gömülü dosyaların dışa aktarımı"
+
+#~ msgid "Word processor-like text selection"
+#~ msgstr "Kelime işlemci benzeri metin seçimi"
+
+#~ msgid "Review mode"
+#~ msgstr "Gözden Geçirme kipi"
+
+#~ msgid "Annotations (enter in Tools -> Review)"
+#~ msgstr "Notlar (Araçlar -> Gözden Geçir)"
+
+#~ msgid "the Okular developers"
+#~ msgstr "Okular geliştiricileri"
+
+#~ msgid "Current Okular Team"
+#~ msgstr "Şu Anki Okular Takımı"
+
+#~ msgid "The current Okular team is formed by:"
+#~ msgstr "Şu anki Okular takımı aşağıdaki isimlerden oluşmaktadır:"
+
+#~ msgid "(Current maintainer)"
+#~ msgstr "(Şu anki bakıcı)"
+
+#~ msgid "Your name here..."
+#~ msgstr "Buraya sizin isminiz..."
+
+#~ msgid "Join Okular development!"
+#~ msgstr "Okular'ın Geliştirimine Katılın!"
+
+#~ msgid "Former Okular developers"
+#~ msgstr "Önceki Okular geliştiricileri"
+
+#~ msgid "We'd like to thank all the people that worked on Okular in the past:"
+#~ msgstr "Ayrıca geçmişte Okular üzerinde çalışan herkese teşekkür ederiz:"
+
+#~ msgid "(Original Okular creator)"
+#~ msgstr "(İlk Okular yaratıcısı)"
+
+#~ msgid "(Usability expert)"
+#~ msgstr "(Kullanılabilirlik uzmanı)"
+
+#~ msgid "KPDF Developers"
+#~ msgstr "KPDF Geliştiricileri"
+
+#~ msgid ""
+#~ "We'd like also to thank all the people who worked on <a href='http://kpdf."
+#~ "kde.org'>KPDF</a>:"
+#~ msgstr ""
+#~ "Ayrıca <a href='http://kpdf.kde.org'>KPDF</a> üzerinde çalışan herkese "
+#~ "teşekkür ederiz."
+
+#~ msgid "Lots of features"
+#~ msgstr "Pek çok özellik"
+
+#~ msgid "Fontconfig support, type-ahead find, some patches"
+#~ msgstr "Fontconfig desteği, yazar yazmaz bulma, çeşitli yamalar"
+
+#~ msgid "Compiling Okular"
+#~ msgstr "Okular'ı Derlemek"
+
+#~ msgid ""
+#~ "The Poppler backend does not compile. It complains about 'class Poppler::"
+#~ "TextBox' and 'edge'."
+#~ msgstr ""
+#~ "Poppler arka ucu derlenmedi. 'class Poppler::TextBox' ve 'edge' ile "
+#~ "ilgili sorun çıkartıyor."
+
+#~ msgid "Do you get an error output similar to"
+#~ msgstr "Benzer bir hata çıktısı alıyor musunuz"
+
+#~ msgid ""
+#~ "If so, most probably you updated from Poppler 0.6.x or previous to "
+#~ "Poppler 0.8."
+#~ msgstr ""
+#~ "Öyleyse büyük bir ihtimalle Poppler 0.6.x ve öncesinden Poppler 0.8'e "
+#~ "güncelleme yaptınız."
+
+#~ msgid "What you can do is simple:"
+#~ msgstr "Yapacağınız şey basit:"
+
+#~ msgid ""
+#~ "in the build directory of Okular. Then run cmake again, and all should "
+#~ "work as expected."
+#~ msgstr ""
+#~ "Okular'ın inşa dizininde bu komutu çalıştırın. Sonra tekrar cmake "
+#~ "komutunu verin, her şeyin beklendiği gibi çalışması gerekir."
+
+#~ msgid "Running Okular"
+#~ msgstr "Okular'ı Çalıştırmak"
+
+#~ msgid "Okular tells me there are no plugins installed. What can I do?"
+#~ msgstr "Okular hiçbir eklenti yüklü değil diyor. Ne yapabilirim?"
+
+#~ msgid "In a shell set up for your KDE 4 installation, execute the command"
+#~ msgstr ""
+#~ "Kabukta KDE 4 kurulumunuz için ayarlama yapmak için şu komutu çalıştırın"
+
+#~ msgid "After that, Okular should find its plugins as expected."
+#~ msgstr ""
+#~ "Bundan sonra Okular'ın eklentilerini beklendiği şekilde bulması gerekir."
+
+#~ msgid "Why the newly added annotations are not in my PDF document?"
+#~ msgstr "Neden yeni eklenmiş notlar PDF belgemde değil?"
+
+#~ msgid ""
+#~ "By default, Okular saves annotations in the local data directory\n"
+#~ "for each user. Since KDE 4.9, it's optionally possible to store them "
+#~ "directly in\n"
+#~ "a PDF file by choosing \"File -&gt; Save As...\", so they can be seen in "
+#~ "other\n"
+#~ "PDF viewers."
+#~ msgstr ""
+#~ "Öntanımlı olarak, Okular açıklama notlarını her kullanıcının kendi yerel "
+#~ "veri\n"
+#~ "dizininde saklar. KDE 4.9'dan beri, diğer PDF görüntüleyicilerinde de "
+#~ "görülebilmesi\n"
+#~ "için isteğe bağlı olarak doğrudan \"Dosya -&gt; Farklı Kaydet...\" "
+#~ "seçerek de bir PDF\n"
+#~ "dosyasına saklamak mümkündür."
+
+#~ msgid ""
+#~ "Note that this feature requires Poppler 0.20 or newer for regular PDF\n"
+#~ "documents. If the PDF document you are annotating is encrypted, this "
+#~ "feature\n"
+#~ "requires Poppler 0.22 or newer."
+#~ msgstr ""
+#~ "Bu özelliğin normal PDF belgeleri için Poppler 0.20 veya daha yeni bir "
+#~ "sürümünün\n"
+#~ "gerektirdiğini unutmayın. Eğer açıklama yazdığınız PDF belgesi şifreli "
+#~ "ise, bu özellik\n"
+#~ "Poppler 0.22 veya daha yeni sürümünü gerektirir."
+
+#~ msgid "How can I annotate a document and send it to a friend/colleague/etc?"
+#~ msgstr ""
+#~ "Bir belgeye not ekleyerek nasıl bir arkadaşıma, meslektaşıma vs. "
+#~ "gönderebilirim?"
+
+#~ msgid ""
+#~ "Since KDE 4.2, Okular has the \"document archiving\" feature. This is\n"
+#~ "an Okular-specific format for carrying the document plus various "
+#~ "metadata\n"
+#~ "related to it (currently only annotations)."
+#~ msgstr ""
+#~ "KDE 4.2'den bu yana Okular \"belge arşivi\" özelliğine sahiptir. Bu "
+#~ "belgeyi\n"
+#~ "ve onunla ilgili üst verileri (şu an yalnızca notlar) taşımak için "
+#~ "Okular'a özgü bir biçimdir."
+
+#~ msgid ""
+#~ "You can save a \"document archive\" from the open document by choosing "
+#~ "\"File\n"
+#~ "-&gt; Export As -&gt; Document Archive\"."
+#~ msgstr ""
+#~ "Açık belgeden bir \"belge arşivi\" kaydetmek için \"Dosya\n"
+#~ "-&gt; Dışarı Aktar -&gt; Belge Arşivi\" seçeneğini seçebilirsiniz."
+
+#~ msgid ""
+#~ "To open an Okular document archive, just open it with Okular as it would "
+#~ "be eg\n"
+#~ "a PDF document."
+#~ msgstr ""
+#~ "Bir Okular belge arşivini açmak için bir PDF belgesi örneğinde olacağı "
+#~ "gibi\n"
+#~ "sadece onu Okular ile açmanız yeterli."
+
+#~ msgid ""
+#~ "If you're annotating a PDF document, you can also save annotations\n"
+#~ "directly in the PDF file (see previous question)"
+#~ msgstr ""
+#~ "Eğer bir PDF belgesine açıklama yazıyorsanız, açıklamaları doğrudan\n"
+#~ "PDF dosyasına kaydetmeniz de mümkün (önceki soruya bakın)"
+
+#~ msgid ""
+#~ "Remember to adjust the environment variables <tt>PKG_CONFIG_PATH</tt> and "
+#~ "<tt>LD_LIBRARY_PATH</tt> to make poppler reachable:"
+#~ msgstr ""
+#~ "poppler'i erişilebilir yapmak için <tt>PKG_CONFIG_PATH</tt> ve "
+#~ "<tt>LD_LIBRARY_PATH</tt> ortam değişkenlerini ayarlamayı unutmayın:"
+
+#, fuzzy
+#~| msgid "Libepub (EPub backend for Okular &gt;= 0.7/KDE &gt;= 4.1)"
+#~ msgid "Libepub (EPub backend for Okular &gt;= 0.7)"
+#~ msgstr "Libepub (Okular &gt;= 0.7/KDE &gt;= 4.1 için EPub arka ucu)"
+
+#~ msgid ""
+#~ "Once you have setup the proper KDE 4 environment - and installed some of "
+#~ "the suggested external libraries - you can download and compile Okular "
+#~ "this way:"
+#~ msgstr ""
+#~ "Uygun KDE 4 ortamını kurduğunuzda ve önerilen harici kütüphanelerden "
+#~ "bazılarını yüklediğinizde Okular'ı şu şekilde indirebilir ve "
+#~ "derleyebilirsiniz:"
+
+#~ msgid ""
+#~ "You can find general information about compiling KDE at\n"
+#~ "<a href='http://techbase.kde.org/Getting_Started'>http://techbase.kde.org/"
+#~ "Getting_Started</a>."
+#~ msgstr ""
+#~ "KDE'yi derlemek hakkında genel bilgileri \n"
+#~ "<a href='http://techbase.kde.org/Getting_Started'>http://techbase.kde.org/"
+#~ "Getting_Started</a> belgesinde bulabilirsiniz."
+
+#~ msgid "KDE 4 environment"
+#~ msgstr "KDE 4 ortamı"

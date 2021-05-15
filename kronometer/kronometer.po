@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kronometer\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-30 07:40+0200\n"
+"POT-Creation-Date: 2021-04-05 00:20+0000\n"
 "PO-Revision-Date: 2017-08-11 09:07+0000\n"
 "Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
 "Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
@@ -96,7 +96,7 @@ msgstr "Kronometrede saatin gösterilip gösterilmeyeceği"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_showHours)
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_showLapHours)
-#: src/gui/generalsettings.ui:45 src/gui/generalsettings.ui:185
+#: src/gui/generalsettings.ui:45 src/gui/generalsettings.ui:192
 #, kde-format
 msgid "Show Hours"
 msgstr "Saati Göster"
@@ -109,7 +109,7 @@ msgstr "Kronometrede dakikanın gösterilip gösterilmeyeceği"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_showMinutes)
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_showLapMinutes)
-#: src/gui/generalsettings.ui:58 src/gui/generalsettings.ui:198
+#: src/gui/generalsettings.ui:58 src/gui/generalsettings.ui:205
 #, kde-format
 msgid "Show Minutes"
 msgstr "Dakikayı Göster"
@@ -122,83 +122,92 @@ msgstr "Kronometrede saniyenin gösterilip gösterilmeyeceği"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_showSecondFractions)
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_showLapSecondFractions)
-#: src/gui/generalsettings.ui:89 src/gui/generalsettings.ui:229
+#: src/gui/generalsettings.ui:89 src/gui/generalsettings.ui:236
 #, kde-format
 msgid "Show Second Fractions:"
 msgstr "Saniye Kesirlerini Göster:"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_fractionsType)
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_lapFractionsType)
-#: src/gui/generalsettings.ui:100 src/gui/generalsettings.ui:240
-#, kde-format
-msgid "up to Tenths"
+#: src/gui/generalsettings.ui:100 src/gui/generalsettings.ui:247
+#, fuzzy, kde-format
+#| msgid "up to Tenths"
+msgid "Up to Tenths"
 msgstr "Onda bire kadar"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_fractionsType)
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_lapFractionsType)
-#: src/gui/generalsettings.ui:105 src/gui/generalsettings.ui:245
-#, kde-format
-msgid "up to Hundredths"
+#: src/gui/generalsettings.ui:105 src/gui/generalsettings.ui:252
+#, fuzzy, kde-format
+#| msgid "up to Hundredths"
+msgid "Up to Hundredths"
 msgstr "Yüzde bire kadar"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_fractionsType)
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_lapFractionsType)
-#: src/gui/generalsettings.ui:110 src/gui/generalsettings.ui:250
+#: src/gui/generalsettings.ui:110 src/gui/generalsettings.ui:257
+#, fuzzy, kde-format
+#| msgid "up to Tenths"
+msgid "Up to Thousandths"
+msgstr "Onda bire kadar"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_startTimerImmediately)
+#: src/gui/generalsettings.ui:137
 #, kde-format
-msgid "up to Milliseconds"
-msgstr "Milisaniyeye kadar"
+msgid "Start timer immediately"
+msgstr ""
 
 #. i18n: @title:tab
 #. i18n: ectx: attribute (title), widget (QWidget, tab_2)
-#: src/gui/generalsettings.ui:151
+#: src/gui/generalsettings.ui:158
 #, kde-format
 msgid "Laps"
 msgstr "Turlar"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_isLapsRecordingEnabled)
-#: src/gui/generalsettings.ui:157
+#: src/gui/generalsettings.ui:164
 #, kde-format
 msgid "Whether to enable the laps recording feature"
 msgstr "Tur kayıt özelliğinin etkinleştirilip etkinleştirilmeyeceği"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_isLapsRecordingEnabled)
-#: src/gui/generalsettings.ui:160
+#: src/gui/generalsettings.ui:167
 #, kde-format
 msgid "Enable Laps Recording"
 msgstr "Tur Kaydını Etkinleştir"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
-#: src/gui/generalsettings.ui:176
+#: src/gui/generalsettings.ui:183
 #, kde-format
 msgid "Lap Times Format"
 msgstr "Tur Zamanı Biçimi"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_showLapHours)
-#: src/gui/generalsettings.ui:182
+#: src/gui/generalsettings.ui:189
 #, kde-format
 msgid "Whether to show hours in the laps"
 msgstr "Turda saatin gösterilip gösterilmeyeceği"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_showLapMinutes)
-#: src/gui/generalsettings.ui:195
+#: src/gui/generalsettings.ui:202
 #, kde-format
 msgid "Whether to show minutes in the laps"
 msgstr "Turda dakikanın gösterilip gösterilmeyeceği"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_showLapSecondFractions)
-#: src/gui/generalsettings.ui:226
+#: src/gui/generalsettings.ui:233
 #, kde-format
 msgid "Whether to show second fractions in the laps"
 msgstr "Turda saniyenin gösterilip gösterilmeyeceği"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_showLapAbsoluteTimes)
-#: src/gui/generalsettings.ui:277
+#: src/gui/generalsettings.ui:284
 #, kde-format
 msgid "Show Absolute Times"
 msgstr "Mutlak Zamanı Göster"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_showLapNotes)
-#: src/gui/generalsettings.ui:284
+#: src/gui/generalsettings.ui:291
 #, kde-format
 msgid "Show Notes"
 msgstr "Notları Göster"
@@ -221,118 +230,118 @@ msgstr "&Kronometer"
 msgid "Kronometer Toolbar"
 msgstr "Kronometer Araç Çubuğu"
 
-#: src/gui/mainwindow.cpp:136
+#: src/gui/mainwindow.cpp:140
 #, kde-format
 msgid "Do you want to quit and lose your unsaved times?"
 msgstr "Kaydedilmemiş zamanlarınızı bırakıp çıkmak istiyor musunuz?"
 
-#: src/gui/mainwindow.cpp:137
+#: src/gui/mainwindow.cpp:141
 #, kde-format
 msgctxt "@title:window"
 msgid "Confirm Quit"
 msgstr "Çıkışı Onayla"
 
-#: src/gui/mainwindow.cpp:148
+#: src/gui/mainwindow.cpp:152
 #, kde-format
 msgid "Save times to session %1?"
 msgstr "Zamanları %1 oturumuna kaydet?"
 
-#: src/gui/mainwindow.cpp:175
+#: src/gui/mainwindow.cpp:180
 #, kde-format
 msgctxt "@action"
 msgid "Re&sume"
 msgstr "&Devam Et"
 
-#: src/gui/mainwindow.cpp:194
+#: src/gui/mainwindow.cpp:199
 #, kde-format
 msgctxt "@action"
 msgid "&Start"
 msgstr "&Başlat"
 
-#: src/gui/mainwindow.cpp:198
+#: src/gui/mainwindow.cpp:203
 #, kde-format
 msgctxt "untitled window"
 msgid "Untitled"
 msgstr "Başlıksız"
 
-#: src/gui/mainwindow.cpp:223
+#: src/gui/mainwindow.cpp:228
 #, kde-format
 msgctxt "@title:tab"
 msgid "General Settings"
 msgstr "Genel Ayarlar"
 
-#: src/gui/mainwindow.cpp:226
+#: src/gui/mainwindow.cpp:231
 #, kde-format
 msgctxt "@title:tab"
 msgid "Font Settings"
 msgstr "Yazı Tipi Ayarları"
 
-#: src/gui/mainwindow.cpp:229
+#: src/gui/mainwindow.cpp:234
 #, kde-format
 msgctxt "@title:tab"
 msgid "Color Settings"
 msgstr "Renk Ayarları"
 
-#: src/gui/mainwindow.cpp:298
+#: src/gui/mainwindow.cpp:303
 #, kde-format
 msgctxt "@title:window"
 msgid "Save Session"
 msgstr "Oturumu Kaydet"
 
-#: src/gui/mainwindow.cpp:299
+#: src/gui/mainwindow.cpp:304
 #, kde-format
 msgid "You can choose a name for this session:"
 msgstr "Bu oturum için bir isim seçebilirsiniz:"
 
-#: src/gui/mainwindow.cpp:308
+#: src/gui/mainwindow.cpp:313
 #, kde-format
 msgctxt "untitled session"
 msgid "Untitled session"
 msgstr "Başlıksız oturum"
 
-#: src/gui/mainwindow.cpp:318
+#: src/gui/mainwindow.cpp:323
 #, kde-format
 msgctxt "@title:window"
 msgid "Export Laps"
 msgstr "Turları Dışa Aktar"
 
-#: src/gui/mainwindow.cpp:444
+#: src/gui/mainwindow.cpp:449
 #, kde-format
 msgctxt "@action"
 msgid "&Pause"
 msgstr "&Duraklat"
 
-#: src/gui/mainwindow.cpp:447
+#: src/gui/mainwindow.cpp:452
 #, kde-format
 msgctxt "@action"
 msgid "&Reset"
 msgstr "&Sıfırla"
 
-#: src/gui/mainwindow.cpp:450
+#: src/gui/mainwindow.cpp:455
 #, kde-format
 msgctxt "@action"
 msgid "&Lap"
 msgstr "&Tur"
 
-#: src/gui/mainwindow.cpp:453
+#: src/gui/mainwindow.cpp:458
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Export Laps as..."
 msgstr "&Turları Farklı Dışa Aktar..."
 
-#: src/gui/mainwindow.cpp:645
+#: src/gui/mainwindow.cpp:652
 #, kde-format
 msgctxt "@info:shell"
 msgid "Lap number,Lap time,Global time,Note"
 msgstr "Tur numarası, Tur zamanı, Evrensel zaman, Not"
 
-#: src/gui/mainwindow.cpp:676
+#: src/gui/mainwindow.cpp:683
 #, kde-format
 msgctxt "@info:shell"
 msgid "Created by Kronometer on %1"
 msgstr "%1 üzerinde Kronometer tarafından oluşturuldu"
 
-#: src/gui/mainwindow.cpp:742
+#: src/gui/mainwindow.cpp:749
 #, kde-format
 msgid "A stopwatch is running."
 msgstr "Bir kronometre çalışıyor."
@@ -374,7 +383,8 @@ msgctxt "@title:column"
 msgid "Tenths"
 msgstr "Onda Bir"
 
-#: src/gui/timedisplay.cpp:171
+#. i18n: ectx: property (title), widget (QGroupBox, m_fracGroup)
+#: src/gui/timedisplay.cpp:171 src/gui/timedisplay.ui:54
 #, kde-format
 msgctxt "@title:column"
 msgid "Hundredths"
@@ -386,66 +396,62 @@ msgctxt "@title:column"
 msgid "Milliseconds"
 msgstr "Milisaniye"
 
-#. i18n: @title:column
 #. i18n: ectx: property (title), widget (QGroupBox, m_hourGroup)
 #: src/gui/timedisplay.ui:18
 #, fuzzy, kde-format
+#| msgid "Hours"
+msgctxt "@title:column"
 msgid "Hours"
 msgstr "Saat"
 
-#. i18n: @title:column
 #. i18n: ectx: property (title), widget (QGroupBox, m_minGroup)
 #: src/gui/timedisplay.ui:30
 #, fuzzy, kde-format
+#| msgid "Minutes"
+msgctxt "@title:column"
 msgid "Minutes"
 msgstr "Dakika"
 
-#. i18n: @title:column
 #. i18n: ectx: property (title), widget (QGroupBox, m_secGroup)
 #: src/gui/timedisplay.ui:42
 #, fuzzy, kde-format
+#| msgid "Seconds"
+msgctxt "@title:column"
 msgid "Seconds"
 msgstr "Saniye"
 
-#. i18n: @title:column
-#. i18n: ectx: property (title), widget (QGroupBox, m_fracGroup)
-#: src/gui/timedisplay.ui:54
-#, kde-format
-msgid "Hundredths"
-msgstr "Yüzde Bir"
-
-#: src/main.cpp:42
+#: src/main.cpp:43
 #, kde-format
 msgctxt "KAboutData display name"
 msgid "Kronometer"
 msgstr "Kronometer"
 
-#: src/main.cpp:44
+#: src/main.cpp:45
 #, kde-format
 msgid "Kronometer is a simple stopwatch application"
 msgstr "Kronometer, basit bir kronometre uygulamasıdır"
 
-#: src/main.cpp:46
+#: src/main.cpp:47
 #, kde-format
 msgid "Copyright (C) 2014-2016 Elvis Angelaccio"
 msgstr "Copyright (C) 2014-2016 Elvis Angelaccio"
 
-#: src/main.cpp:52
+#: src/main.cpp:53
 #, kde-format
 msgid "Elvis Angelaccio"
 msgstr "Elvis Angelaccio"
 
-#: src/main.cpp:53
+#: src/main.cpp:54
 #, kde-format
 msgid "Maintainer"
 msgstr "Projeyi Yürüten"
 
-#: src/main.cpp:59
+#: src/main.cpp:60
 #, kde-format
 msgid "Ken Vermette"
 msgstr "Ken Vermette"
 
-#: src/main.cpp:60
+#: src/main.cpp:61
 #, kde-format
 msgid "Kronometer icon"
 msgstr "Kronometer simgesi"
@@ -494,3 +500,9 @@ msgstr "Tarih"
 #, kde-format
 msgid "Note"
 msgstr "Not"
+
+#~ msgid "up to Milliseconds"
+#~ msgstr "Milisaniyeye kadar"
+
+#~ msgid "Hundredths"
+#~ msgstr "Yüzde Bir"

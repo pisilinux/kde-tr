@@ -1,0 +1,199 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdeconnect-kde package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-19 03:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: conversationlistmodel.cpp:195
+#, kde-format
+msgctxt "Used as a text placeholder when the most-recent message is an image"
+msgid "Picture"
+msgstr ""
+
+#: conversationlistmodel.cpp:198
+#, kde-format
+msgctxt "Used as a text placeholder when the most-recent message is a video"
+msgid "Video"
+msgstr ""
+
+#: conversationlistmodel.cpp:202
+#, kde-format
+msgctxt ""
+"Used as a text placeholder when the most-recent message is an arbitrary "
+"attachment, resulting in something like \"pdf file\""
+msgid "%1 file"
+msgstr ""
+
+#: conversationlistmodel.cpp:218
+#, kde-format
+msgid "You: %1"
+msgstr ""
+
+#: conversationlistmodel.cpp:224
+#, kde-format
+msgid "%1: %2"
+msgstr ""
+
+#: conversationlistmodel.cpp:266 conversationlistmodel.cpp:288
+#, kde-format
+msgid "%1"
+msgstr ""
+
+#: main.cpp:33 qml/main.qml:21
+#, kde-format
+msgid "KDE Connect SMS"
+msgstr ""
+
+#: main.cpp:35
+#, kde-format
+msgid "SMS Instant Messaging"
+msgstr ""
+
+#: main.cpp:37
+#, kde-format
+msgid "(C) 2018-2019, KDE Connect Team"
+msgstr ""
+
+#: main.cpp:38
+#, kde-format
+msgid "Simon Redman"
+msgstr ""
+
+#: main.cpp:39
+#, kde-format
+msgid "Aleix Pol Gonzalez"
+msgstr ""
+
+#: main.cpp:40
+#, kde-format
+msgid "Nicolas Fella"
+msgstr ""
+
+#: main.cpp:53
+#, kde-format
+msgid "Select a device"
+msgstr ""
+
+#: main.cpp:53
+#, kde-format
+msgid "id"
+msgstr ""
+
+#: main.cpp:54
+#, kde-format
+msgid "Send a message"
+msgstr ""
+
+#: main.cpp:54
+#, kde-format
+msgid "message"
+msgstr ""
+
+#: qml/AttachmentViewer.qml:20
+#, kde-format
+msgid "Open with default"
+msgstr ""
+
+#: qml/ChatMessage.qml:154
+#, kde-format
+msgid "Copy Message"
+msgstr ""
+
+#: qml/ChatMessage.qml:159
+#, kde-format
+msgid "Copy Selection"
+msgstr ""
+
+#: qml/ConversationList.qml:24 qml/ConversationList.qml:105
+#, kde-format
+msgid "No devices available"
+msgstr ""
+
+#: qml/ConversationList.qml:34
+#, kde-format
+msgid ""
+"No new messages can be sent or received, but you can browse cached content"
+msgstr ""
+
+#: qml/ConversationList.qml:40
+#, kde-format
+msgid "Refresh"
+msgstr ""
+
+#: qml/ConversationList.qml:53
+#, kde-format
+msgid "No matched results found : ("
+msgstr ""
+
+#: qml/ConversationList.qml:91
+#, kde-format
+msgid "Choose recipient"
+msgstr ""
+
+#: qml/ConversationList.qml:96
+#, kde-format
+msgid "Cancel"
+msgstr ""
+
+#: qml/ConversationList.qml:154
+#, kde-format
+msgid "Filter..."
+msgstr ""
+
+#: qml/ConversationList.qml:186
+#, kde-format
+msgid "New"
+msgstr ""
+
+#: qml/ConversationList.qml:191
+#, kde-format
+msgid "Start new conversation"
+msgstr ""
+
+#: qml/main.qml:36
+#, kde-format
+msgid "About..."
+msgstr ""
+
+#: qml/MessageAttachments.qml:131
+#, kde-format
+msgid "Audio clip"
+msgstr ""
+
+#: qml/SendingArea.qml:23
+#, kde-format
+msgid "Failed to send"
+msgstr ""
+
+#: qml/SendingArea.qml:24
+#, kde-format
+msgid "Max message size limit exceeded."
+msgstr ""
+
+#: qml/SendingArea.qml:72
+#, kde-format
+msgid "Compose message"
+msgstr ""

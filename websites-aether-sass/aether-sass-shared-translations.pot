@@ -1,0 +1,1178 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-aether-sass 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: i18n/en.yaml:0
+msgid "Releases"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "RSS Feed"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Patrons"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Canonical"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Google"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "SUSE"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "The Qt Company"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Blue System"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "enioka Haute Couture"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Slimbook"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Donate to KDE"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Why Donate?"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Amount"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Donate via PayPal"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Other ways to donate"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Visit the KDE MetaStore"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Show your love for KDE! Purchase books, mugs, apparel, and more to support "
+"KDE."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Browse"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Products"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Plasma"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Applications"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Frameworks"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Plasma Mobile"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Neon"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "WikiToLearn"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Develop"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Techbase Wiki"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "API Documentation"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Qt Documentation"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Inqlude Documentation"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Goals"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "News & Press"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Announcements"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE.news"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Planet KDE"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Screenshots"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Press Contacts"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Miscellaneous Stuff"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Resources"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Community Wiki"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "UserBase Wiki"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Support"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Download KDE Software"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Code of Conduct"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Privacy Policy"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Applications Privacy Policy"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Destinations"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Store"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE e.V."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Free Qt Foundation"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Timeline"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "International Websites"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Maintained by <a href=\"mailto:kde-www@kde.org\">KDE Webmasters</a> (public "
+"mailing list)."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Generated from {{ .Get \"hash\" }}."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"KDE<sup>®</sup> and [the K Desktop Environment<sup>®</sup> "
+"logo](https://kde.org/media/images/trademark_kde_gear_black_logo.png) are "
+"registered trademarks of [KDE e.V.](https://ev.kde.org/ \"Homepage of the "
+"KDE non-profit Organization\")"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Legal"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Your donation is smaller than 2€. This means that most of your donation\n"
+"will end up in processing fees. Do you want to continue?"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Development and communication of KDE software"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Return to kde.org"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Home"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Skip to content"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Languages"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Select your language"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "%A, %d %B %Y"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Monday"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Tuesday"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Wednesday"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Thursday"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Friday"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Saturday"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Sunday"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "January"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "February"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "March"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "April"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "May"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "June"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "July"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "August"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "September"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "October"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "November"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "December"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Learn More"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Loading..."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "The next generation desktop for Linux"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Install on your computer"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Discover Plasma"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Buy a computer with Plasma"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Powerful, multi-platform and for all"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Use KDE software to surf the web, keep in touch with colleagues, friends and"
+" family, manage your files, enjoy music and videos; and get creative and "
+"productive at work. The KDE community develops and maintains more than "
+"<strong>200</strong> applications which run on any Linux desktop, and often "
+"other platforms too."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "See all applications"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Krita"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Get creative and draw beautiful artwork with Krita. A professional grade "
+"painting application."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Krita screenshot"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Kdenlive"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Kdenlive allows you to edit your videos and add special effects and "
+"transitions."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Kdenlive Screenshot"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Kontact"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Handle all your emails, calendars and contacts within a single window with "
+"Kontact."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Kontact Screenshot"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Kdevelop"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"KDevelop is a cross-platform IDE for C, C++, Python, QML/JavaScript and PHP"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDevelop Screenshot"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "GCompris"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"GCompris is a high quality educational software suite, including a large "
+"number of activities for children aged 2 to 10."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "GCompris Screenshot"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Hardware"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Buy a computer with Plasma preinstalled"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Pinebook Pro"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"The Pinebook Pro is an affordable ARM powered laptop. It is modular and "
+"hackable in a way that only an Open Source project can be."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Slimbook"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"The Slimbook is a shiny, sleek and good looking laptop that can do any task "
+"thanks to its powerful intel core-series processor."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KFocus"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"The Kubuntu Focus laptop is a high-powered, workflow-focused laptop which "
+"ships with Kubuntu installed."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Other hardware manufacturers are selling computers with Plasma."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "See all hardware"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Read More"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "View all announcements"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "The KDE Community"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"An international team developing and distributing Open Source software."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Our community has developed a wide variety of applications for "
+"communication, work, education and entertainment. We have a strong focus on "
+"finding innovative solutions to old and new problems, creating a vibrant, "
+"open atmosphere for experimentation."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "What is KDE?"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Get Involved"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Group photo of LaKademy 2018"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Salvador, Brazil"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Plasma Sprint"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Berlin, Germany"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Kdenlive Sprint"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Paris, France"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Delhi, India"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Google Summer of Code Students"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE GSoC students group photo"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Florianopolis, Brazil"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Connect Sprint"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Barcelona"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"You can find the full list of changes "
+"[here](/announcements/changelogs/applications/{{ .Get \"version\" }})."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Spread the Word"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Non-technical contributors are an important part of KDE’s success. While "
+"proprietary software companies have huge advertising budgets for new "
+"software releases, KDE depends on people talking with other people. Even for"
+" those who are not software developers, there are many ways to support the "
+"KDE Applications release. Report bugs. Encourage others to join the KDE "
+"Community. Or [support the nonprofit organization behind the KDE "
+"community](https://relate.kde.org/civicrm/contribute/transact?reset=1&amp;id=9)"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Please spread the word on the Social Web. Submit stories to news sites, use "
+"channels like delicious, digg, reddit, and twitter. Upload screenshots of "
+"your new set-up to services like Facebook, Flickr, ipernity and Picasa, and "
+"post them to appropriate groups. Create screencasts and upload them to "
+"YouTube, Blip.tv, and Vimeo. Please tag posts and uploaded materials with "
+"'KDE'. This makes them easy to find, and gives the KDE Promo Team a way to "
+"analyze coverage for this KDE Applications release."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Installing KDE Applications Binary Packages"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Packages"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Some Linux/UNIX OS vendors have kindly provided binary packages of KDE "
+"Applications for some versions of their distribution, and in other cases "
+"community volunteers have done so. Additional binary packages, as well as "
+"updates to the packages now available, may become available over the coming "
+"weeks."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Package Locations"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"For a current list of available binary packages of which the KDE Project has"
+" been informed, please visit the [Community "
+"Wiki](https://community.kde.org/KDE_Applications/Binary_Packages)."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Compiling KDE Applications"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"The complete source code for KDE Applications may be [freely "
+"downloaded](https://download.kde.org/stable/applications/{{ .Get \"version\""
+" }}/src). Instructions on compiling and installing are available from the "
+"[KDE Applications {{ .Get \"version\" }} Info Page](/info/applications-{{ "
+".Get \"version\" }})."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Trademark Notices."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"KDE<sup>&#174;</sup> and the K Desktop Environment<sup>&#174;</sup> logo are"
+" registered trademarks of KDE e.V.."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Linux is a registered trademark of Linus Torvalds."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"UNIX is a registered trademark of The Open Group in the United States and "
+"other countries."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"All other trademarks and copyrights referred to in this announcement are the"
+" property of their respective owners."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "For more information send us an email:"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Release Announcements"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Frameworks {{ .Get \"version\" }}"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Installing binary packages"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"On Linux, using packages for your favorite distribution is the recommended "
+"way to get access to KDE Frameworks. [Get KDE Software on Your Linux Distro "
+"wiki page]({{ .Get \"wiki\" }})"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Compiling from sources"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"The complete source code for KDE Frameworks {{ .Get \"version\" }} may be "
+"[freely downloaded](https://download.kde.org/stable/frameworks/{{ .Get "
+"\"version2\" }}/). Instructions on compiling and installing KDE Frameworks "
+"{{ .Get \"version\" }} are available from the [KDE Frameworks {{ .Get "
+"\"version\" }} Info Page](/info/kde-frameworks-{{ .Get \"version\" }})."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Building from source is possible using the basic <em>cmake .; make; make "
+"install</em> commands. For a single Tier 1 framework, this is often the "
+"easiest solution. People interested in contributing to frameworks or "
+"tracking progress in development of the entire set are encouraged to [use "
+"kdesrc-build]({{ .Get \"url\" }}). Frameworks {{ .Get \"version\" }} "
+"requires Qt {{ .Get \"qtversion\" }}."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"A detailed listing of all Frameworks and other third party Qt libraries is "
+"at [inqlude.org]({{ .Get \"inqlude\" }}), the curated archive of Qt "
+"libraries.  A complete list with API documentation is on [api.kde.org]({{ "
+".Get \"apiurl\" }})."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Those interested in following and contributing to the development of "
+"Frameworks can check out the [git repositories]({{ .Get \"frameworkurl\" }})"
+" and follow the discussions on the [KDE Frameworks Development mailing "
+"list]({{ .Get \"frameworkmail\" }}). Policies and the current state of the "
+"project and plans are available at the [Frameworks "
+"wiki](https://community.kde.org/Frameworks). Real-time discussions take "
+"place on the [#kde-devel IRC channel on freenode.net](irc://#kde-"
+"devel@freenode.net)."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Supporting KDE"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"KDE is a [Free Software](https://www.gnu.org/philosophy/free-sw.html) "
+"community that exists and grows only because of the help of many volunteers "
+"that donate their time and effort. KDE is always looking for new volunteers "
+"and contributions, whether it is help with coding, bug fixing or reporting, "
+"writing documentation, translations, promotion, money, etc. All "
+"contributions are gratefully appreciated and eagerly accepted. Please read "
+"through the [Supporting KDE page](/community/donations/) for further "
+"information or become a KDE e.V. supporting member through our [Join the "
+"Game](https://relate.kde.org/civicrm/contribute/transact?id=5) initiative."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Plasma 5.20"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "New and improved inside and out"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"A massive release, containing improvements to dozens of components, widgets,"
+" and the desktop behavior in general."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "View full changelog"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Live Images"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"The easiest way to try it out is with a live image booted off a USB disk. "
+"Docker images also provide a quick and easy way to test Plasma."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Download live images with Plasma 5"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Download Docker images with Plasma 5"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Package Downloads"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Distributions have created, or are in the process of creating, packages "
+"listed on our wiki page."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Package download wiki page"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Source Downloads"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "You can install Plasma 5 directly from source."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Community instructions to compile it"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Source Info Page"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Feedback"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "You can give us feedback and get updates on our social media channels:"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Share on Matrix"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Post on Facebook"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Share on Twitter"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Share on Diaspora"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Share on Reddit"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Share on YouTube"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Share on Mastodon"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Share on Peertube"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Share on VK"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Share on Instagram"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Discuss Plasma 5 on the [KDE Forums Plasma 5 "
+"board](https://forum.kde.org/viewforum.php?f=289)."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"You can provide feedback direct to the developers via the [#Plasma IRC "
+"channel](irc://#plasma@freenode.net), [Plasma-devel mailing "
+"list](https://mail.kde.org/mailman/listinfo/plasma-devel) or report issues "
+"via "
+"[Bugzilla](https://bugs.kde.org/enter_bug.cgi?product=plasmashell&amp;format=guided)."
+" If you like what the team is doing, please let them know!"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Your feedback is greatly appreciated."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "About KDE"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"KDE is an international technology team that creates free and open source "
+"software for desktop and portable computing. Among KDE's products are a "
+"modern desktop system for Linux and UNIX platforms, comprehensive office "
+"productivity and groupware suites and hundreds of software titles in many "
+"categories including Internet and web applications, multimedia, "
+"entertainment, educational, graphics and software development. KDE software "
+"is translated into more than 60 languages and is built with ease of use and "
+"modern accessibility principles in mind. KDE's full-featured applications "
+"run natively on Linux, BSD, Solaris, Windows and Mac OS X."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Next slide"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Previous slide"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Community"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"KDE is an open community of friendly people who want to create a world in "
+"which everyone has control over their digital life and enjoys freedom and "
+"privacy."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Recent content on KDE Community"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for January"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for February"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for March"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for April"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for May"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for June"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for July"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for August"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for September"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for October"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for November"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for December"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver Release"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver Beta Release"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Ships Plasma %ver."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Ships Plasma %ver Beta."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Today KDE releases a bugfix update to KDE Plasma %maj_ver."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Get Involved!"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Build {{ .Params.name }} from Sources"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"The [community wiki](https://community.kde.org/Get_Involved/development) provides resource\n"
+"about setting up your development environment.\n"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Not a Programmer?"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Not a problem! There are plenty of other tasks that you can help us with to\n"
+"make {{ .Params.name }} better even if you don't know any programming languages!\n"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"[Bug triaging](https://community.kde.org/Guidelines_and_HOWTOs/Bug_triaging) - help us find\n"
+"mis-filed, duplicated or invalid bug reports in Bugzilla\n"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"[Localization](https://community.kde.org/Get_Involved/translation) - help to translate\n"
+"{{ .Params.name }} into your language\n"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"[Documentation](https://community.kde.org/Get_Involved/documentation) - help us improve user\n"
+"documentation to make {{ .Params.name }} more friendly for newcomers\n"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"[Promotion](https://community.kde.org/Get_Involved/promotion) - help us promote {{ .Params.name }}\n"
+"both online and offline\n"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"[Updating wiki](https://userbase.kde.org/{{ .Params.name }}) - help updating the information present in\n"
+"the wiki, add new tutorials, ... - help us improve it to make it easier for others to join!\n"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Do you have any other idea? Get in touch!\n"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Linux"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"{{ .Params.name }} is already available on majority of Linux distributions. It\n"
+"can be installed directly from [Discover](appstream://{{ .Params.appstream }}.desktop),\n"
+"[GNOME Software](appstream://{{ .Params.appstream }}.desktop) or your distribution's\n"
+"[software store](appstream://{{ .Params.appstream }}.desktop).\n"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Release Sources"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"{{ .Params.name }} is released regularly as part of KDE Gear. You can\n"
+"find {{ .Params.name }} latest stable release among the \n"
+"[tarballs from the latest KDE Gear release](https://download.kde.org/stable/release-service)\n"
+"\n"
+"If you want to build {{ .Params.name }} from sources, we recommend checking our\n"
+"[Getting Involved](/get-involved) page which contains links to full guide how to\n"
+"compile {{ .Params.name }}.\n"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Flatpak"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"**Add flathub repository using:**\n"
+"\n"
+"```bash\n"
+"flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo\n"
+"```\n"
+"\n"
+"**Install {{ .Params.name }}**\n"
+"\n"
+"```bash\n"
+"flatpak install flathub {{ .Params.appstream }}\n"
+"```\n"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Handbook"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Lost in {{ .Params.name }} settings or just looking to discover more features in {{ .Params.name }}?\n"
+"You can read the [{{ .Params.name }} Handbook]({{ .Params.handbook }})\n"
+"to find answers to your questions.\n"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Need Help?"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Check {{ .Params.name }} on [KDE Forums]({{ .Params.forum }}),\n"
+"maybe someone has already solved a similar problem. And if not, feel free to ask\n"
+"there!\n"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Found a Bug?"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Bugs in software happen. If you found some in {{ .Params.name }}, please report them into\n"
+"[our Bugzilla](https://bugs.kde.org). Please do not report bugs on forums or\n"
+"mailinglists - such reports will most likely be overlooked or forgotten by the\n"
+"developers quite soon. To make sure the bug gets noticed by developers and\n"
+"fixed as soon as possible, report it into Bugzilla.\n"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Missing a Feature?"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"{{ .Params.name }} has a lot of features, but there's always a room for one or two more.\n"
+"If you have an idea for an improvement or you are missing a feature in {{ .Params.name }},\n"
+"write your suggestion in our [Bugzilla](https://bugs.kde.org) so that the\n"
+"developers can find it and implement it.\n"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Article contributed by {{ .Get \"authors\" }} under the {{ .Get \"license\" "
+"}} license."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ", and "
+msgstr ""

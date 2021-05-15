@@ -1,0 +1,557 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-angelfish package.
+#
+# Volkan Gezer <volkangezer@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-angelfish\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-15 00:21+0000\n"
+"PO-Revision-Date: 2020-12-09 18:16+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.08.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Volkan Gezer, Ali Cengiz Kurt"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "volkangezer@gmail.com, alicengizkurt@gmail.com"
+
+#: angelfish-webapp/contents/ui/WebAppView.qml:35
+#: lib/contents/ui/WebView.qml:72
+#, kde-format
+msgid "Copy"
+msgstr "Kopyala"
+
+#: angelfish-webapp/contents/ui/WebAppView.qml:40
+#: lib/contents/ui/WebView.qml:77
+#, kde-format
+msgid "Cut"
+msgstr "Kes"
+
+#: angelfish-webapp/contents/ui/WebAppView.qml:45
+#: lib/contents/ui/WebView.qml:82
+#, kde-format
+msgid "Paste"
+msgstr "Yapıştır"
+
+#: angelfish-webapp/contents/ui/WebAppView.qml:50
+#: lib/contents/ui/WebView.qml:87
+#, kde-format
+msgid "Search online for '%1'"
+msgstr "'%1' için çevrimiçi ara"
+
+#: angelfish-webapp/contents/ui/WebAppView.qml:50
+#: lib/contents/ui/WebView.qml:87
+#, kde-format
+msgid "Search online"
+msgstr "Çevrimiçi ara"
+
+#: angelfish-webapp/contents/ui/WebAppView.qml:55
+#: lib/contents/ui/WebView.qml:92
+#, kde-format
+msgid "Copy Url"
+msgstr "Url'yi kopyala"
+
+#: angelfish-webapp/contents/ui/WebAppView.qml:59
+#: lib/contents/ui/DownloadQuestion.qml:25 lib/contents/ui/WebView.qml:100
+#: src/contents/ui/AdblockFilterDownloadQuestion.qml:25
+#, kde-format
+msgid "Download"
+msgstr "İndir"
+
+#: angelfish-webapp/main.cpp:55
+#, kde-format
+msgid "desktop file to open"
+msgstr "açılacak masaüstü dosyası"
+
+#: angelfish-webapp/main.cpp:80
+#, kde-format
+msgid "Angelfish Web App runtime"
+msgstr "Angelfish Web Uygulaması çalışma zamanı"
+
+#: angelfish-webapp/main.cpp:82
+#, kde-format
+msgid "Copyright 2020 Angelfish developers"
+msgstr "Telif Hakkı 2020 Angelfish geliştiricileri"
+
+#: angelfish-webapp/main.cpp:84
+#, kde-format
+msgid "Marco Martin"
+msgstr "Marco Martin"
+
+#: lib/angelfishwebprofile.cpp:58
+#, kde-format
+msgid "Download finished"
+msgstr "Yükleme tamamlandı"
+
+#: lib/angelfishwebprofile.cpp:62
+#, kde-format
+msgid "Download failed"
+msgstr "Yükleme hatası"
+
+#: lib/contents/ui/AuthSheet.qml:26
+#, kde-format
+msgid "Authentication required"
+msgstr "Kimlik doğrulama"
+
+#: lib/contents/ui/AuthSheet.qml:35
+#, kde-format
+msgid "Username"
+msgstr "Kullanıcı Adı"
+
+#: lib/contents/ui/AuthSheet.qml:42
+#, kde-format
+msgid "Password"
+msgstr "Şifre"
+
+#: lib/contents/ui/AuthSheet.qml:51 lib/contents/ui/PermissionQuestion.qml:47
+#, kde-format
+msgid "Accept"
+msgstr "Kabul Et"
+
+#: lib/contents/ui/AuthSheet.qml:60 lib/contents/ui/DownloadQuestion.qml:33
+#: lib/contents/ui/JavaScriptDialogSheet.qml:48
+#: lib/contents/ui/JavaScriptDialogSheet.qml:71
+#: src/contents/ui/Downloads.qml:32
+#, kde-format
+msgid "Cancel"
+msgstr "İptal"
+
+#: lib/contents/ui/DownloadQuestion.qml:17
+#, kde-format
+msgid "Do you want to download this file?"
+msgstr "Bu dosyayı indirmek istiyor musunuz?"
+
+#: lib/contents/ui/ErrorHandler.qml:41
+#, kde-format
+msgid "Error loading the page"
+msgstr "Sayfayı yüklerken hata"
+
+#: lib/contents/ui/ErrorHandler.qml:52
+#, kde-format
+msgid "Retry"
+msgstr "Yeniden dene"
+
+#: lib/contents/ui/JavaScriptDialogSheet.qml:26
+#, kde-format
+msgid "Close"
+msgstr "Kapat"
+
+#: lib/contents/ui/JavaScriptDialogSheet.qml:40
+#, kde-format
+msgid "Confirm"
+msgstr "Onayla"
+
+#: lib/contents/ui/JavaScriptDialogSheet.qml:80
+#, kde-format
+msgid "Submit"
+msgstr "Gönder"
+
+#: lib/contents/ui/JavaScriptDialogSheet.qml:94
+#, kde-format
+msgid "Leave page"
+msgstr "Sayfadan ayrıl"
+
+#: lib/contents/ui/JavaScriptDialogSheet.qml:134
+#, kde-format
+msgid ""
+"The website asks for confirmation that you want to leave. Unsaved "
+"information might not be saved."
+msgstr ""
+"Web sitesi, ayrılmak istediğinize dair onay ister. Kaydedilmemiş bilgiler "
+"kaydedilmeyebilir."
+
+#: lib/contents/ui/PermissionQuestion.qml:20
+#, kde-format
+msgid "Do you want to allow the website to access the geo location?"
+msgstr "Bu sitenin konumunuza ulaşmasına izin vermek istiyor musunuz?"
+
+#: lib/contents/ui/PermissionQuestion.qml:23
+#, kde-format
+msgid "Do you want to allow the website to access the microphone?"
+msgstr "Bu sitenin mikrofonunuza ulaşmasına izin vermek istiyor musunuz?"
+
+#: lib/contents/ui/PermissionQuestion.qml:26
+#, kde-format
+msgid "Do you want to allow the website to access the camera?"
+msgstr "Bu sitenin kameranıza ulaşmasına izin vermek istiyor musunuz?"
+
+#: lib/contents/ui/PermissionQuestion.qml:29
+#, kde-format
+msgid ""
+"Do you want to allow the website to access the camera and the microphone?"
+msgstr ""
+"Bu sitenin kamera ve mikrofonunuza ulaşmasına izin vermek istiyor musunuz?"
+
+#: lib/contents/ui/PermissionQuestion.qml:32
+#, kde-format
+msgid "Do you want to allow the website to share your screen?"
+msgstr "Web sitesinin ekranınızı paylaşmasına izin vermek istiyor musunuz?"
+
+#: lib/contents/ui/PermissionQuestion.qml:35
+#, kde-format
+msgid "Do you want to allow the website to share the sound output?"
+msgstr "Web sitesinin ses çıkışını paylaşmasına izin vermek istiyor musunuz?"
+
+#: lib/contents/ui/PermissionQuestion.qml:38
+#, kde-format
+msgid "Do you want to allow the website to send you notifications?"
+msgstr "Web sitesinin size bildirim göndermesine izin vermek istiyor musunuz?"
+
+#: lib/contents/ui/PermissionQuestion.qml:57
+#, kde-format
+msgid "Decline"
+msgstr "Reddet"
+
+#: lib/contents/ui/WebView.qml:96
+#, kde-format
+msgid "View source"
+msgstr "Kaynağı Görüntüle"
+
+#: lib/contents/ui/WebView.qml:105
+#, kde-format
+msgid "Open in new Tab"
+msgstr "Yeni sekmede aç"
+
+#: lib/contents/ui/WebView.qml:193
+#, kde-format
+msgid "Website was opened in a new tab"
+msgstr "Web sitesi eni sekmede açılacak"
+
+#: src/contents/ui/AdblockFilterDownloadQuestion.qml:14
+#, kde-format
+msgid ""
+"The ad blocker is missing its filter lists, do you want to download them now?"
+msgstr ""
+"Reklam engelleyicinin filtre listeleri eksik, bunları şimdi indirmek ister "
+"misiniz?"
+
+#: src/contents/ui/AdblockFilterDownloadQuestion.qml:30
+#, kde-format
+msgid "Downloading..."
+msgstr "İndiriliyor..."
+
+#: src/contents/ui/Bookmarks.qml:16 src/contents/ui/webbrowser.qml:87
+#, kde-format
+msgid "Bookmarks"
+msgstr "Yer İmleri"
+
+#: src/contents/ui/Downloads.qml:15 src/contents/ui/webbrowser.qml:99
+#, kde-format
+msgid "Downloads"
+msgstr "İndirilenler"
+
+#: src/contents/ui/Downloads.qml:26
+#, kde-format
+msgid "No running downloads"
+msgstr "Devam eden indirme yok"
+
+#: src/contents/ui/Downloads.qml:38
+#, kde-format
+msgid "Pause"
+msgstr "Duraklat"
+
+#: src/contents/ui/Downloads.qml:44
+#, kde-format
+msgid "Continue"
+msgstr "Devam et"
+
+#: src/contents/ui/Downloads.qml:82
+#, kde-format
+msgctxt "download state"
+msgid "Starting…"
+msgstr "Başlatılıyor..."
+
+#: src/contents/ui/Downloads.qml:84
+#, kde-format
+msgid "Completed"
+msgstr "Tamamlandı"
+
+#: src/contents/ui/Downloads.qml:86
+#, kde-format
+msgid "Cancelled"
+msgstr "İptal Edildi"
+
+#: src/contents/ui/Downloads.qml:88
+#, kde-format
+msgctxt "download state"
+msgid "Interrupted"
+msgstr "Durduruldu"
+
+#: src/contents/ui/FindInPageBar.qml:49
+#, kde-format
+msgid "Search..."
+msgstr "Ara..."
+
+#: src/contents/ui/History.qml:16 src/contents/ui/webbrowser.qml:95
+#, kde-format
+msgid "History"
+msgstr "Geçmiş"
+
+#: src/contents/ui/InputSheet.qml:51
+#, kde-format
+msgid "OK"
+msgstr "Tamam"
+
+#: src/contents/ui/NewTabQuestion.qml:17
+#, kde-format
+msgid ""
+"Site wants to open a new tab: \n"
+"%1"
+msgstr ""
+"Site yeni bir sekme açmak istiyor: \n"
+"%1"
+
+#: src/contents/ui/NewTabQuestion.qml:25
+#, kde-format
+msgid "Open"
+msgstr "Aç"
+
+#: src/contents/ui/SettingsAdblock.qml:17
+#, kde-format
+msgid "Adblock settings"
+msgstr "Adblock ayarları"
+
+#: src/contents/ui/SettingsAdblock.qml:38
+#, kde-format
+msgid "The adblock functionality isn't included in this build."
+msgstr "Adblock işlevi bu yapıya dahil değildir."
+
+#: src/contents/ui/SettingsAdblock.qml:44
+#, kde-format
+msgid "Add filterlist"
+msgstr "Filtre listesi ekle"
+
+#: src/contents/ui/SettingsAdblock.qml:49
+#, kde-format
+msgid "Name"
+msgstr "İsim"
+
+#: src/contents/ui/SettingsAdblock.qml:58
+#, kde-format
+msgid "Url"
+msgstr "Url"
+
+#: src/contents/ui/SettingsAdblock.qml:67
+#, kde-format
+msgid "Add"
+msgstr "Ekle"
+
+#: src/contents/ui/SettingsAdblock.qml:110
+#, kde-format
+msgid "Remove this filter list"
+msgstr "Bu filtre listesini kaldır"
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:18
+#: src/contents/ui/SettingsPage.qml:77
+#, kde-format
+msgid "Navigation bar"
+msgstr "Gezinti çubuğu"
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:37
+#, kde-format
+msgid ""
+"Choose the buttons enabled in navigation bar. Some of the buttons can be "
+"hidden only in portrait orientation of the browser and are always shown if  "
+"the browser is wider than its height.\n"
+"\n"
+" Note that if you disable the menu buttons, you will be able to access the "
+"menus either by swiping from the left or right side or to a side along the "
+"bottom of the window."
+msgstr ""
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:55
+#, kde-format
+msgid "Main menu in portrait"
+msgstr "Dikey ana menü"
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:69
+#, kde-format
+msgid "Tabs in portrait"
+msgstr "Dikey sekmeler"
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:83
+#, kde-format
+msgid "Context menu in portrait"
+msgstr "Dikey bağlam menüsü"
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:97
+#, kde-format
+msgid "Go back"
+msgstr "Geri git"
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:111
+#: src/contents/ui/webbrowser.qml:310
+#, kde-format
+msgid "Go forward"
+msgstr "İleri git"
+
+#: src/contents/ui/SettingsNavigationBarPage.qml:125
+#, kde-format
+msgid "Reload/Stop"
+msgstr "Yeniden Yükle/Dur"
+
+#: src/contents/ui/SettingsPage.qml:17 src/contents/ui/webbrowser.qml:107
+#, kde-format
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: src/contents/ui/SettingsPage.qml:36
+#, kde-format
+msgid "Enable JavaScript"
+msgstr "JavaScript'i etkinleştir"
+
+#: src/contents/ui/SettingsPage.qml:50
+#, kde-format
+msgid "Load images"
+msgstr "Resimleri yükle"
+
+#: src/contents/ui/SettingsPage.qml:64
+#: src/contents/ui/SettingsSearchEnginePage.qml:18
+#: src/contents/ui/SettingsSearchEnginePage.qml:42
+#, kde-format
+msgid "Search Engine"
+msgstr "Arama Motoru"
+
+#: src/contents/ui/SettingsPage.qml:90
+#, kde-format
+msgid "Adblock filter lists"
+msgstr "Adblock filtre listeleri"
+
+#: src/contents/ui/SettingsPage.qml:103 src/contents/ui/SettingsWebApps.qml:13
+#, kde-format
+msgid "Web Apps"
+msgstr ""
+
+#: src/contents/ui/SettingsSearchEnginePage.qml:37
+#, kde-format
+msgid "Custom"
+msgstr "Özel"
+
+#: src/contents/ui/SettingsSearchEnginePage.qml:43
+#, kde-format
+msgid "Base URL of your preferred search engine"
+msgstr "Arama motoru için tercih ettiğiniz ana URL"
+
+#: src/contents/ui/SettingsWebApps.qml:42
+#, kde-format
+msgid "Remove app"
+msgstr ""
+
+#: src/contents/ui/ShareSheet.qml:22 src/contents/ui/webbrowser.qml:273
+#, kde-format
+msgid "Share page"
+msgstr "Sayfayı paylaş"
+
+#: src/contents/ui/Tabs.qml:65
+#, kde-format
+msgid "Private Tabs"
+msgstr "Özel Sekmeler"
+
+#: src/contents/ui/Tabs.qml:65 src/contents/ui/webbrowser.qml:72
+#, kde-format
+msgid "Tabs"
+msgstr "Sekmeler"
+
+#: src/contents/ui/Tabs.qml:70
+#, kde-format
+msgid "New Tab"
+msgstr ""
+
+#: src/contents/ui/webbrowser.qml:22
+#, kde-format
+msgid "Angelfish Web Browser"
+msgstr "Angelfish Web Tarayıcı"
+
+#: src/contents/ui/webbrowser.qml:79
+#, kde-format
+msgid "Leave private mode"
+msgstr "Özel kipten çık"
+
+#: src/contents/ui/webbrowser.qml:79
+#, kde-format
+msgid "Private mode"
+msgstr "Özel kip"
+
+#: src/contents/ui/webbrowser.qml:118
+#, kde-format
+msgid "Enable Adblock"
+msgstr "Adblock'u etkinleştir"
+
+#: src/contents/ui/webbrowser.qml:269
+#, kde-format
+msgid "Find in page"
+msgstr "Sayfada ara"
+
+#: src/contents/ui/webbrowser.qml:284
+#, kde-format
+msgid "Add to homescreen"
+msgstr "Ana ekrana ekle"
+
+#: src/contents/ui/webbrowser.qml:294
+#, fuzzy, kde-format
+#| msgid "Open in new Tab"
+msgid "Open in app"
+msgstr "Yeni sekmede aç"
+
+#: src/contents/ui/webbrowser.qml:302
+#, kde-format
+msgid "Go previous"
+msgstr "Öncekine git"
+
+#: src/contents/ui/webbrowser.qml:317
+#, kde-format
+msgid "Stop loading"
+msgstr "Yüklemeyi durdur"
+
+#: src/contents/ui/webbrowser.qml:317
+#, kde-format
+msgid "Refresh"
+msgstr "Yenile"
+
+#: src/contents/ui/webbrowser.qml:327
+#, kde-format
+msgid "Bookmarked"
+msgstr "Yer imi eklendi"
+
+#: src/contents/ui/webbrowser.qml:327
+#, kde-format
+msgid "Bookmark"
+msgstr "Yer imi"
+
+#: src/contents/ui/webbrowser.qml:343
+#, kde-format
+msgid "Show desktop site"
+msgstr "Sitenin masaüstü biçimini göster"
+
+#: src/contents/ui/webbrowser.qml:352
+#, kde-format
+msgid "Hide navigation bar"
+msgstr "Gezinme çubuğunu gizle"
+
+#: src/contents/ui/webbrowser.qml:352
+#, kde-format
+msgid "Show navigation bar"
+msgstr "Gezinme çubuğunu göster"
+
+#: src/main.cpp:65
+#, kde-format
+msgid "URL to open"
+msgstr "Açılacak URL"
+
+#~ msgid "New"
+#~ msgstr "Yeni"
+
+#~ msgid "Choose the buttons enabled in navigation bar. "
+#~ msgstr "Gezinme çubuğunda etkinleştirilen düğmeleri seçin."

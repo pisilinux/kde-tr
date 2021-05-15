@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdepimlibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-18 01:47+0000\n"
+"POT-Creation-Date: 2021-04-18 00:26+0000\n"
 "PO-Revision-Date: 2015-07-31 09:44+0000\n"
 "Last-Translator: Necdet <necdetyucel@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -24,12 +24,12 @@ msgctxt "Name"
 msgid "Contact Actions"
 msgstr "Kişi Eylemleri"
 
-#: kcm/akonadicontact_actions.desktop:66
+#: kcm/akonadicontact_actions.desktop:67
 msgctxt "Comment"
 msgid "Configure the Contact Actions"
 msgstr "Kişi Eylemlerini Yapılandır"
 
-#: kcm/akonadicontact_actions.desktop:119
+#: kcm/akonadicontact_actions.desktop:121
 msgctxt "X-KDE-Keywords"
 msgid "kaddressbook, configure, settings, contact, actions"
 msgstr "kaddressbook, yapılandır, ayarlar, kişi, eylemler"
@@ -42,7 +42,7 @@ msgctxt "Name"
 msgid "Addressee Serializer"
 msgstr "SocialFeedItem Sıralandırıcı"
 
-#: serializers/akonadi_serializer_addressee.desktop:35
+#: serializers/akonadi_serializer_addressee.desktop:36
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "An Akonadi serializer plugin for SocialFeedItem"
@@ -55,7 +55,7 @@ msgctxt "Name"
 msgid "Contact Group Serializer"
 msgstr ""
 
-#: serializers/akonadi_serializer_contactgroup.desktop:36
+#: serializers/akonadi_serializer_contactgroup.desktop:37
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "An Akonadi serializer plugin for SocialFeedItem"

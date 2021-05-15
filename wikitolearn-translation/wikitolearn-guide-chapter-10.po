@@ -1,0 +1,75 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WikiPages-en b3838de29fa8fc0bd798c67213a4c54b90491e33\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-15 19:39+0200\n"
+"PO-Revision-Date: 2017-07-22 19:08+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+
+#: wikitolearn-guide-chapter-10.mw:1
+msgid ""
+"WikiToLearn is actively developed both on the technical and the content "
+"side.\n"
+"It's possible to contribute in several ways, regardless of the user's skills "
+"and experience."
+msgstr ""
+"WikiToLearn hem teknik hem de içerik yönünden etkin olarak "
+"geliştirilmektedir.\n"
+"Kullanıcının yeteneklerinden ve deneyiminden bağımsız olarak bir çok şekilde "
+"katkı vermek mümkündür."
+
+#: wikitolearn-guide-chapter-10.mw:1
+msgid "Web development"
+msgstr "Web Geliştirme"
+
+#: wikitolearn-guide-chapter-10.mw:5
+msgid ""
+"There are lots of web app and applications developed by WikiToLearn.\n"
+"Web development is split into groups and every group has its maintainer.\n"
+"Take a look at http://meta.wikitolearn.org/Tech_Team and feel free to "
+"contact the members to ask them more questions."
+msgstr ""
+"WikiToLearn tarafından geliştirilen çok sayıda web uygulamaları "
+"bulunmaktadır.\n"
+"Web geliştirme gruplara ayrılır ve her grubun kendi koruyucusu vardır.\n"
+"http://meta.wikitolearn.org/Tech_Team ' e bir göz atın ve daha fazla soru "
+"sormak için üyelerle bağlantı kurmaktan çekinmeyin."
+
+#: wikitolearn-guide-chapter-10.mw:5
+msgid "Translation"
+msgstr "Çeviri"
+
+#: wikitolearn-guide-chapter-10.mw:10
+msgid ""
+"If you want to help with translation you can join the [https://chat."
+"wikitolearn.org/channel/translation #translation] channel."
+msgstr ""
+"Çeviriye yardım etmek istiyorsanız [https://chat.wikitolearn.org/channel/"
+"translation #translation] kanalına katılabilirsiniz. "
+
+#: wikitolearn-guide-chapter-10.mw:10
+msgid "Bug tracking"
+msgstr "Hata İzleme"
+
+#: wikitolearn-guide-chapter-10.mw:13
+msgid ""
+"We use phabricator to keep tracks of our development and our bugs.\n"
+"If you think you have found a bug and want to tell us about it, you need to "
+"[https://identity.kde.org/index.php?r=registration/index register to KDE "
+"identity] , log in into phabricator and [https://phabricator.kde.org/"
+"maniphest/task/edit/form/1/?tags=WikiToLearn create a ticket]."
+msgstr ""
+"Geliştirme ve hataların izini tutmak için phabricator kullanıyoruz.\n"
+"Eğer bir hata bulduğunuzu düşünüyorsanız ve bize bu konuda söylemek "
+"istedikleriniz varsa, [https://identity.kde.org/index.php?r=registration/"
+"index KDE kimliğe kaydolmanız], phabricator ' e giriş yapmanız ve [https://"
+"phabricator.kde.org/maniphest/task/edit/form/1/?tags=WikiToLearn bir bilet "
+"oluşturmanız] yeterlidir."
