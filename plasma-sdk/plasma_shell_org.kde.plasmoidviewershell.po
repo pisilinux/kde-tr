@@ -1,0 +1,181 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_shell_org.kde.plasmoidviewershell\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-09 02:40+0200\n"
+"PO-Revision-Date: 2017-10-23 11:19+0000\n"
+"Last-Translator: İşbaran <isbaran@gmail.com>\n"
+"Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: contents/configuration/AppletConfiguration.qml:36
+msgid "Keyboard shortcuts"
+msgstr "Klavye kısayolları"
+
+#: contents/configuration/AppletConfiguration.qml:120
+msgid "Apply Settings"
+msgstr "Ayarları Uygula"
+
+#: contents/configuration/AppletConfiguration.qml:121
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr ""
+"Etkin modülde kaydedilmemiş değişiklikler var. Değişiklikleri kaydetmek mi "
+"yok saymak mı istiyorsunuz?"
+
+#: contents/configuration/AppletConfiguration.qml:318
+msgid "OK"
+msgstr "Tamam"
+
+#: contents/configuration/AppletConfiguration.qml:325
+msgid "Apply"
+msgstr "Uygula"
+
+#: contents/configuration/AppletConfiguration.qml:330
+msgid "Cancel"
+msgstr "İptal Et"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:19
+msgid "Left-Button"
+msgstr "Sol-Düğme"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:20
+msgid "Right-Button"
+msgstr "Sağ-Düğme"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:21
+msgid "Middle-Button"
+msgstr "Orta-Düğme"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:23
+msgid "Vertical-Scroll"
+msgstr "Dikey-Kaydırma"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:24
+msgid "Horizontal-Scroll"
+msgstr "Yatay-Kaydırma"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:26
+msgid "Shift"
+msgstr "Shift"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:27
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:28
+msgid "Alt"
+msgstr "Alt"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:29
+msgid "Meta"
+msgstr "Meta"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:104
+#: contents/configuration/MouseEventInputButton.qml:15
+msgid "Add Action"
+msgstr "Eylem Ekle"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:75
+msgid "Layout:"
+msgstr "Yerleşim:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:96
+msgid "Layout cannot be changed whilst widgets are locked"
+msgstr "Programcıklar kilitliyken yerleşim değiştirilemez"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:109
+msgid "Wallpaper Type:"
+msgstr "Duvar Kağıdı Türü:"
+
+#: contents/configuration/ConfigurationShortcuts.qml:29
+msgid ""
+"This shortcut will activate the applet: it will give the keyboard focus to "
+"it, and if the applet has a popup (such as the start menu), the popup will "
+"be open."
+msgstr ""
+"Bu kısayol uygulamanın etkinleşmesini sağlayacaktır: klavye odağı ona "
+"verecektir ve eğer uygulamanın bir açılır penceresi (başlangıç menüsü gibi) "
+"varsa, açılır pencere açılacaktır."
+
+#: contents/configuration/ContainmentConfiguration.qml:31
+msgid "Wallpaper"
+msgstr "Duvar Kağıdı"
+
+#: contents/configuration/ContainmentConfiguration.qml:36
+msgid "Mouse Actions"
+msgstr "Fare Eylemleri"
+
+#: contents/configuration/MouseEventInputButton.qml:26
+msgid "Input Here"
+msgstr "Buraya Girin"
+
+#: contents/views/SdkButtons.qml:47
+msgid "FormFactors"
+msgstr "FormFactors"
+
+#: contents/views/SdkButtons.qml:55
+msgid "Planar"
+msgstr "Düzlemsel"
+
+#: contents/views/SdkButtons.qml:59
+msgid "Vertical"
+msgstr "Dikey"
+
+#: contents/views/SdkButtons.qml:63
+msgid "Horizontal"
+msgstr "Yatay"
+
+#: contents/views/SdkButtons.qml:67
+msgid "Mediacenter"
+msgstr "Ortam merkezi"
+
+#: contents/views/SdkButtons.qml:71
+msgid "Application"
+msgstr "Uygulama"
+
+#: contents/views/SdkButtons.qml:78
+msgid "Location"
+msgstr "Konum"
+
+#: contents/views/SdkButtons.qml:92
+msgid "Floating"
+msgstr "Kayan"
+
+#: contents/views/SdkButtons.qml:96
+msgid "Desktop"
+msgstr "Masaüstü"
+
+#: contents/views/SdkButtons.qml:100
+msgid "Fullscreen"
+msgstr "Tam Ekran"
+
+#: contents/views/SdkButtons.qml:104
+msgid "Top Edge"
+msgstr "Üst Kenar"
+
+#: contents/views/SdkButtons.qml:108
+msgid "Bottom Edge"
+msgstr "Alt Kenar"
+
+#: contents/views/SdkButtons.qml:112
+msgid "Left Edge"
+msgstr "Sol Kenar"
+
+#: contents/views/SdkButtons.qml:116
+msgid "Right Edge"
+msgstr "Sağ Kenar"
+
+#: contents/views/SdkButtons.qml:135
+msgid "Configure Containment"
+msgstr "Sınrıları Yapılandır"

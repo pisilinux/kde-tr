@@ -1,0 +1,1337 @@
+# translation of desktop_kdeplasma-addons.po to
+# #-#-#-#-#  desktop_kdeplasmoids_applets.po (desktop_extragear-plasma_applets)  #-#-#-#-#
+# translation of desktop_extragear-plasma_applets.po to
+# #-#-#-#-#  desktop_kdeplasmoids_dataengines.po (desktop_extragear-plasma_dataengines)  #-#-#-#-#
+# translation of desktop_extragear-plasma_dataengines.po to
+# #-#-#-#-#  desktop_kdeplasmoids_desktopthemes.po (desktop files)  #-#-#-#-#
+# Koray Löker <loker@pardus.org.tr>, 2008.
+# Necmettin Begiter <necmettin.begiter@gmail.com>, 2008.
+# Serdar Soytetir <tulliana@gmail.com>, 2008, 2009, 2010, 2011.
+# Serhat Demirkol <serhat_demirkol@yahoo.com>, 2009.
+# H. İbrahim Güngör <h.ibrahim.gungor@gmail.com>, 2009.
+# Gökmen Göksel <gokmen@pardus.org.tr>, 2010.
+# Fatih Aşıcı <fatih@pardus.org.tr>, 2010.
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2010, 2011.
+# Serdar SOYTETİR <tulliana@gmail.com>, 2010, 2012.
+# Ozan Çağlayan <ozan@pardus.org.tr>, 2011.
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014, 2017, 2021.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdeplasma-addons\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-11 00:27+0000\n"
+"PO-Revision-Date: 2021-04-20 15:10+0200\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.08.2\n"
+
+#: applets/activitypager/metadata.desktop:2
+msgctxt "Name"
+msgid "Activity Pager"
+msgstr "Etkinlik Sayfalayıcı"
+
+#: applets/activitypager/metadata.desktop:45
+msgctxt "Comment"
+msgid "Switch between activities"
+msgstr "Etkinlikler arasında geçiş yap"
+
+#: applets/binary-clock/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Binary Clock"
+msgstr "İkili Saat"
+
+#: applets/binary-clock/package/metadata.desktop:63
+msgctxt "Comment"
+msgid "Time displayed in binary format"
+msgstr "Saati ikili biçimde görüntüle"
+
+#: applets/calculator/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Calculator"
+msgstr "Hesap Makinesi"
+
+#: applets/calculator/package/metadata.desktop:65
+msgctxt "Comment"
+msgid "Calculate simple sums"
+msgstr "Basit hesaplamalar yapın"
+
+#: applets/colorpicker/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Color Picker"
+msgstr "Renk Seçici"
+
+#: applets/colorpicker/package/metadata.desktop:66
+msgctxt "Comment"
+msgid "Pick a color from the desktop"
+msgstr "Ekranda gördüğünüz herhangi bir rengi seçmek için"
+
+#: applets/comic/comic.knsrc:2
+msgctxt "Name"
+msgid "Comics"
+msgstr "Çizgi Romanlar"
+
+#: applets/comic/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Comic Strip"
+msgstr "Çizgi Roman"
+
+#: applets/comic/package/metadata.desktop:62
+msgctxt "Comment"
+msgid "View comic strips from the Internet"
+msgstr "İnternet'ten çizgi roman karikatürleri göster"
+
+#: applets/dict/package/metadata.desktop:2
+#: runners/dictionary/plasma-runner-dictionary_config.desktop:9
+#: runners/dictionary/plasma-runner-dictionary.desktop:2
+msgctxt "Name"
+msgid "Dictionary"
+msgstr "Sözlük"
+
+#: applets/dict/package/metadata.desktop:67
+msgctxt "Comment"
+msgid ""
+"Look up the meaning of words and their translation into different languages"
+msgstr "Sözcüklerin farklı dillerdeki anlamına bakın"
+
+#: applets/diskquota/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Disk Quota"
+msgstr "Disk Kotası"
+
+#: applets/diskquota/package/metadata.desktop:44
+msgctxt "Comment"
+msgid "Shows details about disk quota"
+msgstr "Disk kotası hakkında ayrıntı gösterir"
+
+#: applets/fifteenPuzzle/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Fifteen Puzzle"
+msgstr "Onbeşli Yapboz"
+
+#: applets/fifteenPuzzle/package/metadata.desktop:61
+msgctxt "Comment"
+msgid "Put the pieces in order"
+msgstr "Parçaları sıraya koyun"
+
+#: applets/fuzzy-clock/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Fuzzy Clock"
+msgstr "Bulanık Saat"
+
+#: applets/fuzzy-clock/package/metadata.desktop:61
+msgctxt "Comment"
+msgid "Time displayed in a less precise format"
+msgstr "Saati daha az belirli bir şekilde göster"
+
+#: applets/grouping/container/package/metadata.desktop:2
+#: applets/grouping/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Grouping Plasmoid"
+msgstr "Plazmidleri Gruplandırma"
+
+#: applets/grouping/container/package/metadata.desktop:44
+#: applets/grouping/package/metadata.desktop:44
+msgctxt "Comment"
+msgid "Group Plasma widgets together"
+msgstr "Plasma programcıklarını birlikte grupla"
+
+#: applets/keyboardindicator/metadata.desktop:2
+msgctxt "Name"
+msgid "Lock Keys Status"
+msgstr "Kilit Tuşları Durumu"
+
+#: applets/keyboardindicator/metadata.desktop:23
+msgctxt "Comment"
+msgid "Shows whether Caps Lock or Num Lock are active"
+msgstr "Caps Lock veya Num Lock'un etkin olup olmadığını gösterir"
+
+#: applets/kickerdash/metadata.desktop:2
+msgctxt "Name"
+msgid "Application Dashboard"
+msgstr "Uygulama Paneli"
+
+#: applets/kickerdash/metadata.desktop:47
+msgctxt "Comment"
+msgid "A fullscreen application launcher"
+msgstr "Tam ekran uygulama başlatıcısı"
+
+#: applets/konsoleprofiles/package/metadata.desktop:2
+#: dataengines/konsoleprofiles/plasma-dataengine-konsoleprofiles.desktop:2
+#: runners/konsoleprofiles/plasma-runner-konsoleprofiles.desktop:2
+msgctxt "Name"
+msgid "Konsole Profiles"
+msgstr "Konsole Profilleri"
+
+#: applets/konsoleprofiles/package/metadata.desktop:61
+#: dataengines/konsoleprofiles/plasma-dataengine-konsoleprofiles.desktop:61
+msgctxt "Comment"
+msgid "List and launch Konsole profiles"
+msgstr "Konsole profillerini listeleyin ve çalıştırın"
+
+#: applets/mediaframe/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Media Frame"
+msgstr "Medya Çerçevesi"
+
+#: applets/mediaframe/package/metadata.desktop:39
+msgctxt "Comment"
+msgid "(Picture) Frame"
+msgstr "(Resim) Karesi"
+
+#: applets/nightcolor/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Night Color Control"
+msgstr "Gece Renk Kontrolü"
+
+#: applets/nightcolor/package/metadata.desktop:37
+msgctxt "Comment"
+msgid "Plasmoid for controlling Night Color"
+msgstr "Gece rengini kontrol etmek için plazmoid"
+
+#: applets/notes/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Sticky Note"
+msgstr "Yapışkan Not"
+
+#: applets/notes/package/metadata.desktop:35
+msgctxt "Comment"
+msgid "Desktop sticky note"
+msgstr "Masaüstü yapışkan not"
+
+#: applets/quicklaunch/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Quicklaunch"
+msgstr "Hızlı başlat"
+
+#: applets/quicklaunch/package/metadata.desktop:45
+msgctxt "Comment"
+msgid "Launch your favourite Applications"
+msgstr "Favori uygulamalarınızı çalıştırın"
+
+#: applets/quickshare/plasmoid/metadata.desktop:2
+msgctxt "Name"
+msgid "Quick Share"
+msgstr "Hızlı Paylaş"
+
+#: applets/quickshare/plasmoid/metadata.desktop:48
+msgctxt "Comment"
+msgid "Paste text/images to a remote server"
+msgstr "Bir uzak sunucuya metin/resim yapıştır"
+
+#: applets/timer/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Timer"
+msgstr "Zamanlayıcı"
+
+#: applets/timer/package/metadata.desktop:64
+msgctxt "Comment"
+msgid "Countdown over a specified time period"
+msgstr "Belirlenen bir süre boyunca geri sayım yap"
+
+#: applets/userswitcher/package/metadata.desktop:2
+msgctxt "Name"
+msgid "User Switcher"
+msgstr "Kullanıcı Değiştirici"
+
+#: applets/userswitcher/package/metadata.desktop:45
+msgctxt "Comment"
+msgid "Quickly switch between different users"
+msgstr "Farklı kullanıcılar arasında hızlıca geçiş yap"
+
+#: applets/weather/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Weather Report"
+msgstr "Hava Durumu"
+
+#: applets/weather/package/metadata.desktop:39
+msgctxt "Comment"
+msgid "Forecast and current conditions"
+msgstr "Tahmin ve mevcut koşullar"
+
+#: applets/webbrowser/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Web browser"
+msgstr "Web tarayıcı"
+
+#: applets/webbrowser/package/metadata.desktop:46
+msgctxt "Comment"
+msgid "Add a webpage on your desktop."
+msgstr "Masaüstünüze bir dosya ekleyin."
+
+#: dataengines/comic/plasma_comicprovider.desktop:4
+msgctxt "Comment"
+msgid "Plugin for Plasma Comic Engine"
+msgstr "Plasma Çizgi Roman Motoru için Eklenti"
+
+#: dataengines/comic/plasma-dataengine-comic.desktop:2
+msgctxt "Name"
+msgid "Comic Strips"
+msgstr "Çizgi Romanlar"
+
+#: dataengines/comic/plasma-dataengine-comic.desktop:60
+msgctxt "Comment"
+msgid "Online comic strips"
+msgstr "Çevrimiçi çizgi romanlar"
+
+#: dataengines/comic/plasma-packagestructure-comic.desktop:2
+msgctxt "Name"
+msgid "Comic"
+msgstr "Çizgi Roman"
+
+#: dataengines/comic/plasma-packagestructure-comic.desktop:62
+msgctxt "Comment"
+msgid "Comic Package Structure"
+msgstr "Çizgi Roman Paket Yapısı"
+
+#: dataengines/potd/plasma-dataengine-potd.desktop:2
+#: wallpapers/potd/metadata.desktop:2
+msgctxt "Name"
+msgid "Picture of the Day"
+msgstr "Günün Resmi"
+
+#: dataengines/potd/plasma-dataengine-potd.desktop:58
+msgctxt "Comment"
+msgid "Data Engine for getting various online Pictures of The Day."
+msgstr "Çeşitli çevrim içi Günün Resimleri için veri motoru."
+
+#: dataengines/potd/plasma_potdprovider.desktop:4
+msgctxt "Comment"
+msgid "Plugin for Plasma PoTD Engine"
+msgstr "Plasma PoTD Motoru için Eklenti"
+
+#: desktopswitchers/previews/metadata.desktop:2
+msgctxt "Name"
+msgid "Previews"
+msgstr "Önizlemeler"
+
+#: desktopswitchers/previews/metadata.desktop:45
+msgctxt "Comment"
+msgid "A desktop switcher layout with previews of the desktops"
+msgstr "Masaüstlerinin önizlemeleri ile bir masaüstü değiştirici yerleşimi"
+
+#: runners/characters/plasma-runner-character_config.desktop:2
+msgctxt "Name"
+msgid "special Characters"
+msgstr "özel Karakterler"
+
+#: runners/characters/plasma-runner-character.desktop:2
+msgctxt "Name"
+msgid "Special Characters"
+msgstr "Özel Karakterler"
+
+#: runners/characters/plasma-runner-character.desktop:61
+msgctxt "Comment"
+msgid "Creates special characters from their hexadecimal codes"
+msgstr "Onaltılık kodlardan özel karakterler oluştur"
+
+#: runners/converter/plasma-runner-converter.desktop:2
+msgctxt "Name"
+msgid "Unit Converter"
+msgstr "Birim Dönüştürücü"
+
+#: runners/converter/plasma-runner-converter.desktop:63
+msgctxt "Comment"
+msgid "Convert values to different units"
+msgstr "Değerleri başka birimlere dönüştürür"
+
+#: runners/datetime/plasma-runner-datetime.desktop:2
+msgctxt "Name"
+msgid "Date and Time"
+msgstr "Tarih ve Saat"
+
+#: runners/datetime/plasma-runner-datetime.desktop:62
+msgctxt "Comment"
+msgid "The current date and time, locally or in any timezone"
+msgstr "Yerel veya herhangi bir zaman dilimindeki tarih ve zaman"
+
+#: runners/dictionary/plasma-runner-dictionary_config.desktop:74
+#: runners/dictionary/plasma-runner-dictionary.desktop:67
+msgctxt "Comment"
+msgid "Define words"
+msgstr "Kelime tanımlayın"
+
+#: runners/katesessions/plasma-runner-katesessions.desktop:2
+msgctxt "Name"
+msgid "Kate Sessions"
+msgstr "Kate Oturumları"
+
+#: runners/katesessions/plasma-runner-katesessions.desktop:61
+msgctxt "Comment"
+msgid "Matches Kate Sessions"
+msgstr "Kate Oturumlarını Eşleştirir"
+
+#: runners/konsoleprofiles/plasma-runner-konsoleprofiles.desktop:61
+msgctxt "Comment"
+msgid "Matches Konsole Profiles"
+msgstr "Konsole Profilleriyle Uyumludur"
+
+#: runners/spellchecker/plasma-runner-spellchecker_config.desktop:9
+msgctxt "Name"
+msgid "Spell Checker Runner"
+msgstr "Yazım Denetleyici Çalıştırıcı"
+
+#: runners/spellchecker/plasma-runner-spellchecker.desktop:2
+msgctxt "Name"
+msgid "Spell Checker"
+msgstr "Yazım Denetleyici"
+
+#: runners/spellchecker/plasma-runner-spellchecker.desktop:58
+msgctxt "Comment"
+msgid "Check the spelling of a word"
+msgstr "Bir sözcüğün yazımını denetle"
+
+#: wallpapers/haenau/metadata.desktop:2
+msgctxt "Name"
+msgid "Haenau"
+msgstr "Haenau"
+
+#: wallpapers/haenau/metadata.desktop:49
+msgctxt "Comment"
+msgid "Haenau wallpaper"
+msgstr "Haenau duvar kağıdı"
+
+#: wallpapers/hunyango/metadata.desktop:2
+msgctxt "Name"
+msgid "Hunyango"
+msgstr "Hunyango"
+
+#: wallpapers/hunyango/metadata.desktop:49
+msgctxt "Comment"
+msgid "Hunyango wallpaper"
+msgstr "Hunyango duvar kağıdı"
+
+#: wallpapers/potd/metadata.desktop:58
+msgctxt "Comment"
+msgid "A new picture from the Internet each day"
+msgstr "Her gün İnternet'ten yeni bir resim göster"
+
+#: windowswitchers/big_icons/metadata.desktop:2
+msgctxt "Name"
+msgid "Large Icons"
+msgstr "Büyük Simgeler"
+
+#: windowswitchers/big_icons/metadata.desktop:46
+msgctxt "Comment"
+msgid "A window switcher layout using large icons to represent the window"
+msgstr ""
+"Pencereleri gösteren büyük simgeleri kullanan bir pencere değiştirme "
+"yerleşimi"
+
+#: windowswitchers/compact/metadata.desktop:2
+msgctxt "Name"
+msgid "Compact"
+msgstr "Sıkışık"
+
+#: windowswitchers/compact/metadata.desktop:45
+msgctxt "Comment"
+msgid "A compact window switcher layout"
+msgstr "Sıkışık bir pencere değiştirme düzeni"
+
+#: windowswitchers/informative/metadata.desktop:2
+msgctxt "Name"
+msgid "Informative"
+msgstr "Bilgilendirici"
+
+#: windowswitchers/informative/metadata.desktop:45
+msgctxt "Comment"
+msgid "An informative window switcher layout including desktop name"
+msgstr "Masaüstü adını içeren, bilgilendirici bir pencere değiştirme düzeni"
+
+#: windowswitchers/present_windows/metadata.desktop:2
+msgctxt "Name"
+msgid "Grid"
+msgstr "Izgara"
+
+#: windowswitchers/present_windows/metadata.desktop:46
+msgctxt "Comment"
+msgid "A Window Switcher layout showing all windows as thumbnails in a grid"
+msgstr ""
+"Tüm pencereleri ızgara içerisinde küçük resimler halinde gösteren bir "
+"pencere değiştirme düzeni"
+
+#: windowswitchers/small_icons/metadata.desktop:2
+msgctxt "Name"
+msgid "Small Icons"
+msgstr "Küçük Simgeler"
+
+#: windowswitchers/small_icons/metadata.desktop:46
+msgctxt "Comment"
+msgid "A window switcher layout using small icons to represent the window"
+msgstr ""
+"Pencereleri gösteren küçük simgeleri kullanan bir pencere değiştirme "
+"yerleşimi"
+
+#: windowswitchers/text/metadata.desktop:2
+msgctxt "Name"
+msgid "Text Only"
+msgstr "Sadece Metin"
+
+#: windowswitchers/text/metadata.desktop:47
+msgctxt "Comment"
+msgid "A window switcher layout only showing window captions"
+msgstr "Sadece pencere başlıklarını gösteren bir pencere değiştirme düzeni"
+
+#: windowswitchers/thumbnail_grid/metadata.desktop:2
+msgctxt "Name"
+msgid "Thumbnail Grid"
+msgstr "Küçük Resim Izgarası"
+
+#: windowswitchers/thumbnail_grid/metadata.desktop:37
+msgctxt "Comment"
+msgid "A window switcher layout using a small grid of thumbnails"
+msgstr "Küçük bir küçük resim ızgarası kullanan bir pencere değiştirici düzeni"
+
+#: windowswitchers/thumbnails/metadata.desktop:2
+msgctxt "Name"
+msgid "Thumbnails"
+msgstr "Küçük Resimler"
+
+#: windowswitchers/thumbnails/metadata.desktop:46
+msgctxt "Comment"
+msgid "A window switcher layout using live thumbnails"
+msgstr "Canlı küçük resimleri gösteren bir pencere değiştirme düzeni"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Keyboard"
+#~ msgctxt "Name"
+#~ msgid "Keyboard Indicator"
+#~ msgstr "Klavye"
+
+#~ msgctxt "Name"
+#~ msgid "System Load Viewer"
+#~ msgstr "Sistem Yükü İzleyici"
+
+#~ msgctxt "Comment"
+#~ msgid "Tiny CPU/RAM/Swap monitor"
+#~ msgstr "İşlemci/Bellek/Takas Alanı izleyici"
+
+#~ msgctxt "Name"
+#~ msgid "TechBase"
+#~ msgstr "TechBase"
+
+#~ msgctxt "Comment"
+#~ msgid "Search on KDE's TechBase"
+#~ msgstr "KDE TechBase'de ara"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Documentation"
+#~ msgstr "KDE Belgelendirmesi"
+
+#~ msgctxt "Comment"
+#~ msgid "Search on KDE's Userbase"
+#~ msgstr "KDE Userbase'de ara"
+
+#~ msgctxt "Name"
+#~ msgid "Wikipedia"
+#~ msgstr "Wikipedia"
+
+#~ msgctxt "Comment"
+#~ msgid "Search on Wikipedia"
+#~ msgstr "Vikipedi'de ara"
+
+#~ msgctxt "Name"
+#~ msgid "Wikitravel"
+#~ msgstr "Wikitravel"
+
+#~ msgctxt "Comment"
+#~ msgid "Search on Wikitravel"
+#~ msgstr "Wikitravel'da ara"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Picture of the Day"
+#~ msgctxt "Name"
+#~ msgid "Picture of The Day"
+#~ msgstr "Günün Resmi"
+
+#~ msgctxt "Name"
+#~ msgid "Notes"
+#~ msgstr "Notlar"
+
+#~ msgctxt "Name"
+#~ msgid "Minimize all Windows"
+#~ msgstr "Tüm Pencereleri Küçült"
+
+#~ msgctxt "Comment"
+#~ msgid "Shows the desktop by minimizing all windows"
+#~ msgstr "Tüm pencereleri küçülterek masaüstünü gösterir"
+
+#~ msgctxt "Name"
+#~ msgid "Show Desktop"
+#~ msgstr "Masaüstünü Göster"
+
+#~ msgctxt "Comment"
+#~ msgid "Show the Plasma desktop"
+#~ msgstr "Plasma masaüstünü göster"
+
+#~ msgctxt "Comment"
+#~ msgid "Find out weather for today"
+#~ msgstr "Bugün için hava durumunu bul"
+
+#~ msgctxt "Name"
+#~ msgid "Astronomy Picture of the Day"
+#~ msgstr "Günün Astronomik Fotoğrafı"
+
+#~ msgctxt "Comment"
+#~ msgid "Apod Provider"
+#~ msgstr "Apod Sağlayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Bing's Picture of the Day"
+#~ msgstr "Bing Günün Resmi"
+
+#~ msgctxt "Comment"
+#~ msgid "Bing Provider"
+#~ msgstr "Bing Sağlayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Earth Science Picture of the Day"
+#~ msgstr "Günün Dünya Bilimi Fotoğrafı"
+
+#~ msgctxt "Comment"
+#~ msgid "Epod Provider"
+#~ msgstr "Epod Sağlayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Flickr Picture of the Day"
+#~ msgstr "Günün Flickr Resmi"
+
+#~ msgctxt "Comment"
+#~ msgid "Flickr Provider"
+#~ msgstr "Flickr Sağlayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "National Geographic"
+#~ msgstr "National Geographic"
+
+#~ msgctxt "Name"
+#~ msgid "NOAA Environmental Visualization Laboratory Picture of the Day"
+#~ msgstr "NOAA Doğa Görselleme Laboratuvarı Günün Resmi"
+
+#~ msgctxt "Comment"
+#~ msgid "NOAA Provider"
+#~ msgstr "NOAA Sağlayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Wikimedia Picture of the Day"
+#~ msgstr "Günün Wikimedia Resmi"
+
+#~ msgctxt "Comment"
+#~ msgid "Wcpotd Provider"
+#~ msgstr "Wcpotd Sağlayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Konsole Sessions"
+#~ msgstr "Konsole Oturumları"
+
+#~ msgctxt "Comment"
+#~ msgid "Matches Konsole Sessions"
+#~ msgstr "Konsole Oturumlarını Eşleştirir"
+
+#~ msgctxt "Name"
+#~ msgid "Black Board"
+#~ msgstr "Kara Tahta"
+
+#~ msgctxt "Comment"
+#~ msgid "Draw a quick note or a colorful image"
+#~ msgstr "Hızlı bir not veya renkli bir görüntü çizin"
+
+#~ msgctxt "Name"
+#~ msgid "Bookmarks"
+#~ msgstr "Yer İmleri"
+
+#~ msgctxt "Comment"
+#~ msgid "Quick Access to the Bookmarks"
+#~ msgstr "Yer İmlerinize Hızlı Erişim"
+
+#~ msgctxt "Name"
+#~ msgid "Bubblemon"
+#~ msgstr "Bubblemon"
+
+#~ msgctxt "Comment"
+#~ msgid "A pretty bubble that monitors your system"
+#~ msgstr "Sisteminizi izleyen sevimli bir baloncuk"
+
+#~ msgctxt "Name"
+#~ msgid "Character Selector"
+#~ msgstr "Karakter Seçici"
+
+#~ msgctxt "Comment"
+#~ msgid "View, select, and copy characters from a font collection"
+#~ msgstr ""
+#~ "Bir yazı tipi koleksiyonundan karakterleri seçin, kopyalayın ve "
+#~ "görüntüleyin"
+
+#~ msgctxt "Name"
+#~ msgid "Eyes"
+#~ msgstr "Gözler"
+
+#~ msgctxt "Comment"
+#~ msgid "XEyes clone"
+#~ msgstr "XEyes kopyası"
+
+#~ msgctxt "Name"
+#~ msgid "File Watcher"
+#~ msgstr "Dosya Takipçisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Watch for changes in specified files"
+#~ msgstr "Belirli bir dosyada yapılan değişiklikleri izleyin"
+
+#~ msgctxt "Name"
+#~ msgid "Picture Frame"
+#~ msgstr "Fotoğraf Çerçevesi"
+
+#~ msgctxt "Comment"
+#~ msgid "Display your favorite pictures"
+#~ msgstr "En sevdiğiniz fotoğraflarınız masaüstünde"
+
+#~ msgctxt "Name"
+#~ msgid "Incoming Message"
+#~ msgstr "Gelen İletiler"
+
+#~ msgctxt "Comment"
+#~ msgid "Notification of new messages"
+#~ msgstr "Yeni ileti bildirimi"
+
+#~ msgctxt "Name"
+#~ msgid "KnowledgeBase"
+#~ msgstr "Bilgi Tabanı"
+
+#~ msgctxt "Comment"
+#~ msgid "Opendesktop Knowledgebase"
+#~ msgstr "Açık Masaüstü Bilgi Tabanı"
+
+#~ msgctxt "Name"
+#~ msgid "Konqueror Profiles"
+#~ msgstr "Konqueror Profilleri"
+
+#~ msgctxt "Comment"
+#~ msgid "List and launch Konqueror profiles"
+#~ msgstr "Konqueror profillerini listeleyin ve çalıştırın"
+
+#~ msgctxt "Name"
+#~ msgid "Leave A Note"
+#~ msgstr "Bir Not Bırakın"
+
+#~ msgctxt "Comment"
+#~ msgid "Leave notes for users while they are away"
+#~ msgstr "Kullanıcılar uzaktayken onlara not bırakın"
+
+#~ msgctxt "Name"
+#~ msgid "Life"
+#~ msgstr "Hayat"
+
+#~ msgctxt "Comment"
+#~ msgid "Conway's Game of Life applet"
+#~ msgstr "Conway'in Hayatın Oyunu programcığı"
+
+#~ msgctxt "Name"
+#~ msgid "Magnifique"
+#~ msgstr "Büyütücü"
+
+#~ msgctxt "Comment"
+#~ msgid "A magnification glass for the Plasma desktop"
+#~ msgstr "Plasma masaüstü için bir büyüteç"
+
+#~ msgctxt "Name"
+#~ msgid "Media Player"
+#~ msgstr "Ortam Oynatıcı"
+
+#~ msgctxt "Comment"
+#~ msgid "Widget that can play video and sound"
+#~ msgstr "Ses çalabilen ve video oynatabilen gereç"
+
+#~ msgctxt "Name"
+#~ msgid "Microblogging"
+#~ msgstr "Mikrogünlük"
+
+#~ msgctxt "Comment"
+#~ msgid "Update and view your microblog status."
+#~ msgstr "Mikrogünlük durumunuzu güncelleyin ve görüntüleyin"
+
+#~ msgctxt "Keywords"
+#~ msgid "identi.ca;twitter;"
+#~ msgstr "identi.ca;twitter;"
+
+#~ msgctxt "Name"
+#~ msgid "News"
+#~ msgstr "Haberler"
+
+#~ msgctxt "Comment"
+#~ msgid "Show news from various sources"
+#~ msgstr "Çeşitli kaynaklardan haberleri göster"
+
+#~ msgctxt "Comment"
+#~ msgid "A virtual, on-screen keyboard"
+#~ msgstr "Sanal bir masaüstü klavyesi"
+
+#~ msgctxt "Name"
+#~ msgid "Previewer"
+#~ msgstr "Önizleyici"
+
+#~ msgctxt "Comment"
+#~ msgid "Quickly preview a variety of files"
+#~ msgstr "Çeşitli dosyaları hızlıca önizleyin"
+
+#~ msgctxt "Name"
+#~ msgid "Preview This File"
+#~ msgstr "Bu Dosyayı Önizle"
+
+#~ msgctxt "Name"
+#~ msgid "Qalculate!"
+#~ msgstr "Qalculate!"
+
+#~ msgctxt "Comment"
+#~ msgid "A powerful mathematical equation solver"
+#~ msgstr "Gelişmiş bir matematiksel eşitlik çözücü"
+
+#~ msgctxt "Name"
+#~ msgid "RSSNOW"
+#~ msgstr "RSSNOW"
+
+#~ msgctxt "Name"
+#~ msgid "Spell Check"
+#~ msgstr "İmla Denetimi"
+
+#~ msgctxt "Comment"
+#~ msgid "Fast spell checking"
+#~ msgstr "Hızlı imla denetimi"
+
+#~ msgctxt "Name"
+#~ msgid "LCD Weather Station (QML)"
+#~ msgstr "LCD Hava Durumu İstasyonu (QML)"
+
+#~ msgctxt "Name"
+#~ msgid "LCD Weather Station"
+#~ msgstr "LCD Hava Durumu İstasyonu"
+
+#~ msgctxt "Comment"
+#~ msgid "Weather reports with an LCD display style"
+#~ msgstr "LCD biçiminde hava durumu raporları"
+
+#~ msgctxt "Name"
+#~ msgid "Web Slice"
+#~ msgstr "Web Dilimi"
+
+#~ msgctxt "Comment"
+#~ msgid "Show a part of a webpage"
+#~ msgstr "Bir web sayfasının belirli bir bölümünü göster"
+
+#~ msgctxt "Name"
+#~ msgid "Grouping Desktop"
+#~ msgstr "Grup Masaüstü"
+
+#~ msgctxt "Name"
+#~ msgid "Grid Desktop"
+#~ msgstr "Izgara Masaüstü"
+
+#~ msgctxt "Name"
+#~ msgid "Grouping Panel"
+#~ msgstr "Grup Paneli"
+
+#~ msgctxt "Comment"
+#~ msgid "identi.ca and twitter micro-blogging services"
+#~ msgstr "identi.ca ve twitter mikrogünlük servisleri"
+
+#~ msgctxt "Name"
+#~ msgid "Web Browser History"
+#~ msgstr "Web Tarayıcı Geçmişi"
+
+#~ msgctxt "Comment"
+#~ msgid "Searches in Konqueror's history"
+#~ msgstr "Konqueror geçmişinde arama yapar"
+
+#~ msgctxt "Name"
+#~ msgid "Calendar Events"
+#~ msgstr "Takvim Olayları"
+
+#~ msgctxt "Comment"
+#~ msgid "Calendar Events runner"
+#~ msgstr "Takvim Olayları çalıştırıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Konqueror Sessions"
+#~ msgstr "Konqueror Oturumları"
+
+#~ msgctxt "Comment"
+#~ msgid "Matches Konqueror Sessions"
+#~ msgstr "Konqueror Oturumlarını Eşleştirir"
+
+#~ msgctxt "Name"
+#~ msgid "Kopete Contacts"
+#~ msgstr "Kopete Kişileri"
+
+#~ msgctxt "Comment"
+#~ msgid "Search contacts from Kopete"
+#~ msgstr "Kopete uygulamasındaki kişileri ara"
+
+#~ msgctxt "Name"
+#~ msgid "Translator"
+#~ msgstr "Çevirmen"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Translates into any language using Google Translate. For list of "
+#~ "supported languages visit https://developers.google.com/translate/v2/"
+#~ "using_rest?hl=de#language-params"
+#~ msgstr ""
+#~ "Google Translate kullanarak herhangi bir dile çevirin. Desteklenen "
+#~ "dillerin listesi için https://developers.google.com/translate/v2/"
+#~ "using_rest?hl=de#language-params adresini ziyaret edin."
+
+#~ msgctxt "Name"
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgctxt "Comment"
+#~ msgid "Matches YouTube queries"
+#~ msgstr "YouTube sorgularını eşleştirir"
+
+#~ msgctxt "Name"
+#~ msgid "Ascii Animals"
+#~ msgstr "Ascii Hayvanlar"
+
+#~ msgctxt "Comment"
+#~ msgid "Unsure if cute or just nerdy"
+#~ msgstr "Şirin mi yoksa zeki mi emin değil"
+
+#~ msgctxt "Name"
+#~ msgid "Contacts"
+#~ msgstr "Kişiler"
+
+#~ msgctxt "Comment"
+#~ msgid "Finds entries in your address book"
+#~ msgstr "Adres defterinizdeki arkadaşlarınız"
+
+#~ msgctxt "Name"
+#~ msgid "Luna"
+#~ msgstr "Luna"
+
+#~ msgctxt "Comment"
+#~ msgid "Display moon phases for your location"
+#~ msgstr "Konumunuz için Ay'ın hangi evrede olduğunu gösterin"
+
+#~ msgctxt "Name"
+#~ msgid "Lancelot Launcher"
+#~ msgstr "Lancelot Uygulama Çağrıcı"
+
+#~ msgctxt "Comment"
+#~ msgid "Launcher to start applications"
+#~ msgstr "Uygulamalara hızlıca ulaşıp çalıştırmak için"
+
+#~ msgctxt "Name"
+#~ msgid "Lancelot"
+#~ msgstr "Lancelot"
+
+#~ msgctxt "Comment"
+#~ msgid "Lancelot Menu"
+#~ msgstr "Lancelot Menüsü"
+
+#~ msgctxt "Name"
+#~ msgid "Usage logging is activated"
+#~ msgstr "Günlük kaydı tutma işlevi etkinleştirildi"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Shown only on first launch. Notifies that the usage logging is turned "
+#~ "'on'."
+#~ msgstr ""
+#~ "Sadece ilk çalıştırmada gösterilir. Günlük kayıtları 'açıkken' bildirim "
+#~ "yapar."
+
+#~ msgctxt "Name"
+#~ msgid "Error opening the log"
+#~ msgstr "Günlük kaydı dosyası açılırken bir hata oluştu"
+
+#~ msgctxt "Comment"
+#~ msgid "Failed to open the log file."
+#~ msgstr "Günlük kaydı dosyası açılamadı."
+
+#~ msgctxt "Name"
+#~ msgid "Shelf"
+#~ msgstr "Raf"
+
+#~ msgctxt "Name"
+#~ msgid "Control audio player"
+#~ msgstr "Müzik çaları yönet"
+
+#~ msgctxt "Name"
+#~ msgid "Control Audio Player"
+#~ msgstr "Müzik Çaları Yönet"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Allows to control MPRIS audio players (it is able to search through "
+#~ "Amarok's collection, too)"
+#~ msgstr ""
+#~ "MPRIS müzik çalarları kontrol etmeyi sağlar (Amarok koleksiyonunda arama "
+#~ "yapmayı da sağlar)"
+
+#~ msgctxt "Name"
+#~ msgid "Operational Significant Event Imagery Picture of the Day"
+#~ msgstr "Anlamlı İşlemsel Olayla İlgili Günün Resmi"
+
+#~ msgctxt "Name"
+#~ msgid "Weather Forecast (QML)"
+#~ msgstr "Hava Tahmini (QML)"
+
+#~ msgctxt "Comment"
+#~ msgid "Displays Weather information"
+#~ msgstr "Hava durumu bilgisini görüntüler"
+
+#~ msgctxt "Name"
+#~ msgid "Input Method Panel"
+#~ msgstr "Giriş Yöntemi Paneli"
+
+#~ msgctxt "Comment"
+#~ msgid "A generic input method panel"
+#~ msgstr "Genel bir girdi yöntemi panosu"
+
+#~ msgctxt "Keywords"
+#~ msgid "Input;IM;"
+#~ msgstr "Girdi;IM;"
+
+#~ msgctxt "Name"
+#~ msgid "DataEngine for Kimpanel"
+#~ msgstr "Kimpanel için veri motoru"
+
+#~ msgctxt "Comment"
+#~ msgid "DataEngine for Kimpanel"
+#~ msgstr "Kimpanel için Veri Motoru"
+
+#~ msgctxt "Name"
+#~ msgid "Show Widget Dashboard"
+#~ msgstr "Gereç Kontrol Panelini Göster"
+
+#~ msgctxt "Comment"
+#~ msgid "Show the Plasma widget dashboard above other windows"
+#~ msgstr "Plasma kontrol panelini diğer pencerelerin üzerinde göster"
+
+#~ msgctxt "Name"
+#~ msgid "Icon-Only Task Manager"
+#~ msgstr "Sadece-Simge Görev Yöneticisi"
+
+#~ msgctxt "Name"
+#~ msgid "Bouncy Ball"
+#~ msgstr "Zıplayan Top"
+
+#~ msgctxt "Comment"
+#~ msgid "A bouncy ball for plasma"
+#~ msgstr "Plasma için bir zıplayan top"
+
+#~ msgctxt "Name"
+#~ msgid "Community"
+#~ msgstr "Topluluk"
+
+#~ msgctxt "Comment"
+#~ msgid "Communicate using the Social Desktop"
+#~ msgstr "Sosyal Masaüstünü kullanarak iletişim kur"
+
+#~ msgctxt "Keywords"
+#~ msgid "Utilities;"
+#~ msgstr "Yardımcı Araçlar;"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Observatory"
+#~ msgstr "KDE Gözlem Evi"
+
+#~ msgctxt "Comment"
+#~ msgid "Visualize the KDE ecosystem"
+#~ msgstr "KDE ekosistemini canlandır"
+
+#~ msgctxt "Name"
+#~ msgid "Now Playing"
+#~ msgstr "Şimdi Çalınıyor"
+
+#~ msgctxt "Comment"
+#~ msgid "Displays currently playing audio"
+#~ msgstr "O anda çalınan sesi gösterir"
+
+#~ msgctxt "Name"
+#~ msgid "Pastebin"
+#~ msgstr "Pastebin"
+
+#~ msgctxt "Comment"
+#~ msgid "Pastebin Widget"
+#~ msgstr "Pastebin Gereci"
+
+#~ msgctxt "Name"
+#~ msgid "Copied pastebin link"
+#~ msgstr "Pastebin bağlantısı kopyalandı"
+
+#~ msgctxt "Comment"
+#~ msgid "The pastebin URL has been copied to the clipboard"
+#~ msgstr "Pastebin adresi panoya kopyalandı"
+
+#~ msgctxt "Name"
+#~ msgid "Paste"
+#~ msgstr "Yapıştır"
+
+#~ msgctxt "Comment"
+#~ msgid "Paste text snippets"
+#~ msgstr "Metin parçacıklarını yapıştırın"
+
+#~ msgctxt "Name"
+#~ msgid "Remember The Milk"
+#~ msgstr "Remember The Milk"
+
+#~ msgctxt "Comment"
+#~ msgid "Remember The Milk Todo list applet"
+#~ msgstr "Remember The Milk Yapılacaklar listesi programcığı"
+
+#~ msgctxt "Name"
+#~ msgid "Social News"
+#~ msgstr "Sosyal Haberler"
+
+#~ msgctxt "Comment"
+#~ msgid "Stay informed with the Social Desktop"
+#~ msgstr "Sosyal Masaüstünü kullan, haberin olsun"
+
+#~ msgctxt "Comment"
+#~ msgid "OpenDesktop Activities Widget"
+#~ msgstr "OpenDesktop Eylemleri Plasma Gereci"
+
+#~ msgctxt "Comment"
+#~ msgid "Something interesting has happened in your friends network"
+#~ msgstr "Arkadaşlarınızın ağında ilginç bir şeyler oldu"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Commits Engine"
+#~ msgstr "KDE Commit Motoru"
+
+#~ msgctxt "Comment"
+#~ msgid "A Data Engine for acquiring consolidated data about KDE SVN Commits"
+#~ msgstr "KDE SVN Commit bilgilerini çekmeye yarayan veri motoru"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Observatory Data Engine"
+#~ msgstr "KDE Gözlem Evi Veri Motoru"
+
+#~ msgctxt "Comment"
+#~ msgid "A Data Engine for acquiring consolidated data about KDE projects"
+#~ msgstr "KDE projeleri hakkında veri çekmeye yarayan veri motoru"
+
+#~ msgctxt "Name"
+#~ msgid "Open Collaboration Services"
+#~ msgstr "Açık İşbirliği Servisleri"
+
+#~ msgctxt "Name"
+#~ msgid "Remember The Milk Engine"
+#~ msgstr "Remember The Milk Motoru"
+
+#~ msgctxt "Comment"
+#~ msgid "An engine to work with Remember the Milk."
+#~ msgstr "Remember the Milk ile çalışan bir motor."
+
+#~ msgctxt "Name"
+#~ msgid "Mandelbrot"
+#~ msgstr "Mandelbrot"
+
+#~ msgctxt "Comment"
+#~ msgid "Explore a classic fractal design"
+#~ msgstr "Klasik bir fraktal tasarım keşfedin"
+
+#~ msgctxt "Name"
+#~ msgid "Globe"
+#~ msgstr "Küre"
+
+#~ msgctxt "Comment"
+#~ msgid "An interactive map of the world"
+#~ msgstr "Dünyanın etkileşimli bir haritası"
+
+#~ msgctxt "Comment"
+#~ msgid "Digital Bees"
+#~ msgstr "Dijital Arılar"
+
+#~ msgctxt "Comment"
+#~ msgid "Celtic Knot"
+#~ msgstr "Kelt Düğümü"
+
+#~ msgctxt "Comment"
+#~ msgid "Eastern Blues"
+#~ msgstr "Doğu Hüznü"
+
+#~ msgctxt "Comment"
+#~ msgid "Fish Net"
+#~ msgstr "Sahte Ağ"
+
+#~ msgctxt "Comment"
+#~ msgid "Flowers"
+#~ msgstr "Çiçekler"
+
+#~ msgctxt "Comment"
+#~ msgid "Clearly French"
+#~ msgstr "Fransız"
+
+#~ msgctxt "Comment"
+#~ msgid "Ivory Coast"
+#~ msgstr "Fildişi Sahil"
+
+#~ msgctxt "Comment"
+#~ msgid "Lineage"
+#~ msgstr "Köken"
+
+#~ msgctxt "Comment"
+#~ msgid "Night Rock by Tigert"
+#~ msgstr "Tigert tarafından oluşturulan Night Rock"
+
+#~ msgctxt "Comment"
+#~ msgid "Pavement"
+#~ msgstr "Döşeme"
+
+#~ msgctxt "Comment"
+#~ msgid "Damascus Flower"
+#~ msgstr "Şam Çiçeği"
+
+#~ msgctxt "Comment"
+#~ msgid "Rattan"
+#~ msgstr "Duvar Yosunu"
+
+#~ msgctxt "Comment"
+#~ msgid "Starry Sky"
+#~ msgstr "Yıldızlı Gökyüzü"
+
+#~ msgctxt "Comment"
+#~ msgid "Stonewall 2 by Tigert"
+#~ msgstr "Tigert tarafından oluşturulan Stonewall 2"
+
+#~ msgctxt "Comment"
+#~ msgid "Triangles"
+#~ msgstr "Üçgenler"
+
+#~ msgctxt "Comment"
+#~ msgid "Xerox Star"
+#~ msgstr "Xerox Yıldızı"
+
+#~ msgctxt "Name"
+#~ msgid "Pattern"
+#~ msgstr "Desen"
+
+#~ msgctxt "Comment"
+#~ msgid "Tilable patterns"
+#~ msgstr "Döşenebilir dokular"
+
+#~ msgctxt "Name"
+#~ msgid "Animations"
+#~ msgstr "Animasyonlar"
+
+#~ msgctxt "Comment"
+#~ msgid "Interactive, animated wallpapers"
+#~ msgstr "Etkileşimli, hareketli Duvar Kağıtları"
+
+#~ msgctxt "Name"
+#~ msgid "Virus"
+#~ msgstr "Virüs"
+
+#~ msgctxt "Comment"
+#~ msgid "A simulated life form eats your wallpaper"
+#~ msgstr "Duvar kağıdınızı yiyen benzetimli bir hayat oluşumu"
+
+#~ msgctxt "Name"
+#~ msgid "Weather"
+#~ msgstr "Hava Durumu"
+
+#~ msgctxt "Comment"
+#~ msgid "Images that reflect the weather outside"
+#~ msgstr "Dışarıdaki hava durumunu yansıtan resimler"
+
+#~ msgctxt "Name"
+#~ msgid "Bing"
+#~ msgstr "Bing"
+
+#~ msgctxt "Comment"
+#~ msgid "Matches Bing queries"
+#~ msgstr "Bing sorgularını eşleştirir"
+
+#~ msgctxt "Name"
+#~ msgid "DuckDuckGo"
+#~ msgstr "DuckDuckGo"
+
+#~ msgctxt "Comment"
+#~ msgid "Matches DuckDuckGo queries"
+#~ msgstr "DuckDuckGo sorgularını eşleştirir"
+
+#~ msgctxt "Comment"
+#~ msgid "Kopete Contact runner"
+#~ msgstr "Kopete Kişi çalıştırıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Pastebin engine"
+#~ msgstr "Pastebin motoru"
+
+#~ msgctxt "Comment"
+#~ msgid "Engine to paste text and images to servers"
+#~ msgstr "Uzak sunuculara metin/resim yapıştırma motoru"
+
+#~ msgctxt "Name"
+#~ msgid "openDesktop Activities"
+#~ msgstr "OpenDesktop Eylemleri"
+
+#~ msgctxt "Name"
+#~ msgid "Lancelot Part"
+#~ msgstr "Gömülü Lancelot"
+
+#~ msgctxt "Comment"
+#~ msgid "Parts of Lancelot menu on the desktop"
+#~ msgstr "Lancelot bileşenleri masaüstünde"
+
+#~ msgctxt "Name"
+#~ msgid "BbalL"
+#~ msgstr "BbalL"
+
+#~ msgctxt "Name"
+#~ msgid "Apod Provider"
+#~ msgstr "Apod Sağlayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Epod Provider"
+#~ msgstr "Epod Sağlayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Flickr Provider"
+#~ msgstr "Flickr Sağlayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Osei Provider"
+#~ msgstr "Osei Sağlayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Wcpotd Provider"
+#~ msgstr "Wcpotd Sağlayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Blue Marble"
+#~ msgstr "Blue Marble"
+
+#~ msgctxt "Comment"
+#~ msgid "3D model of the Earth"
+#~ msgstr "Dünya'nın Üç Boyutlu modeli"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Dictionary"
+#~ msgctxt "Keywords"
+#~ msgid "Distraction"
+#~ msgstr "Sözlük"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "File Watcher"
+#~ msgctxt "Keywords"
+#~ msgid "File System"
+#~ msgstr "Dosya Takipçisi"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Unit Converter"
+#~ msgctxt "Name"
+#~ msgid "UnitConverter"
+#~ msgstr "Birim Dönüştürücü"

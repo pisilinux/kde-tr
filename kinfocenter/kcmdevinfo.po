@@ -1,0 +1,713 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2011.
+# Serdar Soytetir <tulliana@gmail.com>, 2012, 2013.
+# Volkan Gezer <volkangezer@gmail.com>, 2014, 2015, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-04-26 00:20+0000\n"
+"PO-Revision-Date: 2017-04-24 16:28+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Serdar Soytetir"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "tulliana@gmail.com"
+
+#: devicelisting.cpp:58
+#, kde-format
+msgctxt "Device Listing Whats This"
+msgid "Shows all the devices that are currently listed."
+msgstr "Listelenen tüm aygıtları gösterir."
+
+#: devicelisting.cpp:61
+#, kde-format
+msgid "Devices"
+msgstr "Aygıtlar"
+
+#: devicelisting.cpp:74
+#, kde-format
+msgid "Collapse All"
+msgstr "Tümünü Topla"
+
+#: devicelisting.cpp:77
+#, kde-format
+msgid "Expand All"
+msgstr "Tümünü Genişlet"
+
+#: devicelisting.cpp:80
+#, kde-format
+msgid "Show All Devices"
+msgstr "Tüm Aygıtları Göster"
+
+#: devicelisting.cpp:83
+#, kde-format
+msgid "Show Relevant Devices"
+msgstr "Uygun Aygıtları Göster"
+
+#: devicelisting.cpp:112
+#, kde-format
+msgctxt "unknown device type"
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: devicelisting.cpp:153 devinfo.cpp:97
+#, kde-format
+msgctxt "no device UDI"
+msgid "None"
+msgstr "Hiçbiri"
+
+#: devinfo.cpp:43
+#, kde-format
+msgid "kcmdevinfo"
+msgstr "kcmdevinfo"
+
+#: devinfo.cpp:43
+#, kde-format
+msgid "Device Viewer"
+msgstr "Aygıt Gösterici"
+
+#: devinfo.cpp:45
+#, kde-format
+msgid "(c) 2010 David Hubner"
+msgstr "(c) 2010 David Hubner"
+
+#: devinfo.cpp:75
+#, kde-format
+msgid "UDI: "
+msgstr "UDI: "
+
+#: devinfo.cpp:84
+#, kde-format
+msgctxt "Udi Whats This"
+msgid "Shows the current device's UDI (Unique Device Identifier)"
+msgstr ""
+"Geçerli aygıtın UDI (Unique Device Identifier: Birick Aygıt Tanımlayıcı) "
+"bilgilerini gösterir"
+
+#: infopanel.cpp:34
+#, kde-format
+msgid "Device Information"
+msgstr "Aygıt Bilgileri"
+
+#: infopanel.cpp:44
+#, kde-format
+msgctxt "Info Panel Whats This"
+msgid "Shows information about the currently selected device."
+msgstr "Seçili aygıt ile ilgili bilgileri gösterir."
+
+#: infopanel.cpp:71
+#, kde-format
+msgid ""
+"\n"
+"Solid Based Device Viewer Module"
+msgstr ""
+"\n"
+"Solid Temelli Aygıt Gösterici Modülü"
+
+#: infopanel.cpp:135
+#, kde-format
+msgid "Description: "
+msgstr ""
+
+#: infopanel.cpp:136
+#, kde-format
+msgid "Product: "
+msgstr "Ürün: "
+
+#: infopanel.cpp:137
+#, kde-format
+msgid "Vendor: "
+msgstr "Sağlayıcı: "
+
+#: infopanel.cpp:159
+#, kde-format
+msgid "Yes"
+msgstr "Evet"
+
+#: infopanel.cpp:161
+#, kde-format
+msgid "No"
+msgstr "Hayır"
+
+#: infopanel.h:51
+#, kde-format
+msgctxt "name of something is not known"
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: soldevice.cpp:80
+#, kde-format
+msgctxt "unknown device"
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: soldevice.cpp:107
+#, kde-format
+msgctxt "Default device tooltip"
+msgid "A Device"
+msgstr "Bir Aygıt"
+
+#: soldevicetypes.cpp:57
+#, kde-format
+msgid "Processors"
+msgstr "İşlemciler"
+
+#: soldevicetypes.cpp:73
+#, kde-format
+msgid "Processor %1"
+msgstr "İşlemci %1"
+
+#: soldevicetypes.cpp:90
+#, kde-format
+msgid "Intel MMX"
+msgstr "Intel MMX"
+
+#: soldevicetypes.cpp:93
+#, kde-format
+msgid "Intel SSE"
+msgstr "Intel SSE"
+
+#: soldevicetypes.cpp:96
+#, kde-format
+msgid "Intel SSE2"
+msgstr "Intel SSE2"
+
+#: soldevicetypes.cpp:99
+#, kde-format
+msgid "Intel SSE3"
+msgstr "Intel SSE3"
+
+#: soldevicetypes.cpp:102
+#, fuzzy, kde-format
+#| msgid "Intel SSE3"
+msgid "Intel SSSE3"
+msgstr "Intel SSE3"
+
+#: soldevicetypes.cpp:105
+#, fuzzy, kde-format
+#| msgid "Intel SSE4"
+msgid "Intel SSE4.1"
+msgstr "Intel SSE4"
+
+#: soldevicetypes.cpp:108
+#, fuzzy, kde-format
+#| msgid "Intel SSE4"
+msgid "Intel SSE4.2"
+msgstr "Intel SSE4"
+
+#: soldevicetypes.cpp:111
+#, fuzzy, kde-format
+#| msgid "AMD 3DNow"
+msgid "AMD 3DNow!"
+msgstr "AMD 3DNow"
+
+#: soldevicetypes.cpp:114
+#, kde-format
+msgid "ATI IVEC"
+msgstr "ATI IVEC"
+
+#: soldevicetypes.cpp:117
+#, kde-format
+msgctxt "no instruction set extensions"
+msgid "None"
+msgstr "Hiçbiri"
+
+#: soldevicetypes.cpp:120
+#, kde-format
+msgid "Processor Number: "
+msgstr "İşlemci Numarası: "
+
+#: soldevicetypes.cpp:122
+#, kde-format
+msgid "Max Speed: "
+msgstr "Maksimum Hız: "
+
+#: soldevicetypes.cpp:124
+#, kde-format
+msgid "Supported Instruction Sets: "
+msgstr "Desteklenen Yönerge Setleri: "
+
+#: soldevicetypes.cpp:152
+#, kde-format
+msgid "Storage Drives"
+msgstr "Depolama Sürücüleri"
+
+#: soldevicetypes.cpp:171
+#, kde-format
+msgid "Hard Disk Drive"
+msgstr "Sabit Disk Sürücü"
+
+#: soldevicetypes.cpp:174
+#, kde-format
+msgid "Compact Flash Reader"
+msgstr "Kompakt Flaş Okuyucu"
+
+#: soldevicetypes.cpp:177
+#, kde-format
+msgid "Smart Media Reader"
+msgstr "Akıllı Ortam Okuyucu"
+
+#: soldevicetypes.cpp:180
+#, kde-format
+msgid "SD/MMC Reader"
+msgstr "SD/MMC Okuyucu"
+
+#: soldevicetypes.cpp:183
+#, kde-format
+msgid "Optical Drive"
+msgstr "Optik Sürücü"
+
+#: soldevicetypes.cpp:186
+#, kde-format
+msgid "Memory Stick Reader"
+msgstr "Hafıza Kartı Okuyucu"
+
+#: soldevicetypes.cpp:189
+#, kde-format
+msgid "xD Reader"
+msgstr "xD Okuyucu"
+
+#: soldevicetypes.cpp:192
+#, kde-format
+msgid "Unknown Drive"
+msgstr "Bilinmeyen Sürücü"
+
+#: soldevicetypes.cpp:212
+#, kde-format
+msgid "IDE"
+msgstr "IDE"
+
+#: soldevicetypes.cpp:215
+#, kde-format
+msgid "USB"
+msgstr "USB"
+
+#: soldevicetypes.cpp:218
+#, kde-format
+msgid "IEEE1394"
+msgstr "IEEE1394"
+
+#: soldevicetypes.cpp:221
+#, kde-format
+msgid "SCSI"
+msgstr "SCSI"
+
+#: soldevicetypes.cpp:224
+#, kde-format
+msgid "SATA"
+msgstr "SATA"
+
+#: soldevicetypes.cpp:227
+#, kde-format
+msgctxt "platform storage bus"
+msgid "Platform"
+msgstr "Platform"
+
+#: soldevicetypes.cpp:230
+#, kde-format
+msgctxt "unknown storage bus"
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: soldevicetypes.cpp:233
+#, kde-format
+msgid "Bus: "
+msgstr "Yol: "
+
+#: soldevicetypes.cpp:235
+#, kde-format
+msgid "Hotpluggable?"
+msgstr "Tak-kullan mı?"
+
+#: soldevicetypes.cpp:237
+#, kde-format
+msgid "Removable?"
+msgstr "Çıkarılabilir mi?"
+
+#: soldevicetypes.cpp:281
+#, kde-format
+msgid "Unused"
+msgstr "Kullanılmayan"
+
+#: soldevicetypes.cpp:284
+#, kde-format
+msgid "File System"
+msgstr "Dosya Sistemi"
+
+#: soldevicetypes.cpp:287
+#, kde-format
+msgid "Partition Table"
+msgstr "Disk Bölümü Tablosu"
+
+#: soldevicetypes.cpp:290
+#, kde-format
+msgid "Raid"
+msgstr "Raid"
+
+#: soldevicetypes.cpp:293
+#, kde-format
+msgid "Encrypted"
+msgstr "Şifrelenmiş"
+
+#: soldevicetypes.cpp:296
+#, kde-format
+msgctxt "unknown volume usage"
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: soldevicetypes.cpp:299
+#, kde-format
+msgid "File System Type: "
+msgstr "Dosya Sistemi Türü: "
+
+#: soldevicetypes.cpp:301
+#, kde-format
+msgid "Label: "
+msgstr "Etiket: "
+
+#: soldevicetypes.cpp:302
+#, kde-format
+msgid "Not Set"
+msgstr "Ayarlanmamış"
+
+#: soldevicetypes.cpp:303
+#, kde-format
+msgid "Volume Usage: "
+msgstr "Bölüm Kullanımı: "
+
+#: soldevicetypes.cpp:305
+#, kde-format
+msgid "UUID: "
+msgstr "Evrensel Biricik Tanımlayıcı: "
+
+#: soldevicetypes.cpp:312
+#, kde-format
+msgid "Mounted At: "
+msgstr "Bağlama Noktası: "
+
+#: soldevicetypes.cpp:313
+#, kde-format
+msgid "Not Mounted"
+msgstr "Bağlanmamış"
+
+#: soldevicetypes.cpp:318
+#, kde-format
+msgid "Volume Space:"
+msgstr "Bölüm Alanı:"
+
+#: soldevicetypes.cpp:330
+#, kde-format
+msgctxt "Available space out of total partition size (percent used)"
+msgid "%1 free of %2 (%3% used)"
+msgstr "%2 alanın %1 kadarı boş (%%3 kullanılıyor)"
+
+#: soldevicetypes.cpp:336
+#, kde-format
+msgid "No data available"
+msgstr "Kullanılabilir veri yok"
+
+#: soldevicetypes.cpp:363
+#, kde-format
+msgid "Multimedia Players"
+msgstr "Çoklu Ortam Oynatıcılar"
+
+#: soldevicetypes.cpp:382 soldevicetypes.cpp:424
+#, kde-format
+msgid "Supported Drivers: "
+msgstr "Desteklenen Sürücüler: "
+
+#: soldevicetypes.cpp:384 soldevicetypes.cpp:426
+#, kde-format
+msgid "Supported Protocols: "
+msgstr "Desteklenen Protokoller: "
+
+#: soldevicetypes.cpp:405
+#, kde-format
+msgid "Cameras"
+msgstr "Kameralar"
+
+#: soldevicetypes.cpp:447
+#, kde-format
+msgid "Batteries"
+msgstr "Piller"
+
+#: soldevicetypes.cpp:469
+#, kde-format
+msgid "PDA"
+msgstr "Avuçiçi Bilgisayar"
+
+#: soldevicetypes.cpp:472
+#, kde-format
+msgid "UPS"
+msgstr "Güç Kaynağı"
+
+#: soldevicetypes.cpp:475
+#, kde-format
+msgid "Primary"
+msgstr "Birincil"
+
+#: soldevicetypes.cpp:478
+#, kde-format
+msgid "Mouse"
+msgstr "Fare"
+
+#: soldevicetypes.cpp:481
+#, kde-format
+msgid "Keyboard"
+msgstr "Klavye"
+
+#: soldevicetypes.cpp:484
+#, kde-format
+msgid "Keyboard + Mouse"
+msgstr "Klavye + Fare"
+
+#: soldevicetypes.cpp:487
+#, kde-format
+msgid "Camera"
+msgstr "Kamera"
+
+#: soldevicetypes.cpp:490
+#, kde-format
+msgid "Phone"
+msgstr ""
+
+#: soldevicetypes.cpp:493
+#, kde-format
+msgctxt "Screen"
+msgid "Monitor"
+msgstr ""
+
+#: soldevicetypes.cpp:496
+#, kde-format
+msgctxt "Wireless game pad or joystick battery"
+msgid "Gaming Input"
+msgstr ""
+
+#: soldevicetypes.cpp:499
+#, kde-format
+msgctxt "unknown battery type"
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: soldevicetypes.cpp:505
+#, kde-format
+msgid "Charging"
+msgstr "Şarj ediliyor"
+
+#: soldevicetypes.cpp:508
+#, kde-format
+msgid "Discharging"
+msgstr "Şarj tüketiliyor"
+
+#: soldevicetypes.cpp:511
+#, kde-format
+msgid "Fully Charged"
+msgstr "Tamamen Dolu"
+
+#: soldevicetypes.cpp:514
+#, kde-format
+msgid "No Charge"
+msgstr "Şarj Yok"
+
+#: soldevicetypes.cpp:517
+#, kde-format
+msgid "Battery Type: "
+msgstr "Pil Türü: "
+
+#: soldevicetypes.cpp:519
+#, kde-format
+msgid "Charge Status: "
+msgstr "Şarj Durumu: "
+
+#: soldevicetypes.cpp:521
+#, fuzzy, kde-format
+#| msgid "Charge Status: "
+msgid "Charge Percent: "
+msgstr "Şarj Durumu: "
+
+#~ msgid "Network Interfaces"
+#~ msgstr "Ağ Arayüzleri"
+
+#~ msgid "Connected"
+#~ msgstr "Bağlı"
+
+#~ msgid "Wireless"
+#~ msgstr "Kablosuz"
+
+#~ msgid "Wired"
+#~ msgstr "Kablolu"
+
+#~ msgid "Hardware Address: "
+#~ msgstr "Donanım Adresi: "
+
+#~ msgid "Wireless?"
+#~ msgstr "Kablosuz mu?"
+
+#~ msgid "Audio Interfaces"
+#~ msgstr "Ses Arayüzleri"
+
+#~ msgid "Alsa Interfaces"
+#~ msgstr "Alsa Arayüzleri"
+
+#~ msgid "Open Sound System Interfaces"
+#~ msgstr "Açık Ses Sistemi Arayüzleri"
+
+#~ msgid "Control"
+#~ msgstr "Denetim"
+
+#~ msgid "Input"
+#~ msgstr "Giriş"
+
+#~ msgid "Output"
+#~ msgstr "Çıkış"
+
+#~ msgctxt "unknown audio interface type"
+#~ msgid "Unknown"
+#~ msgstr "Bilinmeyen"
+
+#~ msgid "Internal Soundcard"
+#~ msgstr "Bütünleşik Ses Kartı"
+
+#~ msgid "USB Soundcard"
+#~ msgstr "USB Ses Kartı"
+
+#~ msgid "Firewire Soundcard"
+#~ msgstr "Firewire Ses Kartı"
+
+#~ msgid "Headset"
+#~ msgstr "Kulaklık"
+
+#~ msgid "Modem"
+#~ msgstr "Modem"
+
+#~ msgctxt "unknown sound card type"
+#~ msgid "Unknown"
+#~ msgstr "Bilinmeyen"
+
+#~ msgid "Audio Interface Type: "
+#~ msgstr "Ses Arayüzü Tipi: "
+
+#~ msgid "Soundcard Type: "
+#~ msgstr "Ses Kartı Tipi: "
+
+#~ msgid "Device Buttons"
+#~ msgstr "Aygıt Düğmeleri"
+
+#~ msgid "Lid Button"
+#~ msgstr "Kapak Düğmesi"
+
+#~ msgid "Power Button"
+#~ msgstr "Güç Düğmesi"
+
+#~ msgid "Sleep Button"
+#~ msgstr "Uyutma Düğmesi"
+
+#~ msgid "Tablet Button"
+#~ msgstr "Tablet Düğmesi"
+
+#~ msgid "Unknown Button"
+#~ msgstr "Bilinmeyen Düğme"
+
+#~ msgid "Button type: "
+#~ msgstr "Düğme tipi: "
+
+#~ msgid "Has State?"
+#~ msgstr "Duruma Sahip mi?"
+
+#~ msgid "AC Adapters"
+#~ msgstr "AC Adaptörler"
+
+#~ msgid "Is plugged in?"
+#~ msgstr "Takılı mı?"
+
+#~ msgid "Digital Video Broadcasting Devices"
+#~ msgstr "Dijital Video Yayımlama Aygıtları"
+
+#~ msgid "Audio"
+#~ msgstr "Ses"
+
+#~ msgid "Conditional access system"
+#~ msgstr "Koşullu erişim sistemi"
+
+#~ msgid "Demux"
+#~ msgstr "Demux"
+
+#~ msgid "Digital video recorder"
+#~ msgstr "Dijital video kaydedici"
+
+#~ msgid "Front end"
+#~ msgstr "Ön uç"
+
+#~ msgid "Network"
+#~ msgstr "Ağ"
+
+#~ msgid "On-Screen display"
+#~ msgstr "Ekran-üstü bilgi"
+
+#~ msgid "Security and content protection"
+#~ msgstr "Güvenlik ve içerik koruması"
+
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgid "Device Type: "
+#~ msgstr "Aygıt Tipi: "
+
+#~ msgid "Serial Devices"
+#~ msgstr "Seri Aygıtlar"
+
+#~ msgctxt "platform serial interface type"
+#~ msgid "Platform"
+#~ msgstr "Platform"
+
+#~ msgctxt "unknown serial interface type"
+#~ msgid "Unknown"
+#~ msgstr "Platform"
+
+#~ msgctxt "unknown port"
+#~ msgid "Unknown"
+#~ msgstr "Bilinmeyen"
+
+#~ msgid "Serial Type: "
+#~ msgstr "Seri Aygıt Tipi: "
+
+#~ msgid "Port: "
+#~ msgstr "Port: "
+
+#~ msgid "Smart Card Devices"
+#~ msgstr "Akıllı Kart Aygıtları"
+
+#~ msgid "Card Reader"
+#~ msgstr "Kart Okuyucu"
+
+#~ msgid "Crypto Token"
+#~ msgstr "Şifreleme Simgesi"
+
+#~ msgctxt "unknown smart card type"
+#~ msgid "Unknown"
+#~ msgstr "Bilinmeyen"
+
+#~ msgid "Smart Card Type: "
+#~ msgstr "Akıllı Kart Tipi: "
+
+#~ msgid "Video Devices"
+#~ msgstr "Video Aygıtları"
+
+#~ msgid "Device unable to be cast to correct device"
+#~ msgstr "Aygıt doğru çalışmıyor"

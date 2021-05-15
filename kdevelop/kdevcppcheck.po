@@ -1,0 +1,572 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdevcppcheck\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-17 07:46+0200\n"
+"PO-Revision-Date: 2017-10-03 14:11+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: config/globalconfigpage.cpp:45 config/projectconfigpage.cpp:73
+#, fuzzy, kde-format
+#| msgid "Cppcheck"
+msgctxt "@title:tab"
+msgid "Cppcheck"
+msgstr "Cppcheck"
+
+#: config/globalconfigpage.cpp:50
+#, fuzzy, kde-format
+#| msgid "Configure Cppcheck Settings"
+msgctxt "@title:tab"
+msgid "Configure Cppcheck Settings"
+msgstr "Cppcheck Ayarlarını Yapılandır"
+
+#. i18n: ectx: property (title), widget (QGroupBox, pathsGroupBox)
+#: config/globalconfigpage.ui:20
+#, fuzzy, kde-format
+#| msgid "Paths"
+msgctxt "@title:group"
+msgid "Paths"
+msgstr "Yollar"
+
+#. i18n: ectx: property (text), widget (QLabel, cppcheckLabel)
+#: config/globalconfigpage.ui:26
+#, fuzzy, kde-format
+#| msgid "Cppchec&k executable:"
+msgctxt "@label:chooser"
+msgid "Cppchec&k executable:"
+msgstr "Cppchec&k çalıştırılabilir dosyası:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, outputGroupBox)
+#: config/globalconfigpage.ui:45
+#, fuzzy, kde-format
+#| msgid "Output"
+msgctxt "@title:group"
+msgid "Output"
+msgstr "Çıktı"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_hideOutputView)
+#: config/globalconfigpage.ui:51
+#, fuzzy, kde-format
+#| msgid "Hide output view during check"
+msgctxt "@option:check"
+msgid "Hide output view during check"
+msgstr "Denetleme sırasında çıktı görünümünü gizle"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_showXmlOutput)
+#: config/globalconfigpage.ui:58
+#, fuzzy, kde-format
+#| msgid "Show cppcheck XML output in the output view"
+msgctxt "@option:check"
+msgid "Show Cppcheck XML output in the output view"
+msgstr "Çıktı görünümünde cppcheck XML çıktısını göster"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabChecks)
+#: config/projectconfigpage.ui:39
+#, fuzzy, kde-format
+#| msgid "Checks"
+msgctxt "@title:tab"
+msgid "Checks"
+msgstr "Kontroller"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_checkUnusedFunction)
+#: config/projectconfigpage.ui:47
+#, fuzzy, kde-format
+#| msgid ""
+#| "Check for unused functions. It is recommend to only enable this when the "
+#| "whole program is scanned"
+msgctxt "@info:tooltip"
+msgid ""
+"Check for unused functions. It is recommend to only enable this when the "
+"whole program is scanned"
+msgstr ""
+"Kullanılmayan işlevler için kontrol eder. Bu seçeneğin sadece tüm program "
+"tarandığında etkinleştirilmesi önerilir."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_checkUnusedFunction)
+#: config/projectconfigpage.ui:50
+#, fuzzy, kde-format
+#| msgid "Unused function"
+msgctxt "@option:check"
+msgid "Unused function"
+msgstr "Kullanılmayan işlev"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_inconclusiveAnalysis)
+#: config/projectconfigpage.ui:60
+#, fuzzy, kde-format
+#| msgid ""
+#| "Allow that Cppcheck reports even though the analysis is inconclusive. "
+#| "There are false positives with this option. Each result must be carefully "
+#| "investigated before you know if it is good or bad."
+msgctxt "@info:tooltip"
+msgid ""
+"Allow that Cppcheck reports even though the analysis is inconclusive. There "
+"are false positives with this option. Each result must be carefully "
+"investigated before you know if it is good or bad."
+msgstr ""
+"Çözümleme sonuçsuz olsa dahi Cppcheck ' in raporlamasına imkan verir. Bu "
+"seçenekle yanlış pozitifler vardır. Her sonuç siz iyi mi kötü mü olduğunu "
+"bilmeden önce dikkatlice araştırılmak zorundadır. "
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_inconclusiveAnalysis)
+#: config/projectconfigpage.ui:63
+#, fuzzy, kde-format
+#| msgid "Inconclusive analysis"
+msgctxt "@option:check"
+msgid "Inconclusive analysis"
+msgstr "Sonuçsuz çözümleme"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_checkInformation)
+#: config/projectconfigpage.ui:70
+#, fuzzy, kde-format
+#| msgid "Enable information messages"
+msgctxt "@info:tooltip"
+msgid "Enable information messages"
+msgstr "Bilgi mesajlarını etkinleştir"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_checkInformation)
+#: config/projectconfigpage.ui:73
+#, fuzzy, kde-format
+#| msgid "Information"
+msgctxt "@option:check"
+msgid "Information"
+msgstr "Bilgi"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_checkMissingInclude)
+#: config/projectconfigpage.ui:83
+#, fuzzy, kde-format
+#| msgid ""
+#| "Warn if there are missing includes. For detailed information use 'check-"
+#| "config'"
+msgctxt "@info:tooltip"
+msgid ""
+"Warn if there are missing includes. For detailed information use 'check-"
+"config'"
+msgstr ""
+"Eksik olanlar varsa uyar. Daha detaylı bilgi için 'check-config' kullanınız."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_checkMissingInclude)
+#: config/projectconfigpage.ui:86
+#, fuzzy, kde-format
+#| msgid "Missing include"
+msgctxt "@option:check"
+msgid "Missing include"
+msgstr "Eksik include"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_checkPerformance)
+#: config/projectconfigpage.ui:96
+#, fuzzy, kde-format
+#| msgid "Enable performance messages"
+msgctxt "@info:tooltip"
+msgid "Enable performance messages"
+msgstr "Performans iletilerini etkinleştir"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_checkPerformance)
+#: config/projectconfigpage.ui:99
+#, fuzzy, kde-format
+#| msgid "Performance"
+msgctxt "@option:check"
+msgid "Performance"
+msgstr "Performans"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_forceCheck)
+#: config/projectconfigpage.ui:109
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>Force checking of files that have a lot of configurations. Error is "
+#| "printed if such a file is found so there is no reason to use this by "
+#| "default. If used together with '--max-configs=', the last option is the "
+#| "one that is effective.<br/><br/>Be careful with using this option - it "
+#| "can dramatically slow checking.</p>"
+msgctxt "@info:tooltip"
+msgid ""
+"<p>Force checking of files that have a lot of configurations. Error is "
+"printed if such a file is found so there is no reason to use this by "
+"default. If used together with '--max-configs=', the last option is the one "
+"that is effective.<br/><br/>Be careful with using this option - it can "
+"dramatically slow checking.</p>"
+msgstr ""
+"Bir çok yapılandırması olan dosyaları kontrol etmeye zorlar. Eğer böyle bir "
+"dosya bulunursa hata yazdırılır bu yüzden bunu varsayılan olarak kullanmaya "
+"gerek yoktur. Eğer '--max-configs=' ile birlikte kullanılırsa, son seçenek "
+"etkili olandır. <br/><br/> Bu seçeneği kullanırken dikkat ediniz - "
+"denetlemeyi çok fazla yavaşlatabilir.</p>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_forceCheck)
+#: config/projectconfigpage.ui:112
+#, fuzzy, kde-format
+#| msgid "Force checking"
+msgctxt "@option:check"
+msgid "Force checking"
+msgstr "Denetimi zorla"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_checkPortability)
+#: config/projectconfigpage.ui:119
+#, fuzzy, kde-format
+#| msgid "Enable portability messages"
+msgctxt "@info:tooltip"
+msgid "Enable portability messages"
+msgstr "Enable portability messages"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_checkPortability)
+#: config/projectconfigpage.ui:122
+#, fuzzy, kde-format
+#| msgid "Portability"
+msgctxt "@option:check"
+msgid "Portability"
+msgstr "Uyumluluk"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_checkStyle)
+#: config/projectconfigpage.ui:132
+#, fuzzy, kde-format
+#| msgid ""
+#| "Enable all coding style checks. All messages with the severities 'style', "
+#| "'performance' and 'portability' are enabled."
+msgctxt "@info:tooltip"
+msgid ""
+"Enable all coding style checks. All messages with the severities 'style', "
+"'performance' and 'portability' are enabled."
+msgstr ""
+"Tüm kodlama stili denetlemelerini etkinleştir.'stil', 'performans' ve "
+"'uyumluluk' önem derecelerine sahip olan tüm mesajlar etkinleştirilir."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_checkStyle)
+#: config/projectconfigpage.ui:135
+#, fuzzy, kde-format
+#| msgid "Style"
+msgctxt "@option:check"
+msgid "Style"
+msgstr "Stil"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_checkConfig)
+#: config/projectconfigpage.ui:145
+#, fuzzy, kde-format
+#| msgid ""
+#| "Check Cppcheck configuration. The normal code analysis is disabled by "
+#| "this flag."
+msgctxt "@info:tooltip"
+msgid ""
+"Check Cppcheck configuration. The normal code analysis is disabled by this "
+"flag."
+msgstr ""
+"Cppcheck yapılandırmasını denetle. Normal kod çözümlemesi bu bayrak "
+"tarafından devre dışı bırakılır."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_checkConfig)
+#: config/projectconfigpage.ui:148
+#, fuzzy, kde-format
+#| msgid "Check config"
+msgctxt "@option:check"
+msgid "Check config"
+msgstr "Yapılandırmayı denetle"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabIncludes)
+#: config/projectconfigpage.ui:158
+#, fuzzy, kde-format
+#| msgid "Include directories"
+msgctxt "@title:tab"
+msgid "Include Directories"
+msgstr "Dizinleri dahil et"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_useProjectIncludes)
+#: config/projectconfigpage.ui:164
+#, fuzzy, kde-format
+#| msgid ""
+#| "Add 'project' include directories to cppcheck arguments. This option adds "
+#| "only paths related with project's root and build directories."
+msgctxt "@info:tooltip"
+msgid ""
+"Add 'project' include directories to Cppcheck arguments. This option adds "
+"only paths related with project's root and build directories."
+msgstr ""
+"'Proje' ekleme dizinlerini cppcheck bağımsız değişkenlerine ekleyin. Bu "
+"seçenek projenin sadece kök ve inşa dizinleriyle ilgili yolları ekler."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_useProjectIncludes)
+#: config/projectconfigpage.ui:167
+#, fuzzy, kde-format
+#| msgid "Use 'project' include dirs"
+msgctxt "@option:check"
+msgid "Use 'project' include dirs"
+msgstr "'proje' ekleme dizinlerini kullan"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_useSystemIncludes)
+#: config/projectconfigpage.ui:180
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>Add other, 'system' include directories to cppcheck arguments.<br/><br/"
+#| ">Be careful with using this option - it can dramatically slow checking.</"
+#| "p>"
+msgctxt "@info:tooltip"
+msgid ""
+"<p>Add other, 'system' include directories to Cppcheck arguments.<br/><br/"
+">Be careful with using this option - it can dramatically slow checking.</p>"
+msgstr ""
+"<p>Diğer, 'system' içeren dizinleri cppcheck bağımsız değişkenlerine ekle."
+"<br/><br/>Bu seçeneği kullanırken dikkat ediniz - denetlemeyi çok fazla "
+"yavaşlatabilir.</p>"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_useSystemIncludes)
+#: config/projectconfigpage.ui:183
+#, fuzzy, kde-format
+#| msgid "Use 'system' include dirs"
+msgctxt "@option:check"
+msgid "Use 'system' include dirs"
+msgstr "'system' içeren dizinleri kullan"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: config/projectconfigpage.ui:198
+#, fuzzy, kde-format
+#| msgid "&Ignored includes:"
+msgctxt "@label:textbox"
+msgid "&Ignored includes:"
+msgstr "&Göz ardı edilen eklemeler"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, kcfg_ignoredIncludes)
+#: config/projectconfigpage.ui:218
+#, fuzzy, no-c-format, kde-format
+#| msgid ""
+#| "<html>\n"
+#| "\n"
+#| "<p>Defines semicolon-separated list of ignored include directories.</p>\n"
+#| "\n"
+#| "<p>You can use the following placeholders:</p>\n"
+#| "\n"
+#| "<p><b><tt>%p</tt></b> - Gets replaced by the URL of the project's root "
+#| "directory.</p>\n"
+#| "\n"
+#| "<p><b><tt>%b</tt></b> - Gets replaced by the URL of the project's build "
+#| "directory.</p>\n"
+#| "\n"
+#| "</html>"
+msgctxt "@info:tooltip"
+msgid ""
+"<html>\n"
+"\n"
+"<p>Defines semicolon-separated list of ignored include directories.</p>\n"
+"\n"
+"<p>You can use the following placeholders:</p>\n"
+"\n"
+"<p><b><tt>%p</tt></b> - Gets replaced by the URL of the project's root "
+"directory.</p>\n"
+"\n"
+"<p><b><tt>%b</tt></b> - Gets replaced by the URL of the project's build "
+"directory.</p>\n"
+"\n"
+"</html>"
+msgstr ""
+"<html>\n"
+"\n"
+"<p>Göz ardı edilen ekleme dizinlerinin noktalı virgülle ayrılmış listesini "
+"tanımlar.</p>\n"
+"<p>Aşağıdaki yer tutucuları kullanabilirsiniz:</p>\n"
+"<p><b><tt>%p</tt></b> - Projenin kök dizininin URL ' si tarafından yer "
+"değiştirilir.</p>\n"
+"<p><b><tt>%b</tt></b> - Projenin inşa dizininin URL ' si tarafından yer "
+"değiştirilir.</p>\n"
+"</html>"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabExtra)
+#: config/projectconfigpage.ui:241
+#, fuzzy, kde-format
+#| msgid "Extra parameters"
+msgctxt "@title:tab"
+msgid "Extra Parameters"
+msgstr "Ek parametreler"
+
+#. i18n: ectx: property (text), widget (QLabel, extraLabel)
+#: config/projectconfigpage.ui:254
+#, fuzzy, kde-format
+#| msgid "Ex&tra parameters:"
+msgctxt "@label:textbox"
+msgid "Ex&tra parameters:"
+msgstr "Ek& parametreler:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, kcfg_extraParameters)
+#: config/projectconfigpage.ui:274
+#, fuzzy, no-c-format, kde-format
+#| msgid ""
+#| "<html>\n"
+#| "\n"
+#| "<p>Defines additional parameters for cppcheck (see documentation).</p>\n"
+#| "\n"
+#| "<p>You can use the following placeholders:</p>\n"
+#| "\n"
+#| "<p><b><tt>%p</tt></b> - Gets replaced by the URL of the project's root "
+#| "directory.</p>\n"
+#| "\n"
+#| "<p><b><tt>%b</tt></b> - Gets replaced by the URL of the project's build "
+#| "directory.</p>\n"
+#| "\n"
+#| "</html>"
+msgctxt "@info:tooltip"
+msgid ""
+"<html>\n"
+"\n"
+"<p>Defines additional parameters for cppcheck (see documentation).</p>\n"
+"\n"
+"<p>You can use the following placeholders:</p>\n"
+"\n"
+"<p><b><tt>%p</tt></b> - Gets replaced by the URL of the project's root "
+"directory.</p>\n"
+"\n"
+"<p><b><tt>%b</tt></b> - Gets replaced by the URL of the project's build "
+"directory.</p>\n"
+"\n"
+"</html>"
+msgstr ""
+"<html>\n"
+"\n"
+"<p>Cppcheck için ek parametreleri tanımlar (belgelendirmeye bakınız).</p>\n"
+"<p>Aşağıdaki yer tutucuları kullanabilirsiniz:</p>\n"
+"<p><b><tt>%p</tt></b> - Projenin kök dizininin URL ' si tarafından yer "
+"değiştirilir.</p>\n"
+"<p><b><tt>%b</tt></b> - Projenin inşa dizininin URL ' si tarafından yer "
+"değiştirilir.</p>\n"
+"</html>"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: config/projectconfigpage.ui:308
+#, fuzzy, kde-format
+#| msgid "Command line"
+msgctxt "@title:group"
+msgid "Command Line"
+msgstr "Komut satırı"
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, commandLineFilter)
+#: config/projectconfigpage.ui:316
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Search..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, commandLineBreaks)
+#: config/projectconfigpage.ui:326
+#, fuzzy, kde-format
+#| msgid "Break lines"
+msgctxt "@option:check"
+msgid "Break lines"
+msgstr "Sonlama satırları"
+
+#: job.cpp:55
+#, kde-format
+msgid "Cppcheck Analysis (%1)"
+msgstr "Cppcheck Çözümlemesi (%1)"
+
+#: job.cpp:124 parser.cpp:264 problemmodel.cpp:54 problemmodel.cpp:99
+#, kde-format
+msgid "Cppcheck"
+msgstr "Cppcheck"
+
+#: job.cpp:163
+#, kde-format
+msgid "Failed to start Cppcheck from \"%1\"."
+msgstr "Cppcheck ' i \"%1\" den başlatılamadı."
+
+#: job.cpp:168
+#, kde-format
+msgid "Cppcheck crashed."
+msgstr "Cppcheck çöktü."
+
+#: job.cpp:173
+#, kde-format
+msgid "Cppcheck process timed out."
+msgstr "Cppcheck işleminde zamanaşımı oluştu."
+
+#: job.cpp:177
+#, kde-format
+msgid "Write to Cppcheck process failed."
+msgstr "Cppcheck sürecine yazma hatası."
+
+#: job.cpp:181
+#, kde-format
+msgid "Read from Cppcheck process failed."
+msgstr "Cppcheck sürecinden okuma hatası."
+
+#: parameters.cpp:136
+#, kde-format
+msgid ""
+"It seems that this project uses Qt library. For correctly work of cppcheck "
+"the value for define Q_MOC_OUTPUT_REVISION must be set. Unfortunately, the "
+"plugin is unable to find this value automatically - you should set it "
+"manually by adding '-DQ_MOC_OUTPUT_REVISION=XX' to extra parameters. The "
+"'XX' value can be found in any project's moc-generated file or in the "
+"<QtCore/qobjectdefs.h> header file."
+msgstr ""
+"Bu proje Qt kütüphanesi kullanıyor gibi görünüyor. Cppcheck ' in doğru "
+"çalışması için Q_MOC_OUTPUT_REVISION tanım değeri ayarlanmak zorundadır. "
+"Maalesef, eklenti bu değeri otomatik bulmada başarısız oldu - bu değeri "
+"ekstra parametrelere '-DQ_MOC_OUTPUT_REVISION=XX' ekleyerek el ile "
+"ayarlamalısınız. 'XX' değeri herhangi bir projenin moc ile üretilmiş "
+"dosyasında veya <QtCore/qobjectdefs.h> başlık dosyası içinde bulunabilir."
+
+#: parser.cpp:234
+#, kde-format
+msgid "Cppcheck XML Parsing: error at line %1, column %2: %3"
+msgstr "Cppcheck XML Ayıklama: %1 satırda hata, sütun %2: %3"
+
+#: plugin.cpp:64
+#, fuzzy, kde-format
+#| msgid "Analyze Current File with Cppcheck"
+msgctxt "@action"
+msgid "Analyze Current File with Cppcheck"
+msgstr "Mevcut Dosyayı Cppcheck ile Çözümle"
+
+#: plugin.cpp:70 plugin.cpp:81 plugin.cpp:86
+#, fuzzy, kde-format
+#| msgid "Cppcheck"
+msgctxt "@item:inmenu"
+msgid "Cppcheck"
+msgstr "Cppcheck"
+
+#: plugin.cpp:75
+#, fuzzy, kde-format
+#| msgid "Analyze Current Project with Cppcheck"
+msgctxt "@action"
+msgid "Analyze Current Project with Cppcheck"
+msgstr "Mevcut Projeyi Cppcheck ile Çözümle"
+
+#: plugin.cpp:126
+#, kde-format
+msgctxt "@title:window"
+msgid "Test"
+msgstr "Deneme"
+
+#: problemmodel.cpp:130
+#, kde-format
+msgid "Analysis completed, no problems detected."
+msgstr ""
+
+#: problemmodel.cpp:151
+#, kde-format
+msgid "Analysis started..."
+msgstr ""
+
+#: problemmodel.cpp:152
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip"
+#| msgid "Re-Run Last Cppcheck Analysis"
+msgctxt "@info:tooltip %1 is the path of the file"
+msgid "Re-run last Cppcheck analysis (%1)"
+msgstr "Son Cppcheck Çözümlemesini Tekrar Çalıştır"
+
+#: problemmodel.cpp:154
+#, fuzzy, kde-format
+#| msgctxt "@info:tooltip"
+#| msgid "Re-Run Last Cppcheck Analysis"
+msgctxt "@info:tooltip"
+msgid "Re-run last Cppcheck analysis"
+msgstr "Son Cppcheck Çözümlemesini Tekrar Çalıştır"
+
+#~ msgid "Cppcheck Error"
+#~ msgstr "Cppcheck Hatası"

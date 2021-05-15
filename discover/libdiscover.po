@@ -1,0 +1,3157 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# obsoleteman <tulliana@gmail.com>, 2012.
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014, 2015, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-sysadmin-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-07 00:19+0000\n"
+"PO-Revision-Date: 2017-10-04 12:39+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#, fuzzy, kde-format
+#| msgctxt "Category"
+#| msgid "Board Games"
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Masaüstü Oyunları"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: libdiscover/appstream/AppStreamUtils.cpp:82
+#, fuzzy, kde-format
+#| msgctxt "@info license"
+#| msgid "Proprietary"
+msgid "Proprietary"
+msgstr "Sahipli"
+
+#: libdiscover/appstream/OdrsReviewsBackend.cpp:140
+#, kde-format
+msgid "Error while fetching reviews: %1"
+msgstr ""
+
+#: libdiscover/appstream/OdrsReviewsBackend.cpp:186
+#, kde-format
+msgid "Error while submitting usefulness: %1"
+msgstr ""
+
+#: libdiscover/appstream/OdrsReviewsBackend.cpp:243
+#, kde-format
+msgid "Error while submitting review: %1"
+msgstr ""
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:4
+#, kde-format
+msgctxt "Category"
+msgid "Dummy Category"
+msgstr "Boş Kategori"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:10
+#, kde-format
+msgctxt "Category"
+msgid "dummy"
+msgstr "boş"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:18
+#, kde-format
+msgctxt "Category"
+msgid "dummy addons"
+msgstr "boş"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:27
+#, kde-format
+msgctxt "Category"
+msgid "dummy 1"
+msgstr "boş 1"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:35
+#, kde-format
+msgctxt "Category"
+msgid "dummy with stuff"
+msgstr "içinde ıvır zıvır olan boş"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:42
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:57
+#, kde-format
+msgctxt "Category"
+msgid "dummy 2.1"
+msgstr "boş 2.1"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:50
+#, kde-format
+msgctxt "Category"
+msgid "dummy with quite some stuff"
+msgstr "içinde daha fazla ıvır zıvır olan boş"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:66
+#, kde-format
+msgctxt "Category"
+msgid "dummy 3"
+msgstr "boş 3"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:76
+#, kde-format
+msgctxt "Category"
+msgid "dummy 4"
+msgstr "boş 4"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:5
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:5
+#: libdiscover/backends/SnapBackend/snap-backend-categories.xml:5
+#, kde-format
+msgctxt "Category"
+msgid "Applications"
+msgstr "Uygulamalar"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:14
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:14
+#, kde-format
+msgctxt "Category"
+msgid "Accessories"
+msgstr "Yardımcı Araçlar"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:26
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:26
+#, kde-format
+msgctxt "Category"
+msgid "Accessibility"
+msgstr "Erişilebilirlik"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:38
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:38
+#, kde-format
+msgctxt "Category"
+msgid "Developer Tools"
+msgstr "Geliştirici Araçları"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:48
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:48
+#, kde-format
+msgctxt "Category"
+msgid "Debugging"
+msgstr "Hata Ayıklama"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:58
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:58
+#, kde-format
+msgctxt "Category"
+msgid "Graphic Interface Design"
+msgstr "Grafiksel Arayüz Tasarımı"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:67
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:67
+#, kde-format
+msgctxt "Category"
+msgid "IDEs"
+msgstr "Bütünleşik Geliştirme Ortamları"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:76
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:76
+#, kde-format
+msgctxt "Category"
+msgid "Localization"
+msgstr "Yerelleştirme"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:86
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:86
+#, kde-format
+msgctxt "Category"
+msgid "Profiling"
+msgstr "Profilleme"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:95
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:95
+#, kde-format
+msgctxt "Category"
+msgid "Web Development"
+msgstr "Web Geliştirme"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:108
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:108
+#, kde-format
+msgctxt "Category"
+msgid "Education"
+msgstr "Eğitim"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:120
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:120
+#, kde-format
+msgctxt "Category"
+msgid "Science and Engineering"
+msgstr "Bilim ve Mühendislik"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:130
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:130
+#, kde-format
+msgctxt "Category"
+msgid "Astronomy"
+msgstr "Astronomi"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:138
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:138
+#, kde-format
+msgctxt "Category"
+msgid "Biology"
+msgstr "Biyoloji"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:146
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:146
+#, kde-format
+msgctxt "Category"
+msgid "Chemistry"
+msgstr "Kimya"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:155
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:155
+#, kde-format
+msgctxt "Category"
+msgid "Computer Science and Robotics"
+msgstr "Bilgisayar Bilimleri ve Robotik"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:166
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:166
+#, kde-format
+msgctxt "Category"
+msgid "Electronics"
+msgstr "Elektronik"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:175
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:175
+#, kde-format
+msgctxt "Category"
+msgid "Engineering"
+msgstr "Mühendislik"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:184
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:184
+#, kde-format
+msgctxt "Category"
+msgid "Geography"
+msgstr "Coğrafya"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:192
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:192
+#, kde-format
+msgctxt "Category"
+msgid "Geology"
+msgstr "Jeoloji"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:201
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:201
+#, kde-format
+msgctxt "Category"
+msgid "Mathematics"
+msgstr "Matematik"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:212
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:212
+#, kde-format
+msgctxt "Category"
+msgid "Physics"
+msgstr "Fizik"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:223
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:223
+#, kde-format
+msgctxt "Category"
+msgid "Games"
+msgstr "Oyunlar"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:233
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:233
+#, kde-format
+msgctxt "Category"
+msgid "Arcade"
+msgstr "Oyun Makinesi"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:242
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:242
+#, kde-format
+msgctxt "Category"
+msgid "Board Games"
+msgstr "Masaüstü Oyunları"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:251
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:251
+#, kde-format
+msgctxt "Category"
+msgid "Card Games"
+msgstr "Kart Oyunları"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:260
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:260
+#, kde-format
+msgctxt "Category"
+msgid "Puzzles"
+msgstr "Bulmacalar"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:269
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:269
+#, kde-format
+msgctxt "Category"
+msgid "Role Playing"
+msgstr "Rol Oynama"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:278
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:278
+#, kde-format
+msgctxt "Category"
+msgid "Simulation"
+msgstr "Benzeştirim"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:287
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:287
+#, kde-format
+msgctxt "Category"
+msgid "Strategy"
+msgstr ""
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:296
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:296
+#, kde-format
+msgctxt "Category"
+msgid "Sports"
+msgstr "Spor"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:305
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:305
+#, fuzzy, kde-format
+#| msgctxt "Category"
+#| msgid "Applications"
+msgctxt "Category"
+msgid "Action"
+msgstr "Uygulamalar"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:314
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:314
+#, fuzzy, kde-format
+#| msgctxt "Category"
+#| msgid "Simulation"
+msgctxt "Category"
+msgid "Emulators"
+msgstr "Benzeştirim"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:327
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:327
+#, kde-format
+msgctxt "Category"
+msgid "Graphics"
+msgstr "Grafikler"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:336
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:336
+#, kde-format
+msgctxt "Category"
+msgid "3D"
+msgstr "3D"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:344
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:344
+#, kde-format
+msgctxt "Category"
+msgid "Drawing"
+msgstr "Çizim"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:356
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:356
+#, kde-format
+msgctxt "Category"
+msgid "Painting and Editing"
+msgstr "Resim ve Kurgu"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:369
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:369
+#, kde-format
+msgctxt "Category"
+msgid "Photography"
+msgstr "Fotoğrafçılık"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:378
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:378
+#, kde-format
+msgctxt "Category"
+msgid "Publishing"
+msgstr "Yayıncılık"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:387
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:387
+#, kde-format
+msgctxt "Category"
+msgid "Scanning and OCR"
+msgstr "Tarama ve OCR"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:397
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:397
+#, kde-format
+msgctxt "Category"
+msgid "Viewers"
+msgstr "Göstericiler"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:409
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:409
+#, kde-format
+msgctxt "Category"
+msgid "Internet"
+msgstr "İnternet"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:418
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:418
+#, kde-format
+msgctxt "Category"
+msgid "Chat"
+msgstr "Sohbet"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:428
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:428
+#, kde-format
+msgctxt "Category"
+msgid "File Sharing"
+msgstr "Dosya Paylaşımı"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:437
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:437
+#, kde-format
+msgctxt "Category"
+msgid "Mail"
+msgstr "E-posta"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:446
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:446
+#, kde-format
+msgctxt "Category"
+msgid "Web Browsers"
+msgstr "Web Tarayıcıları"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:458
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:458
+#, kde-format
+msgctxt "Category"
+msgid "Multimedia"
+msgstr "Çoklu Ortam"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:468
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:468
+#, kde-format
+msgctxt "Category"
+msgid "Audio and Video Editors"
+msgstr ""
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:477
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:477
+#, kde-format
+msgctxt "Category"
+msgid "Audio Players"
+msgstr ""
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:498
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:498
+#, kde-format
+msgctxt "Category"
+msgid "Video Players"
+msgstr ""
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:516
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:516
+#, kde-format
+msgctxt "Category"
+msgid "CD and DVD"
+msgstr ""
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:528
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:528
+#, kde-format
+msgctxt "Category"
+msgid "Office"
+msgstr "Ofis"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:539
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:539
+#, kde-format
+msgctxt "Category"
+msgid "System Settings"
+msgstr "Sistem Ayarları"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:387
+#, kde-format
+msgid "Local bundle"
+msgstr "Yerel paket"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1289
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:581
+#, kde-format
+msgid "Malformed appstream url '%1'"
+msgstr "Bozulmuş appstream adresi '%1%'"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:96
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:224
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:321
+#, kde-format
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:101
+#, fuzzy, kde-format
+#| msgctxt "package-name (version)"
+#| msgid "%1 (%2)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:353
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:361
+#, kde-format
+msgid "Retrieving size information"
+msgstr "Boyut bilgileri alınıyor"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:355
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:363
+#, kde-format
+msgid "Unknown size"
+msgstr "Bilinmeyen boyut"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:357
+#, kde-format
+msgctxt "@info app size"
+msgid "%1 to download, %2 on disk"
+msgstr "%1 indirilecek, diskte %2 alan kaplayacak"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:365
+#, kde-format
+msgctxt "@info app size"
+msgid "%1 on disk"
+msgstr "diskte kapladığı alan %1"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:50
+#, kde-format
+msgid "Add Flathub"
+msgstr ""
+
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:54
+#, kde-format
+msgid ""
+"Makes it possible to easily install the applications listed in https://"
+"flathub.org"
+msgstr ""
+
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:103
+#, kde-format
+msgid "Could not add the source %1"
+msgstr "%1 kaynağı eklenemedi"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:219
+#, fuzzy, kde-format
+#| msgctxt "@info:status"
+#| msgid "Removing"
+msgid "Removing '%1'"
+msgstr "Kaldırılıyor"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:220
+#, kde-format
+msgid ""
+"To remove this repository, the following applications must be uninstalled:"
+"<ul><li>%1</li></ul>"
+msgstr ""
+
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:236
+#, kde-format
+msgid "Failed to remove %1 remote repository: %2"
+msgstr ""
+
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:240
+#, fuzzy, kde-format
+#| msgid "Could not add the source %1"
+msgid "Could not find %1"
+msgstr "%1 kaynağı eklenemedi"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:335
+#, fuzzy, kde-format
+#| msgctxt "package-name (version)"
+#| msgid "%1 (%2)"
+msgid "%1 (user)"
+msgstr "%1 (%2)"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:379
+#, fuzzy, kde-format
+#| msgid "Flatpak repository URI (*.flatpakrepo)"
+msgid "Enter a Flatpak repository URI (*.flatpakrepo):"
+msgstr "Flatpak depo URI (*.flatpakrepo)"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakTransactionThread.cpp:21
+#, kde-format
+msgid "Adding remote '%1' in %2 from %3"
+msgstr ""
+
+#: libdiscover/backends/FwupdBackend/FwupdSourcesBackend.cpp:38
+#, fuzzy, kde-format
+#| msgid ""
+#| "The package %1 and its vendor %2 require that you accept their license:\n"
+#| " %3"
+msgid ""
+"The remote %1 require that you accept their license:\n"
+" %2"
+msgstr ""
+"%1 paketi ve sağlayıcısı %2, lisanslarını kabul etmenizi gerektiriyor:\n"
+" %3"
+
+#: libdiscover/backends/FwupdBackend/FwupdSourcesBackend.cpp:41
+#, kde-format
+msgid "Review EULA"
+msgstr ""
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:114
+#, kde-format
+msgid "Backend %1 took too long to initialize"
+msgstr ""
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:178
+#, fuzzy, kde-format
+#| msgctxt "Category"
+#| msgid "Applications"
+msgid "Applications"
+msgstr "Uygulamalar"
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:223
+#, kde-format
+msgid "Plasma Addons"
+msgstr "Plasma Eklentileri"
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:223
+#, kde-format
+msgid "Application Addons"
+msgstr "Uygulama Eklentileri"
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:392
+#, kde-format
+msgid "Network error in backend %1: %2"
+msgstr ""
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:399
+#, kde-format
+msgid ""
+"Too many requests sent to the server for backend %1. Please try again in a "
+"few minutes."
+msgstr ""
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:402
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:408
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:413
+#, kde-format
+msgid "Invalid %1 backend, contact your distributor."
+msgstr ""
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:432
+#, kde-format
+msgid ""
+"Unable to complete the update of %1. You can try and perform this action "
+"through the Get Hot New Stuff dialog, which grants tighter control. The "
+"reported error was:\n"
+"%2"
+msgstr ""
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:442
+#, kde-format
+msgid "Could not fetch screenshot for the entry %1 in backend %2"
+msgstr ""
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:446
+#, kde-format
+msgid "Unhandled error in %1 backend. Contact your distributor."
+msgstr ""
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:456
+#, kde-format
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:638
+#, kde-format
+msgid "Wrong KNewStuff URI: %1"
+msgstr "Hatalı KNewStuff URI: %1"
+
+#: libdiscover/backends/KNSBackend/KNSReviews.cpp:145
+#, kde-format
+msgid "Log in information for %1"
+msgstr "%1 için bilgi günlükle"
+
+#: libdiscover/backends/PackageKitBackend/AppPackageKitResource.cpp:237
+#, kde-format
+msgid "Cannot launch %1"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:552
+#, kde-format
+msgctxt "Category"
+msgid "Plasma Addons"
+msgstr "Plasma Eklentileri"
+
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:563
+#, kde-format
+msgctxt "Category"
+msgid "Plasma Widgets"
+msgstr "Plasma Gereçleri"
+
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:575
+#, kde-format
+msgctxt "Category"
+msgid "Fonts"
+msgstr "Yazı Tipleri"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:209
+#, kde-format
+msgid "Please make sure that Appstream is properly set up on your system"
+msgstr ""
+"Appstream'in sisteminizde düzgün şekilde yapılandırıldığından emin olun"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:673
+#, fuzzy, kde-format
+#| msgid "Cannot remove system package"
+msgid "Cannot remove '%1'"
+msgstr "Sistem paketi kaldırılamıyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:18
+#, kde-format
+msgid "Out of memory"
+msgstr "Yetersiz bellek"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:20
+#, kde-format
+msgid "No network connection available"
+msgstr "Kullanılabilir ağ bağantısı yok"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:22
+#, kde-format
+msgid "Operation not supported"
+msgstr "İşlem desteklenmiyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:24
+#, kde-format
+msgid "Internal error"
+msgstr "İç hata"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:26
+#, kde-format
+msgid "GPG failure"
+msgstr "GPG başarısız"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:28
+#, kde-format
+msgid "PackageID invalid"
+msgstr "Geçersiz paket kimliği"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:30
+#, kde-format
+msgid "Package not installed"
+msgstr "Paketi kurulu değil"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:32
+#, kde-format
+msgid "Package not found"
+msgstr "Paket bulunamadı"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:34
+#, kde-format
+msgid "Package is already installed"
+msgstr "Paket zaten kurulu"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:36
+#, kde-format
+msgid "Package download failed"
+msgstr "Paket indirme başarısız"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:38
+#, kde-format
+msgid "Package group not found"
+msgstr "Paket grubu bulunamadı"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:40
+#, kde-format
+msgid "Package group list invalid"
+msgstr "Paket grup listesi geçersiz"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:42
+#, kde-format
+msgid "Dependency resolution failed"
+msgstr "Bağımlılık çözümü başarısız"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:44
+#, kde-format
+msgid "Filter invalid"
+msgstr "Geçersiz filtre"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:46
+#, kde-format
+msgid "Failed while creating a thread"
+msgstr "Bir iş parçacığı oluşturma başarısız"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:48
+#, kde-format
+msgid "Transaction failure"
+msgstr "İletim başarısız oldu"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:50
+#, kde-format
+msgid "Transaction canceled"
+msgstr "İletim iptal edildi"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:52
+#, kde-format
+msgid "No Cache available"
+msgstr "Önbellek yok"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:54
+#, kde-format
+msgid "Cannot find repository"
+msgstr "Depo bulunamıyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:56
+#, kde-format
+msgid "Cannot remove system package"
+msgstr "Sistem paketi kaldırılamıyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:58
+#, kde-format
+msgid "The PackageKit daemon has crashed"
+msgstr "PackageKit yan uygulamacığı çöktü"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:60
+#, kde-format
+msgid "Initialization failure"
+msgstr "Başlatma hatası"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:62
+#, kde-format
+msgid "Failed to finalize transaction"
+msgstr "Işlemi sonuçlandırma başarısız"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:64
+#, kde-format
+msgid "Config parsing failed"
+msgstr "Yapılandırma ayrıştırma başarısız"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:66
+#, kde-format
+msgid "Cannot cancel transaction"
+msgstr "İşlem iptal edilemiyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:68
+#, kde-format
+msgid "Cannot obtain lock"
+msgstr "Kilit alınamadı"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:70
+#, kde-format
+msgid "No packages to update"
+msgstr "Güncellenecek paket yok"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:72
+#, kde-format
+msgid "Cannot write repo config"
+msgstr "Depo yapılandırması yazılamıyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:74
+#, kde-format
+msgid "Local install failed"
+msgstr "Yerel kurulum başarısız oldu"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:76
+#, kde-format
+msgid "Bad GPG signature found"
+msgstr "Bozuk GPG imzası bulundu"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:78
+#, kde-format
+msgid "No GPG signature found"
+msgstr "Hiçbir GPG imzası bulunamadı"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:80
+#, kde-format
+msgid "Cannot install source package"
+msgstr "Kaynak paketi kurulamıyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:82
+#, kde-format
+msgid "Repo configuration error"
+msgstr "Depo yapılandırma hatası"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:84
+#, kde-format
+msgid "No license agreement"
+msgstr "Hiçbir lisans anlaşması yok"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:86
+#, kde-format
+msgid "File conflicts found"
+msgstr "Dosya çakışmaları bulundu"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:88
+#, kde-format
+msgid "Package conflict found"
+msgstr "Paket çakışması bulundu"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:90
+#, kde-format
+msgid "Repo not available"
+msgstr "Depo mevcut değil"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:92
+#, kde-format
+msgid "Invalid package file"
+msgstr "Geçersiz paket dosyası"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:94
+#, kde-format
+msgid "Package install blocked"
+msgstr "Paket yüklemesi engellendi"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:96
+#, kde-format
+msgid "Corrupt package found"
+msgstr "Bozuk paket bulundu"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:98
+#, kde-format
+msgid "All packages already installed"
+msgstr "Tüm paketler zaten kurulu"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:100
+#, kde-format
+msgid "File not found"
+msgstr "Dosya bulunamadı"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:102
+#, kde-format
+msgid "No more mirrors available"
+msgstr "Kullanılabilir başka yansı yok"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:104
+#, kde-format
+msgid "No distro upgrade data"
+msgstr "Hiçbir dağıtım yükseltme verisi yok"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:106
+#, kde-format
+msgid "Incompatible architecture"
+msgstr "Uyumsuz mimari"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:108
+#, kde-format
+msgid "No space on device left"
+msgstr "Cihazda boş alan kalmadı"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:110
+#, kde-format
+msgid "A media change is required"
+msgstr "Bir ortam değişimi gerekli"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:112
+#, kde-format
+msgid "You have no authorization to execute this operation"
+msgstr "Bu işlemi yürütmek için yetkiye sahip değilsiniz"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:114
+#, kde-format
+msgid "Update not found"
+msgstr "Güncelleştirme bulunamadı"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:116
+#, kde-format
+msgid "Cannot install from unsigned repo"
+msgstr "İmzasız depodan kuramazsınız"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:118
+#, kde-format
+msgid "Cannot update from unsigned repo"
+msgstr "İmzasız depodan güncelleştirme yapamazsınız"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:120
+#, kde-format
+msgid "Cannot get file list"
+msgstr "Dosya listesi alınamıyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:122
+#, kde-format
+msgid "Cannot get requires"
+msgstr "Gereklilikler alınamıyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:124
+#, kde-format
+msgid "Cannot disable repository"
+msgstr "Depo devre dışı bırakılamıyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:126
+#, kde-format
+msgid "Restricted download detected"
+msgstr "Sınırlı indirme tespit edildi"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:128
+#, kde-format
+msgid "Package failed to configure"
+msgstr "Paket yapılandırma başarısız oldu"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:130
+#, kde-format
+msgid "Package failed to build"
+msgstr "Paketi inşa etmek başarısız"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:132
+#, kde-format
+msgid "Package failed to install"
+msgstr "Paket kurma başarısız"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:134
+#, kde-format
+msgid "Package failed to remove"
+msgstr "Paket kaldırmak başarısız"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:136
+#, kde-format
+msgid "Update failed due to running process"
+msgstr "Güncelleme işlemi çalışan süreç nedeniyle başarısız oldu"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:138
+#, kde-format
+msgid "The package database changed"
+msgstr "Paket veritabanı değişti"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:140
+#, kde-format
+msgid "The provided type is not supported"
+msgstr "Sağlanan tür desteklenmiyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:142
+#, kde-format
+msgid "Install root is invalid"
+msgstr "Kurulum kökü geçersiz"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:144
+#, fuzzy, kde-format
+#| msgid "Cannot fetch sources"
+msgctxt ""
+"Failed to sync your Linux distro repositories or other sources of packages"
+msgid "Cannot fetch sources"
+msgstr "Kaynaklar alınamıyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:146
+#, kde-format
+msgid "Canceled priority"
+msgstr "Öncelik iptal edildi"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:148
+#, kde-format
+msgid "Unfinished transaction"
+msgstr "Bitmemiş işlem"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:150
+#, kde-format
+msgid "Lock required"
+msgstr "Kilit gerekli"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:155
+#, kde-format
+msgid "Unknown error %1."
+msgstr "Bilinmeyen hata %1."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:164
+#, kde-format
+msgid "'%1' was changed and suggests to be restarted."
+msgstr "'%1' değişti ve yeniden başlatılma önerisinde bulunuyor."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:166
+#, kde-format
+msgid "A change by '%1' suggests your session to be restarted."
+msgstr ""
+"'%1' tarafından yapılan bir değişiklik, oturumu yeniden başlatmanızı "
+"öneriyor."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:168
+#, kde-format
+msgid ""
+"'%1' was updated for security reasons, a restart of the session is "
+"recommended."
+msgstr ""
+"'%1' güvenlik nedeniyle güncellendi, oturumun yeniden başlatılması önerilir."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:170
+#, kde-format
+msgid ""
+"'%1' was updated for security reasons, a restart of the system is "
+"recommended."
+msgstr ""
+"'%1' güvenlik nedeniyle güncellendi, sistemin yeniden başlatılması önerilir."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:175
+#, fuzzy, kde-format
+#| msgid "A change by '%1' suggests your system to be rebooted."
+msgid "A change by '%1' suggests your system to be restarted."
+msgstr ""
+"'%1' tarafından yapılan bir değişiklik, sistemi yeniden başlatmanızı "
+"öneriyor."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:183
+#, kde-format
+msgid "The application will have to be restarted."
+msgstr "Uygulama yeniden başlatılmalı."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:185
+#, kde-format
+msgid "The session will have to be restarted"
+msgstr "Oturum yeniden başlatılmalı"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:187
+#, fuzzy, kde-format
+#| msgid "The system will have to be rebooted."
+msgid "The system will have to be restarted."
+msgstr "Sistem yeniden başlatılmalı."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:189
+#, kde-format
+msgid "For security, the session will have to be restarted."
+msgstr "Güvenlik nedeniyle oturum yeniden başlatılmalı."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:191
+#, kde-format
+msgid "For security, the system will have to be restarted."
+msgstr "Güvenlik nedeniyle oturum yeniden başlatılmalı."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:203
+#, kde-format
+msgid "Waiting..."
+msgstr "Bekleniyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:205
+#, kde-format
+msgid "Refreshing Cache..."
+msgstr "Önbellek Tazeleniyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:207
+#, kde-format
+msgid "Setup..."
+msgstr "Ayarlar..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:209
+#, kde-format
+msgid "Processing..."
+msgstr "İşleniyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:211
+#, kde-format
+msgid "Remove..."
+msgstr "Kaldır..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:213
+#, kde-format
+msgid "Downloading..."
+msgstr "İndiriliyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:215
+#, kde-format
+msgid "Installing..."
+msgstr "Kuruluyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:217
+#, kde-format
+msgid "Updating..."
+msgstr "Güncelleniyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:219
+#, kde-format
+msgid "Cleaning up..."
+msgstr "Temizleniyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:222
+#, kde-format
+msgid "Resolving dependencies..."
+msgstr "Bağımlılıklar çözümleniyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:224
+#, kde-format
+msgid "Checking signatures..."
+msgstr "İmzalar denetleniyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:226
+#, kde-format
+msgid "Test committing..."
+msgstr "Gönderiler test ediliyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:228
+#, kde-format
+msgid "Committing..."
+msgstr "Gönderiliyor(commit)..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:231
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:357
+#, kde-format
+msgid "Finished"
+msgstr "Tamamlandı"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:233
+#, kde-format
+msgid "Canceled"
+msgstr "İptal edildi"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:235
+#, kde-format
+msgid "Waiting for lock..."
+msgstr "Kilit bekleniyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:237
+#, kde-format
+msgid "Waiting for authorization..."
+msgstr "Yetkilendirme için bekleniyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:242
+#, kde-format
+msgid "Copying files..."
+msgstr "Dosyalar kopyalanıyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:245
+#, kde-format
+msgid "Unknown Status"
+msgstr "Bilinmeyen Durum"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:253
+#, kde-format
+msgid "We are waiting for something."
+msgstr "Bir şey bekliyoruz."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:255
+#, kde-format
+msgid "Setting up transaction..."
+msgstr "İşlem ayarlanıyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:257
+#, kde-format
+msgid "The transaction is currently working..."
+msgstr "İşlem şu anda çalışıyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:259
+#, kde-format
+msgid "The transaction is currently removing packages..."
+msgstr "İşlem şu anda paketleri kaldırıyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:261
+#, kde-format
+msgid "The transaction is currently downloading packages..."
+msgstr "İşlem şu anda paketleri indiriyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:263
+#, kde-format
+msgid "The transactions is currently installing packages..."
+msgstr "İşlem şu anda paketleri kuruyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:265
+#, kde-format
+msgid "The transaction is currently updating packages..."
+msgstr "İşlem şu anda paketleri güncelleştiriyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:267
+#, kde-format
+msgid "The transaction is currently cleaning up..."
+msgstr "İşlem şu anda temizleme yapıyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:270
+#, kde-format
+msgid ""
+"The transaction is currently resolving the dependencies of the packages it "
+"will install..."
+msgstr "İşlem şu anda kurulacak paketlerin bağımlılıkları çözüyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:272
+#, kde-format
+msgid "The transaction is currently checking the signatures of the packages..."
+msgstr "İşlem şu anda paketlerin imzalarını denetliyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:274
+#, kde-format
+msgid ""
+"The transaction is currently testing the commit of this set of packages..."
+msgstr "İşlem şu anda bu paket dizisi gönderisini test ediyor ..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:276
+#, kde-format
+msgid "The transaction is currently committing its set of packages..."
+msgstr "İşlem şu anda paket dizisini gönderiyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:279
+#, kde-format
+msgid "The transaction has finished!"
+msgstr "İşlem tamamlandı!"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:281
+#, kde-format
+msgid "The transaction was canceled"
+msgstr "İşlem iptal edildi"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:283
+#, kde-format
+msgid "The transaction is currently waiting for the lock..."
+msgstr "İşlem şu anda kilit bekliyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:285
+#, kde-format
+msgid "Waiting for the user to authorize the transaction..."
+msgstr "Kullanıcının işleme yetki vermesi için bekleniyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:290
+#, kde-format
+msgid "The transaction is currently copying files..."
+msgstr "İşlem şu anda dosyaları kopyalıyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:292
+#, kde-format
+msgid "Currently refreshing the repository cache..."
+msgstr "Depo ön belleği şimdi tazeleniyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:297
+#, kde-format
+msgid "Unknown status %1."
+msgstr "Bilinmeyen durum %1."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:308
+#, kde-format
+msgctxt "update state"
+msgid "Stable"
+msgstr "Kararlı"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:310
+#, kde-format
+msgctxt "update state"
+msgid "Unstable"
+msgstr "Kararsız"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:312
+#, kde-format
+msgctxt "update state"
+msgid "Testing"
+msgstr "Deneme"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:323
+#: libdiscover/resources/AbstractResource.cpp:92
+#, kde-format
+msgid "Installed"
+msgstr "Kurulu"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:325
+#, fuzzy, kde-format
+#| msgid "Installed"
+msgid "Not Installed"
+msgstr "Kurulu"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:327
+#, kde-format
+msgid "Low"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:329
+#, kde-format
+msgid "Enhancement"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:331
+#, kde-format
+msgid "Normal"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:333
+#, kde-format
+msgid "Bugfix"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:335
+#, kde-format
+msgid "Important"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:337
+#, kde-format
+msgid "Security"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:339
+#, fuzzy, kde-format
+#| msgctxt "@info:status Package state"
+#| msgid "Locked"
+msgid "Blocked"
+msgstr "Kilitli"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:341
+#, fuzzy, kde-format
+#| msgctxt "@info:status"
+#| msgid "Downloading"
+msgid "Downloading"
+msgstr "İndiriliyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:343
+#, fuzzy, kde-format
+#| msgid "Updating..."
+msgid "Updating"
+msgstr "Güncelleniyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:345
+#, fuzzy, kde-format
+#| msgctxt "@info:status"
+#| msgid "Installing"
+msgid "Installing"
+msgstr "Kuruluyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:347
+#, fuzzy, kde-format
+#| msgctxt "@info:status"
+#| msgid "Removing"
+msgid "Removing"
+msgstr "Kaldırılıyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:349
+#, fuzzy, kde-format
+#| msgid "Cleaning up..."
+msgid "Cleanup"
+msgstr "Temizleniyor..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:351
+#, fuzzy, kde-format
+#| msgid "Obsoletes:"
+msgid "Obsoleting"
+msgstr "Eskiler:"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:353
+#, fuzzy, kde-format
+#| msgid "Installed"
+msgid "Collection Installed"
+msgstr "Kurulu"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:355
+#, fuzzy, kde-format
+#| msgid "Repo not available"
+msgid "Collection Available"
+msgstr "Depo mevcut değil"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:359
+#, fuzzy, kde-format
+#| msgctxt "@info:status Requested action"
+#| msgid "Reinstall"
+msgid "Reinstalling"
+msgstr "Yeniden Yükle"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:361
+#, fuzzy, kde-format
+#| msgctxt "@info:status"
+#| msgid "Downloading"
+msgid "Downgrading"
+msgstr "İndiriliyor"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:363
+#, kde-format
+msgid "Preparing"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:365
+#, kde-format
+msgid "Decompressing"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:367
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Untrusted Packages"
+msgid "Untrusted"
+msgstr "Güvenilmeyen Paketler"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:369
+#, kde-format
+msgid "Trusted"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:371
+#, fuzzy, kde-format
+#| msgid "Available"
+msgid "Unavailable"
+msgstr "Kullanılabilir"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:107
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:130
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox"
+#| msgid "Application Updates"
+msgid "Offline Updates"
+msgstr "Uygulama Güncelleştirmeleri"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:108
+#, fuzzy, kde-format
+#| msgid "There are %1 updated packages!"
+msgid ""
+"Failed to update %1 package\n"
+"%2"
+msgid_plural ""
+"Failed to update %1 packages\n"
+"%2"
+msgstr[0] "%1 paket güncellendi!"
+msgstr[1] "%1 paket güncellendi!"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:109
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:132
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Open File"
+msgctxt "@action:button"
+msgid "Open Discover"
+msgstr "Dosya Aç"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:109
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@item:inlistbox Human-readable name for the Debian package section \"base"
+#| "\""
+#| msgid "Base System"
+msgctxt "@action:button"
+msgid "Repair System"
+msgstr "Temel Sistem"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:118
+#, fuzzy, kde-format
+#| msgctxt "@info:status"
+#| msgid "Failed"
+msgid "Repair Failed"
+msgstr "Başarısız oldu"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:119
+#, kde-kuit-format
+msgctxt "@info"
+msgid "%1<nl/>Please report this error to your distribution."
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:131
+#, fuzzy, kde-format
+#| msgid "There are %1 updated packages!"
+msgid "Successfully updated %1 package"
+msgid_plural "Successfully updated %1 packages"
+msgstr[0] "%1 paket güncellendi!"
+msgstr[1] "%1 paket güncellendi!"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:256
+#, kde-format
+msgctxt "package-name (version)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:258
+#, kde-format
+msgctxt "comma separating package names"
+msgid ", "
+msgstr ", "
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:305
+#, kde-format
+msgid "Obsoletes:"
+msgstr "Eskiler:"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:306
+#, kde-format
+msgid "Release Notes:"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:307
+#, kde-format
+msgid "Update State:"
+msgstr "Durumu Güncelle:"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:308
+#, kde-format
+msgid "Restart:"
+msgstr "Yeniden Başlat:"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:311
+#, kde-format
+msgid "Vendor:"
+msgstr "Üretici:"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:331
+#, kde-format
+msgid "%2 (plus %1 dependency)"
+msgid_plural "%2 (plus %1 dependencies)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:395
+#, fuzzy, kde-format
+#| msgid "There are %1 updated packages!"
+msgid "Failed to start '%1'"
+msgstr "%1 paket güncellendi!"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitSourcesBackend.cpp:92
+#, fuzzy, kde-format
+#| msgid "Repository description:"
+msgid "Repository URL:"
+msgstr "Depo açıklaması:"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:76
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox"
+#| msgid "System Updates"
+msgid "System upgrade"
+msgstr "Sistem Güncelleştirmeleri"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:167
+#, fuzzy, kde-format
+#| msgid "No packages to update"
+msgid "1 package to upgrade"
+msgid_plural "%1 packages to upgrade"
+msgstr[0] "Güncellenecek paket yok"
+msgstr[1] "Güncellenecek paket yok"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:184
+#, kde-format
+msgid "Present"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:188
+#, kde-format
+msgid "Future"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:412
+#, kde-format
+msgid "Packages to remove"
+msgstr "Kaldırılacak paketler"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:413
+#, fuzzy, kde-format
+#| msgid ""
+#| "The following packages will be removed by the update:\n"
+#| "%1"
+msgid ""
+"The following packages will be removed by the update:<ul><li>%1</li></ul><br/"
+">in order to install:<ul><li>%2</li></ul>"
+msgstr ""
+"Güncelleme ile aşağıdaki paketler kaldırılacak:\n"
+"%1"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:508
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"%1:<nl/><nl/>%2<nl/><nl/>Please report this issue to the packagers of your "
+"distribution."
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:518
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:302
+#, kde-format
+msgid ""
+"Media Change of type '%1' is requested.\n"
+"%2"
+msgstr ""
+"'%1' Ortam Değimi türü istendi.\n"
+"%2"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:551
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:281
+#, kde-format
+msgid "Accept EULA"
+msgstr "Son Kullanıcı Lisans Sözleşmesini Kabul Et"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:552
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:282
+#, kde-format
+msgid ""
+"The package %1 and its vendor %2 require that you accept their license:\n"
+" %3"
+msgstr ""
+"%1 paketi ve sağlayıcısı %2, lisanslarını kabul etmenizi gerektiriyor:\n"
+" %3"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:669
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:319
+#, kde-format
+msgid "Missing signature for %1 in %2"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:670
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:320
+#, kde-format
+msgid ""
+"Do you trust the following key?\n"
+"\n"
+"Url: %1\n"
+"User: %2\n"
+"Key: %3\n"
+"Fingerprint: %4\n"
+"Timestamp: %4\n"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:191
+#, kde-format
+msgid "Confirm package removal"
+msgstr ""
+
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:192
+#, fuzzy, kde-format
+#| msgid ""
+#| "To proceed with this action, the following package needs removal:\n"
+#| "%2"
+#| msgid_plural ""
+#| "To proceed with this action, the following packages need removal:\n"
+#| "%2"
+msgid ""
+"This action will also remove the following package:\n"
+"%2"
+msgid_plural ""
+"This action will also remove the following packages:\n"
+"%2"
+msgstr[0] ""
+"Bu eylemle devam etmek aşağıdaki paketin kaldırılmasını gerektiriyor:\n"
+"%2"
+msgstr[1] ""
+"Bu eylemle devam etmek aşağıdaki paketlerin kaldırılmasını gerektiriyor:\n"
+"%2"
+
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:129
+#, fuzzy, kde-format
+#| msgctxt "@info:label Refers to a software version, Ex: Version 1.2.1:"
+#| msgid "Version %1:"
+msgid "Version: "
+msgstr "Sürüm %1:"
+
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:129
+#, kde-format
+msgid "BaseCommit: "
+msgstr ""
+
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:130
+#, kde-format
+msgid "GPGSignature: Valid signature by "
+msgstr ""
+
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:130
+#, kde-format
+msgid "Origin: "
+msgstr ""
+
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:167
+#, kde-format
+msgid "The currently active deployment."
+msgstr ""
+
+#: libdiscover/backends/SnapBackend/SnapBackend.cpp:43
+#, kde-format
+msgid "Snap"
+msgstr ""
+
+#: libdiscover/backends/SnapBackend/SnapResource.cpp:352
+#, kde-format
+msgid "%1 - %2"
+msgstr ""
+
+#: libdiscover/backends/SnapBackend/SnapTransaction.cpp:49
+#, kde-format
+msgid ""
+"This Snap application is not compatible with security sandboxing and will "
+"have full access to this computer. Install it anyway?"
+msgstr ""
+
+#: libdiscover/DiscoverBackendsFactory.cpp:110
+#, fuzzy, kde-format
+#| msgid ""
+#| "List all the backends we'll want to have loaded, separated by coma ','."
+msgid ""
+"List all the backends we'll want to have loaded, separated by comma ','."
+msgstr ""
+"Yüklenmiş olmasını isteyeceğimiz tüm arka uçları virgülle ayrılmış olarak "
+"listele."
+
+#: libdiscover/resources/AbstractResource.cpp:88
+#, kde-format
+msgid "Broken"
+msgstr "Bozuk"
+
+#: libdiscover/resources/AbstractResource.cpp:90
+#, kde-format
+msgid "Available"
+msgstr "Kullanılabilir"
+
+#: libdiscover/resources/AbstractResource.cpp:94
+#, kde-format
+msgid "Upgradeable"
+msgstr "Yükseltilebilir"
+
+#: libdiscover/resources/AbstractResource.cpp:240
+#, kde-format
+msgctxt "origin (backend name)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: libdiscover/resources/AbstractResource.cpp:245
+#, kde-format
+msgid "Launch"
+msgstr ""
+
+#: libdiscover/resources/AbstractResource.cpp:254
+#, fuzzy, kde-format
+#| msgctxt "@info:label Refers to a software version, Ex: Version 1.2.1:"
+#| msgid "Version %1:"
+msgid "Update to version %1"
+msgstr "Sürüm %1:"
+
+#: libdiscover/resources/AbstractResource.cpp:264
+#, kde-format
+msgctxt "Do not translate or alter \\u009C"
+msgid "%1 → %2%1 → %2%2"
+msgstr ""
+
+#: libdiscover/resources/ResourcesModel.cpp:99
+#, kde-format
+msgctxt "@action Checks the Internet for updates"
+msgid "Check for Updates"
+msgstr "Güncelleştirmeleri Kontrol Et"
+
+#: libdiscover/resources/ResourcesUpdatesModel.cpp:107
+#, fuzzy, kde-format
+#| msgctxt "@label Column label"
+#| msgid "Updates"
+msgid "Updates"
+msgstr "Güncellemeler"
+
+#: libdiscover/Transaction/Transaction.cpp:133
+#, kde-format
+msgctxt "@label Download rate"
+msgid "%1/s"
+msgstr ""
+
+#: libdiscover/Transaction/TransactionModel.cpp:74
+#, kde-format
+msgctxt "@info:status"
+msgid "Starting"
+msgstr "Başlatılıyor"
+
+#: libdiscover/Transaction/TransactionModel.cpp:76
+#, kde-format
+msgctxt "@info:status"
+msgid "Waiting"
+msgstr "Bekleniyor"
+
+#: libdiscover/Transaction/TransactionModel.cpp:78
+#, kde-format
+msgctxt "@info:status"
+msgid "Downloading"
+msgstr "İndiriliyor"
+
+#: libdiscover/Transaction/TransactionModel.cpp:82
+#, kde-format
+msgctxt "@info:status"
+msgid "Installing"
+msgstr "Kuruluyor"
+
+#: libdiscover/Transaction/TransactionModel.cpp:84
+#, kde-format
+msgctxt "@info:status"
+msgid "Removing"
+msgstr "Kaldırılıyor"
+
+#: libdiscover/Transaction/TransactionModel.cpp:86
+#, kde-format
+msgctxt "@info:status"
+msgid "Changing Addons"
+msgstr "Ekler Değiştiriliyor"
+
+#: libdiscover/Transaction/TransactionModel.cpp:90
+#, kde-format
+msgctxt "@info:status"
+msgid "Done"
+msgstr "Tamamlandı"
+
+#: libdiscover/Transaction/TransactionModel.cpp:92
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed"
+msgstr "Başarısız oldu"
+
+#: libdiscover/Transaction/TransactionModel.cpp:94
+#, kde-format
+msgctxt "@info:status"
+msgid "Cancelled"
+msgstr "İptal Edildi"
+
+#: libdiscover/UpdateModel/UpdateModel.cpp:126
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Application Updates"
+msgstr "Uygulama Güncelleştirmeleri"
+
+#: libdiscover/UpdateModel/UpdateModel.cpp:127
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "System Updates"
+msgstr "Sistem Güncelleştirmeleri"
+
+#: libdiscover/UpdateModel/UpdateModel.cpp:128
+#, fuzzy, kde-format
+#| msgid "Plasma Addons"
+msgctxt "@item:inlistbox"
+msgid "Addons"
+msgstr "Plasma Eklentileri"
+
+#, fuzzy
+#~| msgctxt "@item:inlistbox"
+#~| msgid "Application Updates"
+#~ msgid "View Updates"
+#~ msgstr "Uygulama Güncelleştirmeleri"
+
+#~ msgid "Update"
+#~ msgstr "Güncelle"
+
+#, fuzzy
+#~| msgctxt "@label Column label"
+#~| msgid "Version"
+#~ msgid "Current Version:"
+#~ msgstr "Sürüm"
+
+#, fuzzy
+#~| msgctxt "@info:status Package state"
+#~| msgid "Not Installed"
+#~ msgid "Not Invokable"
+#~ msgstr "Kurulu Değil"
+
+#, fuzzy
+#~| msgid "Upgradeable"
+#~ msgid "Upgrade available"
+#~ msgstr "Yükseltilebilir"
+
+#, fuzzy
+#~| msgid "PackageKit restart required"
+#~ msgid "Restart is required"
+#~ msgstr "PackageKit yeniden başlaması gerekiyor"
+
+#, fuzzy
+#~| msgid "PackageKit restart required"
+#~ msgid "Session restart is required"
+#~ msgstr "PackageKit yeniden başlaması gerekiyor"
+
+#~ msgid "Reason:"
+#~ msgstr "Neden:"
+
+#~ msgid "Updates:"
+#~ msgstr "Güncellemeler:"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Important Security Updates"
+#~ msgstr "Önemli Güvenlik Güncelleştirmeleri"
+
+#~ msgid "Confirm..."
+#~ msgstr "Onayla..."
+
+#, fuzzy
+#~| msgctxt "package-name (version)"
+#~| msgid "%1 (%2)"
+#~ msgctxt "description (url)"
+#~ msgid "%1 (%2)"
+#~ msgstr "%1 (%2)"
+
+#~ msgid "Change Log:"
+#~ msgstr "Değişiklikler:"
+
+#~ msgid "Software Management"
+#~ msgstr "Yazılım Yönetimi"
+
+#~ msgctxt "Category"
+#~ msgid "Science & Engineering"
+#~ msgstr "Bilim ve Mühendislik"
+
+#~ msgctxt "Category"
+#~ msgid "Computer Science & Robotics"
+#~ msgstr "Bilgisayar Bilimi ve Robotlar"
+
+#~ msgctxt "Category"
+#~ msgid "Painting & Editing"
+#~ msgstr "Boyama ve Resim Düzenleme"
+
+#~ msgctxt "Category"
+#~ msgid "Scanning & OCR"
+#~ msgstr "Tarama ve Metin Tanıma"
+
+#~ msgctxt "Category"
+#~ msgid "System & Settings"
+#~ msgstr "Sistem ve Ayarları"
+
+#~ msgctxt "Category"
+#~ msgid "Science Engineering"
+#~ msgstr "Bilim ve Mühendislik"
+
+#~ msgctxt "Category"
+#~ msgid "Computer Science Robotics"
+#~ msgstr "Bilgisayar Bilimi Robotlar"
+
+#~ msgctxt "Category"
+#~ msgid "Painting Editing"
+#~ msgstr "Boyama ve Düzenleme"
+
+#~ msgctxt "Category"
+#~ msgid "Scanning OCR"
+#~ msgstr "Tarama Metin Tanıma"
+
+#~ msgctxt "@item:intext Unknown remaining time"
+#~ msgid "Updating..."
+#~ msgstr "Güncelleniyor..."
+
+#~ msgctxt "@item:intext Remaining time"
+#~ msgid "%1 remaining"
+#~ msgstr "%1 kaldı"
+
+#~ msgid "%1 has been updated"
+#~ msgstr "%1 güncellendi"
+
+#~ msgid "Setting up for install..."
+#~ msgstr "Yüklemek için ayarlanıyor..."
+
+#~ msgid "List all the available backends."
+#~ msgstr "Tüm kullanılabilir arka uçları listele."
+
+#~ msgid "Available backends:\n"
+#~ msgstr "Kullanılabilir arka uçlar:\n"
+
+#, fuzzy
+#~| msgctxt "@info:status Requested action"
+#~| msgid "Remove"
+#~ msgid "Add Remote"
+#~ msgstr "Kaldır"
+
+#, fuzzy
+#~| msgid "Applications"
+#~ msgctxt "Category"
+#~ msgid "Application Addons"
+#~ msgstr "Uygulamalar"
+
+#~ msgctxt "Category"
+#~ msgid "Comics"
+#~ msgstr "Karikatürler"
+
+#~ msgid "%1 requires user to accept its license"
+#~ msgstr "%1 kullanıcının lisansı kabul etmesini gerektiriyor"
+
+#~ msgctxt "Category"
+#~ msgid "Haskell"
+#~ msgstr "Haskell"
+
+#~ msgctxt "Category"
+#~ msgid "Java"
+#~ msgstr "Java"
+
+#~ msgctxt "Category"
+#~ msgid "Perl"
+#~ msgstr "Perl"
+
+#~ msgctxt "Category"
+#~ msgid "Python"
+#~ msgstr "Python"
+
+#~ msgctxt "Category"
+#~ msgid "Version Control"
+#~ msgstr "Sürüm Kontrolü"
+
+#~ msgctxt "@info license"
+#~ msgid "Open Source"
+#~ msgstr "Açık Kaynak Kodlu"
+
+#~ msgctxt "@info license"
+#~ msgid "Unknown"
+#~ msgstr "Bilinmeyen"
+
+#~ msgctxt "@info/rich"
+#~ msgid ""
+#~ "The list of changes is not yet available. Please use <link "
+#~ "url='%1'>Launchpad</link> instead."
+#~ msgstr ""
+#~ "Değişikliklerin listesi henüz kullanılabilir değil. Lütfen <link "
+#~ "url='%1'>Launchpad</link> sitesine bakın."
+
+#~ msgctxt "@info"
+#~ msgid "The list of changes is not yet available."
+#~ msgstr "Değişikliklerin listesi henüz kullanılabilir değil."
+
+#~ msgctxt "@info:label"
+#~ msgid "This update was issued on %1"
+#~ msgstr "Bu güncelleştirme %1 tarihinde yayımlandı"
+
+#~ msgid "System update available!"
+#~ msgstr "Sistem güncellemeleri mevcut!"
+
+#~ msgctxt "Notification when a new version of Kubuntu is available"
+#~ msgid "A new version of Kubuntu is available"
+#~ msgstr "Kubuntu'nun yeni sürümü var"
+
+#~ msgid "Upgrade"
+#~ msgstr "Yükselt"
+
+#~ msgctxt "@title:window"
+#~ msgid "Media Change Required"
+#~ msgstr "Ortam Değiştirmeniz Gerekiyor"
+
+#~ msgctxt "@label"
+#~ msgid "Please insert %1 into <filename>%2</filename>"
+#~ msgstr "Lütfen %1 ortamını <filename>%2</filename> konumuna takın"
+
+#~ msgctxt "@title:window"
+#~ msgid "Warning - Unverified Software"
+#~ msgstr "Uyarı - Doğrulanmamış Yazılım"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "The following piece of software cannot be verified. <warning>Installing "
+#~ "unverified software represents a security risk, as the presence of "
+#~ "unverifiable software can be a sign of tampering.</warning> Do you wish "
+#~ "to continue?"
+#~ msgid_plural ""
+#~ "The following pieces of software cannot be verified. <warning>Installing "
+#~ "unverified software represents a security risk, as the presence of "
+#~ "unverifiable software can be a sign of tampering.</warning> Do you wish "
+#~ "to continue?"
+#~ msgstr[0] ""
+#~ "Aşağıdaki paket doğrulanamadı. <warning>Doğrulanmamış paketi kurmak bir "
+#~ "güvenlik riskidir ve doğrulanamayan yazılım bir hilenin göstergesi "
+#~ "olabilir.</warning> Devam etmek istiyor musunuz?"
+#~ msgstr[1] ""
+#~ "Aşağıdaki paketler doğrulanamadı. <warning>Doğrulanmamış paketleri kurmak "
+#~ "bir güvenlik riskidir ve doğrulanamayan yazılım bir hilenin göstergesi "
+#~ "olabilir.</warning> Devam etmek istiyor musunuz?"
+
+#~ msgctxt "@title:window"
+#~ msgid "Configuration File Changed"
+#~ msgstr "Yapılandırma Dosyası Değiştirildi"
+
+#~ msgctxt "@label Notifies a config file change"
+#~ msgid ""
+#~ "A new version of the configuration file <filename>%1</filename> is "
+#~ "available, but your version has been modified. Would you like to keep "
+#~ "your current version or install the new version?"
+#~ msgstr ""
+#~ "<filename>%1</filename> yapılandırma dosyasının yeni bir sürümü mevcut "
+#~ "ancak sizin sürümünüz değiştirilmiş. Geçerli sürümü saklamak mı yoksa "
+#~ "yeni sürümü mü yüklemek istersiniz?"
+
+#~ msgctxt "@action Use the new config file"
+#~ msgid "Use New Version"
+#~ msgstr "Yeni Sürümü Kullan"
+
+#~ msgctxt "@action Keep the old config file"
+#~ msgid "Keep Old Version"
+#~ msgstr "Eski Sürümü Kullan"
+
+#~ msgctxt "@info Status info, widget title"
+#~ msgid "Starting"
+#~ msgstr "Başlatılıyor"
+
+#~ msgctxt "@info Status info, widget title"
+#~ msgid "Waiting for Authentication"
+#~ msgstr "Kimlik Doğrulama Bekleniyor"
+
+#~ msgctxt "@info Status information, widget title"
+#~ msgid "Waiting"
+#~ msgstr "Bekleniyor"
+
+#~ msgctxt "@info Status info"
+#~ msgid "Waiting for other transactions to finish"
+#~ msgstr "Diğer işlemlerin bitmesi bekleniyor"
+
+#~ msgctxt "@info Status info"
+#~ msgid "Waiting for other software managers to quit"
+#~ msgstr "Diğer yazılım yöneticilerinin çıkması bekleniyor"
+
+#~ msgctxt "@info Status info"
+#~ msgid "Waiting for required medium"
+#~ msgstr "Gerekli ortam bekleniyor"
+
+#~ msgctxt "@info Status info"
+#~ msgid "Waiting for configuration file"
+#~ msgstr "Yapılandırma dosyası bekleniyor"
+
+#~ msgctxt "@info Status info"
+#~ msgid "Loading Software List"
+#~ msgstr "Yapılandırma dosyası bekleniyor"
+
+#~ msgctxt "@info Status information, widget title"
+#~ msgid "Updating software sources"
+#~ msgstr "Yazılım kaynakları güncelleniyor"
+
+#~ msgctxt "@info Status information, widget title"
+#~ msgid "Downloading Packages"
+#~ msgstr "Paketler İndiriliyor"
+
+#~ msgctxt "@info Status information, widget title"
+#~ msgid "Applying Changes"
+#~ msgstr "Değişiklikler Uygulanıyor"
+
+#~ msgctxt "@info Status information, widget title"
+#~ msgid "Finished"
+#~ msgstr "Tamamlandı"
+
+#~ msgid "Adding Origins..."
+#~ msgstr "Asıllar Ekleniyor..."
+
+#~ msgid "Removing Origins..."
+#~ msgstr "Asıllar Kaldırılıyor..."
+
+#~ msgid "%1 (Binary)"
+#~ msgstr "%1 (İkilik)"
+
+#~ msgid ""
+#~ "<sourceline> - The apt repository source line to add. This is one of:\n"
+#~ "  a complete apt line, \n"
+#~ "  a repo url and areas (areas defaults to 'main')\n"
+#~ "  a PPA shortcut.\n"
+#~ "\n"
+#~ "  Examples:\n"
+#~ "    deb http://myserver/path/to/repo stable myrepo\n"
+#~ "    http://myserver/path/to/repo myrepo\n"
+#~ "    https://packages.medibuntu.org free non-free\n"
+#~ "    http://extras.ubuntu.com/ubuntu\n"
+#~ "    ppa:user/repository"
+#~ msgstr ""
+#~ "<sourceline> - Eklenecek apt depo kaynak satırı. Bu aşağıdakilerden biri "
+#~ "olabilir:\n"
+#~ "  tam bir apt satırı, \n"
+#~ "  bir depo adresi ve alanı (öntanımlı alan 'main')\n"
+#~ "  bir PPA kısayolu.\n"
+#~ "\n"
+#~ "  Örnekler:\n"
+#~ "    deb http://myserver/path/to/repo stable myrepo\n"
+#~ "    http://myserver/path/to/repo myrepo\n"
+#~ "    https://packages.medibuntu.org free non-free\n"
+#~ "    http://extras.ubuntu.com/ubuntu\n"
+#~ "    ppa:kullanıcı/depo"
+
+#~ msgctxt "@title:window"
+#~ msgid "Confirm Additional Changes"
+#~ msgstr "Ek Değişiklikleri Oynayla"
+
+#~ msgctxt "@info"
+#~ msgid "<h2>Mark additional changes?</h2>"
+#~ msgstr "<h2>Ek değişiklikler işaretlensin mi?</h2>"
+
+#~ msgid "This action requires a change to another package:"
+#~ msgid_plural "This action requires changes to other packages:"
+#~ msgstr[0] "Bu eylem başka bir paketin değiştirilmesini gerektiriyor:"
+#~ msgstr[1] "Bu eylem başka paketlerin değiştirilmesini gerektiriyor:"
+
+#~ msgctxt "@info"
+#~ msgid "<title>History</title>"
+#~ msgstr "<title>Geçmiş</title>"
+
+#~ msgctxt "@label Line edit click message"
+#~ msgid "Search"
+#~ msgstr "Ara"
+
+#~ msgctxt "@item:inlistbox Filters all changes in the history view"
+#~ msgid "All changes"
+#~ msgstr "Tüm değişiklikler"
+
+#~ msgctxt "@item:inlistbox Filters installations in the history view"
+#~ msgid "Installations"
+#~ msgstr "Kurulumlar"
+
+#~ msgctxt "@item:inlistbox Filters removals in the history view"
+#~ msgid "Removals"
+#~ msgstr "Kaldırmalar"
+
+#~ msgctxt "@title:column"
+#~ msgid "Date"
+#~ msgstr "Tarih"
+
+#~ msgctxt "@info:status describes a past-tense action"
+#~ msgid "Installed"
+#~ msgstr "Kuruldu"
+
+#~ msgctxt "@info:status describes a past-tense action"
+#~ msgid "Upgraded"
+#~ msgstr "Yükseltildi"
+
+#~ msgctxt "@status describes a past-tense action"
+#~ msgid "Downgraded"
+#~ msgstr "Eski sürüme geçildi"
+
+#~ msgctxt "@status describes a past-tense action"
+#~ msgid "Removed"
+#~ msgstr "Kaldırıldı"
+
+#~ msgctxt "@status describes a past-tense action"
+#~ msgid "Purged"
+#~ msgstr "Temizlendi"
+
+#~ msgctxt "@item example: muon installed at 16:00"
+#~ msgid "%1 %2 at %3"
+#~ msgstr "%1 %2 - %3"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "No Change"
+#~ msgstr "Değişiklik Yok"
+
+#~ msgctxt "@info:status Requested action"
+#~ msgid "Install"
+#~ msgstr "Yükle"
+
+#~ msgctxt "@info:status Requested action"
+#~ msgid "Upgrade"
+#~ msgstr "Yükselt"
+
+#~ msgctxt "@info:status Requested action"
+#~ msgid "Downgrade"
+#~ msgstr "Eski Sürüme Geç"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Held"
+#~ msgstr "Tutuldu"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Installed"
+#~ msgstr "Kurulu"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Upgradeable"
+#~ msgstr "Yükseltilebilir"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Broken"
+#~ msgstr "Bozuk"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Install Broken"
+#~ msgstr "Kurulum Bozuk"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Orphaned"
+#~ msgstr "Terkedilmiş"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "New in repository"
+#~ msgstr "Depoda yeni"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Residual Configuration"
+#~ msgstr "Artık Yapılandırma"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Not Downloadable"
+#~ msgstr "İndirilemez"
+
+#~ msgctxt "@info:status Requested action"
+#~ msgid "Purge"
+#~ msgstr "Temizle"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Important for base install"
+#~ msgstr "Temel kurulum için önemli"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Version overridden"
+#~ msgstr "Sürüm geçersiz"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Required by other packages"
+#~ msgstr "Diğer paketler tarafından gerekli"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Installed (auto-removable)"
+#~ msgstr "Kurulu (otomatik olarak kaldırılabilir)"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Policy Broken"
+#~ msgstr "İlke Bozuk"
+
+#~ msgctxt "@info:status Package locked at a certain version"
+#~ msgid "Locked"
+#~ msgstr "Kilitli"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Manually held back"
+#~ msgstr "Elle tutuldu"
+
+#~ msgctxt "@title:window"
+#~ msgid "Initialization Error"
+#~ msgstr "Başlatma Hatası"
+
+#~ msgctxt "@title:window"
+#~ msgid "Unable to Obtain Package System Lock"
+#~ msgstr "Paket Sistem Kilidi Alınamadı"
+
+#~ msgctxt "@title:window"
+#~ msgid "Low Disk Space"
+#~ msgstr "Düşük Disk Alanı"
+
+#~ msgctxt "@title:window"
+#~ msgid "Failed to Apply Changes"
+#~ msgstr "Değişikliklerin Uygulaması Başarısız"
+
+#~ msgctxt "@title:window"
+#~ msgid "Authentication error"
+#~ msgstr "Kimlik doğrulama hatası"
+
+#~ msgctxt "@title:window"
+#~ msgid "Unexpected Error"
+#~ msgstr "Beklenmedik Hata"
+
+#~ msgctxt "@title:window"
+#~ msgid "Unknown Error"
+#~ msgstr "Bilinmeyen Hata"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "The package system could not be initialized, your configuration may be "
+#~ "broken."
+#~ msgstr "Paket sistemi başlatılamadı, yapılandırmanız bozuk olabilir."
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "Another application seems to be using the package system at this time. "
+#~ "You must close all other package managers before you will be able to "
+#~ "install or remove any packages."
+#~ msgstr ""
+#~ "Paket sistemini başka bir uygulama kullanıyor gibi görünüyor. Bir paket "
+#~ "kurabilmek  veya kaldırabilmek için diğer paket yöneticilerini "
+#~ "kapatmalısınız."
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "You do not have enough disk space in the directory at %1 to continue with "
+#~ "this operation."
+#~ msgstr ""
+#~ "Bu işleme devam edebilmek için %1 konumundaki dizinde yeterli alanınız "
+#~ "yok."
+
+#~ msgctxt "@label"
+#~ msgid "Could not download packages"
+#~ msgstr "Paketler indirilemedi"
+
+#~ msgctxt "@label"
+#~ msgid "An error occurred while applying changes:"
+#~ msgstr "Değişiklikler uygulanırken bir hata oluştu:"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "This operation cannot continue since proper authorization was not provided"
+#~ msgstr "Uygun yetkilendirme sağlanmadığı sürece bu işlem devam edemez"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "It appears that the QApt worker has either crashed or disappeared. Please "
+#~ "report a bug to the QApt maintainers"
+#~ msgstr ""
+#~ "QApt aracı çöktü ya da kayboldu. Lütfen QApt geliştiricilerine bir hata "
+#~ "raporlayın"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "The following package has not been verified by its author. Downloading "
+#~ "untrusted packages has been disallowed by your current configuration."
+#~ msgid_plural ""
+#~ "The following packages have not been verified by their authors. "
+#~ "Downloading untrusted packages has been disallowed by your current "
+#~ "configuration."
+#~ msgstr[0] ""
+#~ "Bu paket yazarı tarafından doğrulanmadı. Şimdiki yapılandırmanız "
+#~ "güvenilmeyen paketlerin indirilmesine izin vermiyor."
+#~ msgstr[1] ""
+#~ "Bu paketler yazarı tarafından doğrulanmadı. Şimdiki yapılandırmanız "
+#~ "güvenilmeyen paketlerin indirilmesine izin vermiyor."
+
+#~ msgctxt "@action Reverts all potential changes to the cache"
+#~ msgid "Unmark All"
+#~ msgstr "Tümünün İşaretini Kaldır"
+
+#~ msgctxt "@action Opens the software sources configuration dialog"
+#~ msgid "Configure Software Sources"
+#~ msgstr "Yazılım Kaynaklarını Yapılandır"
+
+#~ msgctxt "@action"
+#~ msgid "Read Markings..."
+#~ msgstr "İşaretlemeleri Oku..."
+
+#~ msgctxt "@action"
+#~ msgid "Save Markings As..."
+#~ msgstr "İşaretlemeleri Farklı Kaydet..."
+
+#~ msgctxt "@action"
+#~ msgid "Save Package Download List..."
+#~ msgstr "Paket İndirme Listesini Kaydet..."
+
+#~ msgctxt "@action"
+#~ msgid "Download Packages From List..."
+#~ msgstr "Paketleri Listeden İndir..."
+
+#~ msgctxt "@action"
+#~ msgid "Add Downloaded Packages"
+#~ msgstr "İndirilmiş Paketleri Ekle"
+
+#~ msgctxt "@action"
+#~ msgid "Save Installed Packages List..."
+#~ msgstr "Kurulu Paketler Listesini Kaydet..."
+
+#~ msgctxt "@action::inmenu"
+#~ msgid "History..."
+#~ msgstr "Geçmiş..."
+
+#~ msgctxt "@action"
+#~ msgid "Upgrade"
+#~ msgstr "Yükselt"
+
+#~ msgctxt "Notification when a new version of Kubuntu is available"
+#~ msgid "A new version of Kubuntu is available."
+#~ msgstr "Kubuntu'nun yeni bir sürümü kullanılabilir..."
+
+#~ msgctxt "@title:window"
+#~ msgid "Save Markings As"
+#~ msgstr "İşaretlemeyi Farklı Kaydet"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "The document could not be saved, as it was not possible to write to "
+#~ "<filename>%1</filename>\n"
+#~ "\n"
+#~ "Check that you have write access to this file or that enough disk space "
+#~ "is available."
+#~ msgstr ""
+#~ "Aşağıdaki dosyaya yazmak mümkün olmadığından, belge kaydedilemeyecek. "
+#~ "<filename>%1</filename>\n"
+#~ "\n"
+#~ "Bu dosyaya yazma erişiminiz olduğundan veya yeterli disk alanına sahip "
+#~ "olduğunuzdan emin olun."
+
+#~ msgctxt "@title:window"
+#~ msgid "Save Installed Packages List As"
+#~ msgstr "Kurulu Paketler Listesini Farklı Kaydet"
+
+#~ msgctxt "@title:window"
+#~ msgid "Save Download List As"
+#~ msgstr "İndirme Listesini Faklı Kaydet"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "Could not mark changes. Please make sure that the file is a markings file "
+#~ "created by either the Muon Package Manager or the Synaptic Package "
+#~ "Manager."
+#~ msgstr ""
+#~ "Değişiklikler işaretlenemedi. Lütfen bu dosyanın Moun ya da Synaptic "
+#~ "tarafından oluşturulan bir işaretlemeler dosyası olduğundan emin olun."
+
+#~ msgctxt "@title:window"
+#~ msgid "Choose a Directory"
+#~ msgstr "Bir Dizin Seç"
+
+#~ msgctxt "@label"
+#~ msgid "%1 package was successfully added to the cache"
+#~ msgid_plural "%1 packages were successfully added to the cache"
+#~ msgstr[0] "%1 paket başarılı bir şekilde önbelleğe eklendi"
+#~ msgstr[1] "%1 paket başarılı bir şekilde önbelleğe eklendi"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "No valid packages could be found in this directory. Please make sure the "
+#~ "packages are compatible with your computer and are at the latest version."
+#~ msgstr ""
+#~ "Bu dizinde geçerli bir paket bulunamadı. Lütfen paketlerin "
+#~ "bilgisayarınızla uyumlu olduğundan ve son sürüm olduğundan emin olun."
+
+#~ msgctxt "@title:window"
+#~ msgid "Packages Could Not be Found"
+#~ msgstr "Paketler Bulunamadı"
+
+#~ msgctxt "@title:window"
+#~ msgid "Package History"
+#~ msgstr "Paket Geçmişi"
+
+#~ msgid "No reviews available for Debian."
+#~ msgstr "Debian için gözden geçirme yok."
+
+#~ msgid "Log in to the Ubuntu SSO service"
+#~ msgstr "Ubuntu SSO servisine giriş yap"
+
+#~ msgid "PackageKit error found"
+#~ msgstr "PackageKit hatası bulundu"
+
+#~ msgid "PackageKit media change"
+#~ msgstr "PackageKit ortam değişimi"
+
+#~ msgid "PackageKit Error"
+#~ msgstr "PackageKit Hatası"
+
+#, fuzzy
+#~| msgctxt "Category"
+#~| msgid "dummy"
+#~ msgctxt "Category"
+#~ msgid "dummy 5"
+#~ msgstr "boş"
+
+#, fuzzy
+#~| msgctxt "Category"
+#~| msgid "dummy"
+#~ msgctxt "Category"
+#~ msgid "dummy 6"
+#~ msgstr "boş"
+
+#, fuzzy
+#~| msgctxt "Category"
+#~| msgid "dummy"
+#~ msgctxt "Category"
+#~ msgid "dummy 7"
+#~ msgstr "boş"
+
+#, fuzzy
+#~| msgctxt "Category"
+#~| msgid "dummy"
+#~ msgctxt "Category"
+#~ msgid "dummy 8"
+#~ msgstr "boş"
+
+#, fuzzy
+#~| msgctxt "Category"
+#~| msgid "dummy"
+#~ msgctxt "Category"
+#~ msgid "dummy 9"
+#~ msgstr "boş"
+
+#, fuzzy
+#~| msgctxt "Category"
+#~| msgid "dummy"
+#~ msgctxt "Category"
+#~ msgid "dummy 10"
+#~ msgstr "boş"
+
+#, fuzzy
+#~| msgctxt "Category"
+#~| msgid "dummy"
+#~ msgctxt "Category"
+#~ msgid "dummy 11"
+#~ msgstr "boş"
+
+#~ msgctxt "@label The label used for viewing all members of this category"
+#~ msgid "All"
+#~ msgstr "Tümü"
+
+#~ msgctxt "Category"
+#~ msgid "Unknown"
+#~ msgstr "Bilinmeyen"
+
+#~ msgid "Something went wrong!"
+#~ msgstr "Bir şeyler yanlış gitti!"
+
+#~ msgid "Error"
+#~ msgstr "Hata"
+
+#~ msgid "There are a couple of transaction messages:"
+#~ msgstr "Birkaç işlem iletisi mevcut:"
+
+#~ msgid "Transaction messages"
+#~ msgstr "İşlem iletileri"
+
+#~ msgid "Another transaction is still running!"
+#~ msgstr "Başka bir işlem halen çalışıyor!"
+
+#~ msgid "Started downloading packages..."
+#~ msgstr "Paketler indirilmeye başlandı..."
+
+#~ msgid "Started processing packages..."
+#~ msgstr "Paketler işlenmeye başlandı..."
+
+#~ msgid "Started downloading %1..."
+#~ msgstr "%1 indirilmeye başlandı..."
+
+#~ msgid "Started processing %1..."
+#~ msgstr "%1 işlenmeye başlandı..."
+
+#~ msgctxt "Category"
+#~ msgid "Wallpapers"
+#~ msgstr "Duvar Kağıtları"
+
+#~ msgid "Enter %1 credentials for MakePlayLive (http://makeplaylive.com)"
+#~ msgstr ""
+#~ "MakePlayLive (http://makeplaylive.com) için %1 doğrulama bilgilerini girin"
+
+#~ msgctxt "@label Column label"
+#~ msgid "Download Size"
+#~ msgstr "İndirme Boyutu"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"admin"
+#~ "\""
+#~ msgid "System Administration"
+#~ msgstr "Sistem Yönetimi"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"cli-"
+#~ "mono\""
+#~ msgid "Mono/CLI Infrastructure"
+#~ msgstr "Mono/CLI Altyapısı"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"comm"
+#~ "\""
+#~ msgid "Communication"
+#~ msgstr "İletişim"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"database\""
+#~ msgid "Databases"
+#~ msgstr "Veritabanları"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"devel"
+#~ "\""
+#~ msgid "Development"
+#~ msgstr "Geliştirme"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"doc\""
+#~ msgid "Documentation"
+#~ msgstr "Belgelendirme"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"debug"
+#~ "\""
+#~ msgid "Debug"
+#~ msgstr "Hata Ayıklama"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"editors\""
+#~ msgid "Editors"
+#~ msgstr "Düzenleyiciler"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"electronics\""
+#~ msgid "Electronics"
+#~ msgstr "Elektronik"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"embedded\""
+#~ msgid "Embedded Devices"
+#~ msgstr "Gömülü Aygıtlar"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"fonts"
+#~ "\""
+#~ msgid "Fonts"
+#~ msgstr "Yazı Tipleri"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"games"
+#~ "\""
+#~ msgid "Games and Amusement"
+#~ msgstr "Oyunlar ve Eğlence"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"gnome"
+#~ "\""
+#~ msgid "GNOME Desktop Environment"
+#~ msgstr "GNOME Masaüstü Ortamı"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"graphics\""
+#~ msgid "Graphics"
+#~ msgstr "Grafikler"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"gnu-r"
+#~ "\""
+#~ msgid "GNU R Statistical System"
+#~ msgstr "GNU R İstatistik Sistemi"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"gnustep\""
+#~ msgid "Gnustep Desktop Environment"
+#~ msgstr "Gnustep Masaüstü Ortamı"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"hamradio\""
+#~ msgid "Amateur Radio"
+#~ msgstr "Amatör Telsiz"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"haskell\""
+#~ msgid "Haskell Programming Language"
+#~ msgstr "Haskell Programlama Dili"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"httpd"
+#~ "\""
+#~ msgid "Web Servers"
+#~ msgstr "Web Sunucular"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"interpreters\""
+#~ msgid "Interpreted Computer Languages"
+#~ msgstr "Yorumlanan Bilgisayar Dilleri"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"java"
+#~ "\""
+#~ msgid "Java Programming Language"
+#~ msgstr "Java Programlama Dili"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"kde\""
+#~ msgid "KDE Software Compilation"
+#~ msgstr "KDE Yazılım Derlemesi"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"kernel\""
+#~ msgid "Kernel and Modules"
+#~ msgstr "Çekirdek ve Modülleri"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"libdevel\""
+#~ msgid "Libraries - Development"
+#~ msgstr "Kitaplıklar - Geliştirme"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"libs"
+#~ "\""
+#~ msgid "Libraries"
+#~ msgstr "Kitaplıklar"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"lisp"
+#~ "\""
+#~ msgid "Lisp Programming Language"
+#~ msgstr "Lisp Programlama Dili"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"localization\""
+#~ msgid "Localization"
+#~ msgstr "Yerelleştirme"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"mail"
+#~ "\""
+#~ msgid "Email"
+#~ msgstr "E-posta"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"math"
+#~ "\""
+#~ msgid "Mathematics"
+#~ msgstr "Matematik"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"misc"
+#~ "\""
+#~ msgid "Miscellaneous - Text-based"
+#~ msgstr "Çeşitli - Metin Tabanlı"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"net\""
+#~ msgid "Networking"
+#~ msgstr "Ağ"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"news"
+#~ "\""
+#~ msgid "Newsgroups"
+#~ msgstr "Haber Grupları"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"ocaml"
+#~ "\""
+#~ msgid "OCaml Programming Language"
+#~ msgstr "OCaml Programlama Dili"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"oldlibs\""
+#~ msgid "Libraries - Old"
+#~ msgstr "Kitaplıklar - Eski"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"otherosfs\""
+#~ msgid "Cross Platform"
+#~ msgstr "Platformdan Bağımsız"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"perl"
+#~ "\""
+#~ msgid "Perl Programming Language"
+#~ msgstr "Perl Programlama Dili"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"php\""
+#~ msgid "PHP Programming Language"
+#~ msgstr "PHP Programlama Dili"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"python\""
+#~ msgid "Python Programming Language"
+#~ msgstr "Python Programlama Dili"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"ruby"
+#~ "\""
+#~ msgid "Ruby Programming Language"
+#~ msgstr "Ruby Programlama Dili"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"science\""
+#~ msgid "Science"
+#~ msgstr "Bilim"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"shells\""
+#~ msgid "Shells"
+#~ msgstr "Kabuklar"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"sound"
+#~ "\""
+#~ msgid "Multimedia"
+#~ msgstr "Çoklu Ortam"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"tex\""
+#~ msgid "TeX Authoring"
+#~ msgstr "TeX Yazımı"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"text"
+#~ "\""
+#~ msgid "Word Processing"
+#~ msgstr "Kelime İşleme"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"utils"
+#~ "\""
+#~ msgid "Utilities"
+#~ msgstr "Yardımcı Araçlar"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"vcs\""
+#~ msgid "Version Control Systems"
+#~ msgstr "Sürüm Kontrol Sistemleri"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"video"
+#~ "\""
+#~ msgid "Video Software"
+#~ msgstr "Video Yazılımı"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"web\""
+#~ msgid "Internet"
+#~ msgstr "İnternet"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"x11\""
+#~ msgid "Miscellaneous - Graphical"
+#~ msgstr "Diğer - Grafiksel"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"xfce"
+#~ "\""
+#~ msgid "Xfce Desktop Environment"
+#~ msgstr "Xfce Masaüstü Ortamı"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"zope"
+#~ "\""
+#~ msgid "Zope/Plone Environment"
+#~ msgstr "Zope/Plone Ortamı"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"unknown\""
+#~ msgid "Unknown"
+#~ msgstr "Bilinmeyen"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"alien"
+#~ "\""
+#~ msgid "Converted from RPM by Alien"
+#~ msgstr "RPM formatindan Ailen ile dönüştürülen"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"translations\""
+#~ msgid "Internationalization and Localization"
+#~ msgstr "Uluslararasılaştırma ve Yerelleştirme"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"metapackages\""
+#~ msgid "Meta Packages"
+#~ msgstr "Meta Paketler"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Debian package section \"non-US\", for packages that "
+#~ "cannot be shipped in the US"
+#~ msgid "Restricted On Export"
+#~ msgstr "Dışarı Gönderilirken Kısıtlanan"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"non-"
+#~ "free\""
+#~ msgid "Non-free"
+#~ msgstr "Özgür Olmayan"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"contrib\""
+#~ msgid "Contrib"
+#~ msgstr "Katkı"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"education\""
+#~ msgid "Education"
+#~ msgstr "Eğitim"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"introspection\""
+#~ msgid "GObject Introspection Data"
+#~ msgstr "GObject İçgözlem Verileri"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Common"
+#~ msgstr "Genel"
+
+#~ msgctxt "@item:inlistbox CPU architecture"
+#~ msgid "32-bit"
+#~ msgstr "32-bit"
+
+#~ msgctxt "@item:inlistbox CPU architecture"
+#~ msgid "64-bit"
+#~ msgstr "64-bit"
+
+#~ msgctxt "@item:inlistbox PU architecture"
+#~ msgid "Power PC"
+#~ msgstr "Power PC"
+
+#~ msgctxt "@label Easter Egg"
+#~ msgid "This Muon has super cow powers"
+#~ msgstr "Muon süper inek güçlerine sahiptir"
+
+#~ msgid "Show notifications for available updates"
+#~ msgstr "Kullanılabilir güncelleştirmeler için bildirimler göster"
+
+#~ msgid "Show the number of available updates"
+#~ msgstr "Kullanılabilir güncelleştirmelerin sayısını göster"
+
+#~ msgid "Bugs found"
+#~ msgstr "Hatalar bulundu"
+
+#~ msgid "Checking for bugs..."
+#~ msgstr "Hatalar denetleniyor..."
+
+#~ msgid "Cannot kill process"
+#~ msgstr "Süreç sonlandırılamıyor"
+
+#~ msgid ""
+#~ "PackageKit does not tell us a useful status right now! Its status is %1."
+#~ msgstr ""
+#~ "PackageKit şu anda bize yararlı bir durum söylemiyor! Şu anki durumu %1."
+
+#~ msgid "Muon Notification Daemon"
+#~ msgstr "Muon Bildirim Servisi"
+
+#~ msgid "A Notification Daemon for Muon"
+#~ msgstr "Muon için bir Bildirim Servisi"
+
+#~ msgid ""
+#~ "(C) 2013 Lukas Appelhans, (C) 2009-2012 Jonathan Thomas, (C) 2009 Harald "
+#~ "Sitter"
+#~ msgstr ""
+#~ "(C) 2013 Lukas Appelhans, (C) 2009-2012 Jonathan Thomas, (C) 2009 Harald "
+#~ "Sitter"
+
+#~ msgid "%1 update notifier"
+#~ msgstr "%1 güncelleştirme bildiricisi"
+
+#~ msgid "Muon %1 update notifier"
+#~ msgstr "Muon %1 güncelleştirme bildiricisi"
+
+#~ msgid "Open Muon..."
+#~ msgstr "Muon'u Aç..."
+
+#~ msgid "Quit notifier..."
+#~ msgstr "Bildiriciden çık..."
+
+#~ msgid "A security update is available for your system."
+#~ msgstr "Sisteminiz için bir güvenlik güncelleştirmesi mevcut."
+
+#~ msgid "An update is available for your system!"
+#~ msgstr "Sisteminiz için bir güncelleme mevcut!"
+
+#~ msgid ""
+#~ "There are %1 updated packages, of which %2 were updated for security "
+#~ "reasons!"
+#~ msgstr ""
+#~ "%1 paket güncellendi. Bunların %2 tanesi güvenlik gerekçeleriyle "
+#~ "güncellendi!"
+
+#~ msgid "%1 packages were updated for security reasons"
+#~ msgstr "%1 paket, güvenlik gerekçesiyle güncellendi"
+
+#~ msgid "A system update is recommended"
+#~ msgstr "Bir sistem güncellenmesi önerilir"
+
+#~ msgid "System update available"
+#~ msgstr "Sistem güncellemesi mevcut"
+
+#~ msgid "Your system is up-to-date!"
+#~ msgstr "Sisteminiz güncel!"
+
+#~ msgid "No system update available"
+#~ msgstr "Sistem güncellemesi mevcut değil"
+
+#~ msgid "Chakra-Applications in your system"
+#~ msgstr "Sisteminizdeki Chakra Uygulamaları"
+
+#~ msgid "Applications Backend"
+#~ msgstr "Uygulama Arkauçları"
+
+#~ msgid "Applications in your system"
+#~ msgstr "Sisteminizdeki uygulamalar"
+
+#~ msgid "Bodega Backend"
+#~ msgstr "Bodega Arkaucu"
+
+#~ msgid "Install Bodega data in your system"
+#~ msgstr "Sisteminize Bodega verisi yükleyin"
+
+#~ msgid "Dummy Backend"
+#~ msgstr "Dummy Arkaucu"
+
+#~ msgid "Dummy backend to test muon frontends"
+#~ msgstr "Muon önuçlarını test etmek için Dummy arkaucu"
+
+#~ msgid "KNewStuff Backend"
+#~ msgstr "KNewStuff Arkaucu"
+
+#~ msgid "Install KNewStuff data in your system"
+#~ msgstr "Sisteminize KNewStuff verisi yükleyin"
+
+#~ msgid "Install PackageKit data in your system"
+#~ msgstr "Sisteminize PackageKit verisi yükleyin"
+
+#~ msgid "Finished."
+#~ msgstr "Tamamlandı."

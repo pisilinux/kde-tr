@@ -1,0 +1,396 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-11 00:21+0000\n"
+"PO-Revision-Date: 2017-10-04 12:11+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: package/contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr ""
+
+#: package/contents/ui/ApplicationsGroupView.qml:136
+#: package/contents/ui/ApplicationsView.qml:352
+#, fuzzy, kde-format
+#| msgid "Edit Applications..."
+msgid "Updating applications..."
+msgstr "Uygulamaları Düzenle..."
+
+#: package/contents/ui/code/tools.js:55
+#, kde-format
+msgid "Remove from Favorites"
+msgstr "Yer İmlerinden Kaldır"
+
+#: package/contents/ui/code/tools.js:59
+#, kde-format
+msgid "Add to Favorites"
+msgstr "Beğenilenlere Ekle"
+
+#: package/contents/ui/code/tools.js:83
+#, kde-format
+msgid "On All Activities"
+msgstr "Tüm Etkinliklerde"
+
+#: package/contents/ui/code/tools.js:133
+#, fuzzy, kde-format
+#| msgid "On The Current Activity"
+msgid "On the Current Activity"
+msgstr "Sadece Geçerli Etkinlikte"
+
+#: package/contents/ui/code/tools.js:147
+#, fuzzy, kde-format
+#| msgid "Show In Favorites"
+msgid "Show in Favorites"
+msgstr "Sık Kullanılanlarda Göster"
+
+#: package/contents/ui/ConfigGeneral.qml:41
+#, kde-format
+msgid "Icon:"
+msgstr "Simge:"
+
+#: package/contents/ui/ConfigGeneral.qml:76
+#, kde-format
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose..."
+msgstr "Seçin..."
+
+#: package/contents/ui/ConfigGeneral.qml:81
+#, kde-format
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "Simgeyi Sil"
+
+#: package/contents/ui/ConfigGeneral.qml:94
+#, fuzzy, kde-format
+#| msgid "Sort alphabetically"
+msgid "Always sort applications alphabetically"
+msgstr "Alfabetik Olarak Sırala"
+
+#: package/contents/ui/ConfigGeneral.qml:99
+#, kde-format
+msgid "Configure enabled search plugins"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:109
+#, fuzzy, kde-format
+#| msgid "Show In Favorites"
+msgid "Show favorites:"
+msgstr "Sık Kullanılanlarda Göster"
+
+#: package/contents/ui/ConfigGeneral.qml:110
+#, kde-format
+msgid "In a grid"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:118
+#, kde-format
+msgid "In a list"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:126
+#, kde-format
+msgid "Allow labels to have two lines"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:136
+#, kde-format
+msgid "Primary actions:"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:137
+#, kde-format
+msgid "Power actions"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:146
+#, fuzzy, kde-format
+#| msgid "Session"
+msgid "Session actions"
+msgstr "Oturum"
+
+#: package/contents/ui/FullRepresentation.qml:329
+#, kde-format
+msgid "Computer"
+msgstr "Bilgisayar"
+
+#: package/contents/ui/FullRepresentation.qml:330
+#, kde-format
+msgid "History"
+msgstr "Geçmiş"
+
+#: package/contents/ui/FullRepresentation.qml:331
+#, fuzzy, kde-format
+#| msgid "Recently Installed"
+msgid "Frequently Used"
+msgstr "Yakın Zamanda Kurulanlar"
+
+#: package/contents/ui/FullRepresentation.qml:458
+#, kde-format
+msgid "Applications"
+msgstr "Uygulamalar"
+
+#: package/contents/ui/FullRepresentation.qml:480
+#, kde-format
+msgid "Places"
+msgstr "Yerler"
+
+#: package/contents/ui/Header.qml:92
+#, kde-format
+msgid "Go to user settings"
+msgstr ""
+
+#: package/contents/ui/Header.qml:170
+#, kde-format
+msgid "%2@%3 (%1)"
+msgstr "%2@%3 (%1)"
+
+#: package/contents/ui/Header.qml:170
+#, kde-format
+msgid "%1@%2"
+msgstr "%1@%2"
+
+#: package/contents/ui/Header.qml:200
+#, fuzzy, kde-format
+#| msgctxt "Search field placeholder text"
+#| msgid "Search"
+msgid "Search..."
+msgstr "Ara"
+
+#: package/contents/ui/Kickoff.qml:144
+#, kde-format
+msgid "Edit Applications..."
+msgstr "Uygulamaları Düzenle..."
+
+#: package/contents/ui/KickoffGridView.qml:97
+#, kde-format
+msgid "Grid with %1 rows, %2 columns"
+msgstr ""
+
+#: package/contents/ui/KickoffItem.qml:60
+#, kde-format
+msgid "List with 1 item"
+msgid_plural "List with %1 items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: package/contents/ui/KickoffItem.qml:64
+#, kde-format
+msgid "%1 submenu"
+msgstr ""
+
+#: package/contents/ui/LeaveButtons.qml:95
+#, fuzzy, kde-format
+#| msgid "Leave"
+msgid "Leave..."
+msgstr "Çık"
+
+#: package/contents/ui/LeaveButtons.qml:96
+#, kde-format
+msgid "Power..."
+msgstr ""
+
+#: package/contents/ui/LeaveButtons.qml:97
+#, fuzzy, kde-format
+#| msgctxt "@item:inmenu Open icon chooser dialog"
+#| msgid "Choose..."
+msgid "More..."
+msgstr "Seçin..."
+
+#: package/contents/ui/LeaveButtons.qml:110
+#, kde-format
+msgid "Leave"
+msgstr "Çık"
+
+#: package/contents/ui/LeaveButtons.qml:111
+#, kde-format
+msgid "Power"
+msgstr ""
+
+#: package/contents/ui/LeaveButtons.qml:112
+#, kde-format
+msgid "More"
+msgstr ""
+
+#~ msgid "Applications updated."
+#~ msgstr "Uygulamalar güncellendi."
+
+#~ msgid "Switch tabs on hover"
+#~ msgstr "Üzerine gelince sekmeyi değiştir"
+
+#~ msgid "All Applications"
+#~ msgstr "Tüm Uygulamalar"
+
+#~ msgid "Favorites"
+#~ msgstr "Yer İmleri"
+
+#~ msgid "Often Used"
+#~ msgstr "Sık Kullanılan"
+
+#, fuzzy
+#~| msgid "Hidden Tabs"
+#~ msgid "Active Tabs"
+#~ msgstr "Gizli Sekmeler"
+
+#~ msgid "Show applications by name"
+#~ msgstr "Uygulamaları isme göre göster"
+
+#~ msgid ""
+#~ "Drag tabs between the boxes to show/hide them, or reorder the visible "
+#~ "tabs by dragging."
+#~ msgstr ""
+#~ "Sekmeleri göstermek/gizlemek için kutular arasında sürükleyin ya da "
+#~ "görünen sekmeleri sürükleyerek sıralamayın."
+
+#~ msgid "Expand search to bookmarks, files and emails"
+#~ msgstr "Aramayı yer imlerine, dosyalara ve e-postalara genişlet"
+
+#~ msgid "Appearance"
+#~ msgstr "Görünüm"
+
+#~ msgid "Menu Buttons"
+#~ msgstr "Menü Düğmeleri"
+
+#~ msgid "Visible Tabs"
+#~ msgstr "Görünür Sekmeler"
+
+#~ msgctxt "Type is a verb here, not a noun"
+#~ msgid "Type to search..."
+#~ msgstr "Aramak için yazın..."
+
+#~ msgctxt "@title:column"
+#~ msgid "Favorites"
+#~ msgstr "Yer İmleri"
+
+#~ msgid "Log out"
+#~ msgstr "Çık"
+
+#~ msgid "End session"
+#~ msgstr "Oturumu kapat"
+
+#~ msgid "Lock"
+#~ msgstr "Kilitle"
+
+#~ msgid "Lock screen"
+#~ msgstr "Ekranı Kilitle"
+
+#~ msgid "Switch user"
+#~ msgstr "Kullanıcı değiştir"
+
+#~ msgid "Start a parallel session as a different user"
+#~ msgstr "Başka bir kullanıcı olarak paralel oturum başlat"
+
+#~ msgid "Shut down"
+#~ msgstr "Kapat"
+
+#~ msgid "Turn off computer"
+#~ msgstr "Bilgisayarı Kapat"
+
+#~ msgctxt "Restart computer"
+#~ msgid "Restart"
+#~ msgstr "Yeniden Başlat"
+
+#~ msgid "Restart computer"
+#~ msgstr "Bilgisayarı Yeniden Başlat"
+
+#~ msgid "Save Session"
+#~ msgstr "Oturumu Kaydet"
+
+#~ msgid "Save current session for next login"
+#~ msgstr "Sonraki giriş için geçerli oturumu kaydet"
+
+#~ msgctxt "Puts the system on standby"
+#~ msgid "Standby"
+#~ msgstr "Bekleme Konumu"
+
+#~ msgid "Pause without logging out"
+#~ msgstr "Çıkış yapmadan duraklat"
+
+#~ msgid "Hibernate"
+#~ msgstr "Hazırda Beklet"
+
+#~ msgid "Suspend to disk"
+#~ msgstr "Disk Kullanarak Askıya Al"
+
+#~ msgid "Suspend"
+#~ msgstr "Beklet"
+
+#~ msgid "Suspend to RAM"
+#~ msgstr "Bellek Kullanarak Askıya Al"
+
+#~ msgid "System"
+#~ msgstr "Sistem"
+
+#~ msgid "Home Folder"
+#~ msgstr "Ev Dizini"
+
+#~ msgid "Network Folders"
+#~ msgstr "Ağ Dizinleri"
+
+#~ msgid "Documents"
+#~ msgstr "Belgeler"
+
+#~ msgid "Recently Used Documents"
+#~ msgstr "Son Kullanılan Belgeler"
+
+#~ msgid "Recently Used Applications"
+#~ msgstr "Son Kullanılan Uygulamalar"
+
+#~ msgid "Run Command..."
+#~ msgstr "Komut Çalıştır..."
+
+#~ msgid "Run a command or a search query"
+#~ msgstr "Bir komut ya da arama sorgusu çalıştır"
+
+#~ msgid "Removable Storage"
+#~ msgstr "Çıkarılabilir Depolama Ortamları"
+
+#~ msgid "Show 'Recently Installed'"
+#~ msgstr "'Yakın Zamanda Kurulanlar'ı Göster"
+
+#~ msgid "Uninstall"
+#~ msgstr "Kaldır"
+
+#~ msgid "Sort Alphabetically (Z to A)"
+#~ msgstr "Alfabetik Olarak Sırala (Z'den A'ya)"
+
+#~ msgid "Clear Recent Applications"
+#~ msgstr "Son Kullanılan Uygulamaları Temizle"
+
+#~ msgid "Clear Recent Documents"
+#~ msgstr "Son Kullanılan Belgeleri Temizle"
+
+#~ msgid "Sleep"
+#~ msgstr "Uyut"
+
+#~ msgid "Plasma by KDE"
+#~ msgstr "KDE tarafından Plasma"
+
+#~ msgid "Search:"
+#~ msgstr "Ara:"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Volkan Gezer"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "volkangezer@gmail.com"
+
+#~ msgid "Kickoff"
+#~ msgstr "Kickoff"
+
+#~ msgid "Application Launcher"
+#~ msgstr "Uygulama Çalıştırıcı"

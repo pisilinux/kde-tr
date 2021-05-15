@@ -1,0 +1,405 @@
+# translation of desktop_kdebase.po to Turkish
+# translation of desktop_kdebase.po to
+# Kdesktop Turkish translation file
+# Copyright (C) 2000, 2003, 2004, 2005, 2008 Free Software Foundation, Inc.
+# Onur Soysal <e116511@ceng.metu.edu.tr>, 2000.
+# Ömer Fadıl USTA <omer_fad@hotmail.com>,1999-2002.
+# Görkem Çetin <gorkem@kde.org>, 2002, 2003, 2004.
+# Adil Yıldız <adil_yildiztr@yahoo.com>, 2004.
+# Adem Alp Yıldız <ademalp@linux-sevenler.org>, 2004.
+# Adil Yıldız <adil@linux-sevenler.org>, 2004.
+# Görkem Çetin <gorkem@kde.org.tr>, 2005.
+# Adil Yıldız <adil@kde.org.tr>, 2005.
+# Cemil MUTLU <mawilos@gmail.com>, 2005.
+# Serdar Soytetir <tulliana@gmail.com>, 2008, 2009, 2010.
+# Gökçen Eraslan <gokcen@pardus.org.tr>, 2010.
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2010, 2011.
+# Serdar SOYTETİR <tulliana@gmail.com>, 2010, 2012.
+# Muhammet Kara <muhammet.k@gmail.com>, 2011.
+# Ozan Çağlayan <ozan@pardus.org.tr>, 2011.
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-04 00:27+0000\n"
+"PO-Revision-Date: 2017-04-12 15:33+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: Categories/basicinformation.desktop:8
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Device Information"
+msgctxt "Name"
+msgid "Basic Information"
+msgstr "Aygıt Bilgileri"
+
+#: Categories/detailedinformation.desktop:8
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Device Information"
+msgctxt "Name"
+msgid "Detailed Information"
+msgstr "Aygıt Bilgileri"
+
+#: Categories/deviceinfocategory.desktop:8
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "USB Devices"
+msgctxt "Name"
+msgid "Devices"
+msgstr "USB Aygıtları"
+
+#: Categories/graphicalinfocategory.desktop:8
+msgctxt "Name"
+msgid "Graphics"
+msgstr ""
+
+#: Categories/kinfocentercategory.desktop:4
+msgctxt "Name"
+msgid "KInfoCenter Category"
+msgstr "KDE Bilgi Merkezi Kategorisi"
+
+#: Categories/lostfoundcategory.desktop:8
+msgctxt "Name"
+msgid "Lost And Found"
+msgstr "Kayıplar ve Bulunanlar"
+
+#: Categories/networkinfocategory.desktop:8
+msgctxt "Name"
+msgid "Network"
+msgstr ""
+
+#: kcontrol/menus/kinfocenter.directory:3
+msgctxt "Name"
+msgid "Information"
+msgstr "Bilgilendirme"
+
+#: Modules/about-distro/src/about-distro.desktop:13
+#, fuzzy
+#| msgctxt "X-KDE-Keywords"
+#| msgid "information,distribution,distro,system,kernel,qt,kde"
+msgctxt "X-KDE-Keywords"
+msgid "about,info,information,distribution,distro,system,kernel,qt,kde"
+msgstr "bilgi,dağıtım,sürüm,sistem,çekirdek,qt,kde"
+
+#: Modules/about-distro/src/about-distro.desktop:52
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Information"
+msgctxt "Name"
+msgid "System Information"
+msgstr "Bilgilendirme"
+
+#: Modules/about-distro/src/about-distro.desktop:89
+msgctxt "Comment"
+msgid "Information About This System"
+msgstr "Bu Sistem Hakkında Bilgi"
+
+#: Modules/devinfo/devinfo.desktop:13
+msgctxt "Name"
+msgid "Device Viewer"
+msgstr "Aygıt Gösterici"
+
+#: Modules/devinfo/devinfo.desktop:78
+msgctxt "Comment"
+msgid "Device Viewer"
+msgstr "Aygıt Gösterici"
+
+#: Modules/devinfo/devinfo.desktop:143
+msgctxt "X-KDE-Keywords"
+msgid "device,devices,disk,drive,processor,cpu"
+msgstr ""
+
+#: Modules/energy/kcm_energyinfo.desktop:10
+msgctxt "Name"
+msgid "Energy"
+msgstr ""
+
+#: Modules/energy/kcm_energyinfo.desktop:45
+msgctxt "Comment"
+msgid "Energy Consumption Statistics"
+msgstr "Enerji Tüketimi İstatistikleri"
+
+#: Modules/energy/kcm_energyinfo.desktop:92
+msgctxt "X-KDE-Keywords"
+msgid "Battery,Energy,Statistics,History,Power"
+msgstr "Pil,Enerji,İstatistik,Geçmiş,Güç"
+
+#: Modules/energy/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Energy Information"
+msgstr "Enerji Bilgisi"
+
+#: Modules/energy/package/metadata.desktop:47
+msgctxt "Comment"
+msgid "Statistics about energy consumption"
+msgstr "Enerji tüketimi hakkında istatistik"
+
+#: Modules/info/dma.desktop:14
+msgctxt "Name"
+msgid "DMA-Channels"
+msgstr "DMA Kanalları"
+
+#: Modules/info/dma.desktop:106
+msgctxt "Comment"
+msgid "DMA information"
+msgstr "DMA hakkında bilgi"
+
+#: Modules/info/dma.desktop:199
+msgctxt "X-KDE-Keywords"
+msgid "dma,DMA-Channels,System Information"
+msgstr "dma,DMA-Kanalları,Sistem Bilgileri"
+
+#: Modules/info/interrupts.desktop:14
+msgctxt "Name"
+msgid "Interrupts"
+msgstr "Kesmeler"
+
+#: Modules/info/interrupts.desktop:107
+msgctxt "Comment"
+msgid "Interrupt information"
+msgstr "Kesmeler hakkında bilgi"
+
+#: Modules/info/interrupts.desktop:200
+msgctxt "X-KDE-Keywords"
+msgid "Interrupts,IRQ,System Information"
+msgstr "Kesmeler,IRQ,Sistem Bilgileri"
+
+#: Modules/info/ioports.desktop:14
+msgctxt "Name"
+msgid "IO-Ports"
+msgstr "G/Ç Portları"
+
+#: Modules/info/ioports.desktop:107
+msgctxt "Comment"
+msgid "IO-port information"
+msgstr "GÇ-portları bilgisi"
+
+#: Modules/info/ioports.desktop:201
+msgctxt "X-KDE-Keywords"
+msgid "IO,I/O,IO-Ports,I/O-Ports,Ports,IO-Range,I/O-Range,System Information"
+msgstr ""
+"GÇ,G/Ç,IO,I/O,IO-Portları,I/O-Portları,Portlar,IO-Range,I/O-Aralığı,Sistem "
+"Bilgileri"
+
+#: Modules/info/wayland.desktop:12
+msgctxt "Name"
+msgid "Wayland"
+msgstr "Wayland"
+
+#: Modules/info/wayland.desktop:61
+msgctxt "Comment"
+msgid "Information about the Wayland Compositor"
+msgstr "Wayland dizgici hakkında bilgiler"
+
+#: Modules/info/wayland.desktop:110
+msgctxt "X-KDE-Keywords"
+msgid "Wayland,Compositor,Display,System Information"
+msgstr "Wayland,Dizgici,Görüntü,Sistem Bilgileri"
+
+#: Modules/info/xserver.desktop:13
+msgctxt "Name"
+msgid "X-Server"
+msgstr "X-Sunucusu"
+
+#: Modules/info/xserver.desktop:107
+msgctxt "Comment"
+msgid "X-Server information"
+msgstr "X-Sunucusu hakkında bilgi"
+
+#: Modules/info/xserver.desktop:200
+msgctxt "X-KDE-Keywords"
+msgid "X,X-Server,XServer,XFree86,Display,VideoCard,System Information"
+msgstr "X,X-Server,XSunucu,XFree86,Ekran,Ekran Kartı,Sistem Bilgileri"
+
+#: Modules/memory/kcm_memory.desktop:13
+msgctxt "Name"
+msgid "Memory"
+msgstr "Bellek"
+
+#: Modules/memory/kcm_memory.desktop:108
+msgctxt "Comment"
+msgid "Memory information"
+msgstr "Bellek hakkında bilgi"
+
+#: Modules/memory/kcm_memory.desktop:201
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Memory,RAM,Virtual memory,Physical memory,Shared memory,Swap,System "
+"Information"
+msgstr ""
+"Bellek,RAM,Sanal bellek,Fiziksel bellek,Paylaşılan bellek,Takas alanı,Swap,"
+"Sistem bilgileri"
+
+#: Modules/nics/kcm_nic.desktop:12
+msgctxt "Name"
+msgid "Network Interfaces"
+msgstr "Ağ Arayüzleri"
+
+#: Modules/nics/kcm_nic.desktop:106
+msgctxt "Comment"
+msgid "Network interface information"
+msgstr "Ağ arayüz bilgisi"
+
+#: Modules/nics/package/metadata.desktop:4
+msgctxt "Name"
+msgid "NIC"
+msgstr ""
+
+#: Modules/opengl/opengl.desktop:12
+msgctxt "Name"
+msgid "OpenGL"
+msgstr "OpenGL"
+
+#: Modules/opengl/opengl.desktop:104
+msgctxt "Comment"
+msgid "OpenGL information"
+msgstr "OpenGL Bilgisi"
+
+#: Modules/opengl/opengl.desktop:197
+msgctxt "X-KDE-Keywords"
+msgid ""
+"OpenGL,DRI,GLX,3D,VideoCard,Hardware Acceleration,Graphics,X,X11,Xserver,X-"
+"Server,XFree86,Display"
+msgstr ""
+"OpenGL,DRI,GLX,3D,Ekran Kartı,Donanım Hızlandırması,Grafikler,X,X11,Xsunucu,"
+"X-Server,XFree86,Ekran"
+
+#: Modules/pci/kcm_pci.desktop:12
+msgctxt "Name"
+msgid "PCI"
+msgstr "PCI"
+
+#: Modules/pci/kcm_pci.desktop:106
+msgctxt "Comment"
+msgid "PCI information"
+msgstr "PCI hakkında bilgi"
+
+#: Modules/pci/kcm_pci.desktop:199
+msgctxt "X-KDE-Keywords"
+msgid "PCI,PCI-Devices,PCI-Bus,System Information"
+msgstr "PCI,PCI Aygıtları,PCI Veri Yolu,Sistem Bilgileri"
+
+#: Modules/samba/package/metadata.desktop:2 Modules/samba/smbstatus.desktop:12
+msgctxt "Name"
+msgid "Samba Status"
+msgstr "Samba Servisi"
+
+#: Modules/samba/smbstatus.desktop:106
+msgctxt "Comment"
+msgid "Samba status monitor"
+msgstr "Samba durum izleyici"
+
+#: Modules/samba/smbstatus.desktop:199
+msgctxt "X-KDE-Keywords"
+msgid "SMB,SAMBA,Windows network,LAN,System Information"
+msgstr "SMB,SAMBA,Windows ağı,LAN,Yerel Ağ,Sistem Bilgileri"
+
+#: Modules/usbview/kcmusb.desktop:12
+msgctxt "Name"
+msgid "USB Devices"
+msgstr "USB Aygıtları"
+
+#: Modules/usbview/kcmusb.desktop:106
+msgctxt "Comment"
+msgid "USB devices attached to this computer"
+msgstr "Bu bilgisayara bağlanmış USB aygıtları"
+
+#: Modules/usbview/kcmusb.desktop:190
+msgctxt "X-KDE-Keywords"
+msgid "USB,devices,viewer,control"
+msgstr "USB,aygıtlar,gösterici,denetim"
+
+#: Modules/view1394/kcmview1394.desktop:12
+msgctxt "Name"
+msgid "IEEE 1394 Devices"
+msgstr "IEEE 1394 Aygıtları"
+
+#: Modules/view1394/kcmview1394.desktop:105
+msgctxt "Comment"
+msgid "Attached IEEE 1394 devices"
+msgstr "IEEE 1394 Aygıtları eklendi"
+
+#: Modules/view1394/kcmview1394.desktop:191
+msgctxt "X-KDE-Keywords"
+msgid "1394,Firewire,devices,viewer,control"
+msgstr "1394,Firewire,aygıtlar,gösterici,denetim"
+
+#: org.kde.kinfocenter.desktop:9
+msgctxt "Name"
+msgid "Info Center"
+msgstr "Bilgi Merkezi"
+
+#: org.kde.kinfocenter.desktop:54
+msgctxt "GenericName"
+msgid "Info Center"
+msgstr "Bilgi Merkezi"
+
+#: org.kde.kinfocenter.desktop:146
+msgctxt "Comment"
+msgid "Centralized and convenient overview of system information"
+msgstr "Sistem bilgisinin merkezi ve uygun özeti"
+
+#~ msgctxt "Name"
+#~ msgid "File Indexer Monitor"
+#~ msgstr "Dosya Dizinleme İzleyicisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Monitor State of File Indexer"
+#~ msgstr "Dosya Dizinleyici'nin Durumunu İzle"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Baloo,File,Index,Monitor"
+#~ msgstr "Baloo,Dosya,Dizin,Monitörü,İzleyici"
+
+#~ msgctxt "Comment"
+#~ msgid "File Index Monitor"
+#~ msgstr "Dosya Dizin İzleyicisi"
+
+#~ msgctxt "Name"
+#~ msgid "Graphical Information"
+#~ msgstr "Grafiksel Bilgiler"
+
+#~ msgctxt "Name"
+#~ msgid "Network Information"
+#~ msgstr "Ağ Bilgileri"
+
+#~ msgctxt "Name"
+#~ msgid "About System"
+#~ msgstr "Sistem Hakkında"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "device,devices"
+#~ msgstr "aygıt,aygıtlar"
+
+#~ msgctxt "Name"
+#~ msgid "SCSI"
+#~ msgstr "SCSI"
+
+#~ msgctxt "Comment"
+#~ msgid "SCSI information"
+#~ msgstr "SCSI hakkında bilgi"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "SCSI,SCSI-Bus,System Information"
+#~ msgstr "SCSI,SCSI-Bus,Sistem Bilgileri"
+
+#~ msgctxt "Name"
+#~ msgid "KInfoCenter"
+#~ msgstr "KDE Bilgi Merkezi"
+
+#~ msgctxt "Name"
+#~ msgid "Summary"
+#~ msgstr "Özet"
+
+#~ msgctxt "Comment"
+#~ msgid "Hardware Information Summary"
+#~ msgstr "Donanım Bilgileri Özeti"

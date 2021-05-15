@@ -1,0 +1,447 @@
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014, 2017, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-09 00:27+0000\n"
+"PO-Revision-Date: 2021-04-20 15:18+0200\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.08.2\n"
+
+#: applet/metadata.desktop:2
+msgctxt "Name"
+msgid "Networks"
+msgstr "Ağlar"
+
+#: applet/metadata.desktop:53
+msgctxt "Comment"
+msgid "Network status and control"
+msgstr "Ağ denetim ve durum izleme"
+
+#: kcm/kcm_networkmanagement.desktop:10
+msgctxt "Name"
+msgid "Connections"
+msgstr "Bağlantılar"
+
+#: kcm/kcm_networkmanagement.desktop:57
+msgctxt "Comment"
+msgid "Edit your Network Connections"
+msgstr "Ağ bağlantılarınızı düzenleyin"
+
+#: kcm/kcm_networkmanagement.desktop:103
+msgctxt "X-KDE-Keywords"
+msgid "network,wifi,ethernet,mobile,broadband,vpn,internet,traffic"
+msgstr "ağ,wifi,ethernet,mobil,geniş bant,VPN,internet,trafik,kablosuz"
+
+#: kded/networkmanagement.desktop:2
+msgctxt "Name"
+msgid "Plasma Network Management module"
+msgstr "Plasma Ağ Yönetim Modülü"
+
+#: kded/networkmanagement.desktop:39
+msgctxt "Comment"
+msgid "Provides secrets to the NetworkManager daemon"
+msgstr "AğYönetici yardımcısına şifreleri sağlar"
+
+#: kded/networkmanagement.notifyrc:3
+msgctxt "Name"
+msgid "Network Management"
+msgstr "Ağ Yönetimi"
+
+#: kded/networkmanagement.notifyrc:37
+msgctxt "Comment"
+msgid "Network management"
+msgstr "Ağ yönetimi"
+
+#: kded/networkmanagement.notifyrc:89
+msgctxt "Name"
+msgid "Connection Activated"
+msgstr "Bağlantı Etkinleştirildi"
+
+#: kded/networkmanagement.notifyrc:127
+msgctxt "Name"
+msgid "Connection Deactivated"
+msgstr "Bağlantı Sonlandırıldı"
+
+#: kded/networkmanagement.notifyrc:165
+msgctxt "Name"
+msgid "Connection Added"
+msgstr "Bağlantı Eklendi"
+
+#: kded/networkmanagement.notifyrc:202
+msgctxt "Name"
+msgid "Connection Removed"
+msgstr "Bağlantı Kaldırıldı"
+
+#: kded/networkmanagement.notifyrc:239
+msgctxt "Name"
+msgid "Connection Updated"
+msgstr "Bağlantı Güncellendi"
+
+#: kded/networkmanagement.notifyrc:276
+msgctxt "Name"
+msgid "Device Failed"
+msgstr "Aygıt Başarısız Oldu"
+
+#: kded/networkmanagement.notifyrc:313
+msgctxt "Name"
+msgid "Failed to Activate Connection"
+msgstr "Bağlantı Etkinleştirilemedi"
+
+#: kded/networkmanagement.notifyrc:350
+msgctxt "Name"
+msgid "Failed to Add Connection"
+msgstr "Bağlantı Eklenemedi"
+
+#: kded/networkmanagement.notifyrc:387
+msgctxt "Name"
+msgid "Failed to Deactivate Connection"
+msgstr "Bağlantı Devre Dışı Bırakılamadı"
+
+#: kded/networkmanagement.notifyrc:424
+msgctxt "Name"
+msgid "Failed to Remove Connection"
+msgstr "Bağlantı Kaldırılamadı"
+
+#: kded/networkmanagement.notifyrc:461
+msgctxt "Name"
+msgid "Failed to Get Secrets"
+msgstr ""
+
+#: kded/networkmanagement.notifyrc:497
+msgctxt "Name"
+msgid "Failed to Update Connection"
+msgstr "Bağlantı Güncellenemedi"
+
+#: kded/networkmanagement.notifyrc:534
+msgctxt "Name"
+msgid "Missing VPN Plugin"
+msgstr "VPN Eklentisi Eksik"
+
+#: kded/networkmanagement.notifyrc:570
+msgctxt "Name"
+msgid "No Longer Connected to a Network"
+msgstr ""
+
+#: kded/networkmanagement.notifyrc:605
+msgctxt "Name"
+msgid "Captive Portal Detected"
+msgstr ""
+
+#: kded/networkmanagement.notifyrc:641
+msgctxt "Name"
+msgid "Limited Connectivity"
+msgstr "Sınırlı Bağlantı"
+
+#: kded/networkmanagement.notifyrc:676
+msgctxt "Name"
+msgid "Failed to Create Hotspot"
+msgstr "Hotspot Oluşturulamadı"
+
+#: libs/editor/plasma-networkmanagement-vpnuiplugin.desktop:4
+msgctxt "Name"
+msgid "Network Management VPN UI Plugin"
+msgstr "Ağ Yönetimi VPN UI Eklentisi"
+
+#: libs/editor/plasma-networkmanagement-vpnuiplugin.desktop:51
+msgctxt "Comment"
+msgid "Defines KDE Network Management UI Plugins"
+msgstr "KDE Ağ Yönetimi UI Eklentilerini tanımlar"
+
+#: mobile/hotspot/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Hotspot"
+msgstr "Hotspot"
+
+#: mobile/hotspot/package/metadata.desktop:37
+msgctxt "Comment"
+msgid "Wi-Fi Hotspots"
+msgstr "Wi-Fi Hotspots"
+
+#: mobile/wifi/package/metadata.desktop:2 mobile/wifi/wifisettings.desktop:2
+msgctxt "Name"
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+#: mobile/wifi/package/metadata.desktop:41 mobile/wifi/wifisettings.desktop:41
+msgctxt "Comment"
+msgid "Wireless network setting"
+msgstr "Kablosuz ağ ayarı"
+
+#: mobile/wifi/wifisettings.desktop:91
+msgctxt "X-KDE-Keywords"
+msgid "wifi,network"
+msgstr "wifi, ağ"
+
+#: vpn/fortisslvpn/plasmanetworkmanagement_fortisslvpnui.desktop:15
+msgctxt "Name"
+msgid "Fortinet SSLVPN (fortisslvpn)"
+msgstr "Fortinet SSLVPN (fortisslvpn)"
+
+#: vpn/fortisslvpn/plasmanetworkmanagement_fortisslvpnui.desktop:56
+msgctxt "Comment"
+msgid "Fortinet SSLVPN virtual private networks"
+msgstr "Fortinet SSLVPN sanal özel ağlar"
+
+#: vpn/iodine/plasmanetworkmanagement_iodineui.desktop:15
+msgctxt "Name"
+msgid "Iodine DNS tunnel (iodine)"
+msgstr "Iodine DNS tüneli (iodine)"
+
+#: vpn/iodine/plasmanetworkmanagement_iodineui.desktop:55
+msgctxt "Comment"
+msgid "Tunnel connections via DNS"
+msgstr "DNS üzerinden tünel bağlantıları"
+
+#: vpn/l2tp/plasmanetworkmanagement_l2tpui.desktop:15
+msgctxt "Name"
+msgid "Layer 2 Tunneling Protocol (L2TP)"
+msgstr "Katman 2 Tünel Protokolü (L2TP)"
+
+#: vpn/l2tp/plasmanetworkmanagement_l2tpui.desktop:57
+msgctxt "Comment"
+msgid "Compatible with L2TP VPN servers"
+msgstr "L2TP VPN sunucuları ile uyumlu"
+
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:16
+msgctxt "Name"
+msgid "PAN Global Protect (openconnect)"
+msgstr "PAN küresel koruma (openconnect)"
+
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:51
+msgctxt "Comment"
+msgid "Compatible with PAN GlobalProtect SSL VPN"
+msgstr "PAN GlobalProtect SSL VPN ile uyumlu"
+
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_juniperui.desktop:16
+msgctxt "Name"
+msgid "Juniper SSL VPN (openconnect)"
+msgstr "Juniper SSL VPN (openconnect)"
+
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_juniperui.desktop:42
+msgctxt "Comment"
+msgid "Compatible with Juniper Network Connect"
+msgstr "Juniper Network Connect ile uyumlu"
+
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_pulseui.desktop:16
+msgctxt "Name"
+msgid "Pulse Connect Secure (openconnect)"
+msgstr "Pulse Connect Secure (openconnect)"
+
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_pulseui.desktop:43
+msgctxt "Comment"
+msgid "Compatible with Pulse Connect Secure SSL VPN"
+msgstr "Pulse Connect Secure SSL VPN ile uyumlu"
+
+#: vpn/openconnect/plasmanetworkmanagement_openconnectui.desktop:16
+msgctxt "Name"
+msgid "Cisco AnyConnect Compatible VPN (openconnect)"
+msgstr "Cisco AnyConnect Uyumlu VPN (openconnect)"
+
+#: vpn/openconnect/plasmanetworkmanagement_openconnectui.desktop:57
+msgctxt "Comment"
+msgid "Compatible with Cisco AnyConnect SSL VPN"
+msgstr "Cisco AnyConnect SSL VPN ile uyumlu"
+
+#: vpn/openswan/plasmanetworkmanagement_openswanui.desktop:15
+msgctxt "Name"
+msgid "IPsec based VPN (openswan)"
+msgstr "IPsec tabanlı VPN (openswan)"
+
+#: vpn/openswan/plasmanetworkmanagement_openswanui.desktop:56
+#: vpn/strongswan/plasmanetworkmanagement_strongswanui.desktop:57
+msgctxt "Comment"
+msgid "IPsec, IKEv1, IKEv2 based VPN"
+msgstr "IPsec, IKEv1, IKEv2 tabanlı VPN"
+
+#: vpn/openvpn/plasmanetworkmanagement_openvpnui.desktop:15
+msgctxt "Name"
+msgid "OpenVPN"
+msgstr "OpenVPN"
+
+#: vpn/openvpn/plasmanetworkmanagement_openvpnui.desktop:65
+msgctxt "Comment"
+msgid "Compatible with the OpenVPN server"
+msgstr "OpenVPN sunucusuyla uyumlu"
+
+#: vpn/pptp/plasmanetworkmanagement_pptpui.desktop:15
+msgctxt "Name"
+msgid "Point-to-Point Tunneling Protocol (PPTP)"
+msgstr "Noktadan Noktaya Tünel Protokolü (PPTP)"
+
+#: vpn/pptp/plasmanetworkmanagement_pptpui.desktop:56
+msgctxt "Comment"
+msgid "Compatible with Microsoft and other PPTP VPN servers"
+msgstr "Microsoft ve diğer PPTP VPN sunucuları ile uyumlu"
+
+#: vpn/ssh/plasmanetworkmanagement_sshui.desktop:15
+msgctxt "Name"
+msgid "SSH"
+msgstr "SSH"
+
+#: vpn/ssh/plasmanetworkmanagement_sshui.desktop:61
+msgctxt "Comment"
+msgid "Compatible with the SSH server"
+msgstr "SSH sunucusuyla uyumlu"
+
+#: vpn/sstp/plasmanetworkmanagement_sstpui.desktop:15
+msgctxt "Name"
+msgid "Secure Socket Tunneling Protocol (SSTP)"
+msgstr "Güvenli Yuva Tünel Protokolü (SSTP)"
+
+#: vpn/sstp/plasmanetworkmanagement_sstpui.desktop:57
+msgctxt "Comment"
+msgid "Compatible with Microsoft and other SSTP VPN servers"
+msgstr "Microsoft ve diğer SSTP VPN sunucuları ile uyumlu"
+
+#: vpn/strongswan/plasmanetworkmanagement_strongswanui.desktop:15
+msgctxt "Name"
+msgid "IPsec based VPN (strongswan)"
+msgstr "IPsec tabanlı VPN (strongswan)"
+
+#: vpn/vpnc/plasmanetworkmanagement_vpncui.desktop:15
+msgctxt "Name"
+msgid "Cisco Compatible VPN (vpnc)"
+msgstr "Cisco Uyumlu VPN (vpnc)"
+
+#: vpn/vpnc/plasmanetworkmanagement_vpncui.desktop:57
+msgctxt "Comment"
+msgid ""
+"Compatible with various Cisco, Juniper, Netscreen and Sonicwall IPsec-based "
+"VPN gateways"
+msgstr ""
+"Çeşitli Cisco, Juniper, Netscreen ve Sonicwall IPsec tabanlı VPN ağ "
+"geçitleri ile uyumlu"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Compatible with L2TP VPN servers"
+#~ msgctxt "Comment"
+#~ msgid "Compatible with WireGuard VPN servers"
+#~ msgstr "L2TP VPN sunucuları ile uyumlu"
+
+#~ msgctxt "Name"
+#~ msgid "kde5-nm-connection-editor"
+#~ msgstr "kde5-nm-connection-editor"
+
+#~ msgctxt "GenericName"
+#~ msgid "Connection editor"
+#~ msgstr "Bağlantı düzenleyici"
+
+#~ msgctxt "Comment"
+#~ msgid "Edit your network connections"
+#~ msgstr "Ağ bağlantılarınızı düzenleyin"
+
+#~ msgctxt "Name"
+#~ msgid "Failed to request scan"
+#~ msgstr "Tarama isteği başarısız"
+
+#~ msgctxt "Name"
+#~ msgid "L2TP"
+#~ msgstr "L2TP"
+
+#~ msgctxt "Comment"
+#~ msgid "L2TP plugin"
+#~ msgstr "L2TP eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "OpenConnect"
+#~ msgstr "OpenConnect"
+
+#~ msgctxt "Comment"
+#~ msgid "OpenConnect Plugin"
+#~ msgstr "OpenConnect Eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "OpenSwan"
+#~ msgstr "OpenSwan"
+
+#~ msgctxt "Comment"
+#~ msgid "OpenSwan Plugin"
+#~ msgstr "OpenSwan Eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "OpenVPN plugin"
+#~ msgstr "OpenVPN eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "PPTP"
+#~ msgstr "PPTP"
+
+#~ msgctxt "Comment"
+#~ msgid "PPTP Plugin"
+#~ msgstr "PPTP Eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "SSH Plugin"
+#~ msgstr "SSH Eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "SSTP"
+#~ msgstr "SSTP"
+
+#~ msgctxt "Comment"
+#~ msgid "SSTP Plugin"
+#~ msgstr "SSTP Eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "StrongSwan"
+#~ msgstr "StrongSwan"
+
+#~ msgctxt "Comment"
+#~ msgid "StrongSwan Plugin"
+#~ msgstr "StrongSwan Eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "VPNC"
+#~ msgstr "VPNC"
+
+#~ msgctxt "Comment"
+#~ msgid "VPNC Plugin"
+#~ msgstr "VPNC Eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "networkmanagement"
+#~ msgstr "ağyönetimi"
+
+#~ msgctxt "Comment"
+#~ msgid "Notifies about network errors"
+#~ msgstr "Ağ hatalarını bildirir"
+
+#~ msgctxt "Name"
+#~ msgid "Notifications"
+#~ msgstr "Bildirimler"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the Network Management notifications"
+#~ msgstr "Ağ Yönetim bilgilendirmelerini yapılandır"
+
+#~ msgctxt "Name"
+#~ msgid "Active connection state changed"
+#~ msgstr "Etkin bağlantı durumu değişti"
+
+#~ msgctxt "Name"
+#~ msgid "VPN connection state changed"
+#~ msgstr "VPN bağlantısı durumu değişti"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure network interfaces"
+#~ msgstr "Ağ arayüzlerini yapılandır"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma NM module"
+#~ msgstr "Plasma NM modülü"
+
+#~ msgctxt "Name"
+#~ msgid "plasma-nm"
+#~ msgstr "plasma-nm"
+
+#~ msgctxt "GenericName"
+#~ msgid "NetworkManager connection editor for KDE"
+#~ msgstr "KDE için AğYönetici bağlantı düzenleyici"

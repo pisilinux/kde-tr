@@ -1,0 +1,4077 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Ayhan YALÇINSOY <ayhanyalcinsoy@pisilinux.org>, 2014.
+# Görkem Çetin <gorkem@kde.org>, 2003.
+# Serdar Cevher <scevher@anet.com.tr>, 2000.
+# obsoleteman <tulliana@gmail.com>, 2008-2009.
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: calligra-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-28 13:53+0000\n"
+"PO-Revision-Date: 2017-05-05 20:11+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#. i18n: ectx: Menu (file)
+#: part/calligrawords.rc:4 part/calligrawords_readonly.rc:4
+#, kde-format
+msgid "&File"
+msgstr "&Dosya"
+
+#. i18n: ectx: Menu (edit)
+#: part/calligrawords.rc:11 part/calligrawords_readonly.rc:7
+#, kde-format
+msgid "&Edit"
+msgstr "Dü&zen"
+
+#. i18n: ectx: Menu (view)
+#: part/calligrawords.rc:30 part/calligrawords_readonly.rc:13
+#, kde-format
+msgid "&View"
+msgstr "&Görünüm"
+
+#. i18n: ectx: Menu (view_displaymodes)
+#. i18n: ectx: Menu (view)
+#: part/calligrawords.rc:32 part/calligrawords_readonly.rc:15
+#, kde-format
+msgid "&Display Mode"
+msgstr "&Görünüm Kipi"
+
+#. i18n: ectx: Menu (semantic)
+#: part/calligrawords.rc:62
+#, kde-format
+msgid "Semantics"
+msgstr "Semantik"
+
+#. i18n: ectx: Menu (format)
+#: part/calligrawords.rc:74
+#, kde-format
+msgid "S&tyles"
+msgstr "Bi&çimler"
+
+#. i18n: ectx: Menu (settings)
+#: part/calligrawords.rc:78
+#, kde-format
+msgid "&Settings"
+msgstr "&Ayarlar"
+
+#. i18n: ectx: Menu (SpellCheck)
+#: part/calligrawords.rc:79
+#, kde-format
+msgid "Spellcheck"
+msgstr "Yazım Denetimi"
+
+#. i18n: ectx: ToolBar (edit_toolbar)
+#: part/calligrawords.rc:92
+#, kde-format
+msgid "Edit"
+msgstr "Düzen"
+
+#. i18n: ectx: Menu (check_spell_list)
+#: part/calligrawords.rc:148
+#, kde-format
+msgid "Spell Check Result"
+msgstr "İmlâ Denetim Sonucu"
+
+#. i18n: ectx: Menu (variable_list)
+#: part/calligrawords.rc:175
+#, kde-format
+msgid "Change Variable To"
+msgstr "Değişkeni değiştir: "
+
+#. i18n: ectx: Menu (tools)
+#: part/calligrawords_readonly.rc:30
+#, kde-format
+msgid "&Tools"
+msgstr "A&raçlar"
+
+#: part/commands/KWChangePageStyleCommand.cpp:24
+msgctxt "(qtundo-format)"
+msgid "Set Page Style"
+msgstr "Sayfa Biçimini Ayarla"
+
+#: part/commands/KWNewPageStyleCommand.cpp:25
+msgctxt "(qtundo-format)"
+msgid "Insert Page Style"
+msgstr "Sayfa Biçimi Ekle"
+
+#: part/commands/KWPageStylePropertiesCommand.cpp:29
+msgctxt "(qtundo-format)"
+msgid "Page Properties"
+msgstr "Sayfa Özellikleri"
+
+#: part/commands/KWShapeCreateCommand.cpp:55
+msgctxt "(qtundo-format)"
+msgid "Create shape"
+msgstr "Şekil oluştur"
+
+#: part/dialogs/KWAnchoringProperties.cpp:435
+#, kde-format
+msgid "Baseline"
+msgstr "Taban çizgisi"
+
+#: part/dialogs/KWAnchoringProperties.cpp:436
+#: part/dialogs/KWAnchoringProperties.cpp:447
+#, kde-format
+msgid "Character"
+msgstr "Karakter"
+
+#: part/dialogs/KWAnchoringProperties.cpp:439
+#, kde-format
+msgid "Row"
+msgstr "Satır"
+
+#: part/dialogs/KWAnchoringProperties.cpp:440
+#: part/dialogs/KWAnchoringProperties.cpp:448
+#, kde-format
+msgid "Page (entire) area"
+msgstr "Sayfa (bütün) alanı"
+
+#: part/dialogs/KWAnchoringProperties.cpp:441
+#: part/dialogs/KWAnchoringProperties.cpp:449
+#, kde-format
+msgid "Page text area"
+msgstr "Sayfa yazı alanı"
+
+#: part/dialogs/KWAnchoringProperties.cpp:442
+#: part/dialogs/KWAnchoringProperties.cpp:456
+#, kde-format
+msgid "Paragraph area"
+msgstr "Paragraf alanı"
+
+#: part/dialogs/KWAnchoringProperties.cpp:443
+#: part/dialogs/KWAnchoringProperties.cpp:457
+#, kde-format
+msgid "Paragraph text area"
+msgstr "Paragraf metin alanı"
+
+#: part/dialogs/KWAnchoringProperties.cpp:450
+#, kde-format
+msgid "Left page border"
+msgstr "Sol sayfa kenarlığı"
+
+#: part/dialogs/KWAnchoringProperties.cpp:451
+#, kde-format
+msgid "Right page border"
+msgstr "Sağ sayfa kenarlığı"
+
+#: part/dialogs/KWAnchoringProperties.cpp:458
+#, kde-format
+msgid "Right paragraph border"
+msgstr "Sağ paragraf kenarlığı"
+
+#: part/dialogs/KWAnchoringProperties.cpp:459
+#, kde-format
+msgid "Left paragraph border"
+msgstr "Sol paragraf kenarlığı"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: part/dialogs/KWAnchoringProperties.ui:17
+#, kde-format
+msgid "Shape relation to text is:"
+msgstr "Metin şekil ilişkisi:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rAnchorAsCharacter)
+#: part/dialogs/KWAnchoringProperties.ui:23
+#, kde-format
+msgid "Inline with text (behaves as a character)"
+msgstr "Metin içeren satıriçi (bir karakter gibi davranır)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rAnchorToCharacter)
+#: part/dialogs/KWAnchoringProperties.ui:30
+#, kde-format
+msgid "Floating, but anchored to a character position"
+msgstr "Yüzen, fakat bir karakter konumuna tutturulmuş"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rAnchorParagraph)
+#: part/dialogs/KWAnchoringProperties.ui:37
+#, kde-format
+msgid "Floating, but anchored to a paragraph"
+msgstr "Yüzen, ama bir paragrafa tutturulmuş"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rAnchorPage)
+#: part/dialogs/KWAnchoringProperties.ui:44
+#, kde-format
+msgid "Floating free (not anchored to text)"
+msgstr "Serbest yüzen (metne bağlanan değil)"
+
+#. i18n: ectx: property (title), widget (QGroupBox, grpVert)
+#: part/dialogs/KWAnchoringProperties.ui:54
+#, kde-format
+msgid "Vertical Positioning"
+msgstr "Dikey Konumlandırma"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rTop)
+#: part/dialogs/KWAnchoringProperties.ui:60
+#, kde-format
+msgid "Top align with:"
+msgstr "Üste hizala:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rVCenter)
+#. i18n: ectx: property (text), widget (QRadioButton, rHCenter)
+#: part/dialogs/KWAnchoringProperties.ui:77
+#: part/dialogs/KWAnchoringProperties.ui:186
+#, kde-format
+msgid "Center align with:"
+msgstr "Ortaya hizala:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rBottom)
+#: part/dialogs/KWAnchoringProperties.ui:87
+#, kde-format
+msgid "Bottom align with:"
+msgstr "Alta hizala:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rVOffset)
+#. i18n: ectx: property (text), widget (QRadioButton, rHOffset)
+#: part/dialogs/KWAnchoringProperties.ui:97
+#: part/dialogs/KWAnchoringProperties.ui:206
+#, kde-format
+msgid "Offset"
+msgstr "Yerleşim"
+
+#. i18n: ectx: property (text), widget (QLabel, lVOffset)
+#. i18n: ectx: property (text), widget (QLabel, lHOffset)
+#: part/dialogs/KWAnchoringProperties.ui:119
+#: part/dialogs/KWAnchoringProperties.ui:228
+#, kde-format
+msgid "from:"
+msgstr "kimden:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, grpHoriz)
+#: part/dialogs/KWAnchoringProperties.ui:163
+#, kde-format
+msgid "Horizontal Positioning"
+msgstr "Yatay Konumlandırma"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rLeft)
+#: part/dialogs/KWAnchoringProperties.ui:169
+#, kde-format
+msgid "Left align with:"
+msgstr "Sola hizala:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rRight)
+#: part/dialogs/KWAnchoringProperties.ui:196
+#, kde-format
+msgid "Right align with:"
+msgstr "Sağa hizala:"
+
+#: part/dialogs/KWConfigureDialog.cpp:41
+#, kde-format
+msgid "Configure"
+msgstr "Yapılandır"
+
+#: part/dialogs/KWConfigureDialog.cpp:45 part/dialogs/KWConfigureDialog.cpp:46
+#, kde-format
+msgid "Misc"
+msgstr "Çeşitli"
+
+#: part/dialogs/KWConfigureDialog.cpp:50 part/dialogs/KWConfigureDialog.cpp:51
+#, kde-format
+msgid "Grid"
+msgstr "Izgara"
+
+#: part/dialogs/KWConfigureDialog.cpp:57
+#, kde-format
+msgctxt "@title:tab Document settings page"
+msgid "Document"
+msgstr "Belge"
+
+#: part/dialogs/KWConfigureDialog.cpp:58
+#, kde-format
+msgid "Document Settings"
+msgstr "Belge Ayarları"
+
+#: part/dialogs/KWConfigureDialog.cpp:62
+#, kde-format
+msgctxt "@title:tab Author page"
+msgid "Author"
+msgstr "Author"
+
+#: part/dialogs/KWConfigureDialog.cpp:63
+#, kde-format
+msgid "Author"
+msgstr "Yazar"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, CreateBookmark)
+#: part/dialogs/KWCreateBookmark.ui:13
+#: part/dialogs/KWCreateBookmarkDialog.cpp:50
+#, kde-format
+msgid "Create New Bookmark"
+msgstr "Yeni Yer İmi Oluştur"
+
+#. i18n: ectx: property (text), widget (QLabel, lExplain)
+#: part/dialogs/KWCreateBookmark.ui:20
+#, kde-format
+msgid ""
+"Bookmarks allow you to jump between parts of your document.\n"
+"Please provide the name of your bookmark."
+msgstr ""
+"Yer imleri belgenizdeki kısımlar arasında sıçramanızı sağlar.\n"
+"Lütfen yer iminizine bir isim verin."
+
+#. i18n: ectx: property (text), widget (QLabel, lName)
+#: part/dialogs/KWCreateBookmark.ui:38
+#, kde-format
+msgid "Name:"
+msgstr "İsim:"
+
+#. i18n: ectx: property (text), widget (QLabel, columnsLabel)
+#: part/dialogs/KWDocumentColumns.ui:24
+#, kde-format
+msgid "Columns:"
+msgstr "Sütunlar:"
+
+#. i18n: ectx: property (text), widget (QLabel, spacingLabel)
+#: part/dialogs/KWDocumentColumns.ui:44
+#, kde-format
+msgid "Column spacing:"
+msgstr "Sütun aralığı:"
+
+#: part/dialogs/KWFrameConnectSelector.cpp:114
+#, kde-format
+msgid "frameset"
+msgstr "çerçeve tablosu"
+
+#: part/dialogs/KWFrameConnectSelector.cpp:139
+#, kde-format
+msgid "No framesets in document"
+msgstr "Belge içerisinde çerçeve tablosu yok"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: part/dialogs/KWFrameConnectSelector.ui:67
+#, kde-format
+msgid "Name of frameset:"
+msgstr "Çerçeve tablosunun adı:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, newRadio)
+#: part/dialogs/KWFrameConnectSelector.ui:82
+#, kde-format
+msgid "Create a new frameset:"
+msgstr "Yeni bir çerçeve tablosu oluştur"
+
+#. i18n: ectx: property (text), widget (QRadioButton, existingRadio)
+#: part/dialogs/KWFrameConnectSelector.ui:89
+#, kde-format
+msgid "Select existing frameset to connect to:"
+msgstr "Şuna bağlanmak için var olan çerçeve tablosunu:"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, framesList)
+#: part/dialogs/KWFrameConnectSelector.ui:122
+#, kde-format
+msgid "Frameset Name"
+msgstr "Çerçeve Tablosu İsmi"
+
+#: part/dialogs/KWFrameDialog.cpp:42
+#, kde-format
+msgid "Smart Positioning"
+msgstr "Akıllı Konumlandırma"
+
+#: part/dialogs/KWFrameDialog.cpp:46 part/dialogs/KWShapeConfigFactory.cpp:75
+#, kde-format
+msgid "Text Run Around"
+msgstr "Yazının Etrafına"
+
+#: part/dialogs/KWFrameDialog.cpp:54 part/dialogs/KWShapeConfigFactory.cpp:39
+#, kde-format
+msgid "Connect Text Frames"
+msgstr "Metin Çerçevelerini Bağla"
+
+#: part/dialogs/KWFrameDialog.cpp:79
+msgctxt "(qtundo-format)"
+msgid "Change Shape Properties"
+msgstr "Şekil Özelliklerini Değiştir"
+
+#. i18n: ectx: property (title), widget (QGroupBox, grpAnchor)
+#: part/dialogs/KWInsertImage.ui:17
+#, kde-format
+msgid "Anchor to..."
+msgstr "Bir şeye tuttur..."
+
+#. i18n: ectx: property (text), widget (QRadioButton, rAnchorPage)
+#: part/dialogs/KWInsertImage.ui:23
+#, kde-format
+msgid "&Page"
+msgstr "&Sayfa"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rAnchorParagraph)
+#: part/dialogs/KWInsertImage.ui:30
+#, kde-format
+msgid "Para&graph"
+msgstr "&Paragraf"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rAnchorToCharacter)
+#: part/dialogs/KWInsertImage.ui:40
+#, kde-format
+msgid "&To Character"
+msgstr "&Karaktere"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rAnchorAsCharacter)
+#: part/dialogs/KWInsertImage.ui:47
+#, kde-format
+msgid "&As Character"
+msgstr "K&arakter Olarak"
+
+#. i18n: ectx: property (title), widget (QGroupBox, grpHAlign)
+#: part/dialogs/KWInsertImage.ui:59
+#, kde-format
+msgid "Horizontal Alignment"
+msgstr "Yatay Hizalama"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rAlignLeft)
+#: part/dialogs/KWInsertImage.ui:65
+#, kde-format
+msgid "&Left"
+msgstr "So&l"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rAlignCenter)
+#: part/dialogs/KWInsertImage.ui:75
+#, kde-format
+msgid "&Center"
+msgstr "&Merkez"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rAlignRight)
+#: part/dialogs/KWInsertImage.ui:82
+#, kde-format
+msgid "&Right"
+msgstr "Sa&ğ"
+
+#. i18n: ectx: property (title), widget (QGroupBox, grpVAlign)
+#: part/dialogs/KWInsertImage.ui:92
+#, kde-format
+msgid "Vertical Alignment"
+msgstr "Dikey Hizalama"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rAlignTop)
+#: part/dialogs/KWInsertImage.ui:98
+#, kde-format
+msgid "&Top"
+msgstr "&Üst"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rAlignMiddle)
+#: part/dialogs/KWInsertImage.ui:105
+#, kde-format
+msgid "&Middle"
+msgstr "&Orta"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rAlignBottom)
+#: part/dialogs/KWInsertImage.ui:115
+#, kde-format
+msgid "&Bottom"
+msgstr "&Alt"
+
+#. i18n: ectx: property (title), widget (QGroupBox, grpWrap)
+#: part/dialogs/KWInsertImage.ui:127
+#, kde-format
+msgid "Text Wrap-around"
+msgstr "Başa Sarmalı Metin"
+
+#. i18n: ectx: property (text), widget (QRadioButton, runThrough)
+#: part/dialogs/KWInsertImage.ui:133 part/dialogs/KWRunAroundProperties.ui:26
+#, kde-format
+msgid "Run through this shape"
+msgstr "Metin bu şeklin içinden geçecektir"
+
+#. i18n: ectx: property (text), widget (QRadioButton, noRunaround)
+#: part/dialogs/KWInsertImage.ui:140 part/dialogs/KWRunAroundProperties.ui:33
+#, kde-format
+msgid "Skip below this shape"
+msgstr "Bu şeklin altına atla"
+
+#. i18n: ectx: property (text), widget (QRadioButton, left)
+#: part/dialogs/KWInsertImage.ui:147 part/dialogs/KWRunAroundProperties.ui:40
+#, kde-format
+msgid "Run on left side of this shape"
+msgstr "Metin bu şeklin sol kenarında olacaktır"
+
+#. i18n: ectx: property (text), widget (QRadioButton, right)
+#: part/dialogs/KWInsertImage.ui:154 part/dialogs/KWRunAroundProperties.ui:47
+#, kde-format
+msgid "Run on right side of this shape"
+msgstr "Metin bu şeklin sağ kenarında olacaktır"
+
+#. i18n: ectx: property (text), widget (QRadioButton, longest)
+#: part/dialogs/KWInsertImage.ui:161 part/dialogs/KWRunAroundProperties.ui:54
+#, kde-format
+msgid "Run on longest side of this shape"
+msgstr "Metin bu şeklin en uzun kenarında olacaktır"
+
+#. i18n: ectx: property (text), widget (QRadioButton, both)
+#: part/dialogs/KWInsertImage.ui:168 part/dialogs/KWRunAroundProperties.ui:61
+#, kde-format
+msgid "Run on both sides of this shape"
+msgstr "Metin bu şeklin her iki kenarında olacaktır"
+
+#. i18n: ectx: property (text), widget (QRadioButton, enough)
+#: part/dialogs/KWInsertImage.ui:180 part/dialogs/KWRunAroundProperties.ui:73
+#, kde-format
+msgid "Run on sides that are wider than:"
+msgstr "Kenarları şu değerden daha geniş olanlarda çalıştır:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: part/dialogs/KWInsertImage.ui:194
+#, kde-format
+msgid "Distance Between Shape and Text:"
+msgstr "Şekil ve Metin Arasındaki Uzaklık:"
+
+#. i18n: ectx: attribute (title), widget (QWidget, columnsTab)
+#: part/dialogs/KWPageSettingsDialog.cpp:50 part/dialogs/KWStartupWidget.ui:29
+#, kde-format
+msgid "Columns"
+msgstr "Sütunlar"
+
+#: part/dialogs/KWPageSettingsDialog.cpp:55
+#, kde-format
+msgid "Style"
+msgstr "Biçim"
+
+#: part/dialogs/KWPageSettingsDialog.cpp:61
+#, kde-format
+msgid "Clone"
+msgstr "Klonla"
+
+#: part/dialogs/KWPageSettingsDialog.cpp:64 part/KWView.cpp:297
+#, kde-format
+msgid "Delete"
+msgstr "Sil"
+
+#: part/dialogs/KWPageSettingsDialog.cpp:150
+msgctxt "(qtundo-format)"
+msgid "Change Page Style"
+msgstr "Sayfa Stilini Değiştir"
+
+#: part/dialogs/KWPageSettingsDialog.cpp:224
+#, kde-format
+msgid "Add a new page style with the name:"
+msgstr "Şu isimde yeni bir sayfa stili ekle:"
+
+#: part/dialogs/KWPageSettingsDialog.cpp:224
+#, kde-format
+msgid "Clone Page Style"
+msgstr "Sayfa Stilini Klonla"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: part/dialogs/KWRunAroundProperties.ui:17
+#, kde-format
+msgid "Text elsewhere will:"
+msgstr "Metin başka yerlerde şöyle olacak:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: part/dialogs/KWRunAroundProperties.ui:105
+#, kde-format
+msgid "The shape affects the text by its:"
+msgstr "Şeklin metni etkileme yeri:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, box)
+#: part/dialogs/KWRunAroundProperties.ui:114
+#, kde-format
+msgid "Bounding box"
+msgstr "Çevreleyen kutu"
+
+#. i18n: ectx: property (text), widget (QRadioButton, outside)
+#: part/dialogs/KWRunAroundProperties.ui:121
+#, kde-format
+msgid "Contour"
+msgstr "Kontur"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: part/dialogs/KWRunAroundProperties.ui:131
+#, kde-format
+msgid "Shape and text is separated:"
+msgstr "Şekil ve metin ayrılmış:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: part/dialogs/KWRunAroundProperties.ui:140
+#, kde-format
+msgid "Left by:"
+msgstr "Sol:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: part/dialogs/KWRunAroundProperties.ui:169
+#, kde-format
+msgid "Above by:"
+msgstr "Üzerinde:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: part/dialogs/KWRunAroundProperties.ui:198
+#, kde-format
+msgid "Below by:"
+msgstr "Altında:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: part/dialogs/KWRunAroundProperties.ui:227
+#, kde-format
+msgid "Right by:"
+msgstr "Sağ:"
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonRename)
+#: part/dialogs/KWSelectBookmark.ui:20
+#, kde-format
+msgid "&Rename"
+msgstr "&Yeniden adlandır"
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonDelete)
+#: part/dialogs/KWSelectBookmark.ui:27
+#, kde-format
+msgid "&Delete"
+msgstr "&Sil"
+
+#: part/dialogs/KWSelectBookmarkDialog.cpp:81
+#, kde-format
+msgid "Rename Bookmark"
+msgstr "Yer İmini Yeniden Adlandır"
+
+#: part/dialogs/KWSelectBookmarkDialog.cpp:82
+#, kde-format
+msgid "Please provide a new name for the bookmark"
+msgstr "Lütfen yer imi için bir isim girin"
+
+#: part/dialogs/KWSelectBookmarkDialog.cpp:90
+#, kde-format
+msgid "A bookmark with the name \"%1\" already exists."
+msgstr "\"%1\" isimli bir yer imi zaten var."
+
+#: part/dialogs/KWSelectBookmarkDialog.cpp:122
+#, kde-format
+msgid "Select Bookmark"
+msgstr "Yer İmi Seç"
+
+#: part/dialogs/KWShapeConfigFactory.cpp:57
+#, kde-format
+msgid "Geometry"
+msgstr "Geometri"
+
+#. i18n: ectx: attribute (title), widget (QWidget, sizeTab)
+#: part/dialogs/KWStartupWidget.ui:24
+#, kde-format
+msgid "Page Size && Margins"
+msgstr "Sayfa Boyutu ve Payları"
+
+#. i18n: ectx: property (text), widget (QPushButton, createButton)
+#: part/dialogs/KWStartupWidget.ui:71 part/KWView.cpp:393
+#, kde-format
+msgid "Create"
+msgstr "Oluştur"
+
+#: part/dockers/KWDebugDocker.cpp:31
+#, kde-format
+msgid "Debug"
+msgstr "Hata ayıklama"
+
+#: part/dockers/KWNavigationDocker.cpp:33
+#, kde-format
+msgid "Navigation"
+msgstr "Gezinme"
+
+#: part/dockers/KWNavigationWidget.cpp:108
+#, kde-format
+msgid "Page #"
+msgstr "Sayfa #"
+
+#: part/dockers/KWNavigationWidget.cpp:108
+#, kde-format
+msgid "Section"
+msgstr "Bölüm"
+
+#: part/dockers/KWRdfDocker.cpp:52
+#, kde-format
+msgid "RDF"
+msgstr "RDF"
+
+#: part/dockers/KWStatisticsDocker.cpp:33
+#, kde-format
+msgid "Statistics"
+msgstr "İstatistikler"
+
+#: part/dockers/KWStatisticsWidget.cpp:173
+#, kde-format
+msgid "Words:"
+msgstr "Sözcükler:"
+
+#: part/dockers/KWStatisticsWidget.cpp:176
+#, kde-format
+msgid "Sentences:"
+msgstr "Cümleler:"
+
+#: part/dockers/KWStatisticsWidget.cpp:179
+#, kde-format
+msgid "Syllables:"
+msgstr "Heceler:"
+
+#: part/dockers/KWStatisticsWidget.cpp:182
+#, kde-format
+msgid "Characters (spaces):"
+msgstr "Karakterler (boşluklar dahil):"
+
+#: part/dockers/KWStatisticsWidget.cpp:185
+#, kde-format
+msgid "Characters (no spaces):"
+msgstr "Karakterler (boşluklar hariç):"
+
+#: part/dockers/KWStatisticsWidget.cpp:188
+#, kde-format
+msgid "Lines:"
+msgstr "Satırlar:"
+
+#: part/dockers/KWStatisticsWidget.cpp:191
+#, kde-format
+msgid "Readability:"
+msgstr "Okunabilirlik:"
+
+#: part/dockers/KWStatisticsWidget.cpp:193
+#, kde-format
+msgid "Flesch reading ease"
+msgstr "Flesch okuma kolaylığı"
+
+#: part/dockers/KWStatisticsWidget.cpp:195
+#, kde-format
+msgid "East asian characters:"
+msgstr "Doğu Asya karakterleri:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_words)
+#: part/dockers/StatisticsPreferencesPopup.ui:17
+#, kde-format
+msgid "Words"
+msgstr "Sözcükler"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_sentences)
+#: part/dockers/StatisticsPreferencesPopup.ui:24
+#, kde-format
+msgid "Sentences"
+msgstr "Cümleler"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_syllables)
+#: part/dockers/StatisticsPreferencesPopup.ui:31
+#, kde-format
+msgid "Syllables"
+msgstr "Heceler"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_lines)
+#: part/dockers/StatisticsPreferencesPopup.ui:38
+#, kde-format
+msgid "Lines"
+msgstr "Satırlar"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_charspace)
+#: part/dockers/StatisticsPreferencesPopup.ui:45
+#, kde-format
+msgid "Characters With Spaces"
+msgstr "Boşluksuz Karakterler"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_charnospace)
+#: part/dockers/StatisticsPreferencesPopup.ui:52
+#, kde-format
+msgid "Characters without spaces"
+msgstr "Boşluksuz karakterler"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_east)
+#: part/dockers/StatisticsPreferencesPopup.ui:59
+#, kde-format
+msgid "East Asian characters"
+msgstr "Doğu Asya karakterleri"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_flesch)
+#: part/dockers/StatisticsPreferencesPopup.ui:66
+#, kde-format
+msgid "Flesch Reading Ease"
+msgstr "Flesch Okuma Kolaylığı"
+
+#: part/i18n/stylenames.cpp:21
+#, kde-format
+msgctxt "Style name"
+msgid "Standard"
+msgstr "Standart"
+
+#: part/i18n/stylenames.cpp:22
+#, kde-format
+msgctxt "Style name"
+msgid "Head 1"
+msgstr "Başlık 1"
+
+#: part/i18n/stylenames.cpp:23
+#, kde-format
+msgctxt "Style name"
+msgid "Head 2"
+msgstr "Başlık 2"
+
+#: part/i18n/stylenames.cpp:24
+#, kde-format
+msgctxt "Style name"
+msgid "Head 3"
+msgstr "Başlık 3"
+
+#: part/i18n/stylenames.cpp:25
+#, kde-format
+msgctxt "Style name"
+msgid "Enumerated List"
+msgstr "Numaralandırılmış Liste"
+
+#: part/i18n/stylenames.cpp:26
+#, kde-format
+msgctxt "Style name"
+msgid "Alphabetical List"
+msgstr "Alfabetik Liste"
+
+#: part/i18n/stylenames.cpp:27
+#, kde-format
+msgctxt "Style name"
+msgid "Bullet List"
+msgstr "Madde İmi Listesi"
+
+#: part/i18n/stylenames.cpp:28
+#, kde-format
+msgctxt "Style name"
+msgid "Contents Title"
+msgstr "İçindekiler Başlığı"
+
+#: part/i18n/stylenames.cpp:29
+#, kde-format
+msgctxt "Style name"
+msgid "Contents Head 1"
+msgstr "İçindekiler Başlığı 1"
+
+#: part/i18n/stylenames.cpp:30
+#, kde-format
+msgctxt "Style name"
+msgid "Contents Head 2"
+msgstr "İçindekiler Başlığı 2"
+
+#: part/i18n/stylenames.cpp:31
+#, kde-format
+msgctxt "Style name"
+msgid "Contents Head 3"
+msgstr "İçindekiler Başlığı 3"
+
+#: part/i18n/stylenames.cpp:32
+#, kde-format
+msgctxt "Style name"
+msgid "Document Title"
+msgstr "Belge Başlığı"
+
+#: part/i18n/stylenames.cpp:33
+#, kde-format
+msgctxt "Style name"
+msgid "Header"
+msgstr "Başlık"
+
+#: part/i18n/stylenames.cpp:34
+#, kde-format
+msgctxt "Style name"
+msgid "Footer"
+msgstr "Alıntı"
+
+#: part/i18n/stylenames.cpp:37
+#, kde-format
+msgctxt "Style name"
+msgid "Plain"
+msgstr "Boş"
+
+#: part/i18n/stylenames.cpp:38
+#, kde-format
+msgctxt "Style name"
+msgid "Borders 1"
+msgstr "Kenarlıklar 1"
+
+#: part/i18n/stylenames.cpp:39
+#, kde-format
+msgctxt "Style name"
+msgid "Borders 2"
+msgstr "Kenarlıklar 2"
+
+#: part/i18n/stylenames.cpp:40
+#, kde-format
+msgctxt "Style name"
+msgid "Borders 3"
+msgstr "Kenarlıklar 3"
+
+#: part/i18n/stylenames.cpp:41
+#, kde-format
+msgctxt "Style name"
+msgid "Row"
+msgstr "Satır"
+
+#: part/i18n/stylenames.cpp:42
+#, kde-format
+msgctxt "Style name"
+msgid "Column"
+msgstr "Sütun"
+
+#: part/i18n/stylenames.cpp:43
+#, kde-format
+msgctxt "Style name"
+msgid "Light Gray"
+msgstr "Açık Gri"
+
+#: part/i18n/stylenames.cpp:44
+#, kde-format
+msgctxt "Style name"
+msgid "Dark Gray"
+msgstr "Koyu Gri"
+
+#: part/i18n/stylenames.cpp:45
+#, kde-format
+msgctxt "Style name"
+msgid "Black"
+msgstr "Siyah"
+
+#: part/i18n/stylenames.cpp:46
+#, kde-format
+msgctxt "Style name"
+msgid "Light Blue"
+msgstr "Açık Mavi"
+
+#: part/i18n/stylenames.cpp:47
+#, kde-format
+msgctxt "Style name"
+msgid "Dark Blue"
+msgstr "Koyu Mavi"
+
+#: part/i18n/stylenames.cpp:48
+#, kde-format
+msgctxt "Style name"
+msgid "Red"
+msgstr "Kırmızı"
+
+#: part/i18n/stylenames.cpp:49
+#, kde-format
+msgctxt "Style name"
+msgid "Yellow"
+msgstr "Sarı"
+
+#: part/i18n/stylenames.cpp:50
+#, kde-format
+msgctxt "Style name"
+msgid "Colorful"
+msgstr "Renkli"
+
+#: part/i18n/stylenames.cpp:51
+#, kde-format
+msgctxt "Style name"
+msgid "Bluish"
+msgstr "Mavimsi"
+
+#: part/i18n/stylenames.cpp:54
+#, kde-format
+msgctxt "Style name"
+msgid "Simple 1"
+msgstr "Örnek 1"
+
+#: part/i18n/stylenames.cpp:55
+#, kde-format
+msgctxt "Style name"
+msgid "Simple 2"
+msgstr "Örnek 2"
+
+#: part/i18n/stylenames.cpp:56
+#, kde-format
+msgctxt "Style name"
+msgid "Simple 3"
+msgstr "Örnek 3"
+
+#: part/i18n/stylenames.cpp:57
+#, kde-format
+msgctxt "Style name"
+msgid "Header 1"
+msgstr "Başlık 1"
+
+#: part/i18n/stylenames.cpp:58
+#, kde-format
+msgctxt "Style name"
+msgid "Header 2"
+msgstr "Başlık 2"
+
+#: part/i18n/stylenames.cpp:59
+#, kde-format
+msgctxt "Style name"
+msgid "Header 3"
+msgstr "Başlık 3"
+
+#: part/i18n/stylenames.cpp:60
+#, kde-format
+msgctxt "Style name"
+msgid "Header 4"
+msgstr "Başlık 4"
+
+#: part/i18n/stylenames.cpp:63
+#, kde-format
+msgctxt "Style name"
+msgid "Columns 1"
+msgstr "Sütunlar 1"
+
+#: part/i18n/stylenames.cpp:64
+#, kde-format
+msgctxt "Style name"
+msgid "Columns 2"
+msgstr "Sütunlar 2"
+
+#: part/i18n/stylenames.cpp:65
+#, kde-format
+msgctxt "Style name"
+msgid "Grid 1"
+msgstr "Kılavuz 1"
+
+#: part/i18n/stylenames.cpp:66
+#, kde-format
+msgctxt "Style name"
+msgid "Grid 2"
+msgstr "Kılavuz 2"
+
+#: part/i18n/stylenames.cpp:67
+#, kde-format
+msgctxt "Style name"
+msgid "Grid 3"
+msgstr "Kılavuz 3"
+
+#: part/i18n/stylenames.cpp:68
+#, kde-format
+msgctxt "Style name"
+msgid "Gray Heading"
+msgstr "Gri Başlık"
+
+#: part/i18n/stylenames.cpp:69
+#, kde-format
+msgctxt "Style name"
+msgid "Blue Heading"
+msgstr "Mavi Başlık"
+
+#: part/i18n/stylenames.cpp:70
+#, kde-format
+msgctxt "Style name"
+msgid "Blue Traditional"
+msgstr "Geleneksel Mavi"
+
+#: part/i18n/stylenames.cpp:71
+#, kde-format
+msgctxt "Style name"
+msgid "Gray Traditional"
+msgstr "Geleneksel Gri"
+
+#: part/i18n/stylenames.cpp:72
+#, kde-format
+msgctxt "Style name"
+msgid "Blue Top and Bottom"
+msgstr "Mavi Üst ve Alt"
+
+#: part/i18n/stylenames.cpp:73
+#, kde-format
+msgctxt "Style name"
+msgid "Gray Top and Bottom"
+msgstr "Gri Üst ve Alt"
+
+#: part/KWAboutData.h:33
+#, kde-format
+msgctxt "application name"
+msgid "Calligra Words"
+msgstr "Calligra Kelime İşlemci"
+
+#: part/KWAboutData.h:35
+#, kde-format
+msgid "Word processor"
+msgstr "Kelime işlemci"
+
+#: part/KWAboutData.h:37
+#, kde-format
+msgid "Copyright 1998-%1, The Words Team"
+msgstr "Copyright 1998-%1, Words Takımı"
+
+#: part/KWAboutData.h:45 part/KWAboutData.h:46
+#, kde-format
+msgid "Co maintainer"
+msgstr "Yardımcı proje sürdürücü"
+
+#: part/KWAboutData.h:45
+#, kde-format
+msgid "Pierre Ducroquet"
+msgstr "Pierre Ducroquet"
+
+#: part/KWAboutData.h:46
+#, kde-format
+msgid "C. Boemann"
+msgstr "C. Boemann"
+
+#: part/KWAboutData.h:47 part/KWAboutData.h:48 part/KWAboutData.h:49
+#: part/KWAboutData.h:51
+#, kde-format
+msgid "Everything"
+msgstr "Her şey"
+
+#: part/KWAboutData.h:47
+#, kde-format
+msgid "Sebastian Sauer"
+msgstr "Sebastian Sauer"
+
+#: part/KWAboutData.h:48
+#, kde-format
+msgid "Boudewijn Rempt"
+msgstr "Boudewijn Rempt"
+
+#: part/KWAboutData.h:49
+#, kde-format
+msgid "Pierre Stirnweiss"
+msgstr "Pierre Stirnweiss"
+
+#: part/KWAboutData.h:50
+#, kde-format
+msgid "Formatting stuff"
+msgstr "Biçimlendirme şeyleri"
+
+#: part/KWAboutData.h:50
+#, kde-format
+msgid "Inge Wallin"
+msgstr "Inge Wallin"
+
+#: part/KWAboutData.h:51
+#, kde-format
+msgid "Thorsten Zachmann"
+msgstr "Thorsten Zachmann"
+
+#: part/KWAboutData.h:52 part/KWAboutData.h:58 part/KWAboutData.h:59
+#: part/KWAboutData.h:60 part/KWAboutData.h:72 part/KWAboutData.h:73
+#: part/KWAboutData.h:74 part/KWAboutData.h:75 part/KWAboutData.h:76
+#: part/KWAboutData.h:77 part/KWAboutData.h:78 part/KWAboutData.h:79
+#: part/KWAboutData.h:80 part/KWAboutData.h:81
+#, kde-format
+msgid "Filter"
+msgstr "Filtre"
+
+#: part/KWAboutData.h:52
+#, kde-format
+msgid "Matus Uzak"
+msgstr "Matus Uzak"
+
+#: part/KWAboutData.h:53
+#, kde-format
+msgid "Layout and Painting"
+msgstr "Yerleşim ve Boyama"
+
+#: part/KWAboutData.h:53
+#, kde-format
+msgid "Pavol Korinek"
+msgstr "Pavol Korinek"
+
+#: part/KWAboutData.h:54
+#, kde-format
+msgid "Shreya Pandit"
+msgstr "Shreya Pandit"
+
+#: part/KWAboutData.h:54
+#, kde-format
+msgid "Statistics docker"
+msgstr "İstatistikler rıhtımı"
+
+#: part/KWAboutData.h:55
+#, kde-format
+msgid "Brijesh Patel"
+msgstr "Brijesh Patel"
+
+#: part/KWAboutData.h:55
+#, kde-format
+msgid "Foot and endnotes"
+msgstr "Alt ve son notlar"
+
+#: part/KWAboutData.h:56
+#, kde-format
+msgid "Bibliography"
+msgstr "Bibliyografya"
+
+#: part/KWAboutData.h:56
+#, kde-format
+msgid "Smit Patel"
+msgstr "Smit Patel"
+
+#: part/KWAboutData.h:57
+#, kde-format
+msgid "Mojtaba Shahi"
+msgstr "Mojtaba Shahi"
+
+#: part/KWAboutData.h:57
+#, kde-format
+msgid "Style Manager"
+msgstr "Biçim Yöneticisi"
+
+#: part/KWAboutData.h:58
+#, kde-format
+msgid "Lassi Nieminen"
+msgstr "Lassi Nieminen"
+
+#: part/KWAboutData.h:59
+#, kde-format
+msgid "Hanzes Matus"
+msgstr "Hanzes Matus"
+
+#: part/KWAboutData.h:60
+#, kde-format
+msgid "Lukáš Tvrdý"
+msgstr "Lukáš Tvrdý"
+
+#: part/KWAboutData.h:61
+#, kde-format
+msgid "Thomas Zander"
+msgstr "Thomas Zander"
+
+#: part/KWAboutData.h:62
+#, kde-format
+msgid "Girish Ramakrishnan"
+msgstr "Girish Ramakrishnan"
+
+#: part/KWAboutData.h:62 part/KWAboutData.h:63
+#, kde-format
+msgid "ODF Support"
+msgstr "ODF Desteği"
+
+#: part/KWAboutData.h:63
+#, kde-format
+msgid "Robert Mathias Marmorstein"
+msgstr "Robert Mathias Marmorstein"
+
+#: part/KWAboutData.h:64
+#, kde-format
+msgid "David Faure"
+msgstr "David Faure"
+
+#: part/KWAboutData.h:65
+#, kde-format
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#: part/KWAboutData.h:66
+#, kde-format
+msgid "Sven Lüppken"
+msgstr "Sven Lüppken"
+
+#: part/KWAboutData.h:67
+#, kde-format
+msgid "Frank Dekervel"
+msgstr "Frank Dekervel"
+
+#: part/KWAboutData.h:68
+#, kde-format
+msgid "Krister Wicksell Eriksson"
+msgstr "Krister Wicksell Eriksson"
+
+#: part/KWAboutData.h:69
+#, kde-format
+msgid "Dag Andersen"
+msgstr "Dag Andersen"
+
+#: part/KWAboutData.h:70
+#, kde-format
+msgid "Nash Hoogwater"
+msgstr "Nash Hoogwater"
+
+#: part/KWAboutData.h:71
+#, kde-format
+msgid "KFormula"
+msgstr "KFormula"
+
+#: part/KWAboutData.h:71
+#, kde-format
+msgid "Ulrich Kuettler"
+msgstr "Ulrich Kuettler"
+
+#: part/KWAboutData.h:72
+#, kde-format
+msgid "Shaheed Haque"
+msgstr "Shaheed Haque"
+
+#: part/KWAboutData.h:73
+#, kde-format
+msgid "Werner Trobin"
+msgstr "Werner Trobin"
+
+#: part/KWAboutData.h:74
+#, kde-format
+msgid "Nicolas Goutte"
+msgstr "Nicolas Goutte"
+
+#: part/KWAboutData.h:75
+#, kde-format
+msgid "Ariya Hidayat"
+msgstr "Ariya Hidayat"
+
+#: part/KWAboutData.h:76
+#, kde-format
+msgid "Clarence Dang"
+msgstr "Clarence Dang"
+
+#: part/KWAboutData.h:77
+#, kde-format
+msgid "Robert Jacolin"
+msgstr "Robert Jacolin"
+
+#: part/KWAboutData.h:78
+#, kde-format
+msgid "Enno Bartels"
+msgstr "Enno Bartels"
+
+#: part/KWAboutData.h:79
+#, kde-format
+msgid "Ewald Snel"
+msgstr "Ewald Snel"
+
+#: part/KWAboutData.h:80
+#, kde-format
+msgid "Tomasz Grobelny"
+msgstr "Tomasz Grobelny"
+
+#: part/KWAboutData.h:81
+#, kde-format
+msgid "Michael Johnson"
+msgstr "Michael Johnson"
+
+#: part/KWAboutData.h:82
+#, kde-format
+msgid "Fatcow Web Hosting"
+msgstr "Fatcow İnternet Sayfası Barındırma"
+
+#: part/KWAboutData.h:82
+#, kde-format
+msgid "Page break icon"
+msgstr "Sayfa sonu simgesi"
+
+#. i18n translator strings
+#: part/KWAboutData.h:84
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Serdar Soytetir, Bekir Bozdoğan, Anıl Özbek"
+
+#: part/KWAboutData.h:85
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "tulliana@gmail.com, berkin@kde.org.tr, ozbekanil@gmail.com"
+
+#: part/KWDocument.cpp:502
+#, kde-format
+msgid "Copy"
+msgstr "Kopyala"
+
+#: part/KWDocument.cpp:547 part/KWStatusBar.cpp:159
+#, kde-format
+msgid "Standard"
+msgstr "Standart"
+
+#: part/KWDocument.cpp:553
+#, kde-format
+msgid "Document Title"
+msgstr "Belge Başlığı"
+
+#: part/KWDocument.cpp:560
+#, kde-format
+msgid "Head 1"
+msgstr "Başlık 1"
+
+#: part/KWDocument.cpp:566
+#, kde-format
+msgid "Head 2"
+msgstr "Başlık 2"
+
+#: part/KWDocument.cpp:572
+#, kde-format
+msgid "Head 3"
+msgstr "Başlık 3"
+
+#: part/KWDocument.cpp:578
+#, kde-format
+msgid "Bullet List"
+msgstr "Madde İmli Liste"
+
+#: part/KWGui.cpp:82
+#, kde-format
+msgid "Tools"
+msgstr "Araçlar"
+
+#: part/KWOdfLoader.cpp:96
+#, kde-format
+msgid "Invalid OASIS OpenDocument file. No office:body tag found."
+msgstr "Geçersiz OASIS OpenDocument dosyası. office:body etiketi bulunamadı."
+
+#: part/KWOdfLoader.cpp:108
+#, kde-format
+msgid "Invalid OASIS OpenDocument file. No tag found inside office:body."
+msgstr ""
+"Geçersiz OASIS OpenDocument dosyası. office:body içerisinde etiket "
+"bulunamadı."
+
+#: part/KWOdfLoader.cpp:110
+#, kde-format
+msgid ""
+"This is not a word processing document, but %1. Please try opening it with "
+"the appropriate application."
+msgstr ""
+"Bu bir kelime işlemci belgesi değil, bu belge bir %1. Lütfen belgeyi uygun "
+"bir uygulama ile açın."
+
+#: part/KWPart.cpp:150
+#, kde-format
+msgid "Can not find needed text component, Words will quit now"
+msgstr ""
+"Gereken metin bileşeni bulunamadı. Şimdi Words uygulamasından çıkılıyor."
+
+#: part/KWPart.cpp:151
+#, kde-format
+msgid "Installation Error"
+msgstr "Kurulum Hatası"
+
+#: part/KWStatusBar.cpp:48
+#, kde-format
+msgid "Modified"
+msgstr "Değiştirildi"
+
+#: part/KWStatusBar.cpp:49
+#, kde-format
+msgid "Saved"
+msgstr "Kaydedildi"
+
+#: part/KWStatusBar.cpp:50
+#, kde-format
+msgid "Page %1 of %2"
+msgstr "Sayfa %1/%2"
+
+#: part/KWStatusBar.cpp:51
+#, kde-format
+msgid "Page %1-%2 of %3"
+msgstr "Sayfa %1-%2/%3"
+
+#: part/KWStatusBar.cpp:52
+#, kde-format
+msgid "Line %1"
+msgstr "Satır %1"
+
+#: part/KWStatusBar.cpp:137
+#, kde-format
+msgid "Page Number"
+msgstr "Sayfa Numarası"
+
+#: part/KWStatusBar.cpp:150
+#, kde-format
+msgid "Line Number"
+msgstr "Satır Numarası"
+
+#: part/KWStatusBar.cpp:167
+#, kde-format
+msgid "Page Style"
+msgstr "Sayfa Biçimi"
+
+#: part/KWStatusBar.cpp:181
+#, kde-format
+msgid "Page Size"
+msgstr "Sayfa Boyutu"
+
+#: part/KWStatusBar.cpp:196
+#, kde-format
+msgid "Saved/Modified"
+msgstr "Kaydedilmiş/Değiştirilmiş"
+
+#: part/KWStatusBar.cpp:209
+#, kde-format
+msgid "Mouse Cursor X:Y"
+msgstr "Fare Konumu: X:Y"
+
+#: part/KWStatusBar.cpp:223
+#, kde-format
+msgid "Zoom Controller"
+msgstr "Büyütme Denetleyicisi"
+
+#: part/KWView.cpp:196
+#, fuzzy, kde-format
+#| msgid "Exit Distraction-Free Mode"
+msgid "Exit Fullscreen Mode"
+msgstr "Oyalamasız Kipten Çık"
+
+#: part/KWView.cpp:272
+#, kde-format
+msgid "Shape Properties..."
+msgstr "Şekil Özellikleri..."
+
+#: part/KWView.cpp:274
+#, kde-format
+msgid "Change how the shape behave"
+msgstr "Şeklin nasıl davranacağını değiştir"
+
+#: part/KWView.cpp:283
+#, kde-format
+msgid "Create Template From Document..."
+msgstr "Belgeden Şablon Oluştur..."
+
+#: part/KWView.cpp:284
+#, kde-format
+msgid "Save this document and use it later as a template"
+msgstr "Bu belgeyi kaydedin ve daha sonra bir şablon olarak kullanın"
+
+#: part/KWView.cpp:285
+#, kde-format
+msgid ""
+"You can save this document as a template.<br><br>You can use this new "
+"template as a starting point for another document."
+msgstr ""
+"Bu belgeyi bir şablon olarak kaydedebilirsiniz.<br><br>Bu yeni şablonu başka "
+"bir belge için bir başlangıç ​​noktası olarak kullanabilirsiniz."
+
+#: part/KWView.cpp:304
+#, kde-format
+msgid "Show Formatting Characters"
+msgstr "Biçimlendirme Karakterlerini Göster"
+
+#: part/KWView.cpp:310
+#, kde-format
+msgid "Toggle the display of non-printing characters"
+msgstr "Basılmayan karakterleri görüntüler ya da saklar"
+
+#: part/KWView.cpp:311
+#, kde-format
+msgid ""
+"Toggle the display of non-printing characters.<br/><br/>When this is "
+"enabled, Words shows you tabs, spaces, carriage returns and other non-"
+"printing characters."
+msgstr ""
+"Basılmayan karakterler görüntülensin ya da gizlensin.<br/><br/>Bu etkin "
+"olduğunda, Words size girdileri, boşlukları, satır başlarını ve diğer "
+"basılmayan karakterleri gösterir."
+
+#: part/KWView.cpp:313
+#, kde-format
+msgid "Show Field Shadings"
+msgstr "Alan Gölgelerini Göster"
+
+#: part/KWView.cpp:319
+#, kde-format
+msgid "Toggle the shaded background of fields"
+msgstr "Alanların gölgeli arkaplanını aç/kapat"
+
+#: part/KWView.cpp:320
+#, kde-format
+msgid ""
+"Toggle the visualization of fields (variables etc.) by drawing their "
+"background in a contrasting color."
+msgstr ""
+"Alanların görselliğini (değişkenler vb.) karşıt renkte arkaplanlarını "
+"çizerek aç/kapat."
+
+#: part/KWView.cpp:322
+#, kde-format
+msgid "Show Text Shape Borders"
+msgstr "Metin Şekli Kenarlıklarını Göster"
+
+#: part/KWView.cpp:323
+#, kde-format
+msgid "Turns the border display on and off"
+msgstr "Kenarlık gösterimini açık ve kapalı yapar"
+
+#: part/KWView.cpp:329
+#, kde-format
+msgid ""
+"Turns the border display on and off.<br/><br/>The borders are never printed. "
+"This option is useful to see how the document will appear on the printed "
+"page."
+msgstr ""
+"Kenarlık gösterimini açık ve kapalı yapar.<br/><br/>Kenarlıklar asla "
+"bastırılmazlar. Bu seçenek belgenin basılan sayfada nasıl durduğunu "
+"görebilmek için kullanışlıdır."
+
+#: part/KWView.cpp:331
+#, kde-format
+msgid "Show Table Borders"
+msgstr "Tablo Kenarlıklarını Göster"
+
+#: part/KWView.cpp:337
+#, kde-format
+msgid "Toggle the display of table borders"
+msgstr "Tablo kenarlıkları görüntülenmesini değiştir"
+
+#: part/KWView.cpp:338
+#, kde-format
+msgid ""
+"Toggle the display of table borders.<br/><br/>When this is enabled, Words "
+"shows you any invisible table borders with a thin gray line."
+msgstr ""
+"Tablo kenarlıkları görüntülensin ya da saklansın.<br/><br/>Bu etkin "
+"olduğunda, Words size tüm görünmez tablo kenarlıklarını ince bir gri çizgi "
+"ile gösterir."
+
+#: part/KWView.cpp:340
+#, kde-format
+msgid "Show Section Bounds"
+msgstr "Bölüm Sınırlarını Göster"
+
+#: part/KWView.cpp:346
+#, kde-format
+msgid "Toggle the display of section bounds"
+msgstr "Bölüm sınırları görüntülenmesini değiştir"
+
+#: part/KWView.cpp:347
+#, kde-format
+msgid ""
+"Toggle the display of section bounds.<br/><br/>When this is enabled, any "
+"section bounds will be indicated with a thin gray horizontal brackets."
+msgstr ""
+"Bölüm sınırları görüntülensin ya da saklansın.<br/><br/>Bu etkin olduğunda, "
+"tüm bölüm sınırları ince yatay gri parantezler ile gösterilecek."
+
+#: part/KWView.cpp:349
+#, kde-format
+msgid "Show Rulers"
+msgstr "Cetvelleri göster"
+
+#: part/KWView.cpp:351
+#, kde-format
+msgid "Shows or hides rulers"
+msgstr "Cetveli saklar ya da gösterir"
+
+#: part/KWView.cpp:352
+#, kde-format
+msgid ""
+"The rulers are the white measuring spaces top and left of the document. The "
+"rulers show the position and width of pages and of frames and can be used to "
+"position tabulators among others.<p>Uncheck this to disable the rulers from "
+"being displayed.</p>"
+msgstr ""
+"Cetveller, belgenin sol ve üstünde bulunan beyaz ölçüm alanlarıdır. "
+"Cetveller, sayfanın eni, boyu, konumu ve üzerinde kullanılabilecek "
+"çerçeveler ve ayırıcılar ile ilgili yerleştirme ayarları yapmanızı sağlar."
+"<p>Cetvellerin görüntülenmesini istemiyorsanız işareti kaldırın.</p>"
+
+#: part/KWView.cpp:363
+#, kde-format
+msgid "Snap to Grid"
+msgstr "Kılavuza Uydur"
+
+#: part/KWView.cpp:371
+#, kde-format
+msgid "Show Status Bar"
+msgstr "Durum Çubuğunu Göster"
+
+#: part/KWView.cpp:372
+#, kde-format
+msgid "Shows or hides the status bar"
+msgstr "Durum çubuğunu gösterir ya da gizler"
+
+#: part/KWView.cpp:377
+#, kde-format
+msgid "Fullscreen Mode"
+msgstr ""
+
+#: part/KWView.cpp:378
+#, fuzzy, kde-format
+#| msgid "Set view in distraction free mode"
+msgid "Set view in fullscreen mode"
+msgstr "Oyalamasız kipte görünümü ayarla"
+
+#: part/KWView.cpp:384
+#, kde-format
+msgid "Semantic Stylesheets..."
+msgstr "Semantik Stil Sayfaları..."
+
+#: part/KWView.cpp:386
+#, kde-format
+msgid "Modify and add semantic stylesheets"
+msgstr "Semantik stil sayfalarını değiştirin ve ekleyin"
+
+#: part/KWView.cpp:387
+#, kde-format
+msgid ""
+"Stylesheets are used to format the display of information which is stored in "
+"RDF."
+msgstr ""
+"Stil sayfaları, RDF içinde saklanan bilgiyi görüntülenmesini biçimlendirmek "
+"için kullanılır."
+
+#: part/KWView.cpp:402
+#, kde-format
+msgid "Configure..."
+msgstr "Yapılandır..."
+
+#: part/KWView.cpp:411
+#, kde-format
+msgid "Page Layout..."
+msgstr "Sayfa Düzeni..."
+
+#: part/KWView.cpp:413
+#, kde-format
+msgid "Change properties of entire page"
+msgstr "Bütün sayfanın özelliklerini değiştir"
+
+#: part/KWView.cpp:414
+#, kde-format
+msgid ""
+"Change properties of the entire page.<p>Currently you can change paper size, "
+"paper orientation, header and footer sizes, and column settings.</p>"
+msgstr ""
+"Bütün sayfanın özelliklerini değiştir.<p>Burada sayfa boyutunu, sayfa "
+"yönelişini, başlık ve dipnot boyutlarını ve sütun ayarlarını "
+"değiştirebilirsiniz.</p>"
+
+#: part/KWView.cpp:417
+#, kde-format
+msgid "Create Header"
+msgstr "Üstbilgi Oluştur"
+
+#: part/KWView.cpp:423
+#, kde-format
+msgid "Create Footer"
+msgstr "Altbilgi Oluştur"
+
+#: part/KWView.cpp:430
+#, kde-format
+msgid "Show Comments"
+msgstr "Yorumları Göster"
+
+#: part/KWView.cpp:431
+#, kde-format
+msgid "Shows comments in the document"
+msgstr "Belgedeki yorumları göster"
+
+#: part/KWView.cpp:437
+#, kde-format
+msgid "Word Count"
+msgstr "Sözcük Sayısı"
+
+#: part/KWView.cpp:438
+#, kde-format
+msgid "Shows or hides word counting in status bar"
+msgstr "Durum çubuğunda sözcük sayısını gösterir veya gizler"
+
+#: part/pagetool/KWPageTool.cpp:98
+#, kde-format
+msgid "Page Setup"
+msgstr "Sayfa Düzeni"
+
+#: part/pagetool/KWPageTool.cpp:102
+#, kde-format
+msgid "Header & Footer"
+msgstr "Üstbilgi ve Altbilgi"
+
+#: part/pagetool/KWPageToolFactory.cpp:30
+#, kde-format
+msgid "Page layout"
+msgstr "Sayfa düzeni"
+
+#. i18n: ectx: property (text), widget (QToolButton, setup)
+#. i18n: ectx: property (text), widget (QToolButton, insertHeader)
+#. i18n: ectx: property (text), widget (QToolButton, insertFooter)
+#: part/pagetool/SimpleHeaderFooterWidget.ui:17
+#: part/pagetool/SimpleHeaderFooterWidget.ui:24
+#: part/pagetool/SimpleSetupWidget.ui:17
+#, kde-format
+msgid "..."
+msgstr "..."
+
+#: part/widgets/KoFindToolbar.cpp:68
+#, kde-format
+msgctxt "Label for the Find text input box"
+msgid "Find:"
+msgstr "Ara:"
+
+#: part/widgets/KoFindToolbar.cpp:81
+#, kde-format
+msgctxt "Next search result"
+msgid "Next"
+msgstr "Sonraki"
+
+#: part/widgets/KoFindToolbar.cpp:91
+#, kde-format
+msgctxt "Previous search result"
+msgid "Previous"
+msgstr "Önceki"
+
+#: part/widgets/KoFindToolbar.cpp:100
+#, kde-format
+msgctxt "Search options"
+msgid "Options"
+msgstr "Seçenekler"
+
+#: part/widgets/KoFindToolbar.cpp:128
+#, kde-format
+msgctxt "Label for the Replace text input box"
+msgid "Replace:"
+msgstr "Değiştir:"
+
+#: part/widgets/KoFindToolbar.cpp:138
+#, kde-format
+msgctxt "Replace the current match"
+msgid "Replace"
+msgstr "Değiştir"
+
+#: part/widgets/KoFindToolbar.cpp:144
+#, kde-format
+msgctxt "Replace all found matches"
+msgid "Replace All"
+msgstr "Hepsini Değiştir"
+
+#: part/widgets/KoFindToolbar.cpp:152
+#, kde-format
+msgid "Replace"
+msgstr "Değiştir"
+
+#: part/widgets/KoFindToolbar.cpp:213
+#, kde-format
+msgctxt "Total number of matches"
+msgid "1 match found"
+msgid_plural "%1 matches found"
+msgstr[0] "1 eşleşen bulundu"
+msgstr[1] "%1 eşleşen bulundu"
+
+#: part/widgets/KoFindToolbar.cpp:223
+#, kde-format
+msgid "No matches found"
+msgstr "Eşleşme bulunamadı"
+
+#: part/widgets/KoFindToolbar.cpp:229
+#, kde-format
+msgid "Search hit bottom, continuing from top."
+msgstr "Arama sona ulaştı, baştan devam ediliyor."
+
+#: part/widgets/KoFindToolbar.cpp:231
+#, kde-format
+msgid "Search hit top, continuing from bottom."
+msgstr "Arama tepeye ulaştı, en alttan devam ediliyor."
+
+#: part/Words.cpp:58
+#, kde-format
+msgid "Odd Pages Header"
+msgstr "Tek Sayfa Başlığı"
+
+#: part/Words.cpp:60
+#, kde-format
+msgid "Even Pages Header"
+msgstr "Çift Sayfa Başlığı"
+
+#: part/Words.cpp:62
+#, kde-format
+msgid "Odd Pages Footer"
+msgstr "Tek Sayfa Dipnotu"
+
+#: part/Words.cpp:64
+#, kde-format
+msgid "Even Pages Footer"
+msgstr "Çift Sayfa Dipnotu"
+
+#: part/Words.cpp:66
+#, kde-format
+msgid "Main text"
+msgstr "Ana metin"
+
+#: part/Words.cpp:68
+#, kde-format
+msgid "Other text"
+msgstr "Diğer metinler"
+
+#~ msgid "Distraction Free Mode"
+#~ msgstr "Oyalamasız Kip"
+
+#, fuzzy
+#~| msgid "Anchor to..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Anchor to..."
+#~ msgstr "Bir şeye tuttur..."
+
+#, fuzzy
+#~| msgid "&Page"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Page"
+#~ msgstr "&Sayfa"
+
+#, fuzzy
+#~| msgid "Para&graph"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Para&graph"
+#~ msgstr "&Paragraf"
+
+#, fuzzy
+#~| msgid "&To Character"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&To Character"
+#~ msgstr "&Karaktere"
+
+#, fuzzy
+#~| msgid "&As Character"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&As Character"
+#~ msgstr "K&arakter Olarak"
+
+#, fuzzy
+#~| msgid "Horizontal Alignment"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Horizontal Alignment"
+#~ msgstr "Yatay Hizalama"
+
+#, fuzzy
+#~| msgid "&Left"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Left"
+#~ msgstr "So&l"
+
+#, fuzzy
+#~| msgid "&Center"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Center"
+#~ msgstr "&Merkez"
+
+#, fuzzy
+#~| msgid "&Right"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Right"
+#~ msgstr "Sa&ğ"
+
+#, fuzzy
+#~| msgid "Vertical Alignment"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Vertical Alignment"
+#~ msgstr "Dikey Hizalama"
+
+#, fuzzy
+#~| msgid "&Top"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Top"
+#~ msgstr "&Üst"
+
+#, fuzzy
+#~| msgid "&Middle"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Middle"
+#~ msgstr "&Orta"
+
+#, fuzzy
+#~| msgid "&Bottom"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Bottom"
+#~ msgstr "&Alt"
+
+#, fuzzy
+#~| msgid "Text Wrap-around"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Text Wrap-around"
+#~ msgstr "Başa Sarmalı Metin"
+
+#, fuzzy
+#~| msgid "Run through this shape"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Run through this shape"
+#~ msgstr "Metin bu şeklin içinden geçecektir"
+
+#, fuzzy
+#~| msgid "Skip below this shape"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Skip below this shape"
+#~ msgstr "Bu şeklin altına atla"
+
+#, fuzzy
+#~| msgid "Run on left side of this shape"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Run on left side of this shape"
+#~ msgstr "Metin bu şeklin sol kenarında olacaktır"
+
+#, fuzzy
+#~| msgid "Run on right side of this shape"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Run on right side of this shape"
+#~ msgstr "Metin bu şeklin sağ kenarında olacaktır"
+
+#, fuzzy
+#~| msgid "Run on longest side of this shape"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Run on longest side of this shape"
+#~ msgstr "Metin bu şeklin en uzun kenarında olacaktır"
+
+#, fuzzy
+#~| msgid "Run on both sides of this shape"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Run on both sides of this shape"
+#~ msgstr "Metin bu şeklin her iki kenarında olacaktır"
+
+#, fuzzy
+#~| msgid "Run on sides that are wider than:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Run on sides that are wider than:"
+#~ msgstr "Kenarları şu değerden daha geniş olanlarda çalıştır:"
+
+#, fuzzy
+#~| msgid "Distance Between Shape and Text:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Distance Between Shape and Text:"
+#~ msgstr "Şekil ve Metin Arasındaki Uzaklık:"
+
+#, fuzzy
+#~| msgid "Shape relation to text is:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Shape relation to text is:"
+#~ msgstr "Metin şekil ilişkisi:"
+
+#, fuzzy
+#~| msgid "Inline with text (behaves as a character)"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Inline with text (behaves as a character)"
+#~ msgstr "Metin içeren satıriçi (bir karakter gibi davranır)"
+
+#, fuzzy
+#~| msgid "Floating, but anchored to a character position"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Floating, but anchored to a character position"
+#~ msgstr "Yüzen, fakat bir karakter konumuna tutturulmuş"
+
+#, fuzzy
+#~| msgid "Floating, but anchored to a paragraph"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Floating, but anchored to a paragraph"
+#~ msgstr "Yüzen, ama bir paragrafa tutturulmuş"
+
+#, fuzzy
+#~| msgid "Floating free (not anchored to text)"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Floating free (not anchored to text)"
+#~ msgstr "Serbest yüzen (metne bağlanan değil)"
+
+#, fuzzy
+#~| msgid "Vertical Positioning"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Vertical Positioning"
+#~ msgstr "Dikey Konumlandırma"
+
+#, fuzzy
+#~| msgid "Top align with:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Top align with:"
+#~ msgstr "Üste hizala:"
+
+#, fuzzy
+#~| msgid "Center align with:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Center align with:"
+#~ msgstr "Ortaya hizala:"
+
+#, fuzzy
+#~| msgid "Bottom align with:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Bottom align with:"
+#~ msgstr "Alta hizala:"
+
+#, fuzzy
+#~| msgid "Offset"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Offset"
+#~ msgstr "Yerleşim"
+
+#, fuzzy
+#~| msgid "from:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "from:"
+#~ msgstr "kimden:"
+
+#, fuzzy
+#~| msgid "Horizontal Positioning"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Horizontal Positioning"
+#~ msgstr "Yatay Konumlandırma"
+
+#, fuzzy
+#~| msgid "Left align with:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Left align with:"
+#~ msgstr "Sola hizala:"
+
+#, fuzzy
+#~| msgid "Right align with:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Right align with:"
+#~ msgstr "Sağa hizala:"
+
+#, fuzzy
+#~| msgid "Name of frameset:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Name of frameset:"
+#~ msgstr "Çerçeve tablosunun adı:"
+
+#, fuzzy
+#~| msgid "Create a new frameset:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Create a new frameset:"
+#~ msgstr "Yeni bir çerçeve tablosu oluştur"
+
+#, fuzzy
+#~| msgid "Select existing frameset to connect to:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Select existing frameset to connect to:"
+#~ msgstr "Şuna bağlanmak için var olan çerçeve tablosunu:"
+
+#, fuzzy
+#~| msgid "Frameset Name"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Frameset Name"
+#~ msgstr "Çerçeve Tablosu İsmi"
+
+#, fuzzy
+#~| msgid "&Rename"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Rename"
+#~ msgstr "&Yeniden adlandır"
+
+#, fuzzy
+#~| msgid "&Delete"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Delete"
+#~ msgstr "&Sil"
+
+#, fuzzy
+#~| msgid ""
+#~| "Bookmarks allow you to jump between parts of your document.\n"
+#~| "Please provide the name of your bookmark."
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "Bookmarks allow you to jump between parts of your document.\n"
+#~ "Please provide the name of your bookmark."
+#~ msgstr ""
+#~ "Yer imleri belgenizdeki kısımlar arasında sıçramanızı sağlar.\n"
+#~ "Lütfen yer iminizine bir isim verin."
+
+#, fuzzy
+#~| msgid "Name:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Name:"
+#~ msgstr "İsim:"
+
+#, fuzzy
+#~| msgid "Page Size && Margins"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Page Size && Margins"
+#~ msgstr "Sayfa Boyutu ve Payları"
+
+#, fuzzy
+#~| msgid "Text elsewhere will:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Text elsewhere will:"
+#~ msgstr "Metin başka yerlerde şöyle olacak:"
+
+#, fuzzy
+#~| msgid "The shape affects the text by its:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "The shape affects the text by its:"
+#~ msgstr "Şeklin metni etkileme yeri:"
+
+#, fuzzy
+#~| msgid "Bounding box"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Bounding box"
+#~ msgstr "Çevreleyen kutu"
+
+#, fuzzy
+#~| msgid "Contour"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Contour"
+#~ msgstr "Kontur"
+
+#, fuzzy
+#~| msgid "Shape and text is separated:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Shape and text is separated:"
+#~ msgstr "Şekil ve metin ayrılmış:"
+
+#, fuzzy
+#~| msgid "Left by:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Left by:"
+#~ msgstr "Sol:"
+
+#, fuzzy
+#~| msgid "Above by:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Above by:"
+#~ msgstr "Üzerinde:"
+
+#, fuzzy
+#~| msgid "Below by:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Below by:"
+#~ msgstr "Altında:"
+
+#, fuzzy
+#~| msgid "Right by:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Right by:"
+#~ msgstr "Sağ:"
+
+#, fuzzy
+#~| msgid "Columns:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Columns:"
+#~ msgstr "Sütunlar:"
+
+#, fuzzy
+#~| msgid "Column spacing:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Column spacing:"
+#~ msgstr "Sütun aralığı:"
+
+#, fuzzy
+#~| msgid "Words"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Words"
+#~ msgstr "Sözcükler"
+
+#, fuzzy
+#~| msgid "Sentences"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Sentences"
+#~ msgstr "Cümleler"
+
+#, fuzzy
+#~| msgid "Syllables"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Syllables"
+#~ msgstr "Heceler"
+
+#, fuzzy
+#~| msgid "Lines"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Lines"
+#~ msgstr "Satırlar"
+
+#, fuzzy
+#~| msgid "Characters With Spaces"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Characters With Spaces"
+#~ msgstr "Boşluksuz Karakterler"
+
+#, fuzzy
+#~| msgid "Characters without spaces"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Characters without spaces"
+#~ msgstr "Boşluksuz karakterler"
+
+#, fuzzy
+#~| msgid "East Asian characters"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "East Asian characters"
+#~ msgstr "Doğu Asya karakterleri"
+
+#, fuzzy
+#~| msgid "Flesch Reading Ease"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Flesch Reading Ease"
+#~ msgstr "Flesch Okuma Kolaylığı"
+
+#, fuzzy
+#~| msgid "&File"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&File"
+#~ msgstr "&Dosya"
+
+#, fuzzy
+#~| msgid "&Edit"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Edit"
+#~ msgstr "Dü&zen"
+
+#, fuzzy
+#~| msgid "&View"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&View"
+#~ msgstr "&Görünüm"
+
+#, fuzzy
+#~| msgid "&Display Mode"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Display Mode"
+#~ msgstr "&Görünüm Kipi"
+
+#, fuzzy
+#~| msgid "Semantics"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Semantics"
+#~ msgstr "Semantik"
+
+#, fuzzy
+#~| msgid "S&tyles"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "S&tyles"
+#~ msgstr "Bi&çimler"
+
+#, fuzzy
+#~| msgid "&Settings"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Settings"
+#~ msgstr "&Ayarlar"
+
+#, fuzzy
+#~| msgid "Spellcheck"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Spellcheck"
+#~ msgstr "Yazım Denetimi"
+
+#, fuzzy
+#~| msgid "Edit"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Edit"
+#~ msgstr "Düzen"
+
+#, fuzzy
+#~| msgid "Spell Check Result"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Spell Check Result"
+#~ msgstr "İmlâ Denetim Sonucu"
+
+#, fuzzy
+#~| msgid "Change Variable To"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Change Variable To"
+#~ msgstr "Değişkeni değiştir: "
+
+#, fuzzy
+#~| msgid "..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "..."
+#~ msgstr "..."
+
+#, fuzzy
+#~| msgid "&Tools"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Tools"
+#~ msgstr "A&raçlar"
+
+#, fuzzy
+#~| msgid "Baseline"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Baseline"
+#~ msgstr "Taban çizgisi"
+
+#, fuzzy
+#~| msgid "Character"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Character"
+#~ msgstr "Karakter"
+
+#, fuzzy
+#~| msgid "Row"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Row"
+#~ msgstr "Satır"
+
+#, fuzzy
+#~| msgid "Page (entire) area"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Page (entire) area"
+#~ msgstr "Sayfa (bütün) alanı"
+
+#, fuzzy
+#~| msgid "Page text area"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Page text area"
+#~ msgstr "Sayfa yazı alanı"
+
+#, fuzzy
+#~| msgid "Paragraph area"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Paragraph area"
+#~ msgstr "Paragraf alanı"
+
+#, fuzzy
+#~| msgid "Paragraph text area"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Paragraph text area"
+#~ msgstr "Paragraf metin alanı"
+
+#, fuzzy
+#~| msgid "Left page border"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Left page border"
+#~ msgstr "Sol sayfa kenarlığı"
+
+#, fuzzy
+#~| msgid "Right page border"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Right page border"
+#~ msgstr "Sağ sayfa kenarlığı"
+
+#, fuzzy
+#~| msgid "Right paragraph border"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Right paragraph border"
+#~ msgstr "Sağ paragraf kenarlığı"
+
+#, fuzzy
+#~| msgid "Left paragraph border"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Left paragraph border"
+#~ msgstr "Sol paragraf kenarlığı"
+
+#, fuzzy
+#~| msgid "Configure"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Configure"
+#~ msgstr "Yapılandır"
+
+#, fuzzy
+#~| msgid "Misc"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Misc"
+#~ msgstr "Çeşitli"
+
+#, fuzzy
+#~| msgid "Grid"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Grid"
+#~ msgstr "Izgara"
+
+#, fuzzy
+#~| msgctxt "@title:tab Document settings page"
+#~| msgid "Document"
+#~ msgctxt "(qtundo-format) @title:tab Document settings page"
+#~ msgid "Document"
+#~ msgstr "Belge"
+
+#, fuzzy
+#~| msgid "Document Settings"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Document Settings"
+#~ msgstr "Belge Ayarları"
+
+#, fuzzy
+#~| msgid "Author"
+#~ msgctxt "(qtundo-format) @title:tab Author page"
+#~ msgid "Author"
+#~ msgstr "Yazar"
+
+#, fuzzy
+#~| msgid "Author"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Author"
+#~ msgstr "Yazar"
+
+#, fuzzy
+#~| msgid "Create New Bookmark"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Create New Bookmark"
+#~ msgstr "Yeni Yer İmi Oluştur"
+
+#, fuzzy
+#~| msgid "frameset"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "frameset"
+#~ msgstr "çerçeve tablosu"
+
+#, fuzzy
+#~| msgid "No framesets in document"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "No framesets in document"
+#~ msgstr "Belge içerisinde çerçeve tablosu yok"
+
+#, fuzzy
+#~| msgid "Smart Positioning"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Smart Positioning"
+#~ msgstr "Akıllı Konumlandırma"
+
+#, fuzzy
+#~| msgid "Text Run Around"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Text Run Around"
+#~ msgstr "Yazının Etrafına"
+
+#, fuzzy
+#~| msgid "Connect Text Frames"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Connect Text Frames"
+#~ msgstr "Metin Çerçevelerini Bağla"
+
+#, fuzzy
+#~| msgid "Columns"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Columns"
+#~ msgstr "Sütunlar"
+
+#, fuzzy
+#~| msgid "Style"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Style"
+#~ msgstr "Biçim"
+
+#, fuzzy
+#~| msgid "Clone"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Clone"
+#~ msgstr "Klonla"
+
+#, fuzzy
+#~| msgid "Delete"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Delete"
+#~ msgstr "Sil"
+
+#, fuzzy
+#~| msgid "Add a new page style with the name:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Add a new page style with the name:"
+#~ msgstr "Şu isimde yeni bir sayfa stili ekle:"
+
+#, fuzzy
+#~| msgid "Clone Page Style"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Clone Page Style"
+#~ msgstr "Sayfa Stilini Klonla"
+
+#, fuzzy
+#~| msgid "Rename Bookmark"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Rename Bookmark"
+#~ msgstr "Yer İmini Yeniden Adlandır"
+
+#, fuzzy
+#~| msgid "Please provide a new name for the bookmark"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Please provide a new name for the bookmark"
+#~ msgstr "Lütfen yer imi için bir isim girin"
+
+#, fuzzy
+#~| msgid "A bookmark with the name \"%1\" already exists."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "A bookmark with the name \"%1\" already exists."
+#~ msgstr "\"%1\" isimli bir yer imi zaten var."
+
+#, fuzzy
+#~| msgid "Select Bookmark"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Select Bookmark"
+#~ msgstr "Yer İmi Seç"
+
+#, fuzzy
+#~| msgid "Geometry"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Geometry"
+#~ msgstr "Geometri"
+
+#, fuzzy
+#~| msgid "Debug"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Debug"
+#~ msgstr "Hata ayıklama"
+
+#, fuzzy
+#~| msgid "Navigation"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Navigation"
+#~ msgstr "Gezinme"
+
+#, fuzzy
+#~| msgid "Page #"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Page #"
+#~ msgstr "Sayfa #"
+
+#, fuzzy
+#~| msgid "Section"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Section"
+#~ msgstr "Bölüm"
+
+#, fuzzy
+#~| msgid "RDF"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "RDF"
+#~ msgstr "RDF"
+
+#, fuzzy
+#~| msgid "Statistics"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Statistics"
+#~ msgstr "İstatistikler"
+
+#, fuzzy
+#~| msgid "Words:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Words:"
+#~ msgstr "Sözcükler:"
+
+#, fuzzy
+#~| msgid "Sentences:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Sentences:"
+#~ msgstr "Cümleler:"
+
+#, fuzzy
+#~| msgid "Syllables:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Syllables:"
+#~ msgstr "Heceler:"
+
+#, fuzzy
+#~| msgid "Characters (spaces):"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Characters (spaces):"
+#~ msgstr "Karakterler (boşluklar dahil):"
+
+#, fuzzy
+#~| msgid "Characters (no spaces):"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Characters (no spaces):"
+#~ msgstr "Karakterler (boşluklar hariç):"
+
+#, fuzzy
+#~| msgid "Lines:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Lines:"
+#~ msgstr "Satırlar:"
+
+#, fuzzy
+#~| msgid "Readability:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Readability:"
+#~ msgstr "Okunabilirlik:"
+
+#, fuzzy
+#~| msgid "Flesch reading ease"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Flesch reading ease"
+#~ msgstr "Flesch okuma kolaylığı"
+
+#, fuzzy
+#~| msgid "East asian characters:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "East asian characters:"
+#~ msgstr "Doğu Asya karakterleri:"
+
+#, fuzzy
+#~| msgid "Standard"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Standard"
+#~ msgstr "Standart"
+
+#, fuzzy
+#~| msgid "Head 1"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Head 1"
+#~ msgstr "Başlık 1"
+
+#, fuzzy
+#~| msgid "Head 2"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Head 2"
+#~ msgstr "Başlık 2"
+
+#, fuzzy
+#~| msgid "Head 3"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Head 3"
+#~ msgstr "Başlık 3"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Enumerated List"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Enumerated List"
+#~ msgstr "Numaralandırılmış Liste"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Alphabetical List"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Alphabetical List"
+#~ msgstr "Alfabetik Liste"
+
+#, fuzzy
+#~| msgid "Bullet List"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Bullet List"
+#~ msgstr "Madde İmli Liste"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Contents Title"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Contents Title"
+#~ msgstr "İçindekiler Başlığı"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Contents Head 1"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Contents Head 1"
+#~ msgstr "İçindekiler Başlığı 1"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Contents Head 2"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Contents Head 2"
+#~ msgstr "İçindekiler Başlığı 2"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Contents Head 3"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Contents Head 3"
+#~ msgstr "İçindekiler Başlığı 3"
+
+#, fuzzy
+#~| msgid "Document Title"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Document Title"
+#~ msgstr "Belge Başlığı"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Header"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Header"
+#~ msgstr "Başlık"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Footer"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Footer"
+#~ msgstr "Alıntı"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Plain"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Plain"
+#~ msgstr "Boş"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Borders 1"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Borders 1"
+#~ msgstr "Kenarlıklar 1"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Borders 2"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Borders 2"
+#~ msgstr "Kenarlıklar 2"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Borders 3"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Borders 3"
+#~ msgstr "Kenarlıklar 3"
+
+#, fuzzy
+#~| msgid "Row"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Row"
+#~ msgstr "Satır"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Column"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Column"
+#~ msgstr "Sütun"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Light Gray"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Light Gray"
+#~ msgstr "Açık Gri"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Dark Gray"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Dark Gray"
+#~ msgstr "Koyu Gri"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Black"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Black"
+#~ msgstr "Siyah"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Light Blue"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Light Blue"
+#~ msgstr "Açık Mavi"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Dark Blue"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Dark Blue"
+#~ msgstr "Koyu Mavi"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Red"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Red"
+#~ msgstr "Kırmızı"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Yellow"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Yellow"
+#~ msgstr "Sarı"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Colorful"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Colorful"
+#~ msgstr "Renkli"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Bluish"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Bluish"
+#~ msgstr "Mavimsi"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Simple 1"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Simple 1"
+#~ msgstr "Örnek 1"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Simple 2"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Simple 2"
+#~ msgstr "Örnek 2"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Simple 3"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Simple 3"
+#~ msgstr "Örnek 3"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Header 1"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Header 1"
+#~ msgstr "Başlık 1"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Header 2"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Header 2"
+#~ msgstr "Başlık 2"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Header 3"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Header 3"
+#~ msgstr "Başlık 3"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Header 4"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Header 4"
+#~ msgstr "Başlık 4"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Columns 1"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Columns 1"
+#~ msgstr "Sütunlar 1"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Columns 2"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Columns 2"
+#~ msgstr "Sütunlar 2"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Grid 1"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Grid 1"
+#~ msgstr "Kılavuz 1"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Grid 2"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Grid 2"
+#~ msgstr "Kılavuz 2"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Grid 3"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Grid 3"
+#~ msgstr "Kılavuz 3"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Gray Heading"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Gray Heading"
+#~ msgstr "Gri Başlık"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Blue Heading"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Blue Heading"
+#~ msgstr "Mavi Başlık"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Blue Traditional"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Blue Traditional"
+#~ msgstr "Geleneksel Mavi"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Gray Traditional"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Gray Traditional"
+#~ msgstr "Geleneksel Gri"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Blue Top and Bottom"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Blue Top and Bottom"
+#~ msgstr "Mavi Üst ve Alt"
+
+#, fuzzy
+#~| msgctxt "Style name"
+#~| msgid "Gray Top and Bottom"
+#~ msgctxt "(qtundo-format) Style name"
+#~ msgid "Gray Top and Bottom"
+#~ msgstr "Gri Üst ve Alt"
+
+#, fuzzy
+#~| msgctxt "application name"
+#~| msgid "Calligra Words"
+#~ msgctxt "(qtundo-format) application name"
+#~ msgid "Calligra Words"
+#~ msgstr "Calligra Kelime İşlemci"
+
+#, fuzzy
+#~| msgid "Word processor"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Word processor"
+#~ msgstr "Kelime işlemci"
+
+#, fuzzy
+#~| msgid "© 1998-%1, The Words Team"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Copyright 1998-%1, The Words Team"
+#~ msgstr "© 1998-%1, Words Takımı"
+
+#, fuzzy
+#~| msgid "Co maintainer"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Co maintainer"
+#~ msgstr "Yardımcı proje sürdürücü"
+
+#, fuzzy
+#~| msgid "Pierre Ducroquet"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Pierre Ducroquet"
+#~ msgstr "Pierre Ducroquet"
+
+#, fuzzy
+#~| msgid "C. Boemann"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "C. Boemann"
+#~ msgstr "C. Boemann"
+
+#, fuzzy
+#~| msgid "Everything"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Everything"
+#~ msgstr "Her şey"
+
+#, fuzzy
+#~| msgid "Sebastian Sauer"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Sebastian Sauer"
+#~ msgstr "Sebastian Sauer"
+
+#, fuzzy
+#~| msgid "Boudewijn Rempt"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Boudewijn Rempt"
+#~ msgstr "Boudewijn Rempt"
+
+#, fuzzy
+#~| msgid "Pierre Stirnweiss"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Pierre Stirnweiss"
+#~ msgstr "Pierre Stirnweiss"
+
+#, fuzzy
+#~| msgid "Formatting stuff"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Formatting stuff"
+#~ msgstr "Biçimlendirme şeyleri"
+
+#, fuzzy
+#~| msgid "Inge Wallin"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Inge Wallin"
+#~ msgstr "Inge Wallin"
+
+#, fuzzy
+#~| msgid "Thorsten Zachmann"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Thorsten Zachmann"
+#~ msgstr "Thorsten Zachmann"
+
+#, fuzzy
+#~| msgid "Filter"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Filter"
+#~ msgstr "Filtre"
+
+#, fuzzy
+#~| msgid "Matus Uzak"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Matus Uzak"
+#~ msgstr "Matus Uzak"
+
+#, fuzzy
+#~| msgid "Layout and Painting"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Layout and Painting"
+#~ msgstr "Yerleşim ve Boyama"
+
+#, fuzzy
+#~| msgid "Pavol Korinek"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Pavol Korinek"
+#~ msgstr "Pavol Korinek"
+
+#, fuzzy
+#~| msgid "Shreya Pandit"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Shreya Pandit"
+#~ msgstr "Shreya Pandit"
+
+#, fuzzy
+#~| msgid "Statistics docker"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Statistics docker"
+#~ msgstr "İstatistikler rıhtımı"
+
+#, fuzzy
+#~| msgid "Brijesh Patel"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Brijesh Patel"
+#~ msgstr "Brijesh Patel"
+
+#, fuzzy
+#~| msgid "Foot and endnotes"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Foot and endnotes"
+#~ msgstr "Alt ve son notlar"
+
+#, fuzzy
+#~| msgid "Bibliography"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Bibliography"
+#~ msgstr "Bibliyografya"
+
+#, fuzzy
+#~| msgid "Smit Patel"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Smit Patel"
+#~ msgstr "Smit Patel"
+
+#, fuzzy
+#~| msgid "Mojtaba Shahi"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Mojtaba Shahi"
+#~ msgstr "Mojtaba Shahi"
+
+#, fuzzy
+#~| msgid "Style Manager"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Style Manager"
+#~ msgstr "Biçim Yöneticisi"
+
+#, fuzzy
+#~| msgid "Lassi Nieminen"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Lassi Nieminen"
+#~ msgstr "Lassi Nieminen"
+
+#, fuzzy
+#~| msgid "Hanzes Matus"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Hanzes Matus"
+#~ msgstr "Hanzes Matus"
+
+#, fuzzy
+#~| msgid "Lukáš Tvrdý"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Lukáš Tvrdý"
+#~ msgstr "Lukáš Tvrdý"
+
+#, fuzzy
+#~| msgid "Thomas Zander"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Thomas Zander"
+#~ msgstr "Thomas Zander"
+
+#, fuzzy
+#~| msgid "Girish Ramakrishnan"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Girish Ramakrishnan"
+#~ msgstr "Girish Ramakrishnan"
+
+#, fuzzy
+#~| msgid "ODF Support"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "ODF Support"
+#~ msgstr "ODF Desteği"
+
+#, fuzzy
+#~| msgid "Robert Mathias Marmorstein"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Robert Mathias Marmorstein"
+#~ msgstr "Robert Mathias Marmorstein"
+
+#, fuzzy
+#~| msgid "David Faure"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "David Faure"
+#~ msgstr "David Faure"
+
+#, fuzzy
+#~| msgid "Laurent Montel"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Laurent Montel"
+#~ msgstr "Laurent Montel"
+
+#, fuzzy
+#~| msgid "Sven Lüppken"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Sven Lüppken"
+#~ msgstr "Sven Lüppken"
+
+#, fuzzy
+#~| msgid "Frank Dekervel"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Frank Dekervel"
+#~ msgstr "Frank Dekervel"
+
+#, fuzzy
+#~| msgid "Krister Wicksell Eriksson"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Krister Wicksell Eriksson"
+#~ msgstr "Krister Wicksell Eriksson"
+
+#, fuzzy
+#~| msgid "Dag Andersen"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Dag Andersen"
+#~ msgstr "Dag Andersen"
+
+#, fuzzy
+#~| msgid "Nash Hoogwater"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Nash Hoogwater"
+#~ msgstr "Nash Hoogwater"
+
+#, fuzzy
+#~| msgid "KFormula"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "KFormula"
+#~ msgstr "KFormula"
+
+#, fuzzy
+#~| msgid "Ulrich Kuettler"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Ulrich Kuettler"
+#~ msgstr "Ulrich Kuettler"
+
+#, fuzzy
+#~| msgid "Shaheed Haque"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Shaheed Haque"
+#~ msgstr "Shaheed Haque"
+
+#, fuzzy
+#~| msgid "Werner Trobin"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Werner Trobin"
+#~ msgstr "Werner Trobin"
+
+#, fuzzy
+#~| msgid "Nicolas Goutte"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Nicolas Goutte"
+#~ msgstr "Nicolas Goutte"
+
+#, fuzzy
+#~| msgid "Ariya Hidayat"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Ariya Hidayat"
+#~ msgstr "Ariya Hidayat"
+
+#, fuzzy
+#~| msgid "Clarence Dang"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Clarence Dang"
+#~ msgstr "Clarence Dang"
+
+#, fuzzy
+#~| msgid "Robert Jacolin"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Robert Jacolin"
+#~ msgstr "Robert Jacolin"
+
+#, fuzzy
+#~| msgid "Enno Bartels"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Enno Bartels"
+#~ msgstr "Enno Bartels"
+
+#, fuzzy
+#~| msgid "Ewald Snel"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Ewald Snel"
+#~ msgstr "Ewald Snel"
+
+#, fuzzy
+#~| msgid "Tomasz Grobelny"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Tomasz Grobelny"
+#~ msgstr "Tomasz Grobelny"
+
+#, fuzzy
+#~| msgid "Michael Johnson"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Michael Johnson"
+#~ msgstr "Michael Johnson"
+
+#, fuzzy
+#~| msgid "Fatcow Web Hosting"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Fatcow Web Hosting"
+#~ msgstr "Fatcow İnternet Sayfası Barındırma"
+
+#, fuzzy
+#~| msgid "Page break icon"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Page break icon"
+#~ msgstr "Sayfa sonu simgesi"
+
+#, fuzzy
+#~| msgctxt "NAME OF TRANSLATORS"
+#~| msgid "Your names"
+#~ msgctxt "(qtundo-format) NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Serdar Soytetir, Bekir Bozdoğan, Anıl Özbek"
+
+#, fuzzy
+#~| msgctxt "EMAIL OF TRANSLATORS"
+#~| msgid "Your emails"
+#~ msgctxt "(qtundo-format) EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "tulliana@gmail.com, berkin@kde.org.tr, ozbekanil@gmail.com"
+
+#, fuzzy
+#~| msgid "Copy"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Copy"
+#~ msgstr "Kopyala"
+
+#, fuzzy
+#~| msgid "Standard"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Standard"
+#~ msgstr "Standart"
+
+#, fuzzy
+#~| msgid "Document Title"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Document Title"
+#~ msgstr "Belge Başlığı"
+
+#, fuzzy
+#~| msgid "Head 1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Head 1"
+#~ msgstr "Başlık 1"
+
+#, fuzzy
+#~| msgid "Head 2"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Head 2"
+#~ msgstr "Başlık 2"
+
+#, fuzzy
+#~| msgid "Head 3"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Head 3"
+#~ msgstr "Başlık 3"
+
+#, fuzzy
+#~| msgid "Bullet List"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Bullet List"
+#~ msgstr "Madde İmli Liste"
+
+#, fuzzy
+#~| msgid "Tools"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Tools"
+#~ msgstr "Araçlar"
+
+#, fuzzy
+#~| msgid "Invalid OASIS OpenDocument file. No office:body tag found."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Invalid OASIS OpenDocument file. No office:body tag found."
+#~ msgstr ""
+#~ "Geçersiz OASIS OpenDocument dosyası. office:body etiketi bulunamadı."
+
+#, fuzzy
+#~| msgid "Invalid OASIS OpenDocument file. No tag found inside office:body."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Invalid OASIS OpenDocument file. No tag found inside office:body."
+#~ msgstr ""
+#~ "Geçersiz OASIS OpenDocument dosyası. office:body içerisinde etiket "
+#~ "bulunamadı."
+
+#, fuzzy
+#~| msgid ""
+#~| "This is not a word processing document, but %1. Please try opening it "
+#~| "with the appropriate application."
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "This is not a word processing document, but %1. Please try opening it "
+#~ "with the appropriate application."
+#~ msgstr ""
+#~ "Bu bir kelime işlemci belgesi değil, bu belge bir %1. Lütfen belgeyi "
+#~ "uygun bir uygulama ile açın."
+
+#, fuzzy
+#~| msgid "Can not find needed text component, Words will quit now"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Can not find needed text component, Words will quit now"
+#~ msgstr ""
+#~ "Gereken metin bileşeni bulunamadı. Şimdi Words uygulamasından çıkılıyor."
+
+#, fuzzy
+#~| msgid "Installation Error"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Installation Error"
+#~ msgstr "Kurulum Hatası"
+
+#, fuzzy
+#~| msgid "Modified"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Modified"
+#~ msgstr "Değiştirildi"
+
+#, fuzzy
+#~| msgid "Saved"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Saved"
+#~ msgstr "Kaydedildi"
+
+#, fuzzy
+#~| msgid "Page %1 of %2"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Page %1 of %2"
+#~ msgstr "Sayfa %1/%2"
+
+#, fuzzy
+#~| msgid "Page %1-%2 of %3"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Page %1-%2 of %3"
+#~ msgstr "Sayfa %1-%2/%3"
+
+#, fuzzy
+#~| msgid "Line %1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Line %1"
+#~ msgstr "Satır %1"
+
+#, fuzzy
+#~| msgid "Page Number"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Page Number"
+#~ msgstr "Sayfa Numarası"
+
+#, fuzzy
+#~| msgid "Line Number"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Line Number"
+#~ msgstr "Satır Numarası"
+
+#, fuzzy
+#~| msgid "Page Style"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Page Style"
+#~ msgstr "Sayfa Biçimi"
+
+#, fuzzy
+#~| msgid "Page Size"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Page Size"
+#~ msgstr "Sayfa Boyutu"
+
+#, fuzzy
+#~| msgid "Saved/Modified"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Saved/Modified"
+#~ msgstr "Kaydedilmiş/Değiştirilmiş"
+
+#, fuzzy
+#~| msgid "Mouse Cursor X:Y"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Mouse Cursor X:Y"
+#~ msgstr "Fare Konumu: X:Y"
+
+#, fuzzy
+#~| msgid "Zoom Controller"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Zoom Controller"
+#~ msgstr "Büyütme Denetleyicisi"
+
+#, fuzzy
+#~| msgid "Exit Distraction-Free Mode"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Exit Distraction-Free Mode"
+#~ msgstr "Oyalamasız Kipten Çık"
+
+#, fuzzy
+#~| msgid "Shape Properties..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Shape Properties..."
+#~ msgstr "Şekil Özellikleri..."
+
+#, fuzzy
+#~| msgid "Change how the shape behave"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Change how the shape behave"
+#~ msgstr "Şeklin nasıl davranacağını değiştir"
+
+#, fuzzy
+#~| msgid "Create Template From Document..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Create Template From Document..."
+#~ msgstr "Belgeden Şablon Oluştur..."
+
+#, fuzzy
+#~| msgid "Save this document and use it later as a template"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Save this document and use it later as a template"
+#~ msgstr "Bu belgeyi kaydedin ve daha sonra bir şablon olarak kullanın"
+
+#, fuzzy
+#~| msgid ""
+#~| "You can save this document as a template.<br><br>You can use this new "
+#~| "template as a starting point for another document."
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "You can save this document as a template.<br><br>You can use this new "
+#~ "template as a starting point for another document."
+#~ msgstr ""
+#~ "Bu belgeyi bir şablon olarak kaydedebilirsiniz.<br><br>Bu yeni şablonu "
+#~ "başka bir belge için bir başlangıç ​​noktası olarak kullanabilirsiniz."
+
+#, fuzzy
+#~| msgid "Show Formatting Characters"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Show Formatting Characters"
+#~ msgstr "Biçimlendirme Karakterlerini Göster"
+
+#, fuzzy
+#~| msgid "Toggle the display of non-printing characters"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Toggle the display of non-printing characters"
+#~ msgstr "Basılmayan karakterleri görüntüler ya da saklar"
+
+#, fuzzy
+#~| msgid ""
+#~| "Toggle the display of non-printing characters.<br/><br/>When this is "
+#~| "enabled, Words shows you tabs, spaces, carriage returns and other non-"
+#~| "printing characters."
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "Toggle the display of non-printing characters.<br/><br/>When this is "
+#~ "enabled, Words shows you tabs, spaces, carriage returns and other non-"
+#~ "printing characters."
+#~ msgstr ""
+#~ "Basılmayan karakterler görüntülensin ya da gizlensin.<br/><br/>Bu etkin "
+#~ "olduğunda, Words size girdileri, boşlukları, satır başlarını ve diğer "
+#~ "basılmayan karakterleri gösterir."
+
+#, fuzzy
+#~| msgid "Show Field Shadings"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Show Field Shadings"
+#~ msgstr "Alan Gölgelerini Göster"
+
+#, fuzzy
+#~| msgid "Toggle the shaded background of fields"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Toggle the shaded background of fields"
+#~ msgstr "Alanların gölgeli arkaplanını aç/kapat"
+
+#, fuzzy
+#~| msgid ""
+#~| "Toggle the visualization of fields (variables etc.) by drawing their "
+#~| "background in a contrasting color."
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "Toggle the visualization of fields (variables etc.) by drawing their "
+#~ "background in a contrasting color."
+#~ msgstr ""
+#~ "Alanların görselliğini (değişkenler vb.) karşıt renkte arkaplanlarını "
+#~ "çizerek aç/kapat."
+
+#, fuzzy
+#~| msgid "Show Text Shape Borders"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Show Text Shape Borders"
+#~ msgstr "Metin Şekli Kenarlıklarını Göster"
+
+#, fuzzy
+#~| msgid "Turns the border display on and off"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Turns the border display on and off"
+#~ msgstr "Kenarlık gösterimini açık ve kapalı yapar"
+
+#, fuzzy
+#~| msgid ""
+#~| "Turns the border display on and off.<br/><br/>The borders are never "
+#~| "printed. This option is useful to see how the document will appear on "
+#~| "the printed page."
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "Turns the border display on and off.<br/><br/>The borders are never "
+#~ "printed. This option is useful to see how the document will appear on the "
+#~ "printed page."
+#~ msgstr ""
+#~ "Kenarlık gösterimini açık ve kapalı yapar.<br/><br/>Kenarlıklar asla "
+#~ "bastırılmazlar. Bu seçenek belgenin basılan sayfada nasıl durduğunu "
+#~ "görebilmek için kullanışlıdır."
+
+#, fuzzy
+#~| msgid "Show Table Borders"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Show Table Borders"
+#~ msgstr "Tablo Kenarlıklarını Göster"
+
+#, fuzzy
+#~| msgid "Toggle the display of table borders"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Toggle the display of table borders"
+#~ msgstr "Tablo kenarlıkları görüntülenmesini değiştir"
+
+#, fuzzy
+#~| msgid ""
+#~| "Toggle the display of table borders.<br/><br/>When this is enabled, "
+#~| "Words shows you any invisible table borders with a thin gray line."
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "Toggle the display of table borders.<br/><br/>When this is enabled, Words "
+#~ "shows you any invisible table borders with a thin gray line."
+#~ msgstr ""
+#~ "Tablo kenarlıkları görüntülensin ya da saklansın.<br/><br/>Bu etkin "
+#~ "olduğunda, Words size tüm görünmez tablo kenarlıklarını ince bir gri "
+#~ "çizgi ile gösterir."
+
+#, fuzzy
+#~| msgid "Show Section Bounds"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Show Section Bounds"
+#~ msgstr "Bölüm Sınırlarını Göster"
+
+#, fuzzy
+#~| msgid "Toggle the display of section bounds"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Toggle the display of section bounds"
+#~ msgstr "Bölüm sınırları görüntülenmesini değiştir"
+
+#, fuzzy
+#~| msgid ""
+#~| "Toggle the display of section bounds.<br/><br/>When this is enabled, any "
+#~| "section bounds will be indicated with a thin gray horizontal brackets."
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "Toggle the display of section bounds.<br/><br/>When this is enabled, any "
+#~ "section bounds will be indicated with a thin gray horizontal brackets."
+#~ msgstr ""
+#~ "Bölüm sınırları görüntülensin ya da saklansın.<br/><br/>Bu etkin "
+#~ "olduğunda, tüm bölüm sınırları ince yatay gri parantezler ile "
+#~ "gösterilecek."
+
+#, fuzzy
+#~| msgid "Show Rulers"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Show Rulers"
+#~ msgstr "Cetvelleri göster"
+
+#, fuzzy
+#~| msgid "Shows or hides rulers"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Shows or hides rulers"
+#~ msgstr "Cetveli saklar ya da gösterir"
+
+#, fuzzy
+#~| msgid ""
+#~| "The rulers are the white measuring spaces top and left of the document. "
+#~| "The rulers show the position and width of pages and of frames and can be "
+#~| "used to position tabulators among others.<p>Uncheck this to disable the "
+#~| "rulers from being displayed.</p>"
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "The rulers are the white measuring spaces top and left of the document. "
+#~ "The rulers show the position and width of pages and of frames and can be "
+#~ "used to position tabulators among others.<p>Uncheck this to disable the "
+#~ "rulers from being displayed.</p>"
+#~ msgstr ""
+#~ "Cetveller, belgenin sol ve üstünde bulunan beyaz ölçüm alanlarıdır. "
+#~ "Cetveller, sayfanın eni, boyu, konumu ve üzerinde kullanılabilecek "
+#~ "çerçeveler ve ayırıcılar ile ilgili yerleştirme ayarları yapmanızı sağlar."
+#~ "<p>Cetvellerin görüntülenmesini istemiyorsanız işareti kaldırın.</p>"
+
+#, fuzzy
+#~| msgid "Snap to Grid"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Snap to Grid"
+#~ msgstr "Kılavuza Uydur"
+
+#, fuzzy
+#~| msgid "Show Status Bar"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Show Status Bar"
+#~ msgstr "Durum Çubuğunu Göster"
+
+#, fuzzy
+#~| msgid "Shows or hides the status bar"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Shows or hides the status bar"
+#~ msgstr "Durum çubuğunu gösterir ya da gizler"
+
+#, fuzzy
+#~| msgid "Distraction Free Mode"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Distraction Free Mode"
+#~ msgstr "Oyalamasız Kip"
+
+#, fuzzy
+#~| msgid "Set view in distraction free mode"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Set view in distraction free mode"
+#~ msgstr "Oyalamasız kipte görünümü ayarla"
+
+#, fuzzy
+#~| msgid "Semantic Stylesheets..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Semantic Stylesheets..."
+#~ msgstr "Semantik Stil Sayfaları..."
+
+#, fuzzy
+#~| msgid "Modify and add semantic stylesheets"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Modify and add semantic stylesheets"
+#~ msgstr "Semantik stil sayfalarını değiştirin ve ekleyin"
+
+#, fuzzy
+#~| msgid ""
+#~| "Stylesheets are used to format the display of information which is "
+#~| "stored in RDF."
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "Stylesheets are used to format the display of information which is stored "
+#~ "in RDF."
+#~ msgstr ""
+#~ "Stil sayfaları, RDF içinde saklanan bilgiyi görüntülenmesini "
+#~ "biçimlendirmek için kullanılır."
+
+#, fuzzy
+#~| msgid "Create"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Create"
+#~ msgstr "Oluştur"
+
+#, fuzzy
+#~| msgid "Configure..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Configure..."
+#~ msgstr "Yapılandır..."
+
+#, fuzzy
+#~| msgid "Page Layout..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Page Layout..."
+#~ msgstr "Sayfa Düzeni..."
+
+#, fuzzy
+#~| msgid "Change properties of entire page"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Change properties of entire page"
+#~ msgstr "Bütün sayfanın özelliklerini değiştir"
+
+#, fuzzy
+#~| msgid ""
+#~| "Change properties of the entire page.<p>Currently you can change paper "
+#~| "size, paper orientation, header and footer sizes, and column settings.</"
+#~| "p>"
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "Change properties of the entire page.<p>Currently you can change paper "
+#~ "size, paper orientation, header and footer sizes, and column settings.</p>"
+#~ msgstr ""
+#~ "Bütün sayfanın özelliklerini değiştir.<p>Burada sayfa boyutunu, sayfa "
+#~ "yönelişini, başlık ve dipnot boyutlarını ve sütun ayarlarını "
+#~ "değiştirebilirsiniz.</p>"
+
+#, fuzzy
+#~| msgid "Create Header"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Create Header"
+#~ msgstr "Üstbilgi Oluştur"
+
+#, fuzzy
+#~| msgid "Create Footer"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Create Footer"
+#~ msgstr "Altbilgi Oluştur"
+
+#, fuzzy
+#~| msgid "Show Comments"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Show Comments"
+#~ msgstr "Yorumları Göster"
+
+#, fuzzy
+#~| msgid "Shows comments in the document"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Shows comments in the document"
+#~ msgstr "Belgedeki yorumları göster"
+
+#, fuzzy
+#~| msgid "Word Count"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Word Count"
+#~ msgstr "Sözcük Sayısı"
+
+#, fuzzy
+#~| msgid "Shows or hides word counting in status bar"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Shows or hides word counting in status bar"
+#~ msgstr "Durum çubuğunda sözcük sayısını gösterir veya gizler"
+
+#, fuzzy
+#~| msgid "Page Setup"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Page Setup"
+#~ msgstr "Sayfa Düzeni"
+
+#, fuzzy
+#~| msgid "Header & Footer"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Header & Footer"
+#~ msgstr "Üstbilgi ve Altbilgi"
+
+#, fuzzy
+#~| msgid "Page layout"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Page layout"
+#~ msgstr "Sayfa düzeni"
+
+#, fuzzy
+#~| msgid "Options"
+#~ msgctxt "(qtundo-format) Search options"
+#~ msgid "Options"
+#~ msgstr "Seçenekler"
+
+#, fuzzy
+#~| msgid "Odd Pages Header"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Odd Pages Header"
+#~ msgstr "Tek Sayfa Başlığı"
+
+#, fuzzy
+#~| msgid "Even Pages Header"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Even Pages Header"
+#~ msgstr "Çift Sayfa Başlığı"
+
+#, fuzzy
+#~| msgid "Odd Pages Footer"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Odd Pages Footer"
+#~ msgstr "Tek Sayfa Dipnotu"
+
+#, fuzzy
+#~| msgid "Even Pages Footer"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Even Pages Footer"
+#~ msgstr "Çift Sayfa Dipnotu"
+
+#, fuzzy
+#~| msgid "Main text"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Main text"
+#~ msgstr "Ana metin"
+
+#, fuzzy
+#~| msgid "Other text"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Other text"
+#~ msgstr "Diğer metinler"
+
+#~ msgid "Book"
+#~ msgstr "Kitap"
+
+#~ msgctxt "application name"
+#~ msgid "Calligra Author"
+#~ msgstr "Calligra Author"
+
+#~ msgid "Author tool"
+#~ msgstr "Author aracı"
+
+#, fuzzy
+#~| msgid "© 2012-%1, The Author Team"
+#~ msgid "Copyright 2012-%1, The Author Team"
+#~ msgstr "© 2012-%1, Author Takımı"
+
+#~ msgid "Co-maintainer"
+#~ msgstr "Yardımcı proje sürdürücü"
+
+#~ msgid "Gopalakrishna Bhat"
+#~ msgstr "Gopalakrishna Bhat"
+
+#~ msgid "EPUB export"
+#~ msgstr "EPUB dışarıya aktarımı"
+
+#~ msgid "Mojtaba Shahi Senobari"
+#~ msgstr "Mojtaba Shahi Senobari"
+
+#~ msgid "Can not find needed text component, Author will quit now"
+#~ msgstr ""
+#~ "Gereken metin bileşeni bulunamadı. Şimdi Author uygulamasından çıkılıyor."
+
+#~ msgid "Select Cover Image..."
+#~ msgstr "Kapak Resmini Seç..."
+
+#~ msgid "Set cover for your ebook"
+#~ msgstr "E-kitabınız için kapak ayarlayın"
+
+#~ msgid "Open..."
+#~ msgstr "Aç..."
+
+#~ msgid "Open Cover"
+#~ msgstr "Kapak Aç"
+
+#~ msgid "Import problem"
+#~ msgstr "Problemi içe aktar"
+
+#~ msgid "Cover selection"
+#~ msgstr "Kapak seçimi"
+
+#~ msgid "No cover selected yet"
+#~ msgstr "Henüz kapak seçilmedi."
+
+#, fuzzy
+#~| msgid "Section"
+#~ msgid "Edit section"
+#~ msgstr "Bölüm"
+
+#, fuzzy
+#~| msgid "Main text"
+#~ msgid "Main"
+#~ msgstr "Ana metin"
+
+#, fuzzy
+#~| msgid "ODF Support"
+#~ msgid "Supporting"
+#~ msgstr "ODF Desteği"
+
+#, fuzzy
+#~| msgid "Author tool"
+#~ msgid "Author's actor"
+#~ msgstr "Author aracı"
+
+#, fuzzy
+#~| msgid "Left align with:"
+#~ msgid "LeftAlign"
+#~ msgstr "Sola hizala:"
+
+#, fuzzy
+#~| msgid "Center align with:"
+#~ msgid "CenterAlign"
+#~ msgstr "Ortaya hizala:"
+
+#, fuzzy
+#~| msgid "Right align with:"
+#~ msgid "RightAlign"
+#~ msgstr "Sağa hizala:"
+
+#, fuzzy
+#~| msgid "Author tool"
+#~ msgctxt "displayname of the semantic item type AuthorActor"
+#~ msgid "AuthorActor"
+#~ msgstr "Author aracı"
+
+#, fuzzy
+#~| msgid "Show Section Bounds"
+#~ msgid "Section's options"
+#~ msgstr "Bölüm Sınırlarını Göster"
+
+#, fuzzy
+#~| msgid "Edit"
+#~ msgid "1st Edit"
+#~ msgstr "Düzen"
+
+#, fuzzy
+#~| msgid "Edit"
+#~ msgid "2nd Edit"
+#~ msgstr "Düzen"
+
+#, fuzzy
+#~| msgid "Edit"
+#~ msgid "3rd Edit"
+#~ msgstr "Düzen"
+
+#, fuzzy
+#~| msgid "Author tool"
+#~ msgid "Author's section"
+#~ msgstr "Author aracı"
+
+#, fuzzy
+#~| msgid "Section"
+#~ msgctxt "displayname of the semantic item type AuthorSection"
+#~ msgid "Section"
+#~ msgstr "Bölüm"
+
+#~ msgid "File to open"
+#~ msgstr "Açılacak Dosya"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Create Frame"
+#~ msgstr "Çerçeve Oluştur"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Delete Frame"
+#~ msgstr "Çerçeveyi Sil"
+
+#~ msgid "General"
+#~ msgstr "Genel"
+
+#~ msgid "Protect size and position"
+#~ msgstr "Koruma boyutu ve konumu"
+
+#~ msgid "Position"
+#~ msgstr "Konum"
+
+#~ msgid "X:"
+#~ msgstr "X:"
+
+#~ msgid "Y:"
+#~ msgstr "Y:"
+
+#~ msgid "Width:"
+#~ msgstr "Genişlik:"
+
+#~ msgid "Height:"
+#~ msgstr "Yükseklik:"
+
+#~ msgid "Margins"
+#~ msgstr "Kenarlar"
+
+#~ msgid "Synchronize changes"
+#~ msgstr "Değişiklikleri Senkronize Et"
+
+#~ msgid "Bottom:"
+#~ msgstr "Üst:"
+
+#~ msgid "Top:"
+#~ msgstr "Orta"
+
+#~ msgid "Right:"
+#~ msgstr "Sağ:"
+
+#~ msgid "Left:"
+#~ msgstr "Sol:"
+
+#~ msgid "If Frame Overflows"
+#~ msgstr "Eğer Çerçeve Taşarsa"
+
+#~ msgid "Create a new page"
+#~ msgstr "Yeni bir sayfa oluştur"
+
+#~ msgid "Resize last frame"
+#~ msgstr "Son çerçeveyi yeniden boyutlandır"
+
+#~ msgid "Do not show the extra text"
+#~ msgstr "Ek metin gösterme"
+
+#~ msgid "When Creating a Page"
+#~ msgstr "Sayfa Oluşturulurken"
+
+#~ msgid "Reconnect frame to current flow"
+#~ msgstr "Çerçeveyi güncel akışa yeniden bağla"
+
+#~ msgid "Do not create a followup frame"
+#~ msgstr "İzleyen bir çerçeve oluşturma"
+
+#~ msgid "Copy this Frame"
+#~ msgstr "Bu Çerçeveyi kopyala"
+
+#~ msgid "Only on even/odd pages"
+#~ msgstr "Yalnızca tek/çift sayfalarda"
+
+#~ msgid "Protect content"
+#~ msgstr "İçeriği koru"
+
+#~ msgid "Frame is a copy of the previous frame"
+#~ msgstr "Çerçeve bir önceki çerçevenin bir kopyasıdır"
+
+#~ msgid "Changes will be applied to all frames in frameset"
+#~ msgstr "Değişiklikler çerçeve tablosundaki bütün çerçevelere uygulanacaktır"
+
+#~ msgid "Retain original aspect ratio"
+#~ msgstr "Orjinal görünüş oranına al"
+
+#~ msgid "Select All Shapes"
+#~ msgstr "Tüm Şekilleri Seç"
+
+#~ msgid "Create Linked Copy"
+#~ msgstr "Bağlı Kopya Oluştur"
+
+#~ msgid "Create a copy of the current frame, always showing the same contents"
+#~ msgstr "Geçerli çerçevenin kopyasını çıkarır, içerik de her zaman aynıdır."
+
+#~ msgid ""
+#~ "Create a copy of the current frame, that remains linked to it. This means "
+#~ "they always show the same contents: modifying the contents in such a "
+#~ "frame will update all its linked copies."
+#~ msgstr ""
+#~ "Geçerli çercevenin bir kopyasını, ona bağlantılı olarak oluştur. Bunun "
+#~ "anlamı, bu çerçeveler her zaman aynı içeriği taşır ve birinde yapılan bir "
+#~ "değişiklik tümünün içeriğini değiştirir."
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Create Linked Copy"
+#~ msgstr "Bağlı Kopya Oluştur"

@@ -1,0 +1,208 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Volkan Gezer <volkangezer@gmail.com>, 2014, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-12 00:21+0000\n"
+"PO-Revision-Date: 2021-02-15 14:17+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.08.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sezer Bozkır,M.Hayseme Karamuk"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "natgho@hotmail.com,a_developer_2002@outlook.com"
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "Language"
+msgstr "Dil"
+
+#: package/contents/ui/main.qml:90
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Languages"
+msgstr "Dil Ekle"
+
+#: package/contents/ui/main.qml:116
+#, kde-format
+msgctxt "@action:button"
+msgid "Add"
+msgstr "Ekle"
+
+#: package/contents/ui/main.qml:144
+#, kde-format
+msgctxt "@info"
+msgid "There are no additional languages available on this system."
+msgstr "Bu sistemde ek dil yok."
+
+#: package/contents/ui/main.qml:154
+#, kde-format
+msgctxt "@info"
+msgid "Your changes will take effect the next time you log in."
+msgstr "Seçiminiz bir sonraki girişinizde devreye girecek."
+
+#: package/contents/ui/main.qml:155
+#, kde-format
+msgctxt "@info"
+msgid "There are currently no preferred languages configured."
+msgstr "Şu anda tercih edilmiş dil bulunmuyor."
+
+#: package/contents/ui/main.qml:166
+#, kde-format
+msgctxt "@info %2 is the language code"
+msgid ""
+"The translation files for the language with the code '%2' could not be "
+"found. The language will be removed from your configuration. If you want to "
+"add it back, please install the localization files for it and add the "
+"language again."
+msgid_plural ""
+"The translation files for the languages with the codes '%2' could not be "
+"found. These languages will be removed from your configuration. If you want "
+"to add them back, please install the localization files for it and the "
+"languages again."
+msgstr[0] ""
+"'%2' dil kodu çeviri dosyaları bulunamadı. Dil, yapılandırmanızdan "
+"kaldırıldı. Tekrar eklemek isterseniz, lütfen yerelleştirme dosyalarını "
+"yükleyin ve dili tekrar ekleyin."
+msgstr[1] ""
+"'%2' dil kodu çevirilerin dosyaları bulunamadı. Diller, yapılandırmanızdan "
+"kaldırıldı. Tekrar eklemek isterseniz, lütfen yerelleştirme dosyalarını "
+"yükleyin ve dilleri tekrar ekleyin."
+
+#: package/contents/ui/main.qml:169
+#, kde-format
+msgctxt "@info separator in list of language codes"
+msgid "', '"
+msgstr "','"
+
+#: package/contents/ui/main.qml:179
+#, kde-format
+msgid ""
+"The language at the top of this list is the one you want to see and use most "
+"often."
+msgstr ""
+"Bu listenin en üstündeki dil, en sık görmek ve kullanmak isteyeceğiniz "
+"dildir."
+
+#: package/contents/ui/main.qml:259
+#, kde-format
+msgctxt "@item:inlistbox 1 = Language name"
+msgid "%1 (Default)"
+msgstr "%1 (Varsayılan)"
+
+#: package/contents/ui/main.qml:271
+#, fuzzy, kde-format
+#| msgid "Install more languages"
+msgctxt "@info:tooltip"
+msgid "Install Missing Packages"
+msgstr "Daha Fazla Dil Kur"
+
+#: package/contents/ui/main.qml:278
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Promote to default"
+msgstr "Varsayılana yükselt"
+
+#: package/contents/ui/main.qml:285
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Remove"
+msgstr "Kaldır"
+
+#: package/contents/ui/main.qml:310
+#, kde-format
+msgctxt "@action:button"
+msgid "Add languages..."
+msgstr "Dil ekle..."
+
+#: translations.cpp:43
+#, kde-format
+msgid "Configure Plasma translations"
+msgstr "Plasma çevirilerini yapılandır"
+
+#: translationsmodel.cpp:212 translationsmodel.cpp:223
+#, kde-format
+msgctxt "%1 is language name, %2 is language code name"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#~ msgid "Translations"
+#~ msgstr "Çeviriler"
+
+#~ msgid "John Layt"
+#~ msgstr "John Layt"
+
+#~ msgid "Maintainer"
+#~ msgstr "Projeyi Yürüten"
+
+#~ msgid "Applying Language Settings"
+#~ msgstr "Dil Ayarlarını Uygulama"
+
+#~ msgid ""
+#~ "<h1>Translations</h1>\n"
+#~ "<p>Here you can set your preferred language for translating the user "
+#~ "interface of your applications. You can choose a single language, or a "
+#~ "list of languages to be applied in sequence. Only language translations "
+#~ "that are installed on your system will be listed as available. If your "
+#~ "language is not listed then you will need to install it first.</p>"
+#~ msgstr ""
+#~ "<h1>Çeviriler</h1>\n"
+#~ "<p>Burada uygulamalarınızın kullanıcı arayüzünü çevirmek için öntanımlı "
+#~ "dilinizi ayarlayabilirsiniz. Tek bir dil veya sırayla uygulanacak dilleri "
+#~ "seçebilirsiniz. Sadece sisteminizde kurulu dil çevirileri "
+#~ "listelenecektir. Diliniz listede değilse, ilk olarak kurmanız gerekecek.</"
+#~ "p>"
+
+#~ msgid "Available Languages:"
+#~ msgstr "Mevcut Diller:"
+
+#~ msgid ""
+#~ "This is the list of installed KDE Plasma language translations not "
+#~ "currently being used. <br />To use a language translation move it to the "
+#~ "'Preferred Languages' list in the order of preference.  <br />If no "
+#~ "suitable languages are listed, then you may need to install more language "
+#~ "packages using your usual installation method."
+#~ msgstr ""
+#~ "Bu, henüz kullanılmayan KDE Plasma dil çevirilerinin listesi. <br />Bir "
+#~ "dil çevirisini kullanmak için, tercih sırasına göre 'Tercih Edilen "
+#~ "Diller' listesine taşıyın. <br />Eğer uygun bir dil yoksa, normal kurulum "
+#~ "yönteminizi kullanarak daha fazla dil paketi kurmanız gereklidir."
+
+#~ msgid ""
+#~ "This is the list of installed KDE Plasma language translations currently "
+#~ "being used, listed in order of preference.  <br />If a translation is not "
+#~ "available for the first language in the list, the next language will be "
+#~ "used. <br /> If no other translations are available then US English will "
+#~ "be used."
+#~ msgstr ""
+#~ "Bu liste KDE Plasma dil çevirisine şu anda kullanılan dilleri, tercih "
+#~ "sırasına listelemektedir.<br />Eğer çeviriler seçtiğiniz ilk dil için "
+#~ "mevcut değilse, listedeki bir sonraki dil kullanılır. <br /> Eğer "
+#~ "listedeki hiçbir dil yoksa Amerikan İngilizcesi dili kullanılır."
+
+#~ msgid "<p>Click here to install more languages</p>"
+#~ msgstr "<p>Daha fazla dil yüklemek için buraya tıklayın</p>"
+
+#~ msgid "Available &Translations:"
+#~ msgstr "Kullanılabilir &Çeviriler:"
+
+#~ msgid "Preferred Trans&lations:"
+#~ msgstr "Tercih Edilen &Çeviriler:"
+
+#~ msgid "Install more translations"
+#~ msgstr "Daha fazla çeviri yükle"

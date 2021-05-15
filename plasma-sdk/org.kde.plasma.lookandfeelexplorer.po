@@ -1,0 +1,184 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Volkan Gezer <volkangezer@gmail.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-04-06 00:20+0000\n"
+"PO-Revision-Date: 2017-06-09 14:23+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Volkan Gezer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "volkangezer@gmail.com"
+
+#: package/contents/ui/main.qml:31
+#, kde-format
+msgid "Look And Feel"
+msgstr "Bak ve Hisset"
+
+#: package/contents/ui/main.qml:47
+#, kde-format
+msgid "New Theme..."
+msgstr "Yeni Tema..."
+
+#: package/contents/ui/main.qml:64
+#, kde-format
+msgid "Open Theme Folder"
+msgstr "Tema Klasörünü Aç"
+
+#: package/contents/ui/main.qml:93
+#, fuzzy, kde-format
+#| msgid "Plugin Name:"
+msgid "Plugin name:"
+msgstr "Eklenti Adı:"
+
+#: package/contents/ui/main.qml:97
+#, kde-format
+msgid "Name:"
+msgstr "İsim:"
+
+#: package/contents/ui/main.qml:101 package/contents/ui/MetadataEditor.qml:77
+#, kde-format
+msgid "Comment:"
+msgstr "Yorum:"
+
+#: package/contents/ui/main.qml:105 package/contents/ui/MetadataEditor.qml:81
+#, kde-format
+msgid "Author:"
+msgstr "Yazar:"
+
+#: package/contents/ui/main.qml:109 package/contents/ui/MetadataEditor.qml:85
+#, kde-format
+msgid "Email:"
+msgstr "E-posta:"
+
+#: package/contents/ui/main.qml:113 package/contents/ui/MetadataEditor.qml:89
+#, kde-format
+msgid "Version:"
+msgstr "Sürüm:"
+
+#: package/contents/ui/main.qml:117 package/contents/ui/MetadataEditor.qml:93
+#, kde-format
+msgid "Website:"
+msgstr "Web site:"
+
+#: package/contents/ui/main.qml:121 package/contents/ui/MetadataEditor.qml:98
+#, kde-format
+msgid "License:"
+msgstr "Lisans:"
+
+#: package/contents/ui/main.qml:125
+#, kde-format
+msgid "Layout from current Plasma setup"
+msgstr "Geçerli Plasma ayarından düzen"
+
+#: package/contents/ui/main.qml:131
+#, kde-format
+msgid "Defaults from current setup"
+msgstr "Mevcut kurulumdan öntanımlılar"
+
+#: package/contents/ui/main.qml:153
+#, fuzzy, kde-format
+#| msgid "click to open an image"
+msgid "Click to open an image"
+msgstr "bir resim açmak için tıklayın"
+
+#: package/contents/ui/main.qml:189
+#, kde-format
+msgid "Save"
+msgstr "Kaydet"
+
+#: package/contents/ui/MetadataEditor.qml:29
+#, kde-format
+msgid "New Theme"
+msgstr "Yeni Tema"
+
+#: package/contents/ui/MetadataEditor.qml:58
+#, kde-format
+msgid "Theme Plugin Name:"
+msgstr "Tema Eklentisi Adı:"
+
+#: package/contents/ui/MetadataEditor.qml:63
+#, kde-format
+msgid "This theme plugin name already exists"
+msgstr "Bu tema eklenti adı zaten var"
+
+#: package/contents/ui/MetadataEditor.qml:73
+#, kde-format
+msgid "Theme Name:"
+msgstr "Tema Adı:"
+
+#: package/contents/ui/MetadataEditor.qml:110
+#, fuzzy, kde-format
+#| msgid "OK"
+msgid "OK "
+msgstr "Tamam"
+
+#: package/contents/ui/MetadataEditor.qml:116
+#, kde-format
+msgid "Cancel"
+msgstr "İptal"
+
+#: src/lnflogic.cpp:85
+#, kde-format
+msgid "Cannot retrieve the current Plasma layout."
+msgstr "Mevcut Plasma düzenini alınamadı."
+
+#: src/lnflogic.cpp:93
+#, kde-format
+msgid "Impossible to create the layouts directory in the look and feel package"
+msgstr "Bak ve Hisset paketinde düzen dizini oluşturmak mümkün değil"
+
+#: src/lnflogic.cpp:104
+#, kde-format
+msgid "Impossible to write to org.kde.plasma.desktop-layout.js"
+msgstr "org.kde.plasma.desktop-layout.js dosyasına yazmak mümkün değil"
+
+#: src/lnflogic.cpp:107
+#, kde-format
+msgid "Plasma Layout successfully duplicated"
+msgstr "Plasma Düzeni başarıyla çoğaltıldı"
+
+#: src/lnflogic.cpp:158
+#, kde-format
+msgid "Defaults config file saved from your current setup"
+msgstr "Geçerli kurulumunuzdan varsayılan yapılandırma dosyası kaydedildi"
+
+#: src/lnflogic.cpp:481
+#, kde-format
+msgid "Open Image"
+msgstr "Resim Aç"
+
+#: src/lnflogic.cpp:483
+#, kde-format
+msgid "Image Files (*.png *.jpg *.bmp)"
+msgstr "Resim Dosyaları (*.png *.jpg *.bmp)"
+
+#: src/main.cpp:34
+#, kde-format
+msgid "Plasma Look And Feel Explorer"
+msgstr "Plasma Bak ve Hisset Gezgini"
+
+#: src/main.cpp:38
+#, kde-format
+msgid "Look And Feel to open"
+msgstr "Açmak için Bak ve Hisset"
+
+#~ msgid "This theme name already exists"
+#~ msgstr "Bu tema adı zaten var"

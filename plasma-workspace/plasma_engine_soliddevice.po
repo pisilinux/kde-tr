@@ -1,0 +1,887 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Ozan Çağlayan <ozan@pardus.org.tr>, 2010.
+# Serdar Soytetir <tulliana@gmail.com>, 2012, 2013.
+# Volkan Gezer <volkangezer@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-03 00:21+0000\n"
+"PO-Revision-Date: 2015-05-19 12:31+0000\n"
+"Last-Translator: Necdet <necdetyucel@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: soliddeviceengine.cpp:125
+#, kde-format
+msgid "Parent UDI"
+msgstr "Üst UDI"
+
+#: soliddeviceengine.cpp:126
+#, kde-format
+msgid "Vendor"
+msgstr "Üretici"
+
+#: soliddeviceengine.cpp:127
+#, kde-format
+msgid "Product"
+msgstr "Ürün"
+
+#: soliddeviceengine.cpp:128
+#, kde-format
+msgid "Description"
+msgstr "Açıklama"
+
+#: soliddeviceengine.cpp:129
+#, kde-format
+msgid "Icon"
+msgstr "Simge"
+
+#: soliddeviceengine.cpp:130 soliddeviceengine.cpp:595
+#, kde-format
+msgid "Emblems"
+msgstr "Amblemler"
+
+#: soliddeviceengine.cpp:131 soliddeviceengine.cpp:479
+#: soliddeviceengine.cpp:485 soliddeviceengine.cpp:498
+#, kde-format
+msgid "State"
+msgstr "Durum"
+
+#: soliddeviceengine.cpp:132 soliddeviceengine.cpp:480
+#: soliddeviceengine.cpp:486 soliddeviceengine.cpp:494
+#: soliddeviceengine.cpp:496
+#, kde-format
+msgid "Operation result"
+msgstr "İşlem sonucu"
+
+#: soliddeviceengine.cpp:133
+#, kde-format
+msgid "Timestamp"
+msgstr "Zaman etiketi"
+
+#: soliddeviceengine.cpp:141
+#, kde-format
+msgid "Processor"
+msgstr "İşlemci"
+
+#: soliddeviceengine.cpp:142
+#, kde-format
+msgid "Number"
+msgstr "Adet"
+
+#: soliddeviceengine.cpp:143
+#, kde-format
+msgid "Max Speed"
+msgstr "Maksimum Hız"
+
+#: soliddeviceengine.cpp:144
+#, kde-format
+msgid "Can Change Frequency"
+msgstr "Frekans değiştirebilir"
+
+#: soliddeviceengine.cpp:152
+#, kde-format
+msgid "Block"
+msgstr "Blok"
+
+#: soliddeviceengine.cpp:153
+#, kde-format
+msgid "Major"
+msgstr "Majör"
+
+#: soliddeviceengine.cpp:154
+#, kde-format
+msgid "Minor"
+msgstr "Minör"
+
+#: soliddeviceengine.cpp:155
+#, kde-format
+msgid "Device"
+msgstr "Aygıt"
+
+#: soliddeviceengine.cpp:163
+#, kde-format
+msgid "Storage Access"
+msgstr "Depolama Erişimi"
+
+#: soliddeviceengine.cpp:164 soliddeviceengine.cpp:510
+#: soliddeviceengine.cpp:609
+#, kde-format
+msgid "Accessible"
+msgstr "Erişilebilir"
+
+#: soliddeviceengine.cpp:165 soliddeviceengine.cpp:511
+#, kde-format
+msgid "File Path"
+msgstr "Dosya Yolu"
+
+#: soliddeviceengine.cpp:180
+#, kde-format
+msgid "Storage Drive"
+msgstr "Depolama Sürücüsü"
+
+#: soliddeviceengine.cpp:183
+#, kde-format
+msgid "Ide"
+msgstr "Ide"
+
+#: soliddeviceengine.cpp:183
+#, kde-format
+msgid "Usb"
+msgstr "Usb"
+
+#: soliddeviceengine.cpp:183
+#, kde-format
+msgid "Ieee1394"
+msgstr "Ieee1394"
+
+#: soliddeviceengine.cpp:183
+#, kde-format
+msgid "Scsi"
+msgstr "Scsi"
+
+#: soliddeviceengine.cpp:183
+#, kde-format
+msgid "Sata"
+msgstr "Sata"
+
+#: soliddeviceengine.cpp:183
+#, kde-format
+msgid "Platform"
+msgstr "Platform"
+
+#: soliddeviceengine.cpp:185
+#, kde-format
+msgid "Hard Disk"
+msgstr "Sabit Disk"
+
+#: soliddeviceengine.cpp:185
+#, kde-format
+msgid "Cdrom Drive"
+msgstr "Cdrom Sürücü"
+
+#: soliddeviceengine.cpp:185
+#, kde-format
+msgid "Floppy"
+msgstr "Disket Sürücü"
+
+#: soliddeviceengine.cpp:185
+#, kde-format
+msgid "Tape"
+msgstr "Teyp"
+
+#: soliddeviceengine.cpp:185
+#, kde-format
+msgid "Compact Flash"
+msgstr "Compact Flash"
+
+#: soliddeviceengine.cpp:186
+#, kde-format
+msgid "Memory Stick"
+msgstr "Memory Stick"
+
+#: soliddeviceengine.cpp:186
+#, kde-format
+msgid "Smart Media"
+msgstr "Smart Media"
+
+#: soliddeviceengine.cpp:186
+#, kde-format
+msgid "SdMmc"
+msgstr "SdMmc"
+
+#: soliddeviceengine.cpp:186
+#, kde-format
+msgid "Xd"
+msgstr "Xd"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "Bus"
+msgstr "Bus"
+
+#: soliddeviceengine.cpp:189
+#, kde-format
+msgid "Drive Type"
+msgstr "Sürücü Türü"
+
+#: soliddeviceengine.cpp:190 soliddeviceengine.cpp:203
+#: soliddeviceengine.cpp:368 soliddeviceengine.cpp:382
+#, kde-format
+msgid "Removable"
+msgstr "Çıkarılabilir"
+
+#: soliddeviceengine.cpp:191 soliddeviceengine.cpp:204
+#: soliddeviceengine.cpp:369 soliddeviceengine.cpp:383
+#, kde-format
+msgid "Hotpluggable"
+msgstr "Tak-çalıştırılabilir"
+
+#: soliddeviceengine.cpp:213
+#, kde-format
+msgid "Optical Drive"
+msgstr "Optik Sürücü"
+
+#: soliddeviceengine.cpp:218
+#, kde-format
+msgid "CD-R"
+msgstr "CD-R"
+
+#: soliddeviceengine.cpp:221
+#, kde-format
+msgid "CD-RW"
+msgstr "CD-RW"
+
+#: soliddeviceengine.cpp:224
+#, kde-format
+msgid "DVD"
+msgstr "DVD"
+
+#: soliddeviceengine.cpp:227
+#, kde-format
+msgid "DVD-R"
+msgstr "DVD-R"
+
+#: soliddeviceengine.cpp:230
+#, kde-format
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+#: soliddeviceengine.cpp:233
+#, kde-format
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+#: soliddeviceengine.cpp:236
+#, kde-format
+msgid "DVD+R"
+msgstr "DVD+R"
+
+#: soliddeviceengine.cpp:239
+#, kde-format
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+#: soliddeviceengine.cpp:242
+#, kde-format
+msgid "DVD+DL"
+msgstr "DVD+DL"
+
+#: soliddeviceengine.cpp:245
+#, kde-format
+msgid "DVD+DLRW"
+msgstr "DVD+DLRW"
+
+#: soliddeviceengine.cpp:248
+#, kde-format
+msgid "BD"
+msgstr "BD"
+
+#: soliddeviceengine.cpp:251
+#, kde-format
+msgid "BD-R"
+msgstr "BD-R"
+
+#: soliddeviceengine.cpp:254
+#, kde-format
+msgid "BD-RE"
+msgstr "BD-RE"
+
+#: soliddeviceengine.cpp:257
+#, kde-format
+msgid "HDDVD"
+msgstr "HDDVD"
+
+#: soliddeviceengine.cpp:260
+#, kde-format
+msgid "HDDVD-R"
+msgstr "HDDVD-R"
+
+#: soliddeviceengine.cpp:263
+#, kde-format
+msgid "HDDVD-RW"
+msgstr "HDDVD-RW"
+
+#: soliddeviceengine.cpp:265
+#, kde-format
+msgid "Supported Media"
+msgstr "Desteklenen Ortam"
+
+#: soliddeviceengine.cpp:267
+#, kde-format
+msgid "Read Speed"
+msgstr "Okuma Hızı"
+
+#: soliddeviceengine.cpp:268
+#, kde-format
+msgid "Write Speed"
+msgstr "Yazma Hızı"
+
+#: soliddeviceengine.cpp:276
+#, kde-format
+msgid "Write Speeds"
+msgstr "Yazma Hızları"
+
+#: soliddeviceengine.cpp:284
+#, kde-format
+msgid "Storage Volume"
+msgstr "Depolama Bölümü"
+
+#: soliddeviceengine.cpp:287
+#, kde-format
+msgid "Other"
+msgstr "Diğer"
+
+#: soliddeviceengine.cpp:287
+#, kde-format
+msgid "Unused"
+msgstr "Kullanılmayan"
+
+#: soliddeviceengine.cpp:287
+#, kde-format
+msgid "File System"
+msgstr "Dosya Sistemi"
+
+#: soliddeviceengine.cpp:287
+#, kde-format
+msgid "Partition Table"
+msgstr "Disk Bölümü Tablosu"
+
+#: soliddeviceengine.cpp:287
+#, kde-format
+msgid "Raid"
+msgstr "Raid"
+
+#: soliddeviceengine.cpp:287
+#, kde-format
+msgid "Encrypted"
+msgstr "Şifreli"
+
+#: soliddeviceengine.cpp:290 soliddeviceengine.cpp:292
+#, kde-format
+msgid "Usage"
+msgstr "Kullanım"
+
+#: soliddeviceengine.cpp:292
+#, kde-format
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: soliddeviceengine.cpp:295
+#, kde-format
+msgid "Ignored"
+msgstr "Yoksayılmış"
+
+#: soliddeviceengine.cpp:296
+#, kde-format
+msgid "File System Type"
+msgstr "Dosya Sistemi Türü"
+
+#: soliddeviceengine.cpp:297
+#, kde-format
+msgid "Label"
+msgstr "Etiket"
+
+#: soliddeviceengine.cpp:298
+#, kde-format
+msgid "UUID"
+msgstr "UUID"
+
+#: soliddeviceengine.cpp:307
+#, kde-format
+msgid "Encrypted Container"
+msgstr "Şifreli Taşıyıcı"
+
+#: soliddeviceengine.cpp:319
+#, kde-format
+msgid "OpticalDisc"
+msgstr "OptikDisk"
+
+#: soliddeviceengine.cpp:325
+#, kde-format
+msgid "Audio"
+msgstr "Ses"
+
+#: soliddeviceengine.cpp:328
+#, kde-format
+msgid "Data"
+msgstr "Veri"
+
+#: soliddeviceengine.cpp:331
+#, kde-format
+msgid "Video CD"
+msgstr "Video CD"
+
+#: soliddeviceengine.cpp:334
+#, kde-format
+msgid "Super Video CD"
+msgstr "Super Video CD"
+
+#: soliddeviceengine.cpp:337
+#, kde-format
+msgid "Video DVD"
+msgstr "Video DVD"
+
+#: soliddeviceengine.cpp:340
+#, kde-format
+msgid "Video Blu Ray"
+msgstr "Video Blu Ray"
+
+#: soliddeviceengine.cpp:342
+#, kde-format
+msgid "Available Content"
+msgstr "Mevcut İçerik"
+
+#: soliddeviceengine.cpp:345
+#, kde-format
+msgid "Unknown Disc Type"
+msgstr "Bilinmeyen Disk Türü"
+
+#: soliddeviceengine.cpp:345
+#, kde-format
+msgid "CD Rom"
+msgstr "CD Rom"
+
+#: soliddeviceengine.cpp:345
+#, kde-format
+msgid "CD Recordable"
+msgstr "Kaydedilebilir CD"
+
+#: soliddeviceengine.cpp:345
+#, kde-format
+msgid "CD Rewritable"
+msgstr "Yeniden yazılabilir CD"
+
+#: soliddeviceengine.cpp:345
+#, kde-format
+msgid "DVD Rom"
+msgstr "DVD Rom"
+
+#: soliddeviceengine.cpp:346
+#, kde-format
+msgid "DVD Ram"
+msgstr "DVD Ram"
+
+#: soliddeviceengine.cpp:346
+#, kde-format
+msgid "DVD Recordable"
+msgstr "Kaydedilebilir DVD"
+
+#: soliddeviceengine.cpp:346
+#, kde-format
+msgid "DVD Rewritable"
+msgstr "Yeniden yazılabilir DVD"
+
+#: soliddeviceengine.cpp:346
+#, kde-format
+msgid "DVD Plus Recordable"
+msgstr "Kaydedilebilir DVD Plus"
+
+#: soliddeviceengine.cpp:347
+#, kde-format
+msgid "DVD Plus Rewritable"
+msgstr "Yeniden yazılabilir DVD Plus"
+
+#: soliddeviceengine.cpp:347
+#, kde-format
+msgid "DVD Plus Recordable Duallayer"
+msgstr "Çift katmanlı kaydedilebilir DVD Plus"
+
+#: soliddeviceengine.cpp:347
+#, kde-format
+msgid "DVD Plus Rewritable Duallayer"
+msgstr "Çift katmanlı yeniden yazılabilir DVD Plus"
+
+#: soliddeviceengine.cpp:348
+#, kde-format
+msgid "Blu Ray Rom"
+msgstr "Blu Ray Rom"
+
+#: soliddeviceengine.cpp:348
+#, kde-format
+msgid "Blu Ray Recordable"
+msgstr "Kaydedilebilir Blu Ray"
+
+#: soliddeviceengine.cpp:348
+#, kde-format
+msgid "Blu Ray Rewritable"
+msgstr "Yeniden yazılabilir Blu Ray"
+
+#: soliddeviceengine.cpp:348
+#, kde-format
+msgid "HD DVD Rom"
+msgstr "HD DVD Rom"
+
+#: soliddeviceengine.cpp:349
+#, kde-format
+msgid "HD DVD Recordable"
+msgstr "Kaydedilebilir HD DVD"
+
+#: soliddeviceengine.cpp:349
+#, kde-format
+msgid "HD DVD Rewritable"
+msgstr "Yeniden yazılabilir HD DVD"
+
+#: soliddeviceengine.cpp:351
+#, kde-format
+msgid "Disc Type"
+msgstr "Disk Türü"
+
+#: soliddeviceengine.cpp:352
+#, kde-format
+msgid "Appendable"
+msgstr "Sonuna eklenebilir"
+
+#: soliddeviceengine.cpp:353
+#, kde-format
+msgid "Blank"
+msgstr "Boş"
+
+#: soliddeviceengine.cpp:354
+#, kde-format
+msgid "Rewritable"
+msgstr "Yeniden yazılabilir"
+
+#: soliddeviceengine.cpp:355
+#, kde-format
+msgid "Capacity"
+msgstr "Kapasite"
+
+#: soliddeviceengine.cpp:363
+#, kde-format
+msgid "Camera"
+msgstr "Kamera"
+
+#: soliddeviceengine.cpp:365 soliddeviceengine.cpp:379
+#, kde-format
+msgid "Supported Protocols"
+msgstr "Desteklenen Protokoller"
+
+#: soliddeviceengine.cpp:366 soliddeviceengine.cpp:380
+#, kde-format
+msgid "Supported Drivers"
+msgstr "Desteklenen Sürücüler"
+
+#: soliddeviceengine.cpp:377
+#, kde-format
+msgid "Portable Media Player"
+msgstr "Taşınabilir Medya Oynatıcı"
+
+#: soliddeviceengine.cpp:391
+#, kde-format
+msgid "Battery"
+msgstr "Pil"
+
+#: soliddeviceengine.cpp:394
+#, kde-format
+msgid "Unknown Battery"
+msgstr "Bilinmeyen Pil"
+
+#: soliddeviceengine.cpp:394
+#, kde-format
+msgid "PDA Battery"
+msgstr "PDA Pili"
+
+#: soliddeviceengine.cpp:394
+#, kde-format
+msgid "UPS Battery"
+msgstr "UPS Pili"
+
+#: soliddeviceengine.cpp:394
+#, kde-format
+msgid "Primary Battery"
+msgstr "Birincil Pil"
+
+#: soliddeviceengine.cpp:395
+#, kde-format
+msgid "Mouse Battery"
+msgstr "Fare Pili"
+
+#: soliddeviceengine.cpp:395
+#, kde-format
+msgid "Keyboard Battery"
+msgstr "Klavye Pili"
+
+#: soliddeviceengine.cpp:395
+#, kde-format
+msgid "Keyboard Mouse Battery"
+msgstr "Klavye/Fare Pili"
+
+#: soliddeviceengine.cpp:395
+#, kde-format
+msgid "Camera Battery"
+msgstr "Kamera Pili"
+
+#: soliddeviceengine.cpp:396
+#, kde-format
+msgid "Phone Battery"
+msgstr "Telefon Pili"
+
+#: soliddeviceengine.cpp:396
+#, kde-format
+msgid "Monitor Battery"
+msgstr "Pili Görüntüle"
+
+#: soliddeviceengine.cpp:396
+#, kde-format
+msgid "Gaming Input Battery"
+msgstr ""
+
+#: soliddeviceengine.cpp:396
+#, fuzzy, kde-format
+#| msgid "Mouse Battery"
+msgid "Bluetooth Battery"
+msgstr "Fare Pili"
+
+#: soliddeviceengine.cpp:399
+#, kde-format
+msgid "Not Charging"
+msgstr "Şarj olmuyor"
+
+#: soliddeviceengine.cpp:399
+#, kde-format
+msgid "Charging"
+msgstr "Şarj oluyor"
+
+#: soliddeviceengine.cpp:399
+#, kde-format
+msgid "Discharging"
+msgstr "Şarj boşalıyor"
+
+#: soliddeviceengine.cpp:399
+#, kde-format
+msgid "Fully Charged"
+msgstr "Tamamen Dolu"
+
+#: soliddeviceengine.cpp:401
+#, kde-format
+msgid "Plugged In"
+msgstr "Takılı"
+
+#: soliddeviceengine.cpp:402
+#, kde-format
+msgid "Type"
+msgstr "Tür"
+
+#: soliddeviceengine.cpp:403
+#, kde-format
+msgid "Charge Percent"
+msgstr "Doluluk yüzdesi"
+
+#: soliddeviceengine.cpp:404
+#, kde-format
+msgid "Rechargeable"
+msgstr "Tekrar şarj edilebilir"
+
+#: soliddeviceengine.cpp:405
+#, kde-format
+msgid "Charge State"
+msgstr "Şarj Durumu"
+
+#: soliddeviceengine.cpp:430
+#, kde-format
+msgid "Type Description"
+msgstr "Tür Açıklaması"
+
+#: soliddeviceengine.cpp:435
+#, kde-format
+msgid "Device Types"
+msgstr "Aygıt Türleri"
+
+#: soliddeviceengine.cpp:459 soliddeviceengine.cpp:556
+#, kde-format
+msgid "Size"
+msgstr "Boyut"
+
+#: soliddeviceengine.cpp:538
+#, kde-format
+msgid "Filesystem is not responding"
+msgstr ""
+
+#: soliddeviceengine.cpp:538
+#, kde-format
+msgid "Filesystem mounted at '%1' is not responding"
+msgstr ""
+
+#: soliddeviceengine.cpp:554
+#, kde-format
+msgid "Free Space"
+msgstr "Boş Alan"
+
+#: soliddeviceengine.cpp:555
+#, kde-format
+msgid "Free Space Text"
+msgstr "Boş Alan Metni"
+
+#: soliddeviceengine.cpp:557
+#, fuzzy, kde-format
+#| msgid "Size"
+msgid "Size Text"
+msgstr "Boyut"
+
+#: soliddeviceengine.cpp:583
+#, kde-format
+msgid "Temperature"
+msgstr "Sıcaklık"
+
+#: soliddeviceengine.cpp:584
+#, kde-format
+msgid "Temperature Unit"
+msgstr "Sıcaklık Birimi"
+
+#: soliddeviceengine.cpp:628 soliddeviceengine.cpp:632
+#, kde-format
+msgid "In Use"
+msgstr "Kullanımda"
+
+#~ msgid "Network Interface"
+#~ msgstr "Ağ Arayüzü"
+
+#~ msgid "Interface Name"
+#~ msgstr "Arayüz Adı"
+
+#~ msgid "Wireless"
+#~ msgstr "Kablosuz"
+
+#~ msgid "Hardware Address"
+#~ msgstr "Donanım Adresi"
+
+#~ msgid "MAC Address"
+#~ msgstr "MAC Adresi"
+
+#~ msgid "AC Adapter"
+#~ msgstr "AC Adaptörü"
+
+#~ msgid "Button"
+#~ msgstr "Düğme"
+
+#~ msgid "Lid Button"
+#~ msgstr "Kapak Düğmesi"
+
+#~ msgid "Power Button"
+#~ msgstr "Güç Düğmesi"
+
+#~ msgid "Sleep Button"
+#~ msgstr "Uyku Düğmesi"
+
+#~ msgid "Unknown Button Type"
+#~ msgstr "Bilinmeyen Düğme Türü"
+
+#~ msgid "Has State"
+#~ msgstr "Durum"
+
+#~ msgid "State Value"
+#~ msgstr "Durum Değeri"
+
+#~ msgid "Pressed"
+#~ msgstr "Basılı"
+
+#~ msgid "Audio Interface"
+#~ msgstr "Ses Arayüzü"
+
+#~ msgid "ALSA"
+#~ msgstr "ALSA"
+
+#~ msgid "Open Sound System"
+#~ msgstr "Open Sound System"
+
+#~ msgid "Unknown Audio Driver"
+#~ msgstr "Bilinmeyen Ses Sürücüsü"
+
+#~ msgid "Driver"
+#~ msgstr "Sürücü"
+
+#~ msgid "Driver Handle"
+#~ msgstr "Driver Handle"
+
+#~ msgid "Name"
+#~ msgstr "Ad"
+
+#~ msgid "Unknown Audio Interface Type"
+#~ msgstr "Bilinmeyen Ses Arayüz Türü"
+
+#~ msgid "Audio Control"
+#~ msgstr "Ses Denetimi"
+
+#~ msgid "Audio Input"
+#~ msgstr "Ses Girişi"
+
+#~ msgid "Audio Output"
+#~ msgstr "Ses Çıkışı"
+
+#~ msgid "Audio Device Type"
+#~ msgstr "Ses Aygıt Türü"
+
+#~ msgid "Internal Soundcard"
+#~ msgstr "Bütünleşik Ses Kartı"
+
+#~ msgid "USB Soundcard"
+#~ msgstr "USB Ses Kartı"
+
+#~ msgid "Firewire Soundcard"
+#~ msgstr "Firewire Ses Kartı"
+
+#~ msgid "Headset"
+#~ msgstr "Kulaklık"
+
+#~ msgid "Modem"
+#~ msgstr "Modem"
+
+#~ msgid "Soundcard Type"
+#~ msgstr "Ses Kartı Türü"
+
+#~ msgid "DVB Interface"
+#~ msgstr "DVB Arayüzü"
+
+#~ msgid "Device Adapter"
+#~ msgstr "Aygıt Adaptörü"
+
+#~ msgid "DVB Unknown"
+#~ msgstr "DVB Bilinmeyen"
+
+#~ msgid "DVB Audio"
+#~ msgstr "DVB Ses"
+
+#~ msgid "DVB Ca"
+#~ msgstr "DVB Ca"
+
+#~ msgid "DVB Demux"
+#~ msgstr "DVB Demux"
+
+#~ msgid "DVB DVR"
+#~ msgstr "DVB DVR"
+
+#~ msgid "DVB Frontend"
+#~ msgstr "DVB Önyüzü (frontend)"
+
+#~ msgid "DVB Net"
+#~ msgstr "DVB Net"
+
+#~ msgid "DVB OSD"
+#~ msgstr "DVB OSD"
+
+#~ msgid "DVB Sec"
+#~ msgstr "DVB Sec"
+
+#~ msgid "DVB Video"
+#~ msgstr "DVB Video"
+
+#~ msgid "DVB Device Type"
+#~ msgstr "DVB Aygıt Türü"
+
+#~ msgid "Device Index"
+#~ msgstr "Aygıt Endeksi"
+
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgid "Driver Handles"
+#~ msgstr "Driver Handles"

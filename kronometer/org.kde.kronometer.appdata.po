@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.kronometer.appdata\n"
+"POT-Creation-Date: 2017-11-22 08:51+0100\n"
+"PO-Revision-Date: 2017-08-10 15:13+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. (itstool) path: component/name
+#: org.kde.kronometer.appdata.xml:7
+msgid "Kronometer"
+msgstr "Kronometer"
+
+#. (itstool) path: component/summary
+#: org.kde.kronometer.appdata.xml:8
+msgid "Chronometer"
+msgstr "Kronometre"
+
+#. (itstool) path: description/p
+#: org.kde.kronometer.appdata.xml:10
+msgid ""
+"Kronometer is a stopwatch application. It features the basic stopwatch "
+"actions (pause/resume/reset/laps), as well as the ability to save the times "
+"and resume them later. Kronometer is part of the KDE Extragear collection, "
+"within the Utils sub-module."
+msgstr ""
+"Kronometer bir kronometre uygulamasıdır. Temel kronometre eylemlerini "
+"(duraklatma/devam ettirme/sıfırlama/turlama), zaman kazanma ve bunları daha "
+"sonra yeniden başlatma becerisi sunar. Kronometre, Utils alt modülündeki KDE "
+"Extragear koleksiyonunun bir parçasıdır."
+
+#. (itstool) path: description/p
+#: org.kde.kronometer.appdata.xml:13
+msgid "Features:"
+msgstr "Özellikler:"
+
+#. (itstool) path: ul/li
+#: org.kde.kronometer.appdata.xml:15
+msgid "Start/pause/resume the stopwatch widget"
+msgstr "Başlat/duraklat/devam et kronometre programcıkları"
+
+#. (itstool) path: ul/li
+#: org.kde.kronometer.appdata.xml:16
+msgid "Laps recording: you can capture the stopwatch time when you want"
+msgstr "Tur kayıtları: İstediğinizde kronometre saatini yakalayabilirsiniz"
+
+#. (itstool) path: ul/li
+#: org.kde.kronometer.appdata.xml:17
+msgid ""
+"Lap times sorting: you can easily find the shortest lap time or the longest "
+"one"
+msgstr ""
+"Tur zamanı sıralama: en kısa tur zamanı veya en uzun tur zamanını kolayca "
+"bulabilirsiniz"
+
+#. (itstool) path: ul/li
+#: org.kde.kronometer.appdata.xml:18
+msgid "Reset the stopwatch widget and the lap times"
+msgstr "Kronometre programcığını ve tur zamanlarını sıfırlama"
+
+#. (itstool) path: ul/li
+#: org.kde.kronometer.appdata.xml:19
+msgid "Time format settings: you can choose the stopwatch granularity"
+msgstr "Zaman biçimi ayarları: kronometre parçalarını seçebilirsiniz"
+
+#. (itstool) path: ul/li
+#: org.kde.kronometer.appdata.xml:20
+msgid ""
+"Times saving and resuming: you can save the stopwatch status and resume it "
+"later"
+msgstr ""
+"Zaman kaydetme ve devam ettirme: kronometre durumunu kaydedebilir ve "
+"sonradan devam ettirebilirsiniz"
+
+#. (itstool) path: ul/li
+#: org.kde.kronometer.appdata.xml:21
+msgid ""
+"Font customization: you can choose the fonts for each of the stopwatch digits"
+msgstr ""
+"Yazı tipi özelleştirme: kronometrenin her bir basamağının yazı tipini "
+"seçebilirsiniz"
+
+#. (itstool) path: ul/li
+#: org.kde.kronometer.appdata.xml:22
+msgid ""
+"Color customization: you can choose the color for the stopwatch digits and "
+"the stopwatch background"
+msgstr ""
+"Renk özelleştirme: kronometrenin her bir basamağını ve arkaplanının rengini "
+"seçebilirsiniz"
+
+#. (itstool) path: ul/li
+#: org.kde.kronometer.appdata.xml:23
+msgid ""
+"Lap times export: you can export the lap times to a file using the JSON or "
+"CSV format"
+msgstr ""
+"Tur zamanlarını dışa aktarma: tur zamanlarını JSON veya CSV biçiminde bir "
+"dosyaya aktarabilirsiniz"

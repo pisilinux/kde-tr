@@ -1,0 +1,2944 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2011.
+# obsoleteman <tulliana@gmail.com>, 2012.
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014, 2015, 2017, 2021.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepimlibs-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-02-02 02:47+0100\n"
+"PO-Revision-Date: 2021-01-16 14:14+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.08.2\n"
+
+#: src/grantleetemplatemanager.cpp:83
+#, kde-format
+msgid "Template"
+msgstr "Şablon"
+
+#: src/grantleetemplatemanager.cpp:83
+#, kde-format
+msgid "Error message"
+msgstr "Hata iletisi"
+
+#: src/grantleetemplatemanager.cpp:102
+#, kde-format
+msgid "Template parsing error"
+msgstr "Şablon ayrıştırma hatası"
+
+#: src/grantleetemplatemanager.cpp:107
+#, kde-format
+msgid "Template rendering error"
+msgstr "Şablon derleme hatası"
+
+#: src/htmlexport.cpp:174
+#, kde-format
+msgctxt "@title month and year"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: src/htmlexport.cpp:250
+#, kde-format
+msgctxt "@title:column event start time"
+msgid "Start Time"
+msgstr "Başlama Zamanı"
+
+#: src/htmlexport.cpp:251
+#, kde-format
+msgctxt "@title:column event end time"
+msgid "End Time"
+msgstr "Bitiş Zamanı"
+
+#: src/htmlexport.cpp:252
+#, kde-format
+msgctxt "@title:column event description"
+msgid "Event"
+msgstr "Etkinlik"
+
+#: src/htmlexport.cpp:254
+#, kde-format
+msgctxt "@title:column event location"
+msgid "Location"
+msgstr "Konum"
+
+#: src/htmlexport.cpp:258
+#, kde-format
+msgctxt "@title:column event categories"
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: src/htmlexport.cpp:262
+#, kde-format
+msgctxt "@title:column event attendees"
+msgid "Attendees"
+msgstr "Katılanlar"
+
+#: src/htmlexport.cpp:379
+#, kde-format
+msgctxt "@title:column"
+msgid "To-do"
+msgstr "Yapılacak"
+
+#: src/htmlexport.cpp:380
+#, kde-format
+msgctxt "@title:column to-do priority"
+msgid "Priority"
+msgstr "Öncelik"
+
+#: src/htmlexport.cpp:381
+#, kde-format
+msgctxt "@title:column to-do percent completed"
+msgid "Completed"
+msgstr "Tamamlanmış"
+
+#: src/htmlexport.cpp:383
+#, kde-format
+msgctxt "@title:column to-do due date"
+msgid "Due Date"
+msgstr "Bitiş Tarihi"
+
+#: src/htmlexport.cpp:387
+#, kde-format
+msgctxt "@title:column to-do location"
+msgid "Location"
+msgstr "Konum"
+
+#: src/htmlexport.cpp:391
+#, kde-format
+msgctxt "@title:column to-do categories"
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: src/htmlexport.cpp:395
+#, kde-format
+msgctxt "@title:column to-do attendees"
+msgid "Attendees"
+msgstr "Katılanlar"
+
+#: src/htmlexport.cpp:416
+#, kde-format
+msgctxt "@title:column sub-to-dos of the parent to-do"
+msgid "Sub-To-dos of: "
+msgstr "Bu yapılacak ögesinin alt ögeleri:"
+
+#: src/htmlexport.cpp:471
+#, kde-format
+msgctxt "@title:column sub-to-dos of the parent to-do"
+msgid "Sub-To-dos"
+msgstr "Alt yapılacak ögeleri"
+
+#: src/htmlexport.cpp:489
+#, kde-format
+msgctxt "@info to-do percent complete"
+msgid "%1 %"
+msgstr "%1 %"
+
+#: src/htmlexport.cpp:634
+#, kde-format
+msgctxt "@info"
+msgid "This page was created "
+msgstr "Bu sayfa oluşturuldu "
+
+#: src/htmlexport.cpp:643
+#, kde-kuit-format
+msgctxt "@info/plain page creator email link with name"
+msgid "by <link url='mailto:%1'>%2</link> "
+msgstr "oluşturan <link url='mailto:%1'>%2</link> "
+
+#: src/htmlexport.cpp:645
+#, kde-kuit-format
+msgctxt "@info/plain page creator email link"
+msgid "by <link url='mailto:%1'>%2</link> "
+msgstr "oluşturan <link url='mailto:%1'>%2</link> "
+
+#: src/htmlexport.cpp:649
+#, kde-format
+msgctxt "@info page creator name only"
+msgid "by %1 "
+msgstr "%1 tarafından "
+
+#: src/htmlexport.cpp:655
+#, kde-kuit-format
+msgctxt "@info/plain page credit with name and link"
+msgid "with <link url='%1'>%2</link>"
+msgstr "<link url='%1'>%2</link> ile"
+
+#: src/htmlexport.cpp:657
+#, kde-format
+msgctxt "@info page credit name only"
+msgid "with %1"
+msgstr "%1 ile"
+
+#: src/htmlexport.cpp:723
+#, kde-format
+msgctxt "@info holiday by date and name"
+msgid "%1, %2"
+msgstr "%1, %2"
+
+#: src/incidenceformatter.cpp:166
+#, kde-format
+msgid "Organizer Unknown"
+msgstr "Düzenleyici Bilinmiyor"
+
+#: src/incidenceformatter.cpp:188 src/incidenceformatter.cpp:1416
+#, kde-format
+msgid "Sender"
+msgstr "Gönderen"
+
+#: src/incidenceformatter.cpp:352
+#, kde-format
+msgid "Show mail"
+msgstr "İletiyi göster"
+
+#: src/incidenceformatter.cpp:611 src/incidenceformatter.cpp:1256
+#, kde-format
+msgctxt "hours part of duration"
+msgid "1 hour "
+msgid_plural "%1 hours "
+msgstr[0] "1 saat "
+msgstr[1] "%1 saat "
+
+#: src/incidenceformatter.cpp:615
+#, kde-format
+msgctxt "minutes part duration"
+msgid "1 minute "
+msgid_plural "%1 minutes "
+msgstr[0] "1 dakika "
+msgstr[1] "%1 dakika "
+
+#: src/incidenceformatter.cpp:619 src/incidenceformatter.cpp:1264
+#, kde-format
+msgctxt "seconds part of duration"
+msgid "1 second"
+msgid_plural "%1 seconds"
+msgstr[0] "1 saniye"
+msgstr[1] "%1 saniye"
+
+#: src/incidenceformatter.cpp:760
+#, kde-format
+msgid "Summary unspecified"
+msgstr "Özet belirtilmemiş"
+
+#: src/incidenceformatter.cpp:776
+#, kde-format
+msgid "Location unspecified"
+msgstr "Konum belirtilmemiş"
+
+#: src/incidenceformatter.cpp:910
+#, kde-format
+msgid "Your response is requested."
+msgstr "Yanıtınız isteniyor."
+
+#: src/incidenceformatter.cpp:912
+#, kde-format
+msgid "Your response as <b>%1</b> is requested."
+msgstr "Yanıtınız <b>%1</b> olarak istendi"
+
+#: src/incidenceformatter.cpp:916
+#, kde-format
+msgid "No response is necessary."
+msgstr "Bir yanıt gerekmiyor."
+
+#: src/incidenceformatter.cpp:918
+#, kde-format
+msgid "No response as <b>%1</b> is necessary."
+msgstr "<b>%1</b> olarak yanıt vermeniz gerekmiyor."
+
+#: src/incidenceformatter.cpp:928
+#, kde-format
+msgid "(<b>Note</b>: the Organizer preset your response to <b>%1</b>)"
+msgstr ""
+"(<b>Not</b>: Organizer cevabınızı şu şekilde önceden ayarlar: <b>%1</b>)"
+
+#: src/incidenceformatter.cpp:1067 src/incidenceformatter.cpp:1127
+#, kde-format
+msgid "Check my calendar"
+msgstr "Takvimimi kontrol et"
+
+#: src/incidenceformatter.cpp:1112 src/incidenceformatter.cpp:1182
+#, kde-format
+msgid "Please respond again to the original proposal."
+msgstr "Lütfen özgün teklife tekrar cevap verin."
+
+#: src/incidenceformatter.cpp:1163 src/incidenceformatter.cpp:1194
+#: src/templates/todo.html:179
+#, kde-format
+msgid "%1%"
+msgstr "%%1"
+
+#: src/incidenceformatter.cpp:1260
+#, kde-format
+msgctxt "minutes part of duration"
+msgid "1 minute"
+msgid_plural "%1 minutes "
+msgstr[0] "1 dakika"
+msgstr[1] "%1 dakika"
+
+#: src/incidenceformatter.cpp:1312
+#, kde-format
+msgid "This invitation has been published."
+msgstr "Bu davet yayınlandı."
+
+#: src/incidenceformatter.cpp:1317
+#, kde-format
+msgid "This invitation has been updated by the organizer %1."
+msgstr "%1 düzenleyicisi tarafından bu davet güncellendi."
+
+#: src/incidenceformatter.cpp:1319
+#, kde-format
+msgid "This invitation has been updated by %1 as a representative of %2."
+msgstr "%2 ögesinin temsili olarak %1 ögesi tarafından bu davet güncellendi."
+
+#: src/incidenceformatter.cpp:1323
+#, kde-format
+msgid "I created this invitation."
+msgstr "Bu daveti ben oluşturdum."
+
+#: src/incidenceformatter.cpp:1327
+#, kde-format
+msgid "You received an invitation from %1."
+msgstr "%1 kişisinden bir davet aldınız."
+
+#: src/incidenceformatter.cpp:1329
+#, kde-format
+msgid "You received an invitation from %1 as a representative of %2."
+msgstr "%2 ögesinin temsili olarak %1 ögesinden bir davet aldın."
+
+#: src/incidenceformatter.cpp:1333
+#, kde-format
+msgid "This invitation was refreshed."
+msgstr "Bu davet yenilendi."
+
+#: src/incidenceformatter.cpp:1336
+#, kde-format
+msgid "This invitation has been canceled."
+msgstr "Bu davet iptal edildi."
+
+#: src/incidenceformatter.cpp:1338
+#, kde-format
+msgid "The organizer has revoked the invitation."
+msgstr "Düzenleyici daveti iptal etti."
+
+#: src/incidenceformatter.cpp:1341
+#, kde-format
+msgid "Addition to the invitation."
+msgstr "Davete ek."
+
+#: src/incidenceformatter.cpp:1344 src/incidenceformatter.cpp:1416
+#: src/incidenceformatter.cpp:1475 src/incidenceformatter.cpp:1555
+#, kde-format
+msgid "%1 makes this counter proposal."
+msgstr "%1 bu karşı teklifi yapıyor."
+
+#: src/incidenceformatter.cpp:1367
+#, kde-format
+msgid "%1 indicates this invitation still needs some action."
+msgstr "%1 bu davetin halen eylem gerektirdiğini gösteriyor."
+
+#: src/incidenceformatter.cpp:1371
+#, kde-format
+msgid "This invitation has been updated by attendee %1."
+msgstr "Bu davet %1 katılımcısı tarafından güncellendi."
+
+#: src/incidenceformatter.cpp:1373
+#, kde-format
+msgid "This invitation has been updated by an attendee."
+msgstr "Bu davetiye bir katılımcı tarafından güncellendi."
+
+#: src/incidenceformatter.cpp:1377
+#, kde-format
+msgid "%1 accepts this invitation."
+msgstr "%1 bu daveti kabul ediyor."
+
+#: src/incidenceformatter.cpp:1379
+#, kde-format
+msgid "%1 accepts this invitation on behalf of %2."
+msgstr "%1 bu daveti %2 adına kabul ediyor."
+
+#: src/incidenceformatter.cpp:1384
+#, kde-format
+msgid "%1 tentatively accepts this invitation."
+msgstr "%1 bu daveti geçici olarak kabul ediyor."
+
+#: src/incidenceformatter.cpp:1386
+#, kde-format
+msgid "%1 tentatively accepts this invitation on behalf of %2."
+msgstr "%1 bu daveti %2 adına geçici olarak kabul ediyor."
+
+#: src/incidenceformatter.cpp:1390
+#, kde-format
+msgid "%1 declines this invitation."
+msgstr "%1 bu daveti reddediyor."
+
+#: src/incidenceformatter.cpp:1392
+#, kde-format
+msgid "%1 declines this invitation on behalf of %2."
+msgstr "%1 bu daveti %2 adına reddediyor."
+
+#: src/incidenceformatter.cpp:1401
+#, kde-format
+msgid "%1 has delegated this invitation to %2."
+msgstr "%1 bu davet için temsilci gönderiyor %2."
+
+#: src/incidenceformatter.cpp:1403
+#, kde-format
+msgid "%1 has delegated this invitation."
+msgstr "%1 bu davet için temsilci gönderiyor."
+
+#: src/incidenceformatter.cpp:1407
+#, kde-format
+msgid "This invitation is now completed."
+msgstr "Bu davet şu anda tamamlandı."
+
+#: src/incidenceformatter.cpp:1409
+#, kde-format
+msgid "%1 is still processing the invitation."
+msgstr "%1 halen toplantı davetini gözden geçiriyor."
+
+#: src/incidenceformatter.cpp:1411
+#, kde-format
+msgid "Unknown response to this invitation."
+msgstr "Bu davet için bilinmeyen yanıt."
+
+#: src/incidenceformatter.cpp:1421
+#, kde-format
+msgid "%1 declines your counter proposal."
+msgstr "%1 karşı teklifinizi reddediyor."
+
+#: src/incidenceformatter.cpp:1423
+#, kde-format
+msgid "%1 declines your counter proposal on behalf of %2."
+msgstr "%1 %2 adına sizin teklifinizi reddediyor."
+
+#: src/incidenceformatter.cpp:1428
+#, kde-format
+msgid "Error: Event iTIP message with unknown method."
+msgstr "Hata: Bilinmeyen yöntemli iTIP iletisi."
+
+#: src/incidenceformatter.cpp:1442
+#, kde-format
+msgid "This to-do has been published."
+msgstr "Bu yapılacak ögesi duyuruldu."
+
+#: src/incidenceformatter.cpp:1447
+#, kde-format
+msgid "This to-do has been updated by the organizer %1."
+msgstr "Bu yapılacak iş %1 düzenleyicisi tarafından güncellendi."
+
+#: src/incidenceformatter.cpp:1449
+#, kde-format
+msgid "This to-do has been updated by %1 as a representative of %2."
+msgstr "%2 temsili olarak %1 tarafından bu yapılacak öge güncellendi."
+
+#: src/incidenceformatter.cpp:1453
+#, kde-format
+msgid "I created this to-do."
+msgstr "Bu yapılacak işi ben oluşturdum."
+
+#: src/incidenceformatter.cpp:1457
+#, kde-format
+msgid "You have been assigned this to-do by %1."
+msgstr "%1 tarafından bu yapılacak işe atandınız."
+
+#: src/incidenceformatter.cpp:1459
+#, kde-format
+msgid "You have been assigned this to-do by %1 as a representative of %2."
+msgstr ""
+"%2 ögesinin temsili olarak %1 ögesi tarafından bu yapılacak ögeye atandınız."
+
+#: src/incidenceformatter.cpp:1464
+#, kde-format
+msgid "This to-do was refreshed."
+msgstr "Bu yapılacak ögesi yenilendi."
+
+#: src/incidenceformatter.cpp:1467
+#, kde-format
+msgid "This to-do was canceled."
+msgstr "Bu yapılacak ögesi iptal edildi."
+
+#: src/incidenceformatter.cpp:1469
+#, kde-format
+msgid "The organizer has revoked this to-do."
+msgstr "Düzenleyici bu yapılacak işi iptal etti."
+
+#: src/incidenceformatter.cpp:1472
+#, kde-format
+msgid "Addition to the to-do."
+msgstr "Yapılacak ögesine ek yapıldı."
+
+#: src/incidenceformatter.cpp:1498
+#, kde-format
+msgid "%1 indicates this to-do assignment still needs some action."
+msgstr "%1 bu yapılacak öge atamasının halen eylem gerektirdiğini gösteriyor."
+
+#: src/incidenceformatter.cpp:1503
+#, kde-format
+msgid "This to-do has been completed by assignee %1."
+msgstr "Bu yapılacak öge %1 tarafından tamamlandı."
+
+#: src/incidenceformatter.cpp:1505
+#, kde-format
+msgid "This to-do has been updated by assignee %1."
+msgstr "Bu yapılacak öge %1 tarafından güncellendi."
+
+#: src/incidenceformatter.cpp:1509
+#, kde-format
+msgid "This to-do has been completed by an assignee."
+msgstr "Bu yapılacak öge bir vekil tarafından tamamlandı."
+
+#: src/incidenceformatter.cpp:1511
+#, kde-format
+msgid "This to-do has been updated by an assignee."
+msgstr "Bu yapılacak öge bir vekil tarafından güncellendi."
+
+#: src/incidenceformatter.cpp:1516
+#, kde-format
+msgid "%1 accepts this to-do."
+msgstr "%1 bu yapılacak ögeyi kabul ediyor."
+
+#: src/incidenceformatter.cpp:1518
+#, kde-format
+msgid "%1 accepts this to-do on behalf of %2."
+msgstr "%2 yerine %1 bu yapılacak ögeyi kabul ediyor."
+
+#: src/incidenceformatter.cpp:1523
+#, kde-format
+msgid "%1 tentatively accepts this to-do."
+msgstr "%1 bu ögeyi geçici olarak kabul ediyor."
+
+#: src/incidenceformatter.cpp:1525
+#, kde-format
+msgid "%1 tentatively accepts this to-do on behalf of %2."
+msgstr "%2 yerine %1 geçici olarak bu ögeyi kabul ediyor."
+
+#: src/incidenceformatter.cpp:1529
+#, kde-format
+msgid "%1 declines this to-do."
+msgstr "%1 bu yapılacak işi reddediyor."
+
+#: src/incidenceformatter.cpp:1531
+#, kde-format
+msgid "%1 declines this to-do on behalf of %2."
+msgstr "%1 bu yapılacak işi %2 adına reddediyor."
+
+#: src/incidenceformatter.cpp:1540
+#, kde-format
+msgid "%1 has delegated this to-do to %2."
+msgstr "%1 bu yapılacak işi %2 kişisine atadı."
+
+#: src/incidenceformatter.cpp:1542
+#, kde-format
+msgid "%1 has delegated this to-do."
+msgstr "%1 bu yapılacak işi devretti."
+
+#: src/incidenceformatter.cpp:1546
+#, kde-format
+msgid "The request for this to-do is now completed."
+msgstr "Bu yapılacak ögesi için yapılan istek tamamlandı."
+
+#: src/incidenceformatter.cpp:1548
+#, kde-format
+msgid "%1 is still processing the to-do."
+msgstr "%1 halen bu yapılacak işi gözden geçiriyor."
+
+#: src/incidenceformatter.cpp:1550
+#, kde-format
+msgid "Unknown response to this to-do."
+msgstr "Bu yapılacak ögesi için bilinmeyen yanıt."
+
+#: src/incidenceformatter.cpp:1560
+#, kde-format
+msgid "%1 declines the counter proposal."
+msgstr "%1 karşı teklifi reddediyor."
+
+#: src/incidenceformatter.cpp:1562
+#, kde-format
+msgid "%1 declines the counter proposal on behalf of %2."
+msgstr "%2 adına %1 karşı önerileri geri çevirir."
+
+#: src/incidenceformatter.cpp:1567
+#, kde-format
+msgid "Error: To-do iTIP message with unknown method."
+msgstr "Hata: Bilinmeyen yöntemli iTIP iletisi."
+
+#: src/incidenceformatter.cpp:1581
+#, kde-format
+msgid "This journal has been published."
+msgstr "Bu günlük yayınlandı."
+
+#: src/incidenceformatter.cpp:1583
+#, kde-format
+msgid "You have been assigned this journal."
+msgstr "Bu günlüğe atandınız."
+
+#: src/incidenceformatter.cpp:1585
+#, kde-format
+msgid "This journal was refreshed."
+msgstr "Bu günlük yenilendi."
+
+#: src/incidenceformatter.cpp:1587
+#, kde-format
+msgid "This journal was canceled."
+msgstr "Bu günlük iptal edildi."
+
+#: src/incidenceformatter.cpp:1589
+#, kde-format
+msgid "Addition to the journal."
+msgstr "Bu günlüğe ek."
+
+#: src/incidenceformatter.cpp:1592 src/incidenceformatter.cpp:1627
+#: src/incidenceformatter.cpp:1657
+#, kde-format
+msgid "Sender makes this counter proposal."
+msgstr "Gönderen bu karşı teklifi yapıyor."
+
+#: src/incidenceformatter.cpp:1608
+#, kde-format
+msgid "Sender indicates this journal assignment still needs some action."
+msgstr "Gönderen bu görev atamasının halen eylem gerektirdiğini belirtiyor."
+
+#: src/incidenceformatter.cpp:1610
+#, kde-format
+msgid "Sender accepts this journal."
+msgstr "Gönderen bu günlüğü kabul eder."
+
+#: src/incidenceformatter.cpp:1612
+#, kde-format
+msgid "Sender tentatively accepts this journal."
+msgstr "Gönderen bu günlüğü geçici olarak kabul eder."
+
+#: src/incidenceformatter.cpp:1614
+#, kde-format
+msgid "Sender declines this journal."
+msgstr "Gönderen bu günlüğü geri çeker."
+
+#: src/incidenceformatter.cpp:1616
+#, kde-format
+msgid "Sender has delegated this request for the journal."
+msgstr "Gönderen bu talebi günlüğe aktardı.."
+
+#: src/incidenceformatter.cpp:1618
+#, kde-format
+msgid "The request for this journal is now completed."
+msgstr "Bu günlük için istek şimdi tamamlandı."
+
+#: src/incidenceformatter.cpp:1620
+#, kde-format
+msgid "Sender is still processing the invitation."
+msgstr "Gönderen halen toplantı davetini gözden geçiriyor."
+
+#: src/incidenceformatter.cpp:1622
+#, kde-format
+msgid "Unknown response to this journal."
+msgstr "Bu günlüğe bilinmeyen yanıt."
+
+#: src/incidenceformatter.cpp:1629 src/incidenceformatter.cpp:1659
+#, kde-format
+msgid "Sender declines the counter proposal."
+msgstr "Gönderen karşı teklifi reddediyor."
+
+#: src/incidenceformatter.cpp:1631
+#, kde-format
+msgid "Error: Journal iTIP message with unknown method."
+msgstr "Hata: Bilinmeyen yöntemli iTIP iletisi."
+
+#: src/incidenceformatter.cpp:1645
+#, kde-format
+msgid "This free/busy list has been published."
+msgstr "Bu boş/dolu listesi duyuruldu."
+
+#: src/incidenceformatter.cpp:1647
+#, kde-format
+msgid "The free/busy list has been requested."
+msgstr "Boş/dolu listesi isteniyor."
+
+#: src/incidenceformatter.cpp:1649
+#, kde-format
+msgid "This free/busy list was refreshed."
+msgstr "Boş/dolu listesi yenilendi."
+
+#: src/incidenceformatter.cpp:1651
+#, kde-format
+msgid "This free/busy list was canceled."
+msgstr "Boş/dolu listesi iptal edildi."
+
+#: src/incidenceformatter.cpp:1653
+#, kde-format
+msgid "Addition to the free/busy list."
+msgstr "Boş/dolu listesine ek yapıldı."
+
+#: src/incidenceformatter.cpp:1655
+#, kde-format
+msgid "Reply to the free/busy list."
+msgstr "Boş/dolu listesine yanıt gönder."
+
+#: src/incidenceformatter.cpp:1661
+#, kde-format
+msgid "Error: Free/Busy iTIP message with unknown method."
+msgstr "Hata: Bilinmeyen yöntemli Boş/Dolu iTIP iletisi."
+
+#: src/incidenceformatter.cpp:1716
+#, kde-format
+msgid "%1 (<i>unrecorded</i>"
+msgstr "%1 (<i>kaydedilmemiş</i>"
+
+#: src/incidenceformatter.cpp:1924
+#, kde-format
+msgid "Record"
+msgstr "Kaydet"
+
+#: src/incidenceformatter.cpp:1927
+#, kde-format
+msgid "Move to Trash"
+msgstr "Çöp Kutusuna Taşı"
+
+#: src/incidenceformatter.cpp:1931
+#, kde-format
+msgctxt "accept invitation"
+msgid "Accept"
+msgstr "Kabul Et"
+
+#: src/incidenceformatter.cpp:1937
+#, kde-format
+msgctxt "Accept invitation conditionally"
+msgid "Tentative"
+msgstr "Belirsiz"
+
+#: src/incidenceformatter.cpp:1944
+#, kde-format
+msgctxt "decline invitation"
+msgid "Decline"
+msgstr "Reddet"
+
+#: src/incidenceformatter.cpp:1948
+#, kde-format
+msgctxt "invitation counter proposal"
+msgid "Counter proposal ..."
+msgstr "Karşıt öneri ..."
+
+#: src/incidenceformatter.cpp:1953
+#, kde-format
+msgctxt "delegate invitation to another"
+msgid "Delegate ..."
+msgstr "Temsilci ..."
+
+#: src/incidenceformatter.cpp:1963
+#, kde-format
+msgid "Accept"
+msgstr "Kabul Et"
+
+#: src/incidenceformatter.cpp:1966
+#, kde-format
+msgid "Decline"
+msgstr "Reddet"
+
+#: src/incidenceformatter.cpp:1976
+#, kde-format
+msgid "Record invitation in my to-do list"
+msgstr "Daveti yapılacaklar listeme kaydet"
+
+#: src/incidenceformatter.cpp:1977
+#, kde-format
+msgid "Record invitation in my calendar"
+msgstr "Daveti takvimime kaydet"
+
+#: src/incidenceformatter.cpp:1990
+#, kde-format
+msgid "Record response in my to-do list"
+msgstr "Yanıtı yapılacaklar listeme kaydet"
+
+#: src/incidenceformatter.cpp:1990
+#, kde-format
+msgid "Record response in my calendar"
+msgstr "Yanıtı takvimime kaydet"
+
+#: src/incidenceformatter.cpp:2004
+#, kde-format
+msgid "Remove invitation from my to-do list"
+msgstr "Bu daveti yapılacaklar listemden sil"
+
+#: src/incidenceformatter.cpp:2005
+#, kde-format
+msgid "Remove invitation from my calendar"
+msgstr "Daveti takvimimden sil"
+
+#: src/incidenceformatter.cpp:2155
+#, kde-format
+msgid "Your <b>%1</b> response has been recorded."
+msgstr "<b>%1</b> yanıtınız kaydedilmiştir."
+
+#: src/incidenceformatter.cpp:2157
+#, kde-format
+msgid "Your status for this invitation is <b>%1</b>."
+msgstr "Bu davet için durumunuz: <b>%1</b>."
+
+#: src/incidenceformatter.cpp:2161
+#, kde-format
+msgid "This invitation was canceled."
+msgstr "Bu davet iptal edildi."
+
+#: src/incidenceformatter.cpp:2163
+#, kde-format
+msgid "This invitation was accepted."
+msgstr "Bu davet kabul edildi."
+
+#: src/incidenceformatter.cpp:2171
+#, kde-format
+msgid "Awaiting delegation response."
+msgstr "Temsil cevabı bekleniyor."
+
+#: src/incidenceformatter.cpp:2243
+#, kde-format
+msgid "The <b>%1</b> response has been recorded"
+msgstr "<b>%1</b> cevabı kaydedildi"
+
+#: src/incidenceformatter.cpp:2270
+#, kde-format
+msgid "Assignees:"
+msgstr "Atananlar:"
+
+#: src/incidenceformatter.cpp:2272
+#, kde-format
+msgid "Participants:"
+msgstr "Katılımcılar:"
+
+#: src/incidenceformatter.cpp:2403
+#, kde-format
+msgctxt "Event start"
+msgid "<i>From:</i> %1"
+msgstr "<i>Kimden:</i> %1"
+
+#: src/incidenceformatter.cpp:2406
+#, kde-format
+msgctxt "Event end"
+msgid "<i>To:</i> %1"
+msgstr "<i>Kime:</i> %1"
+
+#: src/incidenceformatter.cpp:2408 src/incidenceformatter.cpp:2485
+#, kde-format
+msgid "<i>Date:</i> %1"
+msgstr "<i>Tarih:</i> %1"
+
+#: src/incidenceformatter.cpp:2414
+#, kde-format
+msgctxt "time for event"
+msgid "<i>Time:</i> %1"
+msgstr "<i>Saat:</i> %1"
+
+#: src/incidenceformatter.cpp:2416
+#, kde-format
+msgctxt "time range for event"
+msgid "<i>Time:</i> %1 - %2"
+msgstr "<i>Saat:</i> %1 - %2"
+
+#: src/incidenceformatter.cpp:2449
+#, kde-format
+msgctxt "To-do's start date"
+msgid "<i>Start:</i> %1"
+msgstr "<i>Başlangıç:</i> %1"
+
+#: src/incidenceformatter.cpp:2452
+#, kde-format
+msgctxt "To-do's due date"
+msgid "<i>Due:</i> %1"
+msgstr "<i>Bitiş:</i> %1"
+
+#: src/incidenceformatter.cpp:2458
+#, kde-format
+msgctxt "To-do's priority number"
+msgid "<i>Priority:</i> %1"
+msgstr "<i>Öncelik:</i> %1"
+
+#: src/incidenceformatter.cpp:2463
+#, kde-format
+msgctxt "To-do's completed date"
+msgid "<i>Completed:</i> %1"
+msgstr "<i>Tamamlandı</i> %1"
+
+#: src/incidenceformatter.cpp:2474
+#, kde-format
+msgctxt "To-do's percent complete:"
+msgid "<i>Percent Done:</i> %1%"
+msgstr "<i>Tamanlanan yüzde:</i> %%1"
+
+#: src/incidenceformatter.cpp:2493 src/incidenceformatter.cpp:2494
+#, kde-format
+msgid "<i>Period start:</i> %1"
+msgstr "<i>Dönem başlangıcı:</i> %1"
+
+#: src/incidenceformatter.cpp:2519 src/templates/freebusy.html:5
+#, kde-format
+msgid "Free/Busy information for %1"
+msgstr "%1 için Boş/Meşgul bilgileri"
+
+#: src/incidenceformatter.cpp:2539
+#, kde-format
+msgctxt "attendee name (attendee status)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: src/incidenceformatter.cpp:2541
+#, kde-format
+msgid "%1"
+msgstr "%1"
+
+#: src/incidenceformatter.cpp:2567 src/incidenceformatter.cpp:2701
+#, kde-format
+msgctxt "elipsis"
+msgid "..."
+msgstr "..."
+
+#: src/incidenceformatter.cpp:2587
+#, kde-format
+msgid " (delegated by %1)"
+msgstr "(%1 tarafından temsil edildi)"
+
+#: src/incidenceformatter.cpp:2590
+#, kde-format
+msgid " (delegated to %1)"
+msgstr " (%1 kişisini temsil etti)"
+
+#: src/incidenceformatter.cpp:2608 src/templates/event.html:112
+#: src/templates/todo.html:93
+#, kde-format
+msgid "Organizer:"
+msgstr "Düzenleyici:"
+
+#: src/incidenceformatter.cpp:2619 src/templates/event.html:124
+#: src/templates/todo.html:105
+#, kde-format
+msgid "Chair:"
+msgstr "Başkan:"
+
+#: src/incidenceformatter.cpp:2626 src/templates/event.html:137
+#: src/templates/todo.html:118
+#, kde-format
+msgid "Required Participants:"
+msgstr "Gerekli Katılımcılar:"
+
+#: src/incidenceformatter.cpp:2633
+#, kde-format
+msgid "Optional Participants:"
+msgstr "Seçimlik Katılımcılar:"
+
+#: src/incidenceformatter.cpp:2640 src/templates/event.html:163
+#: src/templates/todo.html:144
+#, kde-format
+msgid "Observers:"
+msgstr "Gözlemciler:"
+
+#: src/incidenceformatter.cpp:2665 src/templates/event.html:13
+#: src/templates/journal.html:14 src/templates/todo.html:14
+#, kde-format
+msgid "Calendar:"
+msgstr "Takvim:"
+
+#: src/incidenceformatter.cpp:2673 src/templates/event.html:21
+#: src/templates/todo.html:22
+#, kde-format
+msgid "Location:"
+msgstr "Konum:"
+
+#: src/incidenceformatter.cpp:2680 src/templates/event.html:60
+#: src/templates/todo.html:54
+#, kde-format
+msgid "Duration:"
+msgstr "Süre:"
+
+#: src/incidenceformatter.cpp:2686 src/incidenceformatter.cpp:2692
+#: src/templates/event.html:68 src/templates/itip_event.html:22
+#: src/templates/itip_todo.html:46 src/templates/todo.html:62
+#, kde-format
+msgid "Recurrence:"
+msgstr "Tekrarlama:"
+
+#: src/incidenceformatter.cpp:2693 src/templates/todo.html:64
+#, kde-format
+msgid "Exception"
+msgstr "Olağandışı durum"
+
+#: src/incidenceformatter.cpp:2708 src/templates/event.html:96
+#: src/templates/itip_event.html:29 src/templates/itip_journal.html:11
+#: src/templates/itip_todo.html:53 src/templates/journal.html:30
+#: src/templates/todo.html:74
+#, kde-format
+msgid "Description:"
+msgstr "Açıklama:"
+
+#: src/incidenceformatter.cpp:2720 src/templates/event.html:104
+#: src/templates/todo.html:85
+#, kde-format
+msgid "Reminder:"
+msgid_plural "Reminders:"
+msgstr[0] "Anımsatıcı:"
+msgstr[1] "Anımsatıcılar:"
+
+#: src/incidenceformatter.cpp:2740 src/templates/event.html:176
+#: src/templates/journal.html:38 src/templates/todo.html:157
+#, kde-format
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Kategori:"
+msgstr[1] "Kategoriler:"
+
+#: src/incidenceformatter.cpp:2769
+#, kde-format
+msgid "Summary: %1\n"
+msgstr "Özet: %1\n"
+
+#: src/incidenceformatter.cpp:2772
+#, kde-format
+msgid "Organizer: %1\n"
+msgstr "Düzenleyici: %1\n"
+
+#: src/incidenceformatter.cpp:2775
+#, kde-format
+msgid "Location: %1\n"
+msgstr "Konum: %1\n"
+
+#: src/incidenceformatter.cpp:2803
+#, kde-format
+msgid "This is a Free Busy Object"
+msgstr "Bu bir Boş Dolu Nesnesi"
+
+#: src/incidenceformatter.cpp:2813
+#, kde-format
+msgctxt "no recurrence"
+msgid "None"
+msgstr "Hiçbiri"
+
+#: src/incidenceformatter.cpp:2814
+#, kde-format
+msgctxt "event recurs by minutes"
+msgid "Minutely"
+msgstr "Dakikalık"
+
+#: src/incidenceformatter.cpp:2815
+#, kde-format
+msgctxt "event recurs by hours"
+msgid "Hourly"
+msgstr "Saatlik"
+
+#: src/incidenceformatter.cpp:2816
+#, kde-format
+msgctxt "event recurs by days"
+msgid "Daily"
+msgstr "Günlük"
+
+#: src/incidenceformatter.cpp:2817
+#, kde-format
+msgctxt "event recurs by weeks"
+msgid "Weekly"
+msgstr "Haftalık"
+
+#: src/incidenceformatter.cpp:2818
+#, kde-format
+msgctxt "event recurs same position (e.g. first monday) each month"
+msgid "Monthly Same Position"
+msgstr "Her Ay Aynı Konum"
+
+#: src/incidenceformatter.cpp:2819
+#, kde-format
+msgctxt "event recurs same day each month"
+msgid "Monthly Same Day"
+msgstr "Her Ay Aynı Gün"
+
+#: src/incidenceformatter.cpp:2820
+#, kde-format
+msgctxt "event recurs same month each year"
+msgid "Yearly Same Month"
+msgstr "Her Yıl Aynı Ay"
+
+#: src/incidenceformatter.cpp:2821
+#, kde-format
+msgctxt "event recurs same day each year"
+msgid "Yearly Same Day"
+msgstr "Her Yıl Aynı Gün"
+
+#: src/incidenceformatter.cpp:2822
+#, kde-format
+msgctxt "event recurs same position (e.g. first monday) each year"
+msgid "Yearly Same Position"
+msgstr "Her Yıl Aynı Konum"
+
+#: src/incidenceformatter.cpp:2825 src/incidenceformatter.cpp:2879
+#, kde-format
+msgid "Start Date: %1\n"
+msgstr "Başlama Tarihi: %1\n"
+
+#: src/incidenceformatter.cpp:2827 src/incidenceformatter.cpp:2881
+#, kde-format
+msgid "Start Time: %1\n"
+msgstr "Başlama Saati: %1\n"
+
+#: src/incidenceformatter.cpp:2830
+#, kde-format
+msgid "End Date: %1\n"
+msgstr "Bitiş Tarihi: %1\n"
+
+#: src/incidenceformatter.cpp:2833
+#, kde-format
+msgid "End Time: %1\n"
+msgstr "Bitiş Saati: %1\n"
+
+#: src/incidenceformatter.cpp:2838
+#, kde-format
+msgid "Recurs: %1\n"
+msgstr "Tekrarlanma: %1\n"
+
+#: src/incidenceformatter.cpp:2839
+#, kde-format
+msgid "Frequency: %1\n"
+msgstr "Sıklık: %1\n"
+
+#: src/incidenceformatter.cpp:2842
+#, kde-format
+msgid "Repeats once"
+msgid_plural "Repeats %1 times"
+msgstr[0] "1 kez tekrarlar"
+msgstr[1] "%1 kez tekrarlar"
+
+#: src/incidenceformatter.cpp:2853
+#, kde-format
+msgid "Repeat until: %1\n"
+msgstr "Bu tarihe kadar tekrarlanır: %1\n"
+
+#: src/incidenceformatter.cpp:2855
+#, kde-format
+msgid "Repeats forever\n"
+msgstr "Sürekli tekrar eder\n"
+
+#: src/incidenceformatter.cpp:2868 src/incidenceformatter.cpp:2892
+#, kde-format
+msgid ""
+"Details:\n"
+"%1\n"
+msgstr ""
+"Ayrıntılar:\n"
+"%1\n"
+
+#: src/incidenceformatter.cpp:2885
+#, kde-format
+msgid "Due Date: %1\n"
+msgstr "Gerçekleşme Tarihi: %1\n"
+
+#: src/incidenceformatter.cpp:2887
+#, kde-format
+msgid "Due Time: %1\n"
+msgstr "Gerçekleşme Saati: %1\n"
+
+#: src/incidenceformatter.cpp:2900
+#, kde-format
+msgid "Date: %1\n"
+msgstr "Tarih: %1\n"
+
+#: src/incidenceformatter.cpp:2902
+#, kde-format
+msgid "Time: %1\n"
+msgstr "Saat: %1\n"
+
+#: src/incidenceformatter.cpp:2905
+#, kde-format
+msgid ""
+"Text of the journal:\n"
+"%1\n"
+msgstr ""
+"Günlüğün metni:\n"
+"%1\n"
+
+#: src/incidenceformatter.cpp:2950 src/incidenceformatter.cpp:3025
+#, kde-format
+msgid "No recurrence"
+msgstr "Tekrarlanma yok"
+
+#: src/incidenceformatter.cpp:2954
+#, kde-format
+msgid "31st Last"
+msgstr "31. Son"
+
+#: src/incidenceformatter.cpp:2955
+#, kde-format
+msgid "30th Last"
+msgstr "30. Son"
+
+#: src/incidenceformatter.cpp:2956
+#, kde-format
+msgid "29th Last"
+msgstr "29. Son"
+
+#: src/incidenceformatter.cpp:2957
+#, kde-format
+msgid "28th Last"
+msgstr "28. Son"
+
+#: src/incidenceformatter.cpp:2958
+#, kde-format
+msgid "27th Last"
+msgstr "27. Son"
+
+#: src/incidenceformatter.cpp:2959
+#, kde-format
+msgid "26th Last"
+msgstr "26. Son"
+
+#: src/incidenceformatter.cpp:2960
+#, kde-format
+msgid "25th Last"
+msgstr "25. Son"
+
+#: src/incidenceformatter.cpp:2961
+#, kde-format
+msgid "24th Last"
+msgstr "24. Son"
+
+#: src/incidenceformatter.cpp:2962
+#, kde-format
+msgid "23rd Last"
+msgstr "23. Son"
+
+#: src/incidenceformatter.cpp:2963
+#, kde-format
+msgid "22nd Last"
+msgstr "22. Son"
+
+#: src/incidenceformatter.cpp:2964
+#, kde-format
+msgid "21st Last"
+msgstr "21. Son"
+
+#: src/incidenceformatter.cpp:2965
+#, kde-format
+msgid "20th Last"
+msgstr "20. Son"
+
+#: src/incidenceformatter.cpp:2966
+#, kde-format
+msgid "19th Last"
+msgstr "19. Son"
+
+#: src/incidenceformatter.cpp:2967
+#, kde-format
+msgid "18th Last"
+msgstr "18. Son"
+
+#: src/incidenceformatter.cpp:2968
+#, kde-format
+msgid "17th Last"
+msgstr "17. Son"
+
+#: src/incidenceformatter.cpp:2969
+#, kde-format
+msgid "16th Last"
+msgstr "16. Son"
+
+#: src/incidenceformatter.cpp:2970
+#, kde-format
+msgid "15th Last"
+msgstr "15. Son"
+
+#: src/incidenceformatter.cpp:2971
+#, kde-format
+msgid "14th Last"
+msgstr "14. Son"
+
+#: src/incidenceformatter.cpp:2972
+#, kde-format
+msgid "13th Last"
+msgstr "13. Son"
+
+#: src/incidenceformatter.cpp:2973
+#, kde-format
+msgid "12th Last"
+msgstr "12. Son"
+
+#: src/incidenceformatter.cpp:2974
+#, kde-format
+msgid "11th Last"
+msgstr "11. Son"
+
+#: src/incidenceformatter.cpp:2975
+#, kde-format
+msgid "10th Last"
+msgstr "10. Son"
+
+#: src/incidenceformatter.cpp:2976
+#, kde-format
+msgid "9th Last"
+msgstr "9. Son"
+
+#: src/incidenceformatter.cpp:2977
+#, kde-format
+msgid "8th Last"
+msgstr "8. Son"
+
+#: src/incidenceformatter.cpp:2978
+#, kde-format
+msgid "7th Last"
+msgstr "7. Son"
+
+#: src/incidenceformatter.cpp:2979
+#, kde-format
+msgid "6th Last"
+msgstr "6. Son"
+
+#: src/incidenceformatter.cpp:2980
+#, kde-format
+msgid "5th Last"
+msgstr "5. Son"
+
+#: src/incidenceformatter.cpp:2981
+#, kde-format
+msgid "4th Last"
+msgstr "4. Son"
+
+#: src/incidenceformatter.cpp:2982
+#, kde-format
+msgid "3rd Last"
+msgstr "3. Son"
+
+#: src/incidenceformatter.cpp:2983
+#, kde-format
+msgid "2nd Last"
+msgstr "2. Son"
+
+#: src/incidenceformatter.cpp:2984
+#, kde-format
+msgctxt "last day of the month"
+msgid "Last"
+msgstr "Son"
+
+#: src/incidenceformatter.cpp:2985
+#, kde-format
+msgctxt "unknown day of the month"
+msgid "unknown"
+msgstr "bilinmeyen"
+
+#: src/incidenceformatter.cpp:2986
+#, kde-format
+msgid "1st"
+msgstr "1."
+
+#: src/incidenceformatter.cpp:2987
+#, kde-format
+msgid "2nd"
+msgstr "2."
+
+#: src/incidenceformatter.cpp:2988
+#, kde-format
+msgid "3rd"
+msgstr "3."
+
+#: src/incidenceformatter.cpp:2989
+#, kde-format
+msgid "4th"
+msgstr "4."
+
+#: src/incidenceformatter.cpp:2990
+#, kde-format
+msgid "5th"
+msgstr "5."
+
+#: src/incidenceformatter.cpp:2991
+#, kde-format
+msgid "6th"
+msgstr "6."
+
+#: src/incidenceformatter.cpp:2992
+#, kde-format
+msgid "7th"
+msgstr "7."
+
+#: src/incidenceformatter.cpp:2993
+#, kde-format
+msgid "8th"
+msgstr "8."
+
+#: src/incidenceformatter.cpp:2994
+#, kde-format
+msgid "9th"
+msgstr "9."
+
+#: src/incidenceformatter.cpp:2995
+#, kde-format
+msgid "10th"
+msgstr "10."
+
+#: src/incidenceformatter.cpp:2996
+#, kde-format
+msgid "11th"
+msgstr "11."
+
+#: src/incidenceformatter.cpp:2997
+#, kde-format
+msgid "12th"
+msgstr "12."
+
+#: src/incidenceformatter.cpp:2998
+#, kde-format
+msgid "13th"
+msgstr "13."
+
+#: src/incidenceformatter.cpp:2999
+#, kde-format
+msgid "14th"
+msgstr "14."
+
+#: src/incidenceformatter.cpp:3000
+#, kde-format
+msgid "15th"
+msgstr "15."
+
+#: src/incidenceformatter.cpp:3001
+#, kde-format
+msgid "16th"
+msgstr "16."
+
+#: src/incidenceformatter.cpp:3002
+#, kde-format
+msgid "17th"
+msgstr "17."
+
+#: src/incidenceformatter.cpp:3003
+#, kde-format
+msgid "18th"
+msgstr "18."
+
+#: src/incidenceformatter.cpp:3004
+#, kde-format
+msgid "19th"
+msgstr "19."
+
+#: src/incidenceformatter.cpp:3005
+#, kde-format
+msgid "20th"
+msgstr "20."
+
+#: src/incidenceformatter.cpp:3006
+#, kde-format
+msgid "21st"
+msgstr "21."
+
+#: src/incidenceformatter.cpp:3007
+#, kde-format
+msgid "22nd"
+msgstr "22."
+
+#: src/incidenceformatter.cpp:3008
+#, kde-format
+msgid "23rd"
+msgstr "23."
+
+#: src/incidenceformatter.cpp:3009
+#, kde-format
+msgid "24th"
+msgstr "24."
+
+#: src/incidenceformatter.cpp:3010
+#, kde-format
+msgid "25th"
+msgstr "25."
+
+#: src/incidenceformatter.cpp:3011
+#, kde-format
+msgid "26th"
+msgstr "26."
+
+#: src/incidenceformatter.cpp:3012
+#, kde-format
+msgid "27th"
+msgstr "27."
+
+#: src/incidenceformatter.cpp:3013
+#, kde-format
+msgid "28th"
+msgstr "28."
+
+#: src/incidenceformatter.cpp:3014
+#, kde-format
+msgid "29th"
+msgstr "29."
+
+#: src/incidenceformatter.cpp:3015
+#, kde-format
+msgid "30th"
+msgstr "30."
+
+#: src/incidenceformatter.cpp:3016
+#, kde-format
+msgid "31st"
+msgstr "31."
+
+#: src/incidenceformatter.cpp:3032
+#, kde-format
+msgid "Recurs every minute until %2"
+msgid_plural "Recurs every %1 minutes until %2"
+msgstr[0] "%2 tarihine kadar her dakikada tekrarlar"
+msgstr[1] "%2 tarihine kadar her %1 dakikada bir tekrarlar"
+
+#: src/incidenceformatter.cpp:3034 src/incidenceformatter.cpp:3045
+#: src/incidenceformatter.cpp:3056 src/incidenceformatter.cpp:3085
+#: src/incidenceformatter.cpp:3106 src/incidenceformatter.cpp:3129
+#: src/incidenceformatter.cpp:3153 src/incidenceformatter.cpp:3190
+#: src/incidenceformatter.cpp:3218
+#, kde-format, kde-kuit-format
+msgctxt "number of occurrences"
+msgid " (%1 occurrences)"
+msgstr " (%1 olaylar)"
+
+#: src/incidenceformatter.cpp:3037
+#, kde-format
+msgid "Recurs every minute"
+msgid_plural "Recurs every %1 minutes"
+msgstr[0] "Her dakikada tekrarlar"
+msgstr[1] "%1 dakikada bir tekrarlar"
+
+#: src/incidenceformatter.cpp:3043
+#, kde-format
+msgid "Recurs hourly until %2"
+msgid_plural "Recurs every %1 hours until %2"
+msgstr[0] "%2 tarihine kadar her saatte tekrarlar"
+msgstr[1] "%2 tarihine kadar %1 saatte bir tekrarlar"
+
+#: src/incidenceformatter.cpp:3048
+#, kde-format
+msgid "Recurs hourly"
+msgid_plural "Recurs every %1 hours"
+msgstr[0] "Her saatte tekrarlar"
+msgstr[1] "%1 saatte bir tekrarlar"
+
+#: src/incidenceformatter.cpp:3054
+#, kde-format
+msgid "Recurs daily until %2"
+msgid_plural "Recurs every %1 days until %2"
+msgstr[0] "%2 tarihine kadar günlük tekrarlar"
+msgstr[1] "%2 tarihine kadar %1 günde bir tekrarlar"
+
+#: src/incidenceformatter.cpp:3059
+#, kde-format
+msgid "Recurs daily"
+msgid_plural "Recurs every %1 days"
+msgstr[0] "Günlük tekrarlar"
+msgstr[1] "%1 günde bir tekrarlar"
+
+#: src/incidenceformatter.cpp:3068
+#, kde-format
+msgctxt "separator for list of days"
+msgid ", "
+msgstr ", "
+
+#: src/incidenceformatter.cpp:3075
+#, kde-format
+msgctxt "Recurs weekly on no days"
+msgid "no days"
+msgstr "gün yok"
+
+#: src/incidenceformatter.cpp:3079
+#, kde-format
+msgctxt "Recurs weekly on [list of days] until end-date"
+msgid "Recurs weekly on %2 until %3"
+msgid_plural "Recurs every %1 weeks on %2 until %3"
+msgstr[0] "%3 tarihine kadar her hafta %2 gününde tekrarlar"
+msgstr[1] "%3 tarihine kadar her %1 haftada %2 gününde tekrarlar"
+
+#: src/incidenceformatter.cpp:3088
+#, kde-format
+msgctxt "Recurs weekly on [list of days]"
+msgid "Recurs weekly on %2"
+msgid_plural "Recurs every %1 weeks on %2"
+msgstr[0] "Her hafta %2 gününde tekrarlar"
+msgstr[1] "Her %1 haftada %2 gününde tekrarlar"
+
+#: src/incidenceformatter.cpp:3099
+#, kde-format
+msgctxt "Recurs every N months on the [2nd|3rd|...] weekdayname until end-date"
+msgid "Recurs every month on the %2 %3 until %4"
+msgid_plural "Recurs every %1 months on the %2 %3 until %4"
+msgstr[0] "%4 tarihine kadar her ay %2 %3 günlerinde tekrarlar"
+msgstr[1] "%4 tarihine kadar %1 ayda bir %2 %3 günlerinde tekrarlar"
+
+#: src/incidenceformatter.cpp:3110
+#, kde-format
+msgctxt "Recurs every N months on the [2nd|3rd|...] weekdayname"
+msgid "Recurs every month on the %2 %3"
+msgid_plural "Recurs every %1 months on the %2 %3"
+msgstr[0] "Her ay %2 %3 günlerinde tekrarlar"
+msgstr[1] "%1 ayda bir %2 %3 günlerinde tekrarlar"
+
+#: src/incidenceformatter.cpp:3123
+#, kde-format
+msgctxt "Recurs monthly on the [1st|2nd|...] day until end-date"
+msgid "Recurs monthly on the %2 day until %3"
+msgid_plural "Recurs every %1 months on the %2 day until %3"
+msgstr[0] "%3 tarihine kadar her ay %2 gününde tekrarlar"
+msgstr[1] "%3 tarihine kadar %1 ayda bir %2 gününde tekrarlar"
+
+#: src/incidenceformatter.cpp:3133
+#, kde-format
+msgctxt "Recurs monthly on the [1st|2nd|...] day"
+msgid "Recurs monthly on the %2 day"
+msgid_plural "Recurs every %1 month on the %2 day"
+msgstr[0] "Her ay %2 gününde tekrarlar"
+msgstr[1] "Her %1 ayda bir %2 gününde tekrarlar"
+
+#: src/incidenceformatter.cpp:3146
+#, kde-format
+msgctxt "Recurs Every N years on month-name [1st|2nd|...] until end-date"
+msgid "Recurs yearly on %2 %3 until %4"
+msgid_plural "Recurs every %1 years on %2 %3 until %4"
+msgstr[0] "%4 tarihine kadar her yıl %2 %3 aylarında tekrarlar"
+msgstr[1] "%4 tarihine kadar %1 yılda bir %2 %3 aylarında tekrarlar"
+
+#: src/incidenceformatter.cpp:3159
+#, kde-format
+msgctxt "Recurs Every N years on month-name [1st|2nd|...]"
+msgid "Recurs yearly on %2 %3"
+msgid_plural "Recurs every %1 years on %2 %3"
+msgstr[0] "Her yıl %2 %3 aylarında tekrarlar"
+msgstr[1] "%1 yılda bir %2 %3 aylarında tekrarlar"
+
+#: src/incidenceformatter.cpp:3167 src/incidenceformatter.cpp:3172
+#, kde-format
+msgctxt "Recurs Every year on month-name [1st|2nd|...]"
+msgid "Recurs yearly on %1 %2"
+msgstr "Her yılın %1 ayında %2 gününde tekrarlar"
+
+#: src/incidenceformatter.cpp:3183
+#, kde-format
+msgctxt "Recurs every N years on day N until end-date"
+msgid "Recurs every year on day %2 until %3"
+msgid_plural "Recurs every %1 years on day %2 until %3"
+msgstr[0] "%3 tarihine kadar her yıl %2 günde tekrarlar"
+msgstr[1] "%3 tarihine kadar %1 yılda bir %2 günde tekrarlar"
+
+#: src/incidenceformatter.cpp:3194
+#, kde-format
+msgctxt "Recurs every N YEAR[S] on day N"
+msgid "Recurs every year on day %2"
+msgid_plural "Recurs every %1 years on day %2"
+msgstr[0] "Her yıl %2. gününde tekrarlar"
+msgstr[1] "%1 yılda bi %2. gününde tekrarlar"
+
+#: src/incidenceformatter.cpp:3209
+#, kde-format
+msgctxt ""
+"Every N years on the [2nd|3rd|...] weekdayname of monthname until end-date"
+msgid "Every year on the %2 %3 of %4 until %5"
+msgid_plural "Every %1 years on the %2 %3 of %4 until %5"
+msgstr[0] "%5 tarihine kadar her yıl %4 ayının %2 %3 günlerinde"
+msgstr[1] "%5 tarihine kadar %1 yılda bir %4 ayının %2 %3 günlerinde"
+
+#: src/incidenceformatter.cpp:3224
+#, kde-kuit-format
+msgctxt "Every N years on the [2nd|3rd|...] weekdayname of monthname"
+msgid "Every year on the %2 %3 of %4"
+msgid_plural "Every %1 years on the %2 %3 of %4"
+msgstr[0] "Her yıl %4 ayının %2 %3 günlerinde"
+msgstr[1] "%1 yılda bir %4 ayının %2 %3 günlerinde"
+
+#: src/incidenceformatter.cpp:3236
+#, kde-format
+msgid "Incidence recurs"
+msgstr "Olay sıklığı"
+
+#: src/incidenceformatter.cpp:3245
+#, kde-format
+msgid "minute %1"
+msgstr "dakika %1"
+
+#: src/incidenceformatter.cpp:3278 src/incidenceformatter.cpp:3337
+#: src/incidenceformatter.cpp:3363 src/incidenceformatter.cpp:3375
+#, kde-format
+msgid "1 day"
+msgid_plural "%1 days"
+msgstr[0] "1 gün"
+msgstr[1] "%1 gün"
+
+#: src/incidenceformatter.cpp:3300
+#, kde-format
+msgid "%1 (excluding %2)"
+msgstr "%1 (%2 hariç)"
+
+#: src/incidenceformatter.cpp:3343
+#, kde-format
+msgid "1 hour"
+msgid_plural "%1 hours"
+msgstr[0] "1 saat"
+msgstr[1] "%1 saat"
+
+#: src/incidenceformatter.cpp:3349
+#, kde-format
+msgid "1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] "1 dakika"
+msgstr[1] "%1 dakika"
+
+#: src/incidenceformatter.cpp:3366
+#, kde-format
+msgid "forever"
+msgstr "sürekli"
+
+#: src/incidenceformatter.cpp:3408
+#, kde-format
+msgctxt "N days/hours/minutes before the start datetime"
+msgid "%1 before the start"
+msgstr "başlangıçtan önce %1"
+
+#: src/incidenceformatter.cpp:3410
+#, kde-format
+msgctxt "N days/hours/minutes after the start datetime"
+msgid "%1 after the start"
+msgstr "başlangıçtan sonra %1"
+
+#: src/incidenceformatter.cpp:3421
+#, kde-format
+msgctxt "N days/hours/minutes before the due datetime"
+msgid "%1 before the to-do is due"
+msgstr "Yapılacaklar bitmeden önce %1"
+
+#: src/incidenceformatter.cpp:3423
+#, kde-format
+msgctxt "N days/hours/minutes before the end datetime"
+msgid "%1 before the end"
+msgstr "bitişten önce %1"
+
+#: src/incidenceformatter.cpp:3427
+#, kde-format
+msgctxt "N days/hours/minutes after the due datetime"
+msgid "%1 after the to-do is due"
+msgstr "Yapılacaklar bittikten sonra %1"
+
+#: src/incidenceformatter.cpp:3429
+#, kde-format
+msgctxt "N days/hours/minutes after the end datetime"
+msgid "%1 after the end"
+msgstr "bitişten sonra %1"
+
+#: src/incidenceformatter.cpp:3447
+#, kde-format
+msgctxt "reminder occurs at datetime"
+msgid "at %1"
+msgstr "%1 'de"
+
+#: src/incidenceformatter.cpp:3454
+#, kde-format
+msgid "repeats once"
+msgid_plural "repeats %1 times"
+msgstr[0] "bir kez tekrarlar"
+msgstr[1] "%1 kez tekrarlar"
+
+#: src/incidenceformatter.cpp:3455
+#, kde-format
+msgctxt "interval is N days/hours/minutes"
+msgid "interval is %1"
+msgstr "aralık %1"
+
+#: src/incidenceformatter.cpp:3456
+#, kde-format
+msgctxt "(repeat string, interval string)"
+msgid "(%1, %2)"
+msgstr "(%1, %2)"
+
+#: src/recurrenceactions.cpp:46
+#, kde-format
+msgctxt "@option:check calendar items before a certain date"
+msgid "Items before %1"
+msgstr "Şundan önceki ögeler: %1"
+
+#: src/recurrenceactions.cpp:51
+#, kde-format
+msgctxt "@option:check currently selected calendar item"
+msgid "Selected item"
+msgstr "Seçili öge"
+
+#: src/recurrenceactions.cpp:57
+#, kde-format
+msgctxt "@option:check calendar items after a certain date"
+msgid "Items after %1"
+msgstr "Şundan sonraki ögeler: %1"
+
+#: src/stringify.cpp:40
+#, kde-format
+msgctxt "@item incidence type is event"
+msgid "event"
+msgstr "etkinlik"
+
+#: src/stringify.cpp:42
+#, kde-format
+msgctxt "@item incidence type is to-do/task"
+msgid "to-do"
+msgstr "Yapılacak"
+
+#: src/stringify.cpp:44
+#, kde-format
+msgctxt "@item incidence type is journal"
+msgid "journal"
+msgstr "günlük"
+
+#: src/stringify.cpp:46
+#, kde-format
+msgctxt "@item incidence type is freebusy"
+msgid "free/busy"
+msgstr "boş/meşgul"
+
+#: src/stringify.cpp:61
+#, kde-format
+msgctxt "@item incidence access if for everyone"
+msgid "Public"
+msgstr "Genel"
+
+#: src/stringify.cpp:63
+#, kde-format
+msgctxt "@item incidence access is by owner only"
+msgid "Private"
+msgstr "Özel"
+
+#: src/stringify.cpp:65
+#, kde-format
+msgctxt "@item incidence access is by owner and a controlled group"
+msgid "Confidential"
+msgstr "Gizli"
+
+#: src/stringify.cpp:83
+#, kde-format
+msgctxt "@item event is tentative"
+msgid "Tentative"
+msgstr "Belirsiz"
+
+#: src/stringify.cpp:85
+#, kde-format
+msgctxt "@item event is definite"
+msgid "Confirmed"
+msgstr "Doğrulanmış"
+
+#: src/stringify.cpp:87
+#, kde-format
+msgctxt "@item to-do is complete"
+msgid "Completed"
+msgstr "Tamamlanmış"
+
+#: src/stringify.cpp:89
+#, kde-format
+msgctxt "@item to-do needs action"
+msgid "Needs-Action"
+msgstr "Eylem-Gerektirir"
+
+#: src/stringify.cpp:91
+#, kde-format
+msgctxt "@item event orto-do is canceled; journal is removed"
+msgid "Canceled"
+msgstr "İptal edilmiş"
+
+#: src/stringify.cpp:93
+#, kde-format
+msgctxt "@item to-do is in process"
+msgid "In-Process"
+msgstr "Devam eden"
+
+#: src/stringify.cpp:95
+#, kde-format
+msgctxt "@item journal is in draft form"
+msgid "Draft"
+msgstr "Taslak"
+
+#: src/stringify.cpp:97
+#, kde-format
+msgctxt "@item journal is in final form"
+msgid "Final"
+msgstr "Kesin"
+
+#: src/stringify.cpp:118
+#, kde-format
+msgctxt "@item chairperson"
+msgid "Chair"
+msgstr "Başkan"
+
+#: src/stringify.cpp:120
+#, kde-format
+msgctxt "@item participation is required"
+msgid "Participant"
+msgstr "Katılımcı"
+
+#: src/stringify.cpp:122
+#, kde-format
+msgctxt "@item participation is optional"
+msgid "Optional Participant"
+msgstr "Seçimlik Katılımcı"
+
+#: src/stringify.cpp:124
+#, kde-format
+msgctxt "@item non-participant copied for information"
+msgid "Observer"
+msgstr "Gözlemci"
+
+#: src/stringify.cpp:133
+#, kde-format
+msgctxt "@item event, to-do or journal needs action"
+msgid "Needs Action"
+msgstr "Eylem Gerektiren"
+
+#: src/stringify.cpp:135
+#, kde-format
+msgctxt "@item event, to-do or journal accepted"
+msgid "Accepted"
+msgstr "Kabul edilmiş"
+
+#: src/stringify.cpp:137
+#, kde-format
+msgctxt "@item event, to-do or journal declined"
+msgid "Declined"
+msgstr "Reddedilmiş"
+
+#: src/stringify.cpp:139
+#, kde-format
+msgctxt "@item event or to-do tentatively accepted"
+msgid "Tentative"
+msgstr "Belirsiz"
+
+#: src/stringify.cpp:141
+#, kde-format
+msgctxt "@item event or to-do delegated"
+msgid "Delegated"
+msgstr "Katılınmış"
+
+#: src/stringify.cpp:143
+#, kde-format
+msgctxt "@item to-do completed"
+msgid "Completed"
+msgstr "Tamamlanmış"
+
+#: src/stringify.cpp:145
+#, kde-format
+msgctxt "@item to-do in process of being completed"
+msgid "In Process"
+msgstr "Devam Ediyor"
+
+#: src/stringify.cpp:147
+#, kde-format
+msgctxt "@item event or to-do status unknown"
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: src/stringify.cpp:158
+#, kde-format
+msgctxt "@item"
+msgid "Load Error"
+msgstr "Yükleme Hatası"
+
+#: src/stringify.cpp:161
+#, kde-format
+msgctxt "@item"
+msgid "Save Error"
+msgstr "Kaydetme Hatası"
+
+#: src/stringify.cpp:164
+#, kde-format
+msgctxt "@item"
+msgid "Parse Error in libical"
+msgstr "Libical ayrıştırma hatası"
+
+#: src/stringify.cpp:167
+#, kde-format
+msgctxt "@item"
+msgid "Parse Error in the kcalcore library"
+msgstr "Kcalcore kitaplığında ayrıştırma hatası"
+
+#: src/stringify.cpp:170
+#, kde-format
+msgctxt "@item"
+msgid "No calendar component found."
+msgstr "Takvim bileşeni bulunamıyor."
+
+#: src/stringify.cpp:173 src/stringify.cpp:202
+#, kde-format
+msgctxt "@item"
+msgid "Expected iCalendar, got vCalendar format"
+msgstr "Beklenen iCalendar biçimi, alınan vCalendar biçimi"
+
+#: src/stringify.cpp:176
+#, kde-format
+msgctxt "@item"
+msgid "iCalendar Version 2.0 detected."
+msgstr "iCalendar sürüm 2.0 bulundu."
+
+#: src/stringify.cpp:179 src/stringify.cpp:205
+#, kde-format
+msgctxt "@item"
+msgid "Expected iCalendar, got unknown format"
+msgstr "Beklenen iCalendar biçimi, alınan bilinmeyen biçim"
+
+#: src/stringify.cpp:182
+#, kde-format
+msgctxt "@item"
+msgid "Restriction violation"
+msgstr "Kısıtlama ihlali"
+
+#: src/stringify.cpp:185
+#, kde-format
+msgctxt "@item"
+msgid "No writable resource found"
+msgstr "Yazılabilir kaynak bulunamadı"
+
+#: src/stringify.cpp:189
+#, kde-format
+msgctxt "@item"
+msgid "Error saving to '%1'."
+msgstr "'%1' dosyasına kaydedilemedi."
+
+#: src/stringify.cpp:193
+#, kde-format
+msgctxt "@item"
+msgid "Could not save '%1'"
+msgstr "'%1' kaydedilemedi"
+
+#: src/stringify.cpp:196
+#, kde-format
+msgctxt "@item"
+msgid "libical error"
+msgstr "libical hatası"
+
+#: src/stringify.cpp:199
+#, kde-format
+msgctxt "@item"
+msgid "No VERSION property found"
+msgstr "SÜRÜM özelliği bulunamadı"
+
+#: src/stringify.cpp:208
+#, kde-format
+msgctxt "@item"
+msgid "object is not a freebusy, event, todo or journal"
+msgstr "nesne bir serbest meşgul, olay, yapılacak veya günlük değil"
+
+#: src/stringify.cpp:211
+#, kde-format
+msgctxt "@item"
+msgid "messageText is empty, unable to parse into a ScheduleMessage"
+msgstr "İleti metni boş, program iletisi içerisinde ayrıştırılamıyor"
+
+#: src/stringify.cpp:214
+#, kde-format
+msgctxt "@item"
+msgid "icalparser is unable to parse messageText into a ScheduleMessage"
+msgstr "icalparser iletiMetni'ni Zamanlamaİletisi olarak ayrıştıramadı"
+
+#: src/stringify.cpp:217
+#, kde-format
+msgctxt "@item"
+msgid "message does not contain ICAL_METHOD_PROPERTY"
+msgstr "ileti ICAL_METHOD_PROPERTY içermiyor"
+
+#: src/stringify.cpp:231
+#, kde-format
+msgctxt "@item this is a new scheduling message"
+msgid "New Scheduling Message"
+msgstr "Planlanan Yeni İleti"
+
+#: src/stringify.cpp:233
+#, kde-format
+msgctxt "@item this is an update to an existing scheduling message"
+msgid "Updated Scheduling Message"
+msgstr "Güncellenmiş Zamanlanan İleti"
+
+#: src/stringify.cpp:235
+#, kde-format
+msgctxt "@item obsolete status"
+msgid "Obsolete"
+msgstr "Gereksiz"
+
+#: src/stringify.cpp:237
+#, kde-format
+msgctxt "@item this is a request for a new scheduling message"
+msgid "New Scheduling Message Request"
+msgstr "Yeni Zamanlanan İleti İsteği"
+
+#: src/stringify.cpp:239
+#, kde-format
+msgctxt ""
+"@item this is a request for an update to an existing scheduling message"
+msgid "Updated Scheduling Message Request"
+msgstr "Güncellenmiş Zamanlanan İleti İsteği"
+
+#: src/stringify.cpp:241
+#, kde-format
+msgctxt "@item unknown status"
+msgid "Unknown Status: %1"
+msgstr "Bilinmeyen Durum: %1"
+
+#: src/templates/attendee_row.html:27
+msgid "organizer"
+msgstr "düzenleyici"
+
+#: src/templates/attendee_row.html:31
+msgid "myself"
+msgstr "kendim"
+
+#: src/templates/attendee_row.html:35
+#, kde-format
+msgid "delegated by %1)"
+msgstr "%1 tarafından temsil edildi)"
+
+#: src/templates/attendee_row.html:39
+#, kde-format
+msgid "delegated to %1)"
+msgstr "%1 kişisini temsil etti)"
+
+#: src/templates/attendee_row.html:46
+msgid "Send email"
+msgstr "E-posta gönder"
+
+#: src/templates/event.html:5
+msgid "Event"
+msgstr "Etkinlik"
+
+#: src/templates/event.html:30 src/templates/event.html:33
+#: src/templates/event.html:40 src/templates/event.html:43
+#: src/templates/itip_journal.html:5 src/templates/journal.html:22
+msgid "Date:"
+msgstr "Tarih:"
+
+#: src/templates/event.html:31 src/templates/event.html:41
+#: src/templates/itip_todo.html:16
+#, kde-format
+msgctxt "<beginDate> - <endDate>"
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#: src/templates/event.html:34 src/templates/event.html:44
+#, kde-format
+msgctxt "Date as string"
+msgid "%1"
+msgstr "%1"
+
+#: src/templates/event.html:47
+msgid "Time:"
+msgstr "Zaman:"
+
+#: src/templates/event.html:49
+#, kde-format
+msgctxt "<beginTime> - <endTime>"
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#: src/templates/event.html:51
+#, kde-format
+msgctxt "Time as string"
+msgid "%1"
+msgstr "%1"
+
+#: src/templates/event.html:70
+msgctxt "Exception in event recurrence"
+msgid "Exception"
+msgstr "Elağandışı durum"
+
+#: src/templates/event.html:80
+msgid "Birthday:"
+msgstr "Doğumgünü:"
+
+#: src/templates/event.html:88
+msgid "Anniversary:"
+msgstr "Yıl dönümü:"
+
+#: src/templates/event.html:150 src/templates/todo.html:131
+msgid "Optional participants:"
+msgstr "İsteğe bağlı katılımcılar:"
+
+#: src/templates/event.html:184 src/templates/todo.html:186
+msgid "Attachment:"
+msgid_plural "Attachments:"
+msgstr[0] "Eklenti:"
+msgstr[1] "Eklentiler:"
+
+#: src/templates/event.html:196 src/templates/journal.html:46
+#: src/templates/todo.html:199
+#, kde-format
+msgid "Creation date: %1"
+msgstr "Oluşturulma tarihi: %1"
+
+#: src/templates/freebusy.html:6
+#, kde-format
+msgid "Busy times in date range %1 - %2:"
+msgstr "%1 - %2 tarihleri arasındaki dolu zamanlar:"
+
+#: src/templates/freebusy.html:9
+msgctxt "tag for busy period list"
+msgid "Busy:"
+msgstr "Meşgul:"
+
+#: src/templates/freebusy.html:13
+#, kde-format
+msgctxt "startDate for duration"
+msgid "%1 for %2"
+msgstr "%2 için %1"
+
+#: src/templates/freebusy.html:16
+#, kde-format
+msgctxt "date, fromTime - toTime"
+msgid "%1, %2 - %3"
+msgstr "%1, %2 - %3"
+
+#: src/templates/freebusy.html:18
+#, kde-format
+msgctxt "fromDateTime - endDateTime"
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#: src/templates/incidence_header.html:10
+msgid "Recurring incidence"
+msgstr "Yinelenen olay"
+
+#: src/templates/incidence_header.html:14
+msgid "Incidence with a reminder"
+msgstr "Hatırlatmalı olay"
+
+#: src/templates/incidence_header.html:18
+msgid "Incidence is read only"
+msgstr "Olay sadece okunabilir"
+
+#: src/templates/itip.html:80
+msgid "Comment:"
+msgstr "Yorum:"
+
+#: src/templates/itip.html:83
+msgid "Comments:"
+msgstr "Yorumlar:"
+
+#: src/templates/itip.html:122
+msgid "Attachments:"
+msgstr "Eklentiler:"
+
+#: src/templates/itip_event.html:6
+msgid "First event:"
+msgstr "Birinci olay:"
+
+#: src/templates/itip_event.html:8 src/templates/itip_todo.html:13
+msgid "When:"
+msgstr "Ne zaman:"
+
+#: src/templates/itip_event.html:15 src/templates/itip_todo.html:6
+msgid "Where:"
+msgstr "Nerede:"
+
+#: src/templates/itip_event.html:42
+msgid "Events on these days:"
+msgstr "Bu günlerdeki etkinlikler:"
+
+#: src/templates/itip_event.html:44
+msgid "Events on this day:"
+msgstr "Bu gündeki etkinlikler:"
+
+#: src/templates/itip_freebusy.html:5
+msgid "Person:"
+msgstr "Kişi:"
+
+#: src/templates/itip_freebusy.html:10
+msgid "Start date:"
+msgstr "Başlama tarihi:"
+
+#: src/templates/itip_freebusy.html:15
+msgid "End date:"
+msgstr "Bitiş tarihi:"
+
+#: src/templates/itip_freebusy.html:23
+msgid "Busy periods given in this free/busy object:"
+msgstr "Bu serbest/meşgul nesnesinde belirtilmiş meşgul dönemleri:"
+
+#: src/templates/itip_freebusy.html:31
+#, kde-format
+msgctxt "<startDate> for <duration>"
+msgid "%1 for %2"
+msgstr "%2 için %1"
+
+#: src/templates/itip_freebusy.html:34
+#, kde-format
+msgctxt "<startDate> - <endDate>"
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#: src/templates/itip_freebusy.html:36
+#, kde-format
+msgctxt "<date>, <startTime> - <endTime>"
+msgid "%1, %2 - %3"
+msgstr "%1, %2 - %3"
+
+#: src/templates/itip_todo.html:22
+#, kde-format
+msgctxt "<beginDateTime> - <endDateTime>"
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#: src/templates/itip_todo.html:24
+#, kde-format
+msgctxt "<beginDateTime> - <endTime>"
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#: src/templates/itip_todo.html:32
+msgid "Percent Done:"
+msgstr "Tamanlanan Yüzde:"
+
+#: src/templates/itip_todo.html:39
+msgid "Due:"
+msgstr "Gerçekleşme tarihi:"
+
+#: src/templates/journal.html:5
+msgid "Journal"
+msgstr "Günlük"
+
+#: src/templates/todo.html:5
+msgid "Todo"
+msgstr "Yapılacak"
+
+#: src/templates/todo.html:30
+msgctxt "to-do start date/time"
+msgid "Start:"
+msgstr "Başlama tarihi:"
+
+#: src/templates/todo.html:42
+msgctxt "to-do due date/time"
+msgid "Due:"
+msgstr "Gerçekleşme tarihi:"
+
+#: src/templates/todo.html:165
+msgid "Priority:"
+msgstr "Öncelik:"
+
+#: src/templates/todo.html:173
+msgctxt "Completed: date"
+msgid "Completed:"
+msgstr "Tamanlanan:"
+
+#: src/templates/todo.html:178
+msgid "Percent done:"
+msgstr "Tamanlanan yüzde:"
+
+#~ msgctxt "@info"
+#~ msgid ""
+#~ "<para>You accepted an invitation update, but an earlier version of the "
+#~ "item could not be found in your calendar.</para><para>This may have "
+#~ "occurred because:<list><item>the organizer did not include you in the "
+#~ "original invitation</item><item>you did not accept the original "
+#~ "invitation yet</item><item>you deleted the original invitation from your "
+#~ "calendar</item><item>you no longer have access to the calendar containing "
+#~ "the invitation</item></list></para><para>This is not a problem, but we "
+#~ "thought you should know.</para>"
+#~ msgstr ""
+#~ "<para>Bir davet güncellemesini kabul ettiniz ama bu ögenin eski sürümü "
+#~ "takviminizde bulunamadı.</para><para>Bunun nedenleri şunlar olabilir:"
+#~ "<list><item>düzenleyen sizi özgün davete eklememiş olabilir</"
+#~ "item><item>özgün daveti henüz kabul etmemiş olabilirsiniz</"
+#~ "item><item>özgün daveti takviminizden silmiş olabilirsiniz</item><item>bu "
+#~ "daveti içeren takvime artık erişiminiz olmayabilir</item></list></"
+#~ "para><para>Bu bir sorun değil ama bilmek isteyeceğinizi düşündük.</para>"
+
+#~ msgctxt "@title"
+#~ msgid "Cannot find invitation to be updated"
+#~ msgstr "Güncellenecek davet bulunamadı"
+
+#~ msgctxt "@info"
+#~ msgid ""
+#~ "The event or task could not be removed from your calendar. Maybe it has "
+#~ "already been deleted or is not owned by you. Or it might belong to a read-"
+#~ "only or disabled calendar."
+#~ msgstr ""
+#~ "Olay veya görev takviminizden kaldırılamıyor. Ya daha önce silindi ya da "
+#~ "sizin tarafından sahiplenilmemiş durumda. Salt-okunur veya etkin olmayan "
+#~ "bir takvime de ait olabilir."
+
+#~ msgctxt "@info"
+#~ msgid "%1 wants to attend %2 but was not invited."
+#~ msgstr "%1 %2 kişisine eşlik etmek istiyor ancak davet edilmemiş"
+
+#~ msgctxt "@info"
+#~ msgid "%1 wants to attend %2 on behalf of %3."
+#~ msgstr "%1, %3 adına %2 etkinliğine katılmak istiyor"
+
+#~ msgctxt "@title"
+#~ msgid "Uninvited attendee"
+#~ msgstr "Davet edilmemiş katılımcı"
+
+#~ msgctxt "@option"
+#~ msgid "Accept Attendance"
+#~ msgstr "Katılımı Kabul Et"
+
+#~ msgctxt "@option"
+#~ msgid "Reject Attendance"
+#~ msgstr "Katılımı Reddet"
+
+#~ msgctxt "@info"
+#~ msgid "The organizer rejected your attendance at this meeting."
+#~ msgstr "Düzenleyici toplantıya katılmanızı reddetti."
+
+#~ msgctxt "@info"
+#~ msgid ""
+#~ "An attendee was added to the incidence. Do you want to email the "
+#~ "attendees an update message?"
+#~ msgstr ""
+#~ "Bir katılımcı takvime eklendi. Güncelleme iletisini katılımcılara e-posta "
+#~ "ile göndermek ister misiniz?"
+
+#~ msgctxt "@title"
+#~ msgid "Attendee Added"
+#~ msgstr "Katılımcı Eklendi"
+
+#~ msgctxt "@option"
+#~ msgid "Send Messages"
+#~ msgstr "İletileri Gönder"
+
+#~ msgctxt "@option"
+#~ msgid "Do Not Send"
+#~ msgstr "Gönderme"
+
+#, fuzzy
+#~| msgctxt "@item event, to-do or journal needs action"
+#~| msgid "Needs Action"
+#~ msgid "Needs action"
+#~ msgstr "Eylem Gerektiren"
+
+#, fuzzy
+#~| msgctxt "@item event, to-do or journal accepted"
+#~| msgid "Accepted"
+#~ msgid "Accepted"
+#~ msgstr "Kabul edilmiş"
+
+#, fuzzy
+#~| msgctxt "@item event, to-do or journal declined"
+#~| msgid "Declined"
+#~ msgid "Declined"
+#~ msgstr "Reddedilmiş"
+
+#, fuzzy
+#~| msgctxt "@item event or to-do delegated"
+#~| msgid "Delegated"
+#~ msgid "Delegated"
+#~ msgstr "Katılınmış"
+
+#, fuzzy
+#~| msgctxt "@title:column to-do percent completed"
+#~| msgid "Completed"
+#~ msgid "Completed"
+#~ msgstr "Tamamlanmış"
+
+#, fuzzy
+#~| msgctxt "@item to-do in process of being completed"
+#~| msgid "In Process"
+#~ msgid "In Process"
+#~ msgstr "Devam Ediyor"
+
+#~ msgctxt "%1: Start Date, %2: Start Time"
+#~ msgid "%1 %2"
+#~ msgstr "%1 %2"
+
+#~ msgctxt "%1: Start Date"
+#~ msgid "%1 (all day)"
+#~ msgstr "%1 (tüm gün)"
+
+#~ msgctxt "%1: End Date, %2: End Time"
+#~ msgid "%1 %2"
+#~ msgstr "%1 %2"
+
+#~ msgctxt "%1: End Date"
+#~ msgid "%1 (all day)"
+#~ msgstr "%1 (tüm gün)"
+
+#~ msgctxt "name (comment)"
+#~ msgid "%1 (%2)"
+#~ msgstr "%1 (%2)"
+
+#~ msgid "What:"
+#~ msgstr "Ne:"
+
+#~ msgctxt "starting date"
+#~ msgid "From:"
+#~ msgstr "Kimden:"
+
+#~ msgctxt "starting time"
+#~ msgid "At:"
+#~ msgstr "Başlama zamanı:"
+
+#~ msgctxt "ending date"
+#~ msgid "To:"
+#~ msgstr "Kime:"
+
+#~ msgctxt "ending time"
+#~ msgid "At:"
+#~ msgstr "Bitiş Zamanı:"
+
+#~ msgid "no end date specified"
+#~ msgstr "bitiş tarihi belirtilmemiş"
+
+#~ msgctxt "Starting date of an event"
+#~ msgid "From:"
+#~ msgstr "Kimden:"
+
+#~ msgctxt "Starting time of an event"
+#~ msgid "At:"
+#~ msgstr "Başlama zamanı:"
+
+#~ msgctxt "Ending date of an event"
+#~ msgid "To:"
+#~ msgstr "Kime:"
+
+#~ msgid "Start Date:"
+#~ msgstr "Başlama Tarihi:"
+
+#~ msgid "Start Time:"
+#~ msgstr "Başlama Saati:"
+
+#~ msgid "Due Date:"
+#~ msgstr "Gerçekleşme Tarihi:"
+
+#~ msgid "Due Time:"
+#~ msgstr "Gerçekleşme Saati:"
+
+#~ msgctxt "Due Date: None"
+#~ msgid "None"
+#~ msgstr "Hiçbiri"
+
+#~ msgid "All day"
+#~ msgstr "Tüm gün"
+
+#~ msgid "Summary:"
+#~ msgstr "Özet:"
+
+#~ msgctxt "date, fromTime - toTime "
+#~ msgid "%1, %2 - %3"
+#~ msgstr "%1, %2 - %3"
+
+#~ msgctxt "fromDateTime - toDateTime"
+#~ msgid "%1 - %2"
+#~ msgstr "%1 - %2"
+
+#~ msgid "Invitation List"
+#~ msgstr "Davet Listesi"
+
+#~ msgctxt "no attendees"
+#~ msgid "None"
+#~ msgstr "Hiçbiri"
+
+#~ msgid "Attached Documents:"
+#~ msgstr "Eklenmiş Belgeler:"
+
+#~ msgid "The invitation starting time has been changed from %1 to %2"
+#~ msgstr "Davetin başlangıç saati %1 iken %2 olarak değiştirildi"
+
+#~ msgid "The invitation ending time has been changed from %1 to %2"
+#~ msgstr "Davetin başlama saati %1 iken %2 olarak değiştirildi"
+
+#~ msgid "The to-do has been completed"
+#~ msgstr "Bu yapılacak öge tamamlandı"
+
+#~ msgid "The to-do is no longer completed"
+#~ msgstr "Yapılacak öge artık tamamlanmış değil"
+
+#~ msgid "The task completed percentage has changed from %1 to %2"
+#~ msgstr "Tamamlanmış görev yüzdesi şundan: %1 şuna değişti: %2"
+
+#~ msgid "A to-do starting time has been added"
+#~ msgstr "Yapılacak bir öge için başlama zamanı eklendi"
+
+#~ msgid "The to-do starting time has been removed"
+#~ msgstr "Yapılacakların başlama saati kaldırıldı"
+
+#~ msgid "The to-do starting time has been changed from %1 to %2"
+#~ msgstr "Yapılacakların başlangıç saati %1 iken %2 olarak değiştirildi"
+
+#~ msgid "A to-do due time has been added"
+#~ msgstr "Yapılacakların başlama saati eklendi"
+
+#~ msgid "The to-do due time has been removed"
+#~ msgstr "Yapılacakların başlama zamanı kaldırıldı"
+
+#~ msgid "The to-do due time has been changed from %1 to %2"
+#~ msgstr "Yapılacakların başlama saati %1 iken %2 olarak değiştirildi"
+
+#~ msgid "The summary has been changed to: \"%1\""
+#~ msgstr "Özet şu şekilde değiştirildi: \"%1\""
+
+#~ msgid "The location has been changed to: \"%1\""
+#~ msgstr "Konum şu şekilde değiştirildi: \"%1\""
+
+#~ msgid "The description has been changed to: \"%1\""
+#~ msgstr "Açıklama şu şekilde değiştirildi: \"%1\""
+
+#~ msgid "Attendee %1 has been added"
+#~ msgstr "Katılımcı %1 eklendi"
+
+#~ msgid "The status of attendee %1 has been changed to: %2"
+#~ msgstr "%1 katılımcısının durumu şu şekilde değiştirildi: %2"
+
+#~ msgid "Attendee %1 has been removed"
+#~ msgstr "Katılımcı %1 çıkarıldı"
+
+#~ msgctxt "Accept invitation conditionally"
+#~ msgid "Accept cond."
+#~ msgstr "Koşullu Kabul Et"
+
+#~ msgctxt "postpone invitation"
+#~ msgid "Postpone"
+#~ msgstr "Ertele"
+
+#~ msgctxt "forward request to another"
+#~ msgid "Forward"
+#~ msgstr "Yönlendir"
+
+#~ msgctxt "look for scheduling conflicts"
+#~ msgid "Check my calendar"
+#~ msgstr "Takvimimi kontrol et"
+
+#~ msgid "Check my to-do list"
+#~ msgstr "Yapılacak listemi kontrol et"
+
+#~ msgid "The following changes have been made by the organizer:"
+#~ msgstr "Takip eden değişiklikler düzenleyici tarafından yapıldı:"
+
+#~ msgid "The following changes have been made by %1:"
+#~ msgstr "Takip eden değişiklikler %1 tarafından yapıldı:"
+
+#~ msgid "The following changes have been made:"
+#~ msgstr "Takip eden değişiklikler yapıldı:"
+
+#~ msgid "The following changes have been made by an attendee:"
+#~ msgstr "Takip eden değişiklikler bir katılımcı tarafından yapıldı:"
+
+#~ msgid "Full name of the calendar owner"
+#~ msgstr "Takvim sahibinin tam adı"
+
+#~ msgid "The full name of the calendar owner for the export"
+#~ msgstr "Dışa aktarmak için takvim sahibinin tam adı"
+
+#~ msgid "Enter the full name to print for the owner of the calendar."
+#~ msgstr "Yazdırmak için takvim sahibinin tam adını girin."
+
+#~ msgid "Email of the calendar owner"
+#~ msgstr "Takvim sahibinin e-postası"
+
+#~ msgid "The email address of the calendar owner for the export"
+#~ msgstr "Dışa aktarmak için takvim sahibinin e-posta adresini girin"
+
+#~ msgid "Enter the email address to print for the owner of the calendar."
+#~ msgstr "Takvim sahibinin yazdırılacak e-posta adresini girin."
+
+#~ msgid "Creator application"
+#~ msgstr "Oluşturan uygulama"
+
+#~ msgid "Creator application of the calendar"
+#~ msgstr "Takvimi oluşturan uygulama"
+
+#~ msgid "Enter a creator application of the calendar, for example KOrganizer."
+#~ msgstr "Takvimin oluşturan bir uygulama girin, örneğin KOrganizer."
+
+#~ msgid "Creator URL"
+#~ msgstr "Oluşturanın Adresi"
+
+#~ msgid "URL of the creator application of the calendar."
+#~ msgstr "Takvimi oluşturan uygulamanın adresi."
+
+#~ msgid ""
+#~ "Enter the URL of the creator application of the calendar, for example "
+#~ "http://userbase.kde.org/KOrganizer"
+#~ msgstr ""
+#~ "Takvimi oluşturan uygulamanın adresini girin, örneğin http://userbase.kde."
+#~ "org/KOrganizer"
+
+#~ msgid "Page Title"
+#~ msgstr "Sayfa Başlığı"
+
+#~ msgid "The title of the exported page"
+#~ msgstr "Dışa aktarılacak sayfanın başlığı"
+
+#~ msgid "Enter a title for the HTML page."
+#~ msgstr "HTML sayfası için bir başlık girin."
+
+#~ msgid "Date start"
+#~ msgstr "Başlama tarihi"
+
+#~ msgid "First day of the range to export"
+#~ msgstr "Dışa aktarılacak aralığın ilk günü"
+
+#~ msgid "First day of the range that shall be exported to HTML."
+#~ msgstr "HTML'ye aktarılacak aralığın ilk günü."
+
+#~ msgid "Date end"
+#~ msgstr "Bitiş tarihi"
+
+#~ msgid "Last day of the range to export"
+#~ msgstr "Dışa aktarılacak aralığın son günü"
+
+#~ msgid "Last day of the range that shall be exported to HTML."
+#~ msgstr "HTML'ye aktarılacak aralığın son günü."
+
+#~ msgid "Output filename"
+#~ msgstr "Çıktı dosyasının adı"
+
+#~ msgid "The file name for the export"
+#~ msgstr "Dışa aktarım için dosya adı"
+
+#~ msgid "The output file name for the HTML export."
+#~ msgstr "HTML aktarımı için çıktı dosyasının adı."
+
+#~ msgid "Style sheet"
+#~ msgstr "Biçim sayfası"
+
+#~ msgid "CSS style sheet to use by the final HTML page"
+#~ msgstr "Son HTML sayfası tarafından kullanılacak CSS biçem sayfası"
+
+#~ msgid ""
+#~ "CSS style sheet to be used by the final HTML page. This string contains "
+#~ "the actual contents of the CSS, not a path to the style sheet."
+#~ msgstr ""
+#~ "Sonuç HTML sayfası için kullanılacak CSS biçim sayfası. Bu yazı CSS'in "
+#~ "gerçek içeriğidir, biçim sayfasının yolu değil."
+
+#~ msgid "Exclude private incidences from the export"
+#~ msgstr "Dışarıya aktarma işleminde özel olayları hariç tut"
+
+#~ msgid "Exclude private items from the export"
+#~ msgstr "Çıkartılmayacak özel ögeleri seç"
+
+#~ msgid "Check this box if you do NOT want to export your private items."
+#~ msgstr ""
+#~ "Özel ögelerinizi dışa aktarmak istemiyorsanız bu kutuyu işaretleyin."
+
+#~ msgid "Exclude confidential incidences from the export"
+#~ msgstr "Dışarıya aktarma işleminde gizli olayları hariç tut"
+
+#~ msgid "Exclude confidential items from the export"
+#~ msgstr "Dışarıya aktarma işleminde gizli ögeleri hariç tut"
+
+#~ msgid "Check this box if you do NOT want to export your confidential items."
+#~ msgstr "Gizli ögelerinizi dışa aktarmak istemiyorsan bu kutuyu işaretleyin."
+
+#~ msgid "Export events as list"
+#~ msgstr "Olay listesini aktar"
+
+#~ msgid "Export events as a list"
+#~ msgstr "Olayları bir liste olarak dışa aktar"
+
+#~ msgid "Check this box if you want your events shown as a list."
+#~ msgstr ""
+#~ "Olaylarınızın bir liste olarak görülmesini istiyorsanız bu kutuyu "
+#~ "işaretleyin."
+
+#~ msgid "Export in month view"
+#~ msgstr "Aylık görünümü aktar"
+
+#~ msgid "Export events in a month view"
+#~ msgstr "Olayları ay görünümünde dışa aktar"
+
+#~ msgid "Check this box if you want your events shown in a month view."
+#~ msgstr ""
+#~ "Olaylarınızın aylık görünümünde görülmesini istiyorsanız bu kutuyu "
+#~ "işaretleyin."
+
+#~ msgid "Export in week view"
+#~ msgstr "Haftalık görünümü aktar"
+
+#~ msgid "Export events in a week view"
+#~ msgstr "Olayları haftalık görünümde dışa aktar"
+
+#~ msgid "Check this box if you want your events shown in a week view."
+#~ msgstr ""
+#~ "Olaylarınızın haftalık görünümünde görülmesini istiyorsanız bu kutuyu "
+#~ "işaretleyin."
+
+#~ msgid "Title of the calendar"
+#~ msgstr "Takvimin başlığı"
+
+#~ msgid "Title for the event calendar"
+#~ msgstr "Olay takvimi için başlık"
+
+#~ msgid "Enter a string to use for the title of the event calendar."
+#~ msgstr "Olay takvimi başlığı için kullanmak üzere bir metin girin."
+
+#~ msgid "Export location of the events"
+#~ msgstr "Olayların konumlarını aktar"
+
+#~ msgid "Include the event locations"
+#~ msgstr "Olay konumlarını dahil et"
+
+#~ msgid ""
+#~ "Check this box if you want the event locations to be exported, only if "
+#~ "the event has a location."
+#~ msgstr ""
+#~ "Olay konumlarının da dışarı aktarılmasını istiyorsanız bu kutuyu "
+#~ "işaretleyin, sadece olayların konumu varsa kullanılabilir."
+
+#~ msgid "Export categories of the events"
+#~ msgstr "Olayların sınıflandırmalarını aktar"
+
+#~ msgid "Include the event categories"
+#~ msgstr "Olay kategorilerini dahil et"
+
+#~ msgid "Check this box if you want the event categories to be exported."
+#~ msgstr ""
+#~ "Olay kategorilerinin dışa aktarılmasını istiyorsanız bu kutuyu "
+#~ "işaretleyin."
+
+#~ msgid "Export attendees of the events"
+#~ msgstr "Olayların katılımcılarını aktar"
+
+#~ msgid "Include the event attendees"
+#~ msgstr "Olay katılımcılarını dahil et"
+
+#~ msgid "Check this box if you want the event attendees to be exported."
+#~ msgstr ""
+#~ "Eğer olayın katılımcılarının dışa aktarılmasını istiyorsanız bu kutuyu "
+#~ "işaretleyin."
+
+#~ msgid "Export to-do list"
+#~ msgstr "Yapılacaklar listesini aktar"
+
+#~ msgid "Export the to-do list"
+#~ msgstr "Yapılacaklar listesini dışa aktar"
+
+#~ msgid ""
+#~ "Check this box if you want your to-do list to also be exported to the "
+#~ "HTML."
+#~ msgstr ""
+#~ "Yapılacak listenizin de HTML'ye çıkartılmasını istiyorsanız bu kutuyu "
+#~ "işaretleyin."
+
+#~ msgid "Title of the to-do list"
+#~ msgstr "Yapılacaklar listesinin başlığı"
+
+#~ msgid "Title for the to-do list"
+#~ msgstr "Yapılacaklar listesi için başlık"
+
+#~ msgid "Enter a string to use for the title of the to-do list."
+#~ msgstr "Yapılacak listesi başlığı için kullanılmak üzere bir metin girin."
+
+#~ msgid "Export due dates of the to-dos"
+#~ msgstr "Yapılacak işlerin son teslim tarihlerini aktar"
+
+#~ msgid "Include to-do due dates"
+#~ msgstr "Yapılacak son tarihleri içer"
+
+#~ msgid ""
+#~ "Check this box if you want the to-do list due dates to be exported, if "
+#~ "the to-do does have a due date."
+#~ msgstr ""
+#~ "Eğer yapılacakların son tarihleri varsa çıkartılmasını istiyorsanız bu "
+#~ "kutuyu işaretleyin."
+
+#~ msgid "Export location of the to-dos"
+#~ msgstr "Yapılacakların konumlarını aktar"
+
+#~ msgid "Include the to-do locations"
+#~ msgstr "Yapılacak konumlarını dahil et"
+
+#~ msgid ""
+#~ "Check this box if you want the to-do locations to be exported, only if "
+#~ "the to-do has a location."
+#~ msgstr ""
+#~ "Yapılacakların konumlarının dışa aktarılmasını istiyorsanız bu kutuyu "
+#~ "işaretleyin, bu işlemi sadece yapılacak öge bir konuma sahipse yapın."
+
+#~ msgid "Export categories of the to-dos"
+#~ msgstr "Yapılacakların sınıflandırmalarını aktar"
+
+#~ msgid "Include the to-do categories"
+#~ msgstr "Yapılacak ögesi sınıflandırmalarını dahil et"
+
+#~ msgid "Check this box if you want the to-do categories to be exported."
+#~ msgstr ""
+#~ "Yapılacak öge kategorisinin çıkartılmasını istiyorsanız bu kutuyu "
+#~ "işaretleyin."
+
+#~ msgid "Export attendees of the to-dos"
+#~ msgstr "Yapılacakların katılımcılarını aktar"
+
+#~ msgid "Include the to-do attendees"
+#~ msgstr "Yapılacaklar katılımcılarını dahil et"
+
+#~ msgid "Check this box if you want the to-do attendees to be exported."
+#~ msgstr ""
+#~ "Eğer yapılacaklar katılımcılarının dışa aktarılmasını istiyorsanız bu "
+#~ "kutuyu işaretleyin."
+
+#~ msgid "Export journals"
+#~ msgstr "Günlükleri aktar"
+
+#~ msgid "Check this box if you want to export journals as well."
+#~ msgstr "Günlüklerinizi de dışa aktarmak istiyorsanız bu kutuyu işaretleyin."
+
+#~ msgid "Title of the journal list"
+#~ msgstr "Günlüklerin başlığı"
+
+#~ msgid "Title for the journal list"
+#~ msgstr "Günlük listesi için başlık"
+
+#~ msgid "Enter a title for the Journal list, if Journals are exported."
+#~ msgstr ""
+#~ "Eğer Günlükler çıkartılacaksa, Günlük listesi için bir başlık girin."
+
+#~ msgid "Export free/busy list"
+#~ msgstr "Uygun/meşgul listesini dışa aktar"
+
+#~ msgid "Check this box if you want to export free/busy information as well."
+#~ msgstr ""
+#~ "Uygun/meşgul bilgisini de dışa aktarmak istiyorsanız bu kutuyu "
+#~ "işaretleyin."
+
+#~ msgid "Title of the free/busy list"
+#~ msgstr "Boş/meşgul listesinin başlığı"
+
+#~ msgid "Title for the free/busy list"
+#~ msgstr "Uygun/meşgul listesi için başlık"
+
+#~ msgid ""
+#~ "Enter a title for the free/busy list, if free/busy times are exported."
+#~ msgstr ""
+#~ "Eğer uygun/meşgul zamanları da dışa aktarılacaksa, uygun/meşgul listesi "
+#~ "için bir başlık girin."
+
+#~ msgctxt "date as string"
+#~ msgid "%1"
+#~ msgstr "%1"
+
+#~ msgid "Select calendar items before the specified date"
+#~ msgstr "Belirtilen tarihten önceki takvim ögelerini seç"
+
+#~ msgid ""
+#~ "Check this box if you want to select calendar items that occur before the "
+#~ "specified date."
+#~ msgstr ""
+#~ "Belirtilen tarihten önce meydana gelen takvim ögelerini seçmek "
+#~ "istiyorsan, kutuyu işaretle."
+
+#~ msgid "Choose the currently selected calendar item"
+#~ msgstr "Halihazırda seçili olan takvim ögelerini seç"
+
+#~ msgid ""
+#~ "Check this box if you want to select calendar items that occur on the "
+#~ "specified date."
+#~ msgstr ""
+#~ "Belirtilen zamanda oluşan takvim ögelerini seçmek istiyorsanız bu kutuyu "
+#~ "işaretleyin."
+
+#~ msgid "Select calendar items after the specified date"
+#~ msgstr "Belirtilen tarihten sonra takvim ögelerini seç"
+
+#~ msgid ""
+#~ "Check this box if you want to select calendar items that occur after the "
+#~ "specified date."
+#~ msgstr ""
+#~ "Belirtilen zamanda oluşan takvim ögelerini seçmek istiyorsanız bu kutuyu "
+#~ "işaretleyin."
+
+#~ msgid "Calendar"
+#~ msgstr "Takvim"
+
+#~ msgid "To-do List"
+#~ msgstr "Yapılacaklar Listesi"
+
+#~ msgid "Busy times"
+#~ msgstr "Meşgul zamanlar"

@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-04-06 01:54+0000\n"
+"PO-Revision-Date: 2017-10-04 14:40+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: src/migration/mdb/src/keximdb/keximigrate_mdb.json
+msgctxt "Name"
+msgid "MS Access"
+msgstr "MS Access"
+
+#: src/migration/mysql/keximigrate_mysql.json
+msgctxt "Name"
+msgid "MySQL"
+msgstr "MySQL"
+
+#: src/migration/postgresql/keximigrate_postgresql.json
+msgctxt "Name"
+msgid "PostgreSQL"
+msgstr "PostgreSQL"
+
+#: src/migration/tsv/keximigrate_tsv.json
+msgctxt "Name"
+msgid "TSV"
+msgstr "TSV"
+
+#: src/plugins/forms/widgets/main/kexiforms_mainwidgetsplugin.json
+msgctxt "Name"
+msgid "Main form widgets"
+msgstr "Ana form programcıkları"
+
+#: src/plugins/forms/widgets/webbrowser/kexiforms_webbrowserwidgetplugin.json
+msgctxt "Name"
+msgid "Web browser widget"
+msgstr "Web tarayıcı programcığı"
+
+#: src/migration/mdb/src/keximdb/keximigrate_mdb.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "MS Access (MDB) import plugin for Kexi"
+msgctxt "Description"
+msgid "MS Access (MDB) import plugin for Kexi"
+msgstr "Kexi için Access (MDB) içe aktarma eklentisi"
+
+#: src/migration/mysql/keximigrate_mysql.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "MySQL database import plugin for Kexi"
+msgctxt "Description"
+msgid "MySQL database import plugin for Kexi"
+msgstr "Kexi için MySQL veritabanı içe aktarma eklentisi"
+
+#: src/migration/postgresql/keximigrate_postgresql.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "PostgreSQL database import plugin for Kexi"
+msgctxt "Description"
+msgid "PostgreSQL database import plugin for Kexi"
+msgstr "Kexi için PostgreSQL veritabanı içe aktarma eklentisi"
+
+#: src/migration/tsv/keximigrate_tsv.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Tab Separated Values (TSV) file import plugin for Kexi"
+msgctxt "Description"
+msgid "Tab Separated Values (TSV) file import plugin for Kexi"
+msgstr ""
+"Kexi için Sekme ile Ayrılmış Değerler (TSV) dosyası içe aktarma eklentisi"
+
+#: src/plugins/forms/widgets/main/kexiforms_mainwidgetsplugin.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Kexi plugin providing database form widgets"
+msgctxt "Description"
+msgid "Kexi plugin providing database form widgets"
+msgstr "Kexi eklentisi, veri tabanı programcığı sağlar"
+
+#: src/plugins/forms/widgets/webbrowser/kexiforms_webbrowserwidgetplugin.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Kexi plugin providing web browser form widget"
+msgctxt "Description"
+msgid "Kexi plugin providing web browser form widget"
+msgstr "Kexi eklentisi web tarayıcı programcığı sağlar"
+
+#: src/migration/mdb/src/keximdb/keximigrate_mdb.json
+#: src/migration/mysql/keximigrate_mysql.json
+#: src/migration/postgresql/keximigrate_postgresql.json
+#: src/migration/tsv/keximigrate_tsv.json
+#: src/plugins/forms/widgets/main/kexiforms_mainwidgetsplugin.json
+#: src/plugins/forms/widgets/webbrowser/kexiforms_webbrowserwidgetplugin.json
+#, fuzzy
+#| msgctxt "Authors Name"
+#| msgid "Kexi Team"
+msgctxt "Authors Name"
+msgid "Kexi Team"
+msgstr "Kexi Ekibi"

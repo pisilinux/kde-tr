@@ -1,0 +1,454 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2010-2011.
+# obsoleteman <tulliana@gmail.com>, 2009.
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2015, 2017.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-runtime-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-12 01:42+0000\n"
+"PO-Revision-Date: 2017-06-09 15:21+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 2.0\n"
+"X-POOTLE-MTIME: 1413102277.000000\n"
+
+#. i18n: ectx: property (toolTip), widget (QTabWidget, tabWidget)
+#: settingsdialog.ui:29
+#, kde-format
+msgid "Directory settings of the resource."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QTabWidget, tabWidget)
+#: settingsdialog.ui:32
+#, fuzzy, kde-format
+#| msgid ""
+#| "Select the directory whose contents should be represented by this "
+#| "resource. If the directory does not exist, it will be created."
+msgid ""
+"Select settings of the directory whose contents should be represented by "
+"this resource."
+msgstr ""
+"Bu kaynak tarafından sunulacak içeriğe sahip dizin seçin. Dizin mevcut "
+"değilse, oluşturulacaktır."
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: settingsdialog.ui:39
+#, kde-format
+msgid "Directory"
+msgstr "Dizin"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: settingsdialog.ui:45
+#, kde-format
+msgid "Directory Name"
+msgstr "Dizin Adı"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: settingsdialog.ui:53
+#, kde-format
+msgid "Director&y:"
+msgstr "&Dizin:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: settingsdialog.ui:68
+#, kde-format
+msgid ""
+"Select the directory whose contents should be represented by this resource. "
+"If the directory does not exist, it will be created."
+msgstr ""
+"Bu kaynak tarafından sunulacak içeriğe sahip dizin seçin. Dizin mevcut "
+"değilse, oluşturulacaktır."
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: settingsdialog.ui:81 singlefileresourceconfigwidget_desktop.ui:132
+#, kde-format
+msgid "Access Rights"
+msgstr "Erişim Hakları"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_ReadOnly)
+#: settingsdialog.ui:87
+#, fuzzy, kde-format
+#| msgid ""
+#| "If read-only mode is enabled, no changes will be written to the directory "
+#| "selected above. Read-only mode will be automatically enabled if you do "
+#| "not have write access to the directory."
+msgid ""
+"If read-only mode is enabled, no changes will be written to the directory "
+"selected above."
+msgstr ""
+"Salt-okunur kipi etkinse, yukarıda seçili dizinde hiçbir bir değişiklik "
+"yazılmayacaktır. Bu dizine yazma erişiminiz yoksa salt okunur kipi otomatik "
+"olarak etkinleştirilecektir."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_ReadOnly)
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: settingsdialog.ui:90 settingsdialog.ui:100
+#, kde-format
+msgid ""
+"If read-only mode is enabled, no changes will be written to the directory "
+"selected above. Read-only mode will be automatically enabled if you do not "
+"have write access to the directory."
+msgstr ""
+"Salt-okunur kipi etkinse, yukarıda seçili dizinde hiçbir bir değişiklik "
+"yazılmayacaktır. Bu dizine yazma erişiminiz yoksa salt okunur kipi otomatik "
+"olarak etkinleştirilecektir."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ReadOnly)
+#: settingsdialog.ui:93 singlefileresourceconfigwidget_desktop.ui:148
+#, kde-format
+msgid "Read only"
+msgstr "Salt okunur"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_2)
+#: settingsdialog.ui:127
+#, kde-format
+msgid "Tuning"
+msgstr "Ayarlama"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: settingsdialog.ui:133
+#, kde-format
+msgid ""
+"The options on this page allow you to change parameters that balance data "
+"safety and consistency against performance. In general you should be careful "
+"with changing anything here, the defaults are good enough in most cases."
+msgstr ""
+"Bu sayfadaki seçenekler veri güvenliği ve tutarlılığı arasındaki dengeyi "
+"sağlayan parametreleri değiştirmenize izin verir. Buradaki herhangi bir şeyi "
+"değiştirmede genelde dikkatli olmalısınız, birçok durumda öntanımlılar "
+"yeteri kadar iyidir."
+
+#. i18n: ectx: property (text), widget (QLabel, autosaveLabel)
+#: settingsdialog.ui:145
+#, kde-format
+msgid "Autosave delay:"
+msgstr "Otomatik kaydetme gecikmesi:"
+
+#. i18n: ectx: property (toolTip), widget (KPluralHandlingSpinBox, kcfg_AutosaveInterval)
+#: settingsdialog.ui:152
+#, kde-format
+msgid "Autosave interval time (in minutes)."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (KPluralHandlingSpinBox, kcfg_AutosaveInterval)
+#: settingsdialog.ui:155
+#, kde-format
+msgid "Select autosave interval time for the resource data (in minutes)."
+msgstr ""
+
+#: singlefileresource.h:60
+#, kde-format
+msgid "No file selected."
+msgstr "Dosya seçilmedi."
+
+#: singlefileresource.h:62
+#, kde-format
+msgid "The resource not configured yet"
+msgstr "Kaynak henüz yapılandırılmamış"
+
+#: singlefileresource.h:93 singlefileresource.h:122 singlefileresource.h:207
+#: singlefileresourcebase.cpp:278 singlefileresourcebase.cpp:295
+#, kde-format
+msgctxt "@info:status"
+msgid "Ready"
+msgstr "Hazır"
+
+#: singlefileresource.h:95
+#, kde-format
+msgid "Could not create file '%1'."
+msgstr " '%1' dosyası oluşturulamadı."
+
+#: singlefileresource.h:109
+#, kde-format
+msgid "Could not read file '%1'"
+msgstr "'%1' dosyası okunamadı"
+
+#: singlefileresource.h:125
+#, kde-format
+msgid "Another download is still in progress."
+msgstr "Başka bir indirme işlemi devam ediyor."
+
+#: singlefileresource.h:135 singlefileresource.h:221
+#, kde-format
+msgid "Another file upload is still in progress."
+msgstr "Başka bir gönderme işlemi devam ediyor."
+
+#: singlefileresource.h:151
+#, kde-format
+msgid "Downloading remote file."
+msgstr "Uzaktaki dosya indiriliyor."
+
+#: singlefileresource.h:171
+#, kde-format
+msgid "Trying to write to a read-only file: '%1'."
+msgstr "Salt okunur bir dosyaya yazılmaya çalışılıyor: '%1'."
+
+#: singlefileresource.h:183
+#, kde-format
+msgid "No file specified."
+msgstr "Bir dosya belirtilmedi."
+
+#: singlefileresource.h:211
+#, kde-format
+msgid "A download is still in progress."
+msgstr "Bir indirme işlemi devam ediyor."
+
+#: singlefileresource.h:251
+#, kde-format
+msgid "Uploading cached file to remote location."
+msgstr "Önbelleğe alınan dosya uzak konuma yükleniyor."
+
+#: singlefileresourcebase.cpp:241
+#, kde-format
+msgid ""
+"The file '%1' was changed on disk. As a precaution, a backup of its previous "
+"contents has been created at '%2'."
+msgstr ""
+"'%1' dosyası diskte değişti. Veri kaybı yaşamamak için değişikliklerin bir "
+"yedeği '%2' olarak oluşturuldu."
+
+#: singlefileresourcebase.cpp:265
+#, kde-format
+msgid "Could not load file '%1'."
+msgstr "'%1' dosyası yüklenemedi."
+
+#: singlefileresourcebase.cpp:284
+#, kde-format
+msgid "Could not save file '%1'."
+msgstr "'%1' dosyası kaydedilemedi."
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: singlefileresourceconfigwidget_desktop.ui:39
+#, kde-format
+msgid "File"
+msgstr "Dosya"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: singlefileresourceconfigwidget_desktop.ui:45
+#, kde-format
+msgid "Filename"
+msgstr "Dosya adı"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: singlefileresourceconfigwidget_desktop.ui:55
+#, kde-format
+msgid "&Filename:"
+msgstr "&Dosya adı:"
+
+#. i18n: ectx: property (text), widget (QLabel, statusLabel)
+#: singlefileresourceconfigwidget_desktop.ui:72
+#, kde-format
+msgid "Status:"
+msgstr "Durum:"
+
+#. i18n: ectx: property (text), widget (QLabel, textEdit)
+#: singlefileresourceconfigwidget_desktop.ui:79
+#, kde-format
+msgid ""
+"Select the file whose contents should be represented by this resource. If "
+"the file does not exist, it will be created. A URL of a remote file can also "
+"be specified, but note that monitoring for file changes will not work in "
+"this case."
+msgstr ""
+"Bu öz kaynak tarafından sunulacak içeriğe sahip dosyayı seçin. Dosya mevcut "
+"değilse, oluşturulacaktır. Uzak bir dosyanın bağlantısı da belirtilebilir "
+"fakat bu durumda bu dosyanın gözlemlenmesi çalışmayacaktır."
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: singlefileresourceconfigwidget_desktop.ui:96
+#, kde-format
+msgid "Display Name"
+msgstr "Görünen İsim"
+
+#. i18n: ectx: property (text), widget (QLabel, label_1)
+#: singlefileresourceconfigwidget_desktop.ui:104
+#, kde-format
+msgid "&Name:"
+msgstr "&İsim:"
+
+#. i18n: ectx: property (text), widget (QLabel, textEdit_2)
+#: singlefileresourceconfigwidget_desktop.ui:119
+#, kde-format
+msgid ""
+"Enter the name used to identify this resource in displays. If not specified, "
+"the filename will be used."
+msgstr ""
+"Bu kaynağı gösterimlerde tanımlayabilmek için kullanılacak adı girin. "
+"Belirtilmezse dosya adı kullanılacaktır."
+
+#. i18n: ectx: property (text), widget (QLabel, textEdit_3)
+#: singlefileresourceconfigwidget_desktop.ui:138
+#, kde-format
+msgid ""
+"If read-only mode is enabled, no changes will be written to the file "
+"selected above. Read-only mode will be automatically enabled if you do not "
+"have write access to the file or the file is on a remote server that does "
+"not support write access."
+msgstr ""
+"Salt-okunur kipi etkinse, yukarıda seçili dosyada herhangi bir değişiklik "
+"yapılmayacaktır. Dosyaya yazma erişiminiz yoksa veya dosya uzak bir sunucuda "
+"ve bu dosyaya yazma erişimi yoksa, salt-okunur kipi otomatik olarak "
+"etkinleştirilecektir."
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_MonitorFile)
+#: singlefileresourceconfigwidget_desktop.ui:158
+#, kde-format
+msgid "Monitoring"
+msgstr "Gözlemleme"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_MonitorFile)
+#: singlefileresourceconfigwidget_desktop.ui:164
+#, kde-format
+msgid "Enable file &monitoring"
+msgstr "Dosya izlemeyi &etkinleştir"
+
+#. i18n: ectx: property (text), widget (QLabel, textEdit_4)
+#: singlefileresourceconfigwidget_desktop.ui:171
+#, kde-format
+msgid ""
+"If file monitoring is enabled the resource will reload the file when changes "
+"are made by other programs. It also tries to create a backup in case of "
+"conflicts whenever possible."
+msgstr ""
+"Dosya gözlemleme etkinse, dosya, diğer programlar tarafından "
+"değiştirildiğinde öz kaynak tarafından yeniden yüklenecek. Herhangi bir "
+"çakışma durumu olması ihtimaline karşı dosyanın yedeği de alınacak."
+
+#: singlefileresourceconfigwidgetbase.cpp:123
+#, kde-format
+msgctxt "@info:status"
+msgid "Checking file information..."
+msgstr "Dosya bilgileri denetleniyor..."
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Noto Sans'; font-size:10pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Select the file whose "
+#~ "contents should be represented by this resource. If the file does not "
+#~ "exist, it will be created. A URL of a remote file can also be specified, "
+#~ "but note that monitoring for file changes will not work in this case.</"
+#~ "p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Noto Sans'; font-size:10pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">İçeriklerinin bu kaynak "
+#~ "tarafından gösterilmesi istenen dosyayı seçin. Dosya mevcut değilse "
+#~ "oluşturulacaktır. Dosya için uzak bir dosya URL'si de belirtilebilir, "
+#~ "ancak bu durumda dosya değişiklik izleyicilerinin çalışmayacağını "
+#~ "unutmayın.</p></body></html>"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Noto Sans'; font-size:10pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Enter the name used to "
+#~ "identify this resource in displays. If not specified, the filename will "
+#~ "be used.</p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Noto Sans'; font-size:10pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Göstergelerde bu "
+#~ "kaynağı tanımlamakta kullanılacak ismi girin. Belirtilmemişse dosya adı "
+#~ "kullanılacak.</p></body></html>"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Noto Sans'; font-size:10pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">If read-only mode is "
+#~ "enabled, no changes will be written to the file selected above. Read-only "
+#~ "mode will be automatically enabled if you do not have write access to the "
+#~ "file or the file is on a remote server that does not support write access."
+#~ "</p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Noto Sans'; font-size:10pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Salt okunur kip "
+#~ "etkinse, yukarıda seçili dosyada değişiklikler yazılmayacaktır. Salt "
+#~ "okunur kip, dosyaya yazma izniniz yoksa veya uzak sunucuda yazma izniniz "
+#~ "yoksa otomatik etkinleştirilir.</p></body></html>"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Noto Sans'; font-size:10pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">If file monitoring is "
+#~ "enabled the resource will reload the file when changes are made by other "
+#~ "programs. It also tries to create a backup in case of conflicts whenever "
+#~ "possible.</p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Noto Sans'; font-size:10pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">İzleme etkinse, diğer "
+#~ "programlar tarafından yapılan kaynak üzerindeki değişiklikler ile dosya "
+#~ "yeniden yüklenir. Mümkün olduğunda ayrıca bir kopya da oluşturulmaya "
+#~ "çalışılır.</p></body></html>"
+
+#~ msgid "Could not find account"
+#~ msgstr "Hesap bulunamadı"
+
+#~ msgid "Could not find credentials"
+#~ msgstr "Kimlik bilgileri bulunamadı"
+
+#~ msgid "&Display name:"
+#~ msgstr "&Görünen isim:"
+
+#~ msgid " minute"
+#~ msgid_plural " minutes"
+#~ msgstr[0] " dakika"
+#~ msgstr[1] " dakika"

@@ -1,0 +1,32 @@
+#
+# Translators:
+# Volkan, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-sdk-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-21 07:10+0000\n"
+"PO-Revision-Date: 2014-06-08 13:51+0000\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/extragear-sdk-k-"
+"tr/language/tr/)\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: app/org.kde.massif-visualizer.desktop:11
+msgctxt "Name"
+msgid "Massif-Visualizer"
+msgstr "Massif-Görselleyici"
+
+#: app/org.kde.massif-visualizer.desktop:50
+msgctxt "GenericName"
+msgid "Profiler Frontend"
+msgstr "Profil Önyüzü"
+
+#: app/org.kde.massif-visualizer.desktop:87
+msgctxt "Comment"
+msgid "Visualization of Memory Profiling Data"
+msgstr "Bellek Profilleme Verisinin Görselleştirilmesi"

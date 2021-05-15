@@ -1,0 +1,5924 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Ozan Çağlayan <ozan@pardus.org.tr>, 2010.
+# obsoleteman <tulliana@gmail.com>, 2008-2010,2012.
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014, 2015, 2017.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-sysadmin-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-15 02:36+0100\n"
+"PO-Revision-Date: 2017-10-23 09:10+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Serdar Soytetir, Volkan Gezer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "tulliana@gmail.com, volkangezer@gmail.com"
+
+#: config/configureoptionsdialog.cpp:42
+#, kde-kuit-format
+msgctxt "@title:tab general application settings"
+msgid "General"
+msgstr "Genel"
+
+#: config/configureoptionsdialog.cpp:42 config/configureoptionsdialog.cpp:87
+#, kde-format
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: config/configureoptionsdialog.cpp:47
+#, kde-kuit-format
+msgctxt "@title:tab"
+msgid "File System Colors"
+msgstr "Dosya Sistemi Renkleri"
+
+#: config/configureoptionsdialog.cpp:47
+#, kde-format
+msgid "File System Color Settings"
+msgstr "Dosya Sistemi Renk Ayarları"
+
+#: config/configureoptionsdialog.cpp:49
+#, kde-kuit-format
+msgctxt "@title:tab advanced application settings"
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+#: config/configureoptionsdialog.cpp:49
+#, kde-format
+msgid "Advanced Settings"
+msgstr "Gelişmiş Ayarlar"
+
+#: config/configureoptionsdialog.cpp:137
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>Do you really want to change the backend?</para><para><warning>This "
+"will also rescan devices and thus clear the list of pending operations.</"
+"warning></para>"
+msgstr ""
+"<para>Arka ucu gerçekten değiştirmek istiyor musunuz?</"
+"para><para><warning>Bu ayrıca aygıtları yeniden tarayacak ve dolayısıyla "
+"bekleyen işlemler listesini temizleyecek.</warning></para>"
+
+#: config/configureoptionsdialog.cpp:139
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really Change Backend?"
+msgstr "Gerçekten Arka Uç Değiştirilsin mi?"
+
+#: config/configureoptionsdialog.cpp:140
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Change the Backend"
+msgstr "Arka Ucu Değiştir"
+
+#: config/configureoptionsdialog.cpp:141
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Do Not Change the Backend"
+msgstr "Arka Ucu Değiştirme"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_5)
+#: config/configurepageadvanced.ui:29
+#, kde-format
+msgid "Backend"
+msgstr "Arka Uç"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: config/configurepageadvanced.ui:35
+#, kde-format
+msgid "Active backend:"
+msgstr "Etkin arka uç:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_6)
+#: config/configurepageadvanced.ui:57
+#, kde-format
+msgid "Units"
+msgstr "Birimler"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: config/configurepageadvanced.ui:63
+#, kde-format
+msgid "Preferred unit:"
+msgstr "Tercih edilen birim:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_preferredUnit)
+#: config/configurepageadvanced.ui:74
+#, kde-format
+msgid "Byte"
+msgstr "Bayt"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_preferredUnit)
+#: config/configurepageadvanced.ui:79
+#, kde-format
+msgid "KiB"
+msgstr "KiB"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_preferredUnit)
+#: config/configurepageadvanced.ui:84
+#, kde-format
+msgid "MiB"
+msgstr "MiB"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_preferredUnit)
+#: config/configurepageadvanced.ui:89
+#, kde-format
+msgid "GiB"
+msgstr "GiB"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_preferredUnit)
+#: config/configurepageadvanced.ui:94
+#, kde-format
+msgid "TiB"
+msgstr "TiB"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_preferredUnit)
+#: config/configurepageadvanced.ui:99
+#, kde-format
+msgid "PiB"
+msgstr "PiB"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_preferredUnit)
+#: config/configurepageadvanced.ui:104
+#, kde-format
+msgid "EiB"
+msgstr "EiB"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
+#: config/configurepagefilesystemcolors.ui:30
+#: config/configurepagegeneral.ui:144
+#, kde-format
+msgid "File Systems"
+msgstr "Dosya Sistemleri"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_7)
+#: config/configurepagefilesystemcolors.ui:39
+#, fuzzy, kde-format
+#| msgid "reiser4:"
+msgid "ReiserFS:"
+msgstr "reiser4:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_15)
+#: config/configurepagefilesystemcolors.ui:68
+#, kde-format
+msgid "UFS:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_31)
+#: config/configurepagefilesystemcolors.ui:81
+#, kde-format
+msgid "ISO 9660:"
+msgstr "ISO 9660:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_24)
+#: config/configurepagefilesystemcolors.ui:100
+#, kde-format
+msgid "OCFS2:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_22)
+#: config/configurepagefilesystemcolors.ui:116
+#, kde-format
+msgid "XFS:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_27)
+#: config/configurepagefilesystemcolors.ui:135
+#, kde-format
+msgid "NILFS2:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_6)
+#: config/configurepagefilesystemcolors.ui:184
+#, kde-format
+msgid "FAT16:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_13)
+#: config/configurepagefilesystemcolors.ui:197
+#, kde-format
+msgid "extended:"
+msgstr "uzatılmış:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_33)
+#: config/configurepagefilesystemcolors.ui:210
+#, kde-format
+msgid "LUKS2:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_17)
+#: config/configurepagefilesystemcolors.ui:226
+#, kde-format
+msgid "unformatted:"
+msgstr "biçimlendirilmemiş:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_30)
+#: config/configurepagefilesystemcolors.ui:245
+#, kde-format
+msgid "UDF:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_25)
+#: config/configurepagefilesystemcolors.ui:258
+#, kde-format
+msgid "ZFS:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_3)
+#: config/configurepagefilesystemcolors.ui:306
+#, kde-format
+msgid "ext4:"
+msgstr "ext4:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_10)
+#: config/configurepagefilesystemcolors.ui:322
+#, kde-format
+msgid "HPFS:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_11)
+#: config/configurepagefilesystemcolors.ui:380
+#, kde-format
+msgid "JFS:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_2)
+#: config/configurepagefilesystemcolors.ui:393
+#, kde-format
+msgid "ext3:"
+msgstr "ext3:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_8)
+#: config/configurepagefilesystemcolors.ui:419
+#, fuzzy, kde-format
+#| msgid "reiser4:"
+msgid "Reiser4:"
+msgstr "reiser4:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_21)
+#: config/configurepagefilesystemcolors.ui:451
+#, fuzzy, kde-format
+#| msgid "btrfs:"
+msgid "Btrfs:"
+msgstr "btrfs:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel)
+#: config/configurepagefilesystemcolors.ui:493
+#, kde-format
+msgid "ext2:"
+msgstr "ext2:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_29)
+#: config/configurepagefilesystemcolors.ui:512
+#, kde-format
+msgid "F2FS:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_28)
+#: config/configurepagefilesystemcolors.ui:531
+#, kde-format
+msgid "LVM2 PV:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_26)
+#: config/configurepagefilesystemcolors.ui:557
+#, kde-format
+msgid "exFAT:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_9)
+#: config/configurepagefilesystemcolors.ui:570
+#, kde-format
+msgid "NTFS:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_20)
+#: config/configurepagefilesystemcolors.ui:596
+#, kde-format
+msgid "LUKS:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_4)
+#: config/configurepagefilesystemcolors.ui:625
+#, fuzzy, kde-format
+#| msgid "linuxswap:"
+msgid "Linux Swap:"
+msgstr "linuxswap:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_32)
+#: config/configurepagefilesystemcolors.ui:676
+#, kde-format
+msgid "FAT12:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_12)
+#: config/configurepagefilesystemcolors.ui:689
+#, kde-format
+msgid "HFS:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_35)
+#: config/configurepagefilesystemcolors.ui:721
+#, kde-format
+msgid "APFS:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_5)
+#: config/configurepagefilesystemcolors.ui:734
+#, kde-format
+msgid "FAT32:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_18)
+#: config/configurepagefilesystemcolors.ui:766
+#, fuzzy, kde-format
+#| msgid "linuxswap:"
+msgid "Linux RAID:"
+msgstr "linuxswap:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_34)
+#: config/configurepagefilesystemcolors.ui:779
+#, kde-format
+msgid "BitLocker:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_14)
+#: config/configurepagefilesystemcolors.ui:808
+#, kde-format
+msgid "HFS+:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel_16)
+#: config/configurepagefilesystemcolors.ui:834
+#, kde-format
+msgid "unknown:"
+msgstr "bilinmeyen:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: config/configurepagefilesystemcolors.ui:847
+#, kde-format
+msgid "          Minix:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: config/configurepagegeneral.ui:28
+#, kde-format
+msgid "Partition Alignment"
+msgstr "Bölüm Yerleşimi"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_useCylinderAlignment)
+#: config/configurepagegeneral.ui:34
+#, kde-format
+msgid "Use cylinder based alignment (Windows XP compatible)"
+msgstr "Silindir tabanlı hizalama kullan (Windows XP uyumlu)"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: config/configurepagegeneral.ui:47
+#, kde-format
+msgid "Sector alignment:"
+msgstr "Dilim (sector) yerleşimi:"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_sectorAlignment)
+#: config/configurepagegeneral.ui:60
+#, kde-format
+msgid " sectors"
+msgstr " dilim"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_alignDefault)
+#: config/configurepagegeneral.ui:76
+#, kde-format
+msgid "Align partitions per default"
+msgstr "Öntanımlılar için birimleri hizala"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: config/configurepagegeneral.ui:95
+#, kde-format
+msgid "Logging"
+msgstr "Günlük Tutma"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: config/configurepagegeneral.ui:101
+#, kde-format
+msgid "Hide messages below:"
+msgstr "Aşağıdaki iletileri gizle:"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_minLogLevel)
+#: config/configurepagegeneral.ui:112
+#, kde-format
+msgid "Debug"
+msgstr "Hata Ayıklama"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_minLogLevel)
+#: config/configurepagegeneral.ui:117
+#, kde-format
+msgid "Information"
+msgstr "Bilgi"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_minLogLevel)
+#: config/configurepagegeneral.ui:122
+#, kde-format
+msgid "Warning"
+msgstr "Uyarı"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_minLogLevel)
+#: config/configurepagegeneral.ui:127
+#, kde-format
+msgid "Error"
+msgstr "Hata"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: config/configurepagegeneral.ui:150
+#, kde-format
+msgid "Default file system:"
+msgstr "Öntanımlı dosya sistemi:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_5)
+#: config/configurepagegeneral.ui:172
+#, kde-format
+msgid "Shredding"
+msgstr "Bölme"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: config/configurepagegeneral.ui:178
+#, kde-format
+msgid "Overwrite with:"
+msgstr "Şununla üzerine yaz:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton)
+#: config/configurepagegeneral.ui:185
+#, kde-format
+msgid "Random data"
+msgstr "Rastgele veri"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_2)
+#: config/configurepagegeneral.ui:195
+#, kde-format
+msgid "Zeros"
+msgstr "Sıfırlar"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_ButtonSave)
+#: gui/applyprogressdetailswidgetbase.ui:42
+#, kde-format
+msgid "Save"
+msgstr "Kaydet"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_ButtonBrowser)
+#: gui/applyprogressdetailswidgetbase.ui:49
+#, kde-format
+msgid "Open in External Browser"
+msgstr "Harici Tarayıcıda Aç"
+
+#: gui/applyprogressdialog.cpp:83 gui/applyprogressdialog.cpp:172
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "&Details"
+msgstr "&Ayrıntılar"
+
+#: gui/applyprogressdialog.cpp:125
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "Setting up..."
+msgstr "Ayarlanıyor..."
+
+#: gui/applyprogressdialog.cpp:192
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Do you really want to cancel?"
+msgstr "Gerçekten iptal etmek istiyor musunuz?"
+
+#: gui/applyprogressdialog.cpp:192
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Cancel Running Operations"
+msgstr "Devam Eden İşlemleri İptal Et"
+
+#: gui/applyprogressdialog.cpp:192
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Yes, Cancel Operations"
+msgstr "Evet, İşlemleri İptal Et"
+
+#: gui/applyprogressdialog.cpp:197
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "Waiting for operation to finish..."
+msgstr "İşlemin bitmesi bekleniyor..."
+
+#: gui/applyprogressdialog.cpp:218
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "All operations successfully finished."
+msgstr "Tüm işlemler başarıyla tamamlandı."
+
+#: gui/applyprogressdialog.cpp:223
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "Operations cancelled."
+msgstr "İşlemler iptal edildi."
+
+#: gui/applyprogressdialog.cpp:228
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "There were errors while applying operations. Aborted."
+msgstr "İşlemler uygulanırken bazı hatalar oluştu. İptal edildi."
+
+#: gui/applyprogressdialog.cpp:342
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "[%1/%2] - %3: %4"
+msgstr "[%1/%2] - %3: %4"
+
+#: gui/applyprogressdialog.cpp:376
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "Total Time: %1"
+msgstr "Toplam Süre: %1"
+
+#: gui/applyprogressdialog.cpp:424 gui/mainwindow.cpp:921
+#: gui/mainwindow.cpp:1086 gui/smartdialog.cpp:227
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Could not create temporary file when trying to save to <filename>%1</"
+"filename>."
+msgstr ""
+"<filename>%1</filename> dosyasını yazmak için geçici dosya oluşturulamadı."
+
+#: gui/applyprogressdialog.cpp:424
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Could Not Save Report."
+msgstr "Rapor Kaydedilemedi."
+
+#: gui/applyprogressdialog.cpp:448
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Could not create temporary file <filename>%1</filename> for writing."
+msgstr "Yazmak için <filename>%1</filename> geçici dosyası oluşturulamadı."
+
+#: gui/applyprogressdialog.cpp:448
+#, kde-format
+msgctxt "@title:window"
+msgid "Could Not Launch Browser."
+msgstr "Tarayıcı Başlatılamadı."
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeTasks)
+#: gui/applyprogressdialogwidgetbase.ui:41
+#, kde-format
+msgid "Operations and Jobs"
+msgstr "İşlemler ve görevler"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeTasks)
+#: gui/applyprogressdialogwidgetbase.ui:46
+#, kde-format
+msgid "Time Elapsed"
+msgstr "Geçen Süre"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTime)
+#: gui/applyprogressdialogwidgetbase.ui:72
+#, kde-format
+msgid "Total Time: 00:00:00"
+msgstr "Toplam Süre: 00:00:00"
+
+#. i18n: ectx: property (format), widget (QProgressBar, m_ProgressSub)
+#: gui/applyprogressdialogwidgetbase.ui:89
+#, no-c-format, kde-format
+msgid "Operation: %p%"
+msgstr "İşlem: %p%"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelStatus)
+#: gui/applyprogressdialogwidgetbase.ui:99
+#, kde-format
+msgid "Status"
+msgstr "Durum"
+
+#. i18n: ectx: property (format), widget (QProgressBar, m_ProgressTotal)
+#: gui/applyprogressdialogwidgetbase.ui:115
+#, no-c-format, kde-format
+msgid "Total: %p%"
+msgstr "Toplam: %p%"
+
+#: gui/createpartitiontabledialog.cpp:31
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Create a New Partition Table on <filename>%1</filename>"
+msgstr ""
+"<filename>%1</filename> üzerinde yeni bir disk bölümlendirme tablosu "
+"oluşturulamadı"
+
+#: gui/createpartitiontabledialog.cpp:34
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Create &New Partition Table"
+msgstr "&Yeni Disk Bölümlendirme Tablosu Oluştur"
+
+#: gui/createpartitiontabledialog.cpp:59
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>Do you really want to create an MS-Dos partition table on <filename>"
+"%1</filename>?</para><para>This device has more than 2^32 sectors. That is "
+"the most the MS-Dos partition table type supports, so you will not be able "
+"to use the whole device.</para>"
+msgstr ""
+"<para>Gerçekten <filename>%1</filename> üzerinde bir MS-Dos bölümleme "
+"tablosu oluşturmak istiyor musunuz?</para><para>Bu aygıt üzerinde 2^32'den "
+"fazla sektör var. Bu MS-Dos bölümleme tablosu türünün desteğinin üst sınırı "
+"olduğundan bütün aygıtı kullanamayacaksınız.</para>"
+
+#: gui/createpartitiontabledialog.cpp:61
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really Create MS-Dos Partition Table Type?"
+msgstr "Gerçekten MS-Dos Disk Bölümlendirme Tablosu Oluşturulsun mu?"
+
+#: gui/createpartitiontabledialog.cpp:62
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Create MS-Dos Type"
+msgstr "MS-Dos Türü Oluştur"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/createpartitiontablewidgetbase.ui:24
+#, kde-format
+msgid "Choose the type of partition table you want to create:"
+msgstr "Oluşturmak istediğiniz disk bölümlendirme tablosunun türünü seçin:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioGPT)
+#: gui/createpartitiontablewidgetbase.ui:33
+#, kde-format
+msgid "GPT"
+msgstr "GPT"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioMSDOS)
+#: gui/createpartitiontablewidgetbase.ui:43
+#, kde-format
+msgid "MS-Dos"
+msgstr "MS-Dos"
+
+#. i18n: ectx: property (text), widget (QLabel, m_IconLabel)
+#: gui/createpartitiontablewidgetbase.ui:70
+#, kde-format
+msgid "(icon)"
+msgstr "(simge)"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: gui/createpartitiontablewidgetbase.ui:83
+#, kde-format
+msgid "<b>Warning:</b> This will destroy all data on the device!"
+msgstr "<b>Uyarı:</b> Bu işlem, aygıt üzerindeki tüm verileri yok eder!"
+
+#: gui/createvolumegroupdialog.cpp:38
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Create new Volume Group"
+msgstr "Yeni Birim Grubu Oluştur"
+
+#: gui/devicepropsdialog.cpp:42
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Device Properties: <filename>%1</filename>"
+msgstr "Aygıt Özellikleri: <filename>%1</filename>"
+
+#: gui/devicepropsdialog.cpp:76 gui/infopane.cpp:167
+#, kde-kuit-format
+msgctxt "@label device"
+msgid "%1 (read only)"
+msgstr "%1 (salt okunur)"
+
+#: gui/devicepropsdialog.cpp:107 gui/smartdialog.cpp:80 gui/smartdialog.cpp:147
+#, kde-kuit-format
+msgctxt "@label SMART disk status"
+msgid "good"
+msgstr "iyi"
+
+#: gui/devicepropsdialog.cpp:112 gui/smartdialog.cpp:84 gui/smartdialog.cpp:149
+#, kde-kuit-format
+msgctxt "@label SMART disk status"
+msgid "BAD"
+msgstr "KÖTÜ"
+
+#: gui/devicepropsdialog.cpp:117 gui/smartdialog.cpp:129
+#, kde-kuit-format
+msgctxt "@label"
+msgid "(unknown)"
+msgstr "(bilinmeyen)"
+
+#: gui/devicepropsdialog.cpp:123
+#, kde-kuit-format
+msgctxt "@label device"
+msgid "LVM Volume Group"
+msgstr "LVM Birim Grubu"
+
+#: gui/devicepropsdialog.cpp:125
+#, kde-kuit-format
+msgctxt "@label device"
+msgid "Software RAID Device"
+msgstr ""
+
+#: gui/devicepropsdialog.cpp:127
+#, kde-kuit-format
+msgctxt "@label device"
+msgid "Volume Manager Device"
+msgstr "Birim Yöneticisi Cihazı"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextType)
+#: gui/devicepropswidgetbase.ui:63
+#, kde-format
+msgid "Partition table:"
+msgstr "Disk bölümü tablosu:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioCylinderBased)
+#: gui/devicepropswidgetbase.ui:85
+#, fuzzy, kde-format
+#| msgid "Cylinder alignment"
+msgid "&Cylinder alignment"
+msgstr "Silindir yerleşimi"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioSectorBased)
+#: gui/devicepropswidgetbase.ui:92
+#, fuzzy, kde-format
+#| msgid "Sector based alignment"
+msgid "Sector based align&ment"
+msgstr "Dilim (sector) tabanlı yerleşim"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextCapacity)
+#: gui/devicepropswidgetbase.ui:121
+#, kde-format
+msgid "Capacity:"
+msgstr "Kapasite:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextTotalSectors)
+#: gui/devicepropswidgetbase.ui:141
+#, kde-format
+msgid "Total sectors:"
+msgstr "Toplam dilim sayısı:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextLogicalSectorSize)
+#: gui/devicepropswidgetbase.ui:168
+#, kde-format
+msgid "Logical sector size:"
+msgstr "Mantıksal dilim boyutu:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextPhysicalSectorSize)
+#: gui/devicepropswidgetbase.ui:188
+#, kde-format
+msgid "Physical sector size:"
+msgstr "Fiziksel dilim boyutu:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextPrimariesMax)
+#: gui/devicepropswidgetbase.ui:222
+#, kde-format
+msgid "Primaries/Max:"
+msgstr "Birinciller/Azami:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartStatus)
+#: gui/devicepropswidgetbase.ui:242 gui/smartdialog.cpp:147
+#: gui/smartdialog.cpp:149 gui/smartdialogwidgetbase.ui:28
+#, kde-format
+msgid "SMART status:"
+msgstr "SMART durumu:"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_ButtonSmartMore)
+#. i18n: ectx: property (text), widget (QPushButton, m_ButtonMore)
+#: gui/devicepropswidgetbase.ui:283 gui/editmountpointdialogwidgetbase.ui:81
+#, kde-format
+msgid "More..."
+msgstr "Daha Fazla..."
+
+#: gui/editmountoptionsdialog.cpp:25
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Edit additional mount options"
+msgstr "Ek bağlanma noktalarını düzenle"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, EditMountOptionsDialogWidgetBase)
+#: gui/editmountoptionsdialogwidgetbase.ui:19
+#, kde-format
+msgid "Edit Mount Options"
+msgstr "Bağlanma Noktalarını Düzenle"
+
+#. i18n: ectx: property (text), widget (QLabel, m_Label)
+#: gui/editmountoptionsdialogwidgetbase.ui:25
+#, kde-format
+msgid "Edit the mount options for this file system:"
+msgstr "Bu dosya sistemi için bağlama seçeneklerini girin:"
+
+#. i18n: ectx: property (placeholderText), widget (QPlainTextEdit, m_EditOptions)
+#: gui/editmountoptionsdialogwidgetbase.ui:32
+#, kde-format
+msgid "Option1,Option2"
+msgstr "Seçenek1, Seçenek2"
+
+#: gui/editmountpointdialog.cpp:32
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Edit mount point for <filename>%1</filename>"
+msgstr "<filename>%1</filename> için bağlanma noktasını düzenle"
+
+#: gui/editmountpointdialog.cpp:58
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>Are you sure you want to save the changes you made to the system table "
+"file <filename>/etc/fstab</filename>?</para><para><warning>This will "
+"overwrite the existing file on your hard drive now. This <emphasis "
+"strong='1'>can not be undone</emphasis>.</warning></para>"
+msgstr ""
+"<para>Sistem tablo dosyası <filename>/etc/fstab</filename> yaptığınız "
+"değişiklikleri kaydetmek istediğinizden emin misiniz ?</"
+"para><para><warning>Bu, sabit sürücünüzde varolan dosyanın üzerine "
+"yazacaktır. Bu işlem, <emphasis strong='1'>geri alınamaz</emphasis>.</"
+"warning></para>"
+
+#: gui/editmountpointdialog.cpp:60
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really save changes?"
+msgstr "Değişiklikler kaydedilsin mi?"
+
+#: gui/editmountpointdialog.cpp:61
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Save changes"
+msgstr "Değişiklikleri kaydet"
+
+#: gui/editmountpointdialog.cpp:76
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Could not save mount points to file <filename>/etc/fstab</filename>."
+msgstr ""
+"<filename>/etc/fstab</filename> bağlanma noktası dosyası kaydedilemedi."
+
+#: gui/editmountpointdialog.cpp:77
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Error While Saving Mount Points"
+msgstr "Bağlanma Noktası Kaydedilemedi"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioUUID)
+#: gui/editmountpointdialogwidgetbase.ui:23
+#, kde-format
+msgid "UU&ID"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckUsers)
+#: gui/editmountpointdialogwidgetbase.ui:33
+#, kde-format
+msgid "Users can mount and unmount"
+msgstr "Kullanıcılar bağlayıp çözebilirler"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckRelAtime)
+#: gui/editmountpointdialogwidgetbase.ui:40
+#, kde-format
+msgid "Update access times relative to modification"
+msgstr "Düzenlemeyle bağlı olarak erişim zamanlarını güncelle"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckReadOnly)
+#: gui/editmountpointdialogwidgetbase.ui:61
+#, kde-format
+msgid "Read-only"
+msgstr "Salt-okunur"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelPassNumber)
+#: gui/editmountpointdialogwidgetbase.ui:68
+#, fuzzy, kde-format
+#| msgid "Pass Number:"
+msgid "Pass &Number:"
+msgstr "Geçiş Numarası:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioDeviceNode)
+#: gui/editmountpointdialogwidgetbase.ui:101
+#, fuzzy, kde-format
+#| msgid "Device Node"
+msgid "De&vice Node"
+msgstr "Aygıt Düğümü"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelOptions)
+#: gui/editmountpointdialogwidgetbase.ui:111
+#, kde-format
+msgid "Options:"
+msgstr "Seçenekler:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioLabel)
+#: gui/editmountpointdialogwidgetbase.ui:137
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "&Label:"
+msgid "&Label"
+msgstr "&Etiket:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckNoExec)
+#: gui/editmountpointdialogwidgetbase.ui:144
+#, kde-format
+msgid "No binary execution"
+msgstr "İkilik dosya çalıştırması yok"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckNoAuto)
+#: gui/editmountpointdialogwidgetbase.ui:167
+#, kde-format
+msgid "No automatic mount"
+msgstr "Otomatik bağlamayı kullanma"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_ButtonRemove)
+#: gui/editmountpointdialogwidgetbase.ui:180
+#, kde-format
+msgid "Remove"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, m_ButtonSelect)
+#: gui/editmountpointdialogwidgetbase.ui:193
+#, kde-format
+msgid "Select..."
+msgstr "Seç..."
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckNoDirAtime)
+#: gui/editmountpointdialogwidgetbase.ui:200
+#, kde-format
+msgid "No update of directory access times"
+msgstr "Dizin erişim zamanlarının güncellemesi yok"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelDumpFreq)
+#: gui/editmountpointdialogwidgetbase.ui:207
+#, fuzzy, kde-format
+#| msgid "Dump Frequency:"
+msgid "Dump &Frequency:"
+msgstr "Döküm Sıklığı:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelType)
+#: gui/editmountpointdialogwidgetbase.ui:236
+#, kde-format
+msgid "Type:"
+msgstr "Tür:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelPath)
+#: gui/editmountpointdialogwidgetbase.ui:246
+#, kde-format
+msgid "Path:"
+msgstr "Yol:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckNoAtime)
+#: gui/editmountpointdialogwidgetbase.ui:288
+#, kde-format
+msgid "No update of file access times"
+msgstr "Dosya erişim zamanlarının güncellemesi yok"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckSync)
+#: gui/editmountpointdialogwidgetbase.ui:295
+#, kde-format
+msgid "Synchronous access"
+msgstr "Eş zamanlı erişim"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/editmountpointdialogwidgetbase.ui:315
+#, kde-format
+msgid "Identify by:"
+msgstr "Buna göre tanımla:"
+
+#: gui/filesystemsupportdialog.cpp:31
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "File System Support"
+msgstr "Dosya Sistemi Desteği"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/filesystemsupportdialogwidgetbase.ui:23
+#, kde-format
+msgid ""
+"This table shows which file systems are supported and which specific "
+"operations can be performed on them.\n"
+"Some file systems need external tools to be installed for them to be "
+"supported. But not all operations can be performed on all file systems, even "
+"if all required tools are installed. Please see the documentation for "
+"details. "
+msgstr ""
+"Bu tablo hangi dosya sistemlerinin desteklendiğini ve bu dosya sistemlerinin "
+"üzerinde hangi işlemlerin yapılabileceğini gösterir.\n"
+"Bazı dosya sistemlerinin desteklenebilmesi için bazı dış araçların kurulması "
+"gerekir. Ama tüm gerekli araçlar kurulmuş olsa bile tüm dosya sistemlerinde "
+"tüm işlemler yapılamaz. Ayrıntılar için lütfen uygulamanın belgelerine bakın."
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:70
+#, kde-format
+msgid "File System"
+msgstr "Dosya Sistemi"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:75
+#, kde-format
+msgid "Create"
+msgstr "Oluştur"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:80
+#, kde-format
+msgid "Grow"
+msgstr "Büyüt"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:85
+#, kde-format
+msgid "Shrink"
+msgstr "Küçült"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:90
+#, kde-format
+msgid "Move"
+msgstr "Taşı"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:95
+#, kde-format
+msgid "Copy"
+msgstr "Kopyala"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:100
+#, kde-format
+msgid "Check"
+msgstr "Denetle"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:105
+#, kde-format
+msgid "Read Label"
+msgstr "Etiketi Oku"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:110
+#, kde-format
+msgid "Write Label"
+msgstr "Etiket Yaz"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:115
+#, kde-format
+msgid "Read Usage"
+msgstr "Kullanım Bilgilerini Oku"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:120
+#, kde-format
+msgid "Backup"
+msgstr "Yedekle"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:125
+#, kde-format
+msgid "Restore"
+msgstr "Geri Yükle"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_Tree)
+#: gui/filesystemsupportdialogwidgetbase.ui:130
+#, kde-format
+msgid "Support Tools"
+msgstr "Destek Araçları"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_ButtonRescan)
+#: gui/filesystemsupportdialogwidgetbase.ui:140
+#, kde-format
+msgctxt "@action:button"
+msgid "Rescan Support"
+msgstr "Yeniden Tarama Desteği"
+
+#. i18n: ectx: property (windowTitle), widget (QDockWidget, m_DockInformation)
+#: gui/infopane.cpp:47 gui/mainwindowbase.ui:50
+#, kde-format, kde-kuit-format
+msgctxt "@title:window"
+msgid "Information"
+msgstr "Bilgiler"
+
+#: gui/infopane.cpp:106
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Partition Information"
+msgstr "Disk Bölümü Bilgileri"
+
+#: gui/infopane.cpp:113 gui/infopane.cpp:127 gui/infopane.cpp:139
+#, kde-format, kde-kuit-format
+msgctxt "@label partition"
+msgid "File system:"
+msgstr "Dosya sistemi:"
+
+#: gui/infopane.cpp:114 gui/infopane.cpp:128 gui/infopane.cpp:140
+#, kde-format, kde-kuit-format
+msgctxt "@label partition"
+msgid "Capacity:"
+msgstr "Kapasite:"
+
+#: gui/infopane.cpp:115
+#, kde-format
+msgctxt "@label partition"
+msgid "Cipher name:"
+msgstr "Şifre adı:"
+
+#: gui/infopane.cpp:116
+#, kde-format
+msgctxt "@label partition"
+msgid "Cipher mode:"
+msgstr "Şifre kipi:"
+
+#: gui/infopane.cpp:117
+#, kde-format
+msgctxt "@label partition"
+msgid "Hash:"
+msgstr "Özet:"
+
+#: gui/infopane.cpp:118
+#, kde-format
+msgctxt "@label partition"
+msgid "Key size:"
+msgstr "Anahtar boyutu:"
+
+#: gui/infopane.cpp:119
+#, kde-format
+msgctxt "@label partition"
+msgid "Payload offset:"
+msgstr "Yük iptali:"
+
+#: gui/infopane.cpp:120 gui/infopane.cpp:135 gui/infopane.cpp:143
+#, kde-format, kde-kuit-format
+msgctxt "@label partition"
+msgid "First sector:"
+msgstr "İlk sektör:"
+
+#: gui/infopane.cpp:121 gui/infopane.cpp:136 gui/infopane.cpp:144
+#, kde-format, kde-kuit-format
+msgctxt "@label partition"
+msgid "Last sector:"
+msgstr "Son sektör:"
+
+#: gui/infopane.cpp:122 gui/infopane.cpp:137 gui/infopane.cpp:145
+#, kde-format, kde-kuit-format
+msgctxt "@label partition"
+msgid "Number of sectors:"
+msgstr "Sektör sayısı:"
+
+#: gui/infopane.cpp:129 gui/infopane.cpp:141
+#, kde-format, kde-kuit-format
+msgctxt "@label partition"
+msgid "Available:"
+msgstr "Kullanılabilir:"
+
+#: gui/infopane.cpp:130 gui/infopane.cpp:142
+#, kde-format, kde-kuit-format
+msgctxt "@label partition"
+msgid "Used:"
+msgstr "Kullanılan:"
+
+#: gui/infopane.cpp:131
+#, kde-format
+msgctxt "@label partition"
+msgid "PE Size:"
+msgstr "PE Boyutu:"
+
+#: gui/infopane.cpp:132
+#, kde-format
+msgctxt "@label partition"
+msgid "Total PE:"
+msgstr "Toplam PE:"
+
+#: gui/infopane.cpp:133
+#, kde-format
+msgctxt "@label partition"
+msgid "Free PE:"
+msgstr "Boş PE:"
+
+#: gui/infopane.cpp:134
+#, kde-format
+msgctxt "@label partition"
+msgid "Allocated PE:"
+msgstr "Ayrılmış PE:"
+
+#: gui/infopane.cpp:156
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Device Information"
+msgstr "Aygıt Bilgileri"
+
+#: gui/infopane.cpp:160
+#, kde-kuit-format
+msgctxt "@label device"
+msgid "Path:"
+msgstr "Yol:"
+
+#: gui/infopane.cpp:175
+#, kde-format
+msgctxt "@label device"
+msgid "Type:"
+msgstr "Tür:"
+
+#: gui/infopane.cpp:176 gui/infopane.cpp:184 gui/infopane.cpp:192
+#, kde-format
+msgctxt "@label device"
+msgid "Capacity:"
+msgstr "Kapasite:"
+
+#: gui/infopane.cpp:177
+#, kde-format
+msgctxt "@label device"
+msgid "Total sectors:"
+msgstr "Toplam dilim sayısı:"
+
+#: gui/infopane.cpp:178
+#, kde-format
+msgctxt "@label device"
+msgid "Logical sector size:"
+msgstr "Mantıksal sektör boyutu:"
+
+#: gui/infopane.cpp:179
+#, kde-format
+msgctxt "@label device"
+msgid "Physical sector size:"
+msgstr "Fiziksel sektör boyutu:"
+
+#: gui/infopane.cpp:180
+#, kde-format
+msgctxt "@label device"
+msgid "Primaries/Max:"
+msgstr "Birinciller/Azami:"
+
+#: gui/infopane.cpp:183 gui/infopane.cpp:191
+#, kde-format
+msgctxt "@label device"
+msgid "Volume Type:"
+msgstr "Birim Türü:"
+
+#: gui/infopane.cpp:185
+#, kde-format
+msgctxt "@label device"
+msgid "PE Size:"
+msgstr "PE Boyutu:"
+
+#: gui/infopane.cpp:186
+#, kde-format
+msgctxt "@label device"
+msgid "Total PE:"
+msgstr "Toplam PE:"
+
+#: gui/infopane.cpp:187
+#, kde-format
+msgctxt "@label device"
+msgid "Allocated PE:"
+msgstr "Ayrılmış PE:"
+
+#: gui/infopane.cpp:188
+#, kde-format
+msgctxt "@label device"
+msgid "Free PE:"
+msgstr "Boş PE:"
+
+#: gui/infopane.cpp:193
+#, kde-format
+msgctxt "@label device"
+msgid "RAID Level:"
+msgstr ""
+
+#: gui/infopane.cpp:194
+#, fuzzy, kde-format
+#| msgctxt "@label device"
+#| msgid "PE Size:"
+msgctxt "@label device"
+msgid "Chunk Size:"
+msgstr "PE Boyutu:"
+
+#: gui/infopane.cpp:195
+#, fuzzy, kde-format
+#| msgctxt "@label device"
+#| msgid "Total PE:"
+msgctxt "@label device"
+msgid "Total Chunk:"
+msgstr "Toplam PE:"
+
+#: gui/infopane.cpp:196
+#, fuzzy, kde-format
+#| msgctxt "@label device"
+#| msgid "PE Size:"
+msgctxt "@label device"
+msgid "Array Size:"
+msgstr "PE Boyutu:"
+
+#: gui/insertdialog.cpp:32
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Insert a partition"
+msgstr "Bir disk bölümü ekle"
+
+#: gui/listphysicalvolumes.cpp:39
+#, kde-kuit-format
+msgctxt "@item:inlistbox Device | Capacity"
+msgid "%1 | %2"
+msgstr "%1 | %2"
+
+#: gui/mainwindow.cpp:147
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>Do you really want to quit the application?</para><para>There is still "
+"an operation pending.</para>"
+msgid_plural ""
+"<para>Do you really want to quit the application?</para><para>There are "
+"still %1 operations pending.</para>"
+msgstr[0] ""
+"<para>Bu uygulamadan gerçekten çıkmak istiyor musunuz?</"
+"para><para>Uygulanmayı bekleyen %1 işlem var.</para>"
+msgstr[1] ""
+"<para>Bu uygulamadan gerçekten çıkmak istiyor musunuz?</"
+"para><para>Uygulanmayı bekleyen %1 işlem var.</para>"
+
+#: gui/mainwindow.cpp:149
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Discard Pending Operations and Quit?"
+msgstr "Bekleyen İşlemleri İptal Edip Uygulamadan Çıkmak İstiyor musunuz?"
+
+#: gui/mainwindow.cpp:150
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Quit <application>%1</application>"
+msgstr "<application>%1</application> uygulamasından çık"
+
+#: gui/mainwindow.cpp:192
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Undo"
+msgstr "Geri Al"
+
+#: gui/mainwindow.cpp:193
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Undo the last operation"
+msgstr "Son işlemi geri al"
+
+#: gui/mainwindow.cpp:194
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Remove the last operation from the list."
+msgstr "Son işlemi listeden kaldır."
+
+#: gui/mainwindow.cpp:201
+#, kde-kuit-format
+msgctxt "@action:inmenu clear the list of operations"
+msgid "Clear"
+msgstr "Temizle"
+
+#: gui/mainwindow.cpp:202
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Clear all operations"
+msgstr "Tüm işlemleri temizle"
+
+#: gui/mainwindow.cpp:203
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Empty the list of pending operations."
+msgstr "Bekleyen işlemler listesini temizle."
+
+#: gui/mainwindow.cpp:209
+#, kde-kuit-format
+msgctxt "@action:inmenu apply all operations"
+msgid "Apply"
+msgstr "Uygula"
+
+#: gui/mainwindow.cpp:210
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Apply all operations"
+msgstr "Tüm işlemleri uygula"
+
+#: gui/mainwindow.cpp:211
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Apply the pending operations in the list."
+msgstr "Listedeki tüm işlemleri uygula."
+
+#: gui/mainwindow.cpp:218
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "New Partition Table"
+msgstr "Yeni Disk Bölümlendirme Tablosu"
+
+#: gui/mainwindow.cpp:219
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Create a new partition table"
+msgstr "Yeni disk bölümlendirme tablosu oluştur"
+
+#: gui/mainwindow.cpp:220
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Create a new and empty partition table on a device."
+msgstr "Bir aygıt üzerinde boş bir disk bölümlendirme tablosu oluştur."
+
+#: gui/mainwindow.cpp:227
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Export Partition Table"
+msgstr "Bölüm Tablosunu Dışarıya Aktar"
+
+#: gui/mainwindow.cpp:228
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Export a partition table"
+msgstr "Bir bölümleme tablosunu dışarıya aktar"
+
+#: gui/mainwindow.cpp:229
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Export the device's partition table to a text file."
+msgstr "Disk bölümlendirme tablosunu bir metin dosyasına aktar."
+
+#: gui/mainwindow.cpp:235
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Import Partition Table"
+msgstr "Disk Bölümlendirme Tablosunu İçeriye Aktar"
+
+#: gui/mainwindow.cpp:236
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Import a partition table"
+msgstr "Bir disk bölümlendirme tablosunu içeriye aktar"
+
+#: gui/mainwindow.cpp:237
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Import a partition table from a text file."
+msgstr "Bir disk bölümlendirme tablosunu bir metin dosyasından içeriye aktar."
+
+#: gui/mainwindow.cpp:244
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Remove Volume Group"
+msgstr "Birim Grubunu Kaldır"
+
+#: gui/mainwindow.cpp:245
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Remove selected Volume Group"
+msgstr "Seçili Birim Grubunu kaldır"
+
+#: gui/mainwindow.cpp:246
+#, kde-format
+msgctxt "@info:status"
+msgid "Remove selected Volume Group."
+msgstr "Seçili Birim Grubunu kaldır."
+
+#: gui/mainwindow.cpp:254
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Resize Volume Group"
+msgstr "Birim Grubunu Boyutlandır"
+
+#: gui/mainwindow.cpp:255
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Resize selected Volume Group"
+msgstr "Seçilen Birim Grubunu boyutlandır"
+
+#: gui/mainwindow.cpp:256
+#, kde-format
+msgctxt "@info:status"
+msgid "Extend or reduce selected Volume Group."
+msgstr "Seçili Birim Grubunu genişlet veya daralt."
+
+#: gui/mainwindow.cpp:264
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Deactivate Volume Group"
+msgstr "Birim Grubunu Devre Dışı Bırak"
+
+#: gui/mainwindow.cpp:265
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Deactivate selected Volume Group"
+msgstr "Seçilen Birim Grubunu Devre Dışı Bırak"
+
+#: gui/mainwindow.cpp:266
+#, kde-format
+msgctxt "@info:status"
+msgid "Deactivate selected Volume Group before unplugging removable devices."
+msgstr ""
+"Çıkarılabilir aygıtların çıkarmadan önce seçili Birim Grubu'nu devre dışı "
+"bırak."
+
+#: gui/mainwindow.cpp:272
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "SMART Status"
+msgstr "SMART Durumu"
+
+#: gui/mainwindow.cpp:273
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Show SMART status"
+msgstr "SMART Durumunu Göster"
+
+#: gui/mainwindow.cpp:274
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Show the device's SMART status if supported"
+msgstr "Eğer destekleniyorsa aygıtın SMART durumunu göster"
+
+#: gui/mainwindow.cpp:279 gui/mainwindow.cpp:371
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Properties"
+msgstr "Özellikler"
+
+#: gui/mainwindow.cpp:280
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Show device properties dialog"
+msgstr "Aygıt özellikleri penceresini göster"
+
+#: gui/mainwindow.cpp:281
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "View and modify device properties"
+msgstr "Aygıt özelliklerini görüntüle ve düzenle"
+
+#: gui/mainwindow.cpp:288
+#, kde-kuit-format
+msgctxt "@action:inmenu create a new partition"
+msgid "New"
+msgstr "Yeni"
+
+#: gui/mainwindow.cpp:289
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "New partition"
+msgstr "Yeni disk bölümü"
+
+#: gui/mainwindow.cpp:290
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Create a new partition."
+msgstr "Yeni bir disk bölümü oluştur."
+
+#: gui/mainwindow.cpp:297
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Resize/Move"
+msgstr "Yeniden Boyutlandır/Taşı"
+
+#: gui/mainwindow.cpp:298
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Resize or move partition"
+msgstr "Disk bölümünü yeniden boyutlandır ya da taşı"
+
+#: gui/mainwindow.cpp:299
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Shrink, grow or move an existing partition."
+msgstr "Varolan bir disk bölümünü büyüt, küçült ya da taşı."
+
+#: gui/mainwindow.cpp:306
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Delete"
+msgstr "Sil"
+
+#: gui/mainwindow.cpp:307
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Delete partition"
+msgstr "Disk bölümünü sil"
+
+#: gui/mainwindow.cpp:308
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Delete a partition."
+msgstr "Bir disk bölümünü sil."
+
+#: gui/mainwindow.cpp:315
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Shred"
+msgstr "Daha Fazla Parçaya Böl"
+
+#: gui/mainwindow.cpp:316
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Shred partition"
+msgstr "Disk bölümünü daha fazla parçaya böl"
+
+#: gui/mainwindow.cpp:317
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Shred a partition so that its contents cannot be restored."
+msgstr ""
+"Disk bölümünü daha fazla parçaya böl, disk bölümünün içindekiler geri "
+"alınamaz."
+
+#: gui/mainwindow.cpp:324
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Copy"
+msgstr "Kopyala"
+
+#: gui/mainwindow.cpp:325
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Copy partition"
+msgstr "Disk bölümünü kopyala"
+
+#: gui/mainwindow.cpp:326
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Copy an existing partition."
+msgstr "Varolan bir disk bölümünü kopyala."
+
+#: gui/mainwindow.cpp:333
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Paste"
+msgstr "Yapıştır"
+
+#: gui/mainwindow.cpp:334
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Paste partition"
+msgstr "Disk bölümünü yapıştır"
+
+#: gui/mainwindow.cpp:335
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Paste a copied partition."
+msgstr "Bir disk bölümünü yapıştır."
+
+#: gui/mainwindow.cpp:342
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Edit Mount Point"
+msgstr "Bağlanma Noktasını Düzenle"
+
+#: gui/mainwindow.cpp:343
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Edit mount point"
+msgstr "Bağlanma noktasını düzenle"
+
+#: gui/mainwindow.cpp:344
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Edit a partition's mount point and options."
+msgstr "Disk bölümünün bağlanma noktasını ve seçeneklerini düzenle."
+
+#: gui/mainwindow.cpp:349
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Mount"
+msgstr "Bağla"
+
+#: gui/mainwindow.cpp:350
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Mount or unmount partition"
+msgstr "Diski bağla ya da ayır"
+
+#: gui/mainwindow.cpp:351
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Mount or unmount a partition."
+msgstr "Bir diski bağla ya da ayır."
+
+#: gui/mainwindow.cpp:356
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Unlock"
+msgstr "Kilidi Aç"
+
+#: gui/mainwindow.cpp:357
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Unlock or lock encrypted partition"
+msgstr "Şifrelenmiş bölümü aç veya kilitle"
+
+#: gui/mainwindow.cpp:358
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Unlock or lock encrypted partition."
+msgstr "Şifrelenmiş bölümü aç veya kilitle."
+
+#: gui/mainwindow.cpp:363
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Check"
+msgstr "Denetle"
+
+#: gui/mainwindow.cpp:364
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Check partition"
+msgstr "Disk bölümünü denetle"
+
+#: gui/mainwindow.cpp:365
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Check a filesystem on a partition for errors."
+msgstr "Bir disk bölümünün hatalarını denetle."
+
+#: gui/mainwindow.cpp:372
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Show partition properties dialog"
+msgstr "Disk bölümü özellikleri penceresini göster"
+
+#: gui/mainwindow.cpp:373
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "View and modify partition properties (label, partition flags, etc.)"
+msgstr ""
+"Disk bölümünün özelliklerini göster ve düzenle (disk bölümünün etiketi, "
+"bayrakları vs.)"
+
+#: gui/mainwindow.cpp:379
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Backup"
+msgstr "Yedekle"
+
+#: gui/mainwindow.cpp:380
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Backup partition"
+msgstr "Disk bölümünü yedekle"
+
+#: gui/mainwindow.cpp:381
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Backup a partition to an image file."
+msgstr "Bir disk bölümünü bir kalıp dosyasına yedekle."
+
+#: gui/mainwindow.cpp:387
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Restore"
+msgstr "Geri Yükle"
+
+#: gui/mainwindow.cpp:388
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Restore partition"
+msgstr "Bir disk bölümünü geri yükle"
+
+#: gui/mainwindow.cpp:389
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Restore a partition from an image file."
+msgstr "Disk bölümünü bir kalıp dosyasından geri yükle."
+
+#: gui/mainwindow.cpp:396
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "New Volume Group"
+msgstr "Yeni Birim Grubu"
+
+#: gui/mainwindow.cpp:397
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Create a new LVM Volume Group"
+msgstr "Yeni bir LVM Birim Grubu oluşturun"
+
+#: gui/mainwindow.cpp:398
+#, kde-format
+msgctxt "@info:status"
+msgid "Create a new LVM Volume Group as a device."
+msgstr "Bir aygıt olarak yeni bir LVM Birim Grubu oluşturun."
+
+#: gui/mainwindow.cpp:404
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "File System Support"
+msgstr "Dosya Sistemi Desteği"
+
+#: gui/mainwindow.cpp:405
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "View file system support information"
+msgstr "Dosya sistemi desteğine ilişkin bilgileri göster"
+
+#: gui/mainwindow.cpp:406
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Show information about supported file systems."
+msgstr "Desteklenen dosya sistemlerine ilişkin bilgileri göster."
+
+#: gui/mainwindow.cpp:410
+#, kde-kuit-format
+msgctxt "@action:inmenu refresh list of devices"
+msgid "Refresh Devices"
+msgstr "Aygıtları Yenile"
+
+#: gui/mainwindow.cpp:411
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Refresh all devices"
+msgstr "Tüm aygıtları yenile"
+
+#: gui/mainwindow.cpp:412
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Renew the devices list."
+msgstr "Aygıt listesini yenile."
+
+#: gui/mainwindow.cpp:427
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Clear Log"
+msgstr "Günlüğü Kaydını Temizle"
+
+#: gui/mainwindow.cpp:428
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Clear the log output"
+msgstr "Günlük kaydı çıktısını temizle"
+
+#: gui/mainwindow.cpp:429
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Clear the log output panel."
+msgstr "Günlük kaydı çıktı panelini temizle."
+
+#: gui/mainwindow.cpp:434
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "Save Log"
+msgstr "Günlüğü Kaydet"
+
+#: gui/mainwindow.cpp:435
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Save the log output"
+msgstr "Günlük kayıtlarını kaydet"
+
+#: gui/mainwindow.cpp:436
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Save the log output to a file."
+msgstr "Günlük kayıtlarını bir dosyaya kaydet."
+
+#: gui/mainwindow.cpp:442
+#, kde-kuit-format
+msgctxt "@action:inmenu"
+msgid "About KPMcore Library"
+msgstr "KPMcore Kütüphanesi Hakkında"
+
+#: gui/mainwindow.cpp:443
+#, kde-kuit-format
+msgctxt "@info:tooltip"
+msgid "Show About KPMcore dialog"
+msgstr "KPMcore Hakkında İletişim Kutusunu Göster"
+
+#: gui/mainwindow.cpp:444
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Show About KPMcore dialog."
+msgstr "KPMcore Hakkında İletişim Kutusunu Göster."
+
+#: gui/mainwindow.cpp:608
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "One pending operation"
+msgid_plural "%1 pending operations"
+msgstr[0] "Bir bekleyen işlem var"
+msgstr[1] "%1 bekleyen işlem var"
+
+#: gui/mainwindow.cpp:703
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "Using backend plugin: %1 (%2)"
+msgstr "Kullanılan arka uç eklentisi: %1 (%2)"
+
+#: gui/mainwindow.cpp:707
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "Scanning devices..."
+msgstr "Aygıtlar taranıyor..."
+
+#: gui/mainwindow.cpp:739
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "Scan finished."
+msgstr "Tarama işlemi bitti."
+
+#: gui/mainwindow.cpp:802
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>Do you really want to rescan the devices?</para><para><warning>This "
+"will also clear the list of pending operations.</warning></para>"
+msgstr ""
+"<para>Gerçekten aygıtları yeniden taramak istiyor musunuz?</"
+"para><para><warning>Bu, bekleyen işlemleri de temizleyecektir.</warning></"
+"para>"
+
+#: gui/mainwindow.cpp:804
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really Rescan the Devices?"
+msgstr "Gerçekten Aygıtlar Yeniden Taransın mı?"
+
+#: gui/mainwindow.cpp:805
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Rescan Devices"
+msgstr "Aygıtları Yeniden Tara"
+
+#: gui/mainwindow.cpp:821
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>Do you really want to apply the pending operations listed below?</"
+"para><para><warning>This will permanently modify your disks.</warning></para>"
+msgstr ""
+"<para>Aşağıda listelenen işlemleri gerçekten uygulamak istiyor musunuz?</"
+"para><para><warning>Bu işlem disklerinizi kalıcı olarak düzenleyecektir.</"
+"warning></para>"
+
+#: gui/mainwindow.cpp:823
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Apply Pending Operations?"
+msgstr "Bekleyen İşlemler Uygulansın mı?"
+
+#: gui/mainwindow.cpp:824
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Apply Pending Operations"
+msgstr "Bekleyen İşlemleri Uygula"
+
+#: gui/mainwindow.cpp:826
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Applying operations..."
+msgstr "İşlemler uygulanıyor..."
+
+#: gui/mainwindow.cpp:851
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Undoing operation: %1"
+msgstr "İşlem geri alınıyor: %1"
+
+#: gui/mainwindow.cpp:867
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Do you really want to clear the list of pending operations?"
+msgstr "Bekleyen işlemler listesini gerçekten temizlemek istiyor musunuz?"
+
+#: gui/mainwindow.cpp:868
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Clear Pending Operations?"
+msgstr "Bekleyen İşlemler Temizlensin mi?"
+
+#: gui/mainwindow.cpp:869
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Clear Pending Operations"
+msgstr "Bekleyen İşlemleri Temizle"
+
+#: gui/mainwindow.cpp:871
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Clearing the list of pending operations."
+msgstr "Bekleyen işlemler listesi temizleniyor."
+
+#: gui/mainwindow.cpp:911
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Could not open input file <filename>%1</filename> for import"
+msgstr "İçeriye aktarılacak <filename>%1</filename> girdi dosyası açılamadı"
+
+#: gui/mainwindow.cpp:911 gui/mainwindow.cpp:921 gui/mainwindow.cpp:929
+#: gui/mainwindow.cpp:935
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Error Importing Partition Table"
+msgstr "Disk Bölümlendirme Tablosu İçeriye Aktarılamadı"
+
+#: gui/mainwindow.cpp:929
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Could not open input file <filename>%1</filename> for import: %2"
+msgstr ""
+"İçeriye aktarılacak <filename>%1</filename> girdi dosyası açılamadı: %2"
+
+#: gui/mainwindow.cpp:935
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Could not open temporary file <filename>%1</filename> while trying to import "
+"from <filename>%2</filename>."
+msgstr ""
+"<filename>%2</filename> biriminden içe aktarılmaya çalışılan <filename>%1</"
+"filename> geçici dosyası açılamadı."
+
+#: gui/mainwindow.cpp:965
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The import file <filename>%1</filename> does not contain a valid partition "
+"table."
+msgstr ""
+"İçeriye aktarılcak <filename>%1</filename> dosyası geçerli bir bölümlendirme "
+"tablosu içermiyor."
+
+#: gui/mainwindow.cpp:965 gui/mainwindow.cpp:975 gui/mainwindow.cpp:982
+#: gui/mainwindow.cpp:987 gui/mainwindow.cpp:997 gui/mainwindow.cpp:1010
+#: gui/mainwindow.cpp:1015 gui/mainwindow.cpp:1034 gui/mainwindow.cpp:1039
+#: gui/mainwindow.cpp:1044 gui/mainwindow.cpp:1051
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Error While Importing Partition Table"
+msgstr "Disk Bölümlendirme Tablosu İçeriye Aktarılamadı"
+
+#: gui/mainwindow.cpp:975
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Found more than one partition table type in import file (line %1)."
+msgstr ""
+"İçe aktarma dosyasında birden fazla bölümleme tablosu türü bulundu (satır "
+"%1)."
+
+#: gui/mainwindow.cpp:982
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Partition table type \"%1\" is unknown (line %2)."
+msgstr "Bölümleme tablosu türü \"%1\" bilinmiyor (satır %2)."
+
+#: gui/mainwindow.cpp:987
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Partition table type \"%1\" is not supported for import (line %2)."
+msgstr ""
+"Bölümleme tablosu türü \"%1\" içe aktarmak için desteklenmiyor (satır %2)."
+
+#: gui/mainwindow.cpp:997
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Found partition but no partition table type (line %1)."
+msgstr "Bölümleme tablosu türü olmayan bölüm bulundu (satır %1)."
+
+#: gui/mainwindow.cpp:1010
+#, kde-kuit-format
+msgctxt "@info the partition is NOT a device path, just a number"
+msgid "Partition %1 would be outside the device's boundaries (line %2)."
+msgstr "%1 bölümü aygıtın sınırlarının dışında olacaktır (satır %2)."
+
+#: gui/mainwindow.cpp:1015
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Partition %1 has end before start sector (line %2)."
+msgstr "%1 bölümü başlangıç sektöründen önce sonlanıyor (satır %2)."
+
+#: gui/mainwindow.cpp:1034
+#, kde-kuit-format
+msgctxt "@info the partition is NOT a device path, just a number"
+msgid "Unrecognized partition role \"%1\" for partition %2 (line %3)."
+msgstr "%2 (satır %3) için bilinmeyen disk bölümü rolü \"%1\"."
+
+#: gui/mainwindow.cpp:1039
+#, kde-kuit-format
+msgctxt "@info the partition is NOT a device path, just a number"
+msgid ""
+"No parent partition or partition table found for partition %1 (line %2)."
+msgstr ""
+"%1 (satır %2) disk bölümü için üst disk bölümü ya da disk bölümlendirme "
+"tablosu yok."
+
+#: gui/mainwindow.cpp:1044
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The partition table type \"%1\" does not support extended partitions, but "
+"one was found (line %2)."
+msgstr ""
+"\"%1\" bölümleme tablosu türü uzatılmış bölümleri desteklememesine rağmen "
+"bir tane bulundu (satır %2)."
+
+#: gui/mainwindow.cpp:1051
+#, kde-kuit-format
+msgctxt "@info the partition is NOT a device path, just a number"
+msgid "Could not create file system \"%1\" for partition %2 (line %3)."
+msgstr "%2 (satır %3) için \"%1\" dosya sistemi oluşturulamadı."
+
+#: gui/mainwindow.cpp:1066
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Could not parse line %1 from import file. Ignoring it."
+msgstr "İçe aktarılan dosyada satır %1 ayrıştırılamadı. Atlanıyor."
+
+#: gui/mainwindow.cpp:1086
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Error Exporting Partition Table"
+msgstr "Disk Bölümlendirme Tablosu Dışarıya Aktarılamadı"
+
+#: gui/mainwindow.cpp:1256 gui/mainwindow.cpp:1261 gui/mainwindow.cpp:1297
+#, kde-kuit-format
+msgid "%1%2"
+msgstr "%1%2"
+
+#: gui/mainwindow.cpp:1261 gui/mainwindow.cpp:1272
+#, kde-kuit-format
+msgid "<tr><td>%1</td><td>%2</td><td>%3</td><td><link>%4</link></td></tr>"
+msgstr "<tr><td>%1</td><td>%2</td><td>%3</td><td><link>%4</link></td></tr>"
+
+#: gui/mainwindow.cpp:1308
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>No support tools were found for file systems currently present on hard "
+"disks in this computer:</para><table style='margin-top:12px'><tr><td "
+"style='font-weight:bold;padding-right:12px;white-space:nowrap;'>Partition</"
+"td><td style='font-weight:bold;padding-right:12px;white-space:nowrap;'>File "
+"System</td><td style='font-weight:bold;padding-right:12px;white-space:"
+"nowrap;'>Support Tools</td><td style='font-weight:bold;padding-right:12px;"
+"white-space:nowrap;'>URL</td></tr>%1</table><para>As long as the support "
+"tools for these file systems are not installed you will not be able to "
+"modify them.</para><para>You should find packages with these support tools "
+"in your distribution's package manager.</para>"
+msgstr ""
+"<para>Bu bilgisayarın sabit diski üzerinde bulunan dosya sistemleri için hiç "
+"destek aracı bulunmuyor:</para><table style='margin-top:12px'><tr><td "
+"style='font-weight:bold;padding-right:12px;white-space:nowrap;'>Disk Bölümü</"
+"td><td style='font-weight:bold;padding-right:12px;white-space:nowrap;'>Dosya "
+"Sistemi</td><td style='font-weight:bold;padding-right:12px;white-space:"
+"nowrap;'>Destek Araçları</td><td style='font-weight:bold;padding-right:12px;"
+"white-space:nowrap;'>URL</td></tr>%1</table><para>Bu dosya sistemleri için "
+"destek araçları kurmadığınız sürece onları düzenlemeniz mümkün olmayacak.</"
+"para><para>Dağıtımınızın paket yöneticisinde bu destek araçları için "
+"paketler bulabilirsiniz.</para>"
+
+#: gui/mainwindow.cpp:1321
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Missing File System Support Packages"
+msgstr "Dosya Sistemi Desteği için Eksik Paket Var"
+
+#. i18n: ectx: property (windowTitle), widget (QMainWindow, MainWindowBase)
+#. i18n: ectx: property (windowTitle), widget (QWidget, PartitionManagerWidgetBase)
+#: gui/mainwindowbase.ui:18 gui/partitionmanagerwidgetbase.ui:20
+#, kde-format
+msgctxt "@title:window"
+msgid "KDE Partition Manager"
+msgstr "KDE Disk Bölümü Yöneticisi"
+
+#. i18n: ectx: property (windowTitle), widget (QDockWidget, m_DockDevices)
+#: gui/mainwindowbase.ui:27
+#, kde-format
+msgctxt "@title:window"
+msgid "Devices"
+msgstr "Aygıtlar"
+
+#. i18n: ectx: property (windowTitle), widget (QDockWidget, m_DockOperations)
+#: gui/mainwindowbase.ui:40
+#, kde-format
+msgctxt "@title:window"
+msgid "Pending Operations"
+msgstr "Bekleyen işlemler"
+
+#. i18n: ectx: property (windowTitle), widget (QDockWidget, m_DockLog)
+#: gui/mainwindowbase.ui:63
+#, kde-format
+msgctxt "@title:window"
+msgid "Log Output"
+msgstr "Günlük Kaydı Çıktısı"
+
+#: gui/newdialog.cpp:47
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Create a new partition"
+msgstr "Yeni bir disk bölümü oluştur"
+
+#. i18n: ectx: ToolBar (partitionToolBar)
+#: gui/partitionmanagerui.rc:12
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "Partition Toolbar"
+msgctxt "@title:menu"
+msgid "Partition Manager Toolbar"
+msgstr "Disk Bölümü Araç Çubuğu"
+
+#. i18n: ectx: Menu (device)
+#: gui/partitionmanagerui.rc:29
+#, kde-format
+msgctxt "@title:menu"
+msgid "Device"
+msgstr "Aygıt"
+
+#. i18n: ectx: Menu (selectedDevice)
+#: gui/partitionmanagerui.rc:31
+#, kde-format
+msgctxt "@title:menu"
+msgid "Select Current Device"
+msgstr "Şimdiki Aygıtı Seç"
+
+#. i18n: ectx: Menu (tools)
+#: gui/partitionmanagerui.rc:47
+#, kde-format
+msgctxt "@title:menu"
+msgid "Tools"
+msgstr "Araçlar"
+
+#. i18n: ectx: Menu (partition)
+#: gui/partitionmanagerui.rc:54
+#, kde-format
+msgctxt "@title:menu"
+msgid "Partition"
+msgstr "Disk Bölümü"
+
+#. i18n: ectx: Menu (panels)
+#: gui/partitionmanagerui.rc:76
+#, kde-format
+msgctxt "@title:menu"
+msgid "Panels Shown"
+msgstr "Gösterilen Paneller"
+
+#: gui/partitionmanagerwidget.cpp:202
+#, kde-kuit-format
+msgctxt "@item:intable Encrypted file systems, e.g. btrfs[Encrypted]"
+msgid "%1 [Encrypted]"
+msgstr ""
+
+#: gui/partitionmanagerwidget.cpp:387
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The file system on partition <filename>%1</filename> could not be mounted."
+msgstr ""
+"<filename>%1</filename> disk bölümünün üzerindeki dosya sistemi bağlanamadı."
+
+#: gui/partitionmanagerwidget.cpp:387
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Could Not Mount File System."
+msgstr "Dosya Sistemi Bağlanamadı."
+
+#: gui/partitionmanagerwidget.cpp:390
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The file system on partition <filename>%1</filename> could not be unmounted."
+msgstr ""
+"<filename>%1</filename> disk bölümünün üzerindeki dosya sistemi ayrılamadı."
+
+#: gui/partitionmanagerwidget.cpp:390
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Could Not Unmount File System."
+msgstr "Dosya Sistemi Ayrılamadı."
+
+#: gui/partitionmanagerwidget.cpp:430
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The encrypted file system on partition <filename>%1</filename> could not be "
+"unlocked."
+msgstr ""
+"<filename>%1</filename> disk bölümünün üzerindeki şifrelenmiş dosya sistemi "
+"kilidi açılamadı."
+
+#: gui/partitionmanagerwidget.cpp:436
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Could Not Unlock Encrypted File System."
+msgstr "Şifrelenmiş Dosya Sisteminin Kilidi Açılamadı."
+
+#: gui/partitionmanagerwidget.cpp:441
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The encrypted file system on partition <filename>%1</filename> could not be "
+"locked."
+msgstr ""
+"<filename>%1</filename> disk bölümünün üzerindeki şifrelenmiş dosya sistemi "
+"kilitlenemedi."
+
+#: gui/partitionmanagerwidget.cpp:447
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Could Not Lock Encrypted File System."
+msgstr "Şifrelenmiş Dosya Sistemi Kilitlenemedi."
+
+#: gui/partitionmanagerwidget.cpp:476
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>There is already one primary partition on this device. This is the "
+"maximum number its partition table type can handle.</para><para>You cannot "
+"create, paste or restore a primary partition on it before you delete an "
+"existing one.</para>"
+msgid_plural ""
+"<para>There are already %1 primary partitions on this device. This is the "
+"maximum number its partition table type can handle.</para><para>You cannot "
+"create, paste or restore a primary partition on it before you delete an "
+"existing one.</para>"
+msgstr[0] ""
+"<para>Bu aygıt üzerinde zaten %1 birincil disk bölümü var. Bu, disk bölümü "
+"tablosunun bulundurabileceği en fazla sayıdır.</para><para>Varolan bir "
+"birincil disk bölümünü silmeden yeni bir birincil disk bölümü "
+"oluşturamazsınız, yapıştıramazsınız veya geri yükleyemezsiniz.</para>"
+msgstr[1] ""
+"<para>Bu aygıt üzerinde zaten %1 birincil disk bölümü var. Bu, disk bölümü "
+"tablosunun bulundurabileceği en fazla sayıdır.</para><para>Varolan bir "
+"birincil disk bölümünü silmeden yeni bir birincil disk bölümü "
+"oluşturamazsınız, yapıştıramazsınız veya geri yükleyemezsiniz.</para>"
+
+#: gui/partitionmanagerwidget.cpp:480
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Too Many Primary Partitions."
+msgstr "Çok Fazla Sayıda Birincil Bölüm."
+
+#: gui/partitionmanagerwidget.cpp:539
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>The partition <filename>%1</filename> cannot currently be deleted "
+"because one or more partitions with higher logical numbers are still mounted."
+"</para><para>Please unmount all partitions with higher logical numbers than "
+"%2 first.</para>"
+msgstr ""
+"<para><filename>%1</filename> disk bölümü şu anda silinemez. Çünkü bu disk "
+"bölümünün mantıksal numarasından daha büyük mantıksal numaraya sahip bir ya "
+"da daha fazla disk bölümü bağlı durumda.</para><para>Lütfen önce mantıksal "
+"numarası %2 sayısından büyük olan disk bölümlerini ayırın.</para>"
+
+#: gui/partitionmanagerwidget.cpp:542
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Cannot Delete Partition."
+msgstr "Disk Bölümü Silinemiyor."
+
+#: gui/partitionmanagerwidget.cpp:551
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Do you really want to delete the partition that is currently in the "
+"clipboard? It will no longer be available for pasting after it has been "
+"deleted."
+msgstr ""
+"Panodaki disk bölümünü gerçekten silmek istiyor musunuz? Bu disk bölümü "
+"silindikten sonra artık yapıştırılamayacak."
+
+#: gui/partitionmanagerwidget.cpp:553
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really Delete Partition in the Clipboard?"
+msgstr "Panodaki Disk Bölümü Gerçekten Silinsin mi?"
+
+#: gui/partitionmanagerwidget.cpp:554
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Delete It"
+msgstr "Ögeyi Sil"
+
+#: gui/partitionmanagerwidget.cpp:607
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid ""
+"Partition <filename>%1</filename> has the same position and size after "
+"resize/move. Ignoring operation."
+msgstr ""
+"<filename>%1</filename> disk bölümü yeniden boyutlandırma/taşıma işleminden "
+"sonra da aynı boyutta ve konumda. İşlem yoksayılıyor."
+
+#: gui/partitionmanagerwidget.cpp:635
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Partition <filename>%1</filename> has been copied to the clipboard."
+msgstr "<filename>%1</filename> disk bölümü panoya kopyalandı."
+
+#: gui/partitionmanagerwidget.cpp:698
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para><warning>You are about to lose all data on partition <filename>%1</"
+"filename>.</warning></para><para>Overwriting one partition with another (or "
+"with an image file) will destroy all data on this target partition.</"
+"para><para>If you continue now and apply the resulting operation in the main "
+"window, all data currently stored on <filename>%1</filename> will "
+"unrecoverably be overwritten.</para>"
+msgstr ""
+"<para><warning><filename>%1</filename> disk bölümü üzerindeki tüm verileri "
+"kaybetmek üzeresiniz.</warning></para><para>Bir disk bölümünün üzerine diğer "
+"disk bölümünü (veya görüntü dosyasını) yazmak o bölümün tüm içeriğini "
+"silecektir.</para><para> Eğer şimdi devam eder ve ana pencereden işlemi "
+"uygularsanız <filename>%1</filename> üzerindeki tüm veriler silinecek ve bu "
+"işlemin geri dönüşü olmayacak.</para>"
+
+#: gui/partitionmanagerwidget.cpp:706
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really Overwrite Existing Partition?"
+msgstr "Varolan Disk Bölümünün Üzerine Yazılsın mı?"
+
+#: gui/partitionmanagerwidget.cpp:707
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Overwrite Partition"
+msgstr "Disk Bölümünün Üzerine Yaz"
+
+#: gui/partitionmanagerwidget.cpp:715
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>The selected partition is not large enough to hold the source "
+"partition or the backup file.</para><para>Pick another target or resize this "
+"partition so it is as large as the source.</para>"
+msgstr ""
+"<para>Seçilen bölüm, kaynak bölüm veya yedek dosyasını tutacak kadar "
+"yeterince geniş değil.</para><para>Farklı bir hedef seçin veya bu bölümü "
+"kaynak kadar büyütmek üzere boyutlandırın.</para>"
+
+#: gui/partitionmanagerwidget.cpp:716
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Target Not Large Enough"
+msgstr "Hedef Yeterince Büyük Değil"
+
+#: gui/partitionmanagerwidget.cpp:719
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>It is not possible to create the target partition large enough to hold "
+"the source.</para><para>This may happen if not all partitions on a device "
+"are correctly aligned or when copying a primary partition into an extended "
+"partition.</para>"
+msgstr ""
+"<para>Bu kaynağı tutacak kadar büyük hedef disk bölümü oluşturmak mümkün "
+"değildir.</para><para>Bu aygıt üzerindeki tüm disk bölümleri doğru "
+"hizalanmadığında veya bir birincil bölüm uzatılmış bölüme kopyalanırken "
+"oluşabilir.</para>"
+
+#: gui/partitionmanagerwidget.cpp:722
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Cannot Create Target Partition."
+msgstr "Hedef Disk Bölümü Oluşturulamıyor."
+
+#: gui/partitionmanagerwidget.cpp:780
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The file system in the image file <filename>%1</filename> is too large to be "
+"restored to the selected partition."
+msgstr ""
+"<filename>%1</filename> kalıp dosyası içerisindeki dosya sistemi seçilen "
+"disk bölümüne yerleştirilmek için çok büyük."
+
+#: gui/partitionmanagerwidget.cpp:780
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Not Enough Space to Restore File System."
+msgstr "Dosya Sistemini Geri Yüklemek İçin Yeterli Disk Alanı Yok."
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:76
+#, kde-format
+msgid "Partition"
+msgstr "Disk Bölümü"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:81
+#, kde-format
+msgid "Type"
+msgstr "Tür"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:86
+#, kde-format
+msgid "Mount Point"
+msgstr "Bağlanma Noktası"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:91
+#, kde-format
+msgid "Label"
+msgstr "Etiket"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:96
+#, kde-format
+msgid "UUID"
+msgstr "UUID"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:101
+#, fuzzy, kde-format
+#| msgid "Partition table:"
+msgid "Partition Label"
+msgstr "Disk bölümü tablosu:"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:106
+#, fuzzy, kde-format
+#| msgid "Partition"
+msgid "Partition UUID"
+msgstr "Disk Bölümü"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:111
+#, kde-format
+msgid "Size"
+msgstr "Boyut"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:116
+#, kde-format
+msgid "Used"
+msgstr "Kullanılan"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:121
+#, kde-format
+msgid "Available"
+msgstr "Kullanılabilir"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:126
+#, kde-format
+msgid "First Sector"
+msgstr "İlk Dilim"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:131
+#, kde-format
+msgid "Last Sector"
+msgstr "Son Dilim"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:136
+#, kde-format
+msgid "Number of Sectors"
+msgstr "Dilim Sayısı"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreePartitions)
+#: gui/partitionmanagerwidgetbase.ui:141
+#, kde-format
+msgid "Flags"
+msgstr "Bayraklar"
+
+#: gui/partpropsdialog.cpp:55
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Partition properties: <filename>%1</filename>"
+msgstr "Disk bölümünün özellikleri: <filename>%1</filename>"
+
+#: gui/partpropsdialog.cpp:110
+#, kde-kuit-format
+msgctxt "@item mountpoint"
+msgid "(none found)"
+msgstr "(bulunamadı)"
+
+#: gui/partpropsdialog.cpp:116
+#, kde-kuit-format
+msgctxt "@label partition state"
+msgid "idle"
+msgstr "boşta"
+
+#: gui/partpropsdialog.cpp:119
+#, kde-kuit-format
+msgctxt "@label partition state"
+msgid "At least one logical partition is mounted."
+msgstr "En az bir mantıksal disk bölümü bağlanır."
+
+#: gui/partpropsdialog.cpp:121
+#, kde-kuit-format
+msgctxt "@label partition state"
+msgid "mounted on <filename>%1</filename>"
+msgstr "<filename>%1</filename> konumuna bağlı"
+
+#: gui/partpropsdialog.cpp:123
+#, kde-kuit-format
+msgctxt "@label partition state"
+msgid "mounted"
+msgstr "bağlı"
+
+#: gui/partpropsdialog.cpp:127 gui/partpropsdialog.cpp:130
+#: gui/partpropsdialog.cpp:131
+#, kde-kuit-format
+msgctxt "@item uuid"
+msgid "(none)"
+msgstr "(hiçbiri)"
+
+#: gui/partpropsdialog.cpp:346
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para><warning>You are about to lose all data on partition <filename>%1</"
+"filename>.</warning></para><para>Changing the file system on a partition "
+"already on disk will erase all its contents. If you continue now and apply "
+"the resulting operation in the main window, all data on <filename>%1</"
+"filename> will unrecoverably be lost.</para>"
+msgstr ""
+"<para><warning><filename>%1</filename> disk bölümü üzerindeki tüm verileri "
+"kaybetmek üzeresiniz.</warning></para><para>Bir disk bölümünün dosya "
+"sistemini değiştirmek o bölümün tüm içeriğini siler. Eğer şimdi devam eder "
+"ve ana pencereden işlemi uygularsanız <filename>%1</filename> üzerindeki tüm "
+"veriler silinecek ve bu işlemin geri dönüşü olmayacaktır.</para>"
+
+#: gui/partpropsdialog.cpp:348
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really Recreate <filename>%1</filename> with File System %2?"
+msgstr ""
+"<filename>%1</filename> disk bölümü %2 Dosya Sistemi ile Yeniden "
+"Oluşturulsun mu?"
+
+#: gui/partpropsdialog.cpp:349
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Change the File System"
+msgstr "Dosya Sistemini Değiştir"
+
+#: gui/partpropsdialog.cpp:350
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Do Not Change the File System"
+msgstr "Dosya Sistemini Değiştirme"
+
+#: gui/partpropsdialog.cpp:369
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para><warning>You are about to lose all data on partition <filename>%1</"
+"filename>.</warning></para><para>Recreating a file system will erase all its "
+"contents. If you continue now and apply the resulting operation in the main "
+"window, all data on <filesystem>%1</filesystem> will unrecoverably be lost.</"
+"para>"
+msgstr ""
+"<para><warning><filename>%1</filename> disk bölümü üzerindeki tüm verileri "
+"kaybetmek üzeresiniz.</warning></para><para>Bir disk bölümünün dosya "
+"sistemini yeniden oluşturmak o bölümün tüm içeriğini siler. Eğer şimdi devam "
+"eder ve ana pencereden işlemi uygularsanız <filename>%1</filename> "
+"üzerindeki tüm veriler silinecek ve bu işlemin geri dönüşü olmayacaktır.</"
+"para>"
+
+#: gui/partpropsdialog.cpp:371
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Really Recreate File System on <filename>%1</filename>?"
+msgstr ""
+"<filename>%1</filename> Bölümünün Dosya Sistemi Yeniden Oluşturulsun mu?"
+
+#: gui/partpropsdialog.cpp:372
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Recreate the File System"
+msgstr "Dosya Sistemini Yeniden Oluştur"
+
+#: gui/partpropsdialog.cpp:373
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Do Not Recreate the File System"
+msgstr "Dosya Sistemini Yeniden Oluşturma"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelFileSystem)
+#: gui/partpropswidgetbase.ui:39
+#, kde-format
+msgctxt "@label:listbox"
+msgid "File syste&m:"
+msgstr "Dosya siste&mi:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextNoSetLabel)
+#: gui/partpropswidgetbase.ui:55 gui/sizedialogwidgetbase.ui:151
+#, kde-format
+msgctxt "@label"
+msgid "This file system does not support setting a label."
+msgstr "Dosya sistemi etiket ayarlama işlemini desteklemiyor."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_CheckRecreate)
+#: gui/partpropswidgetbase.ui:68
+#, kde-format
+msgid ""
+"This will reformat the filesystem, losing all contents, but keeping the same "
+"filesystem type."
+msgstr ""
+"Bu, dosya sistemini yeniden biçimlendirir, tüm içeriği siler, ancak aynı "
+"dosya sistemi türünü korur."
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckRecreate)
+#: gui/partpropswidgetbase.ui:71
+#, kde-format
+msgctxt "@action:button"
+msgid "Recreate existing file system"
+msgstr "Varolan dosya sistemini yeniden oluştur"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextMountPoint)
+#: gui/partpropswidgetbase.ui:101
+#, kde-format
+msgctxt "@label"
+msgid "Mount point:"
+msgstr "Bağlanma noktası:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextRole)
+#: gui/partpropswidgetbase.ui:118
+#, kde-format
+msgctxt "@label"
+msgid "Partition type:"
+msgstr "Disk bölümü türü:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextLabel)
+#: gui/partpropswidgetbase.ui:128
+#, kde-format
+msgctxt "@label"
+msgid "&Label:"
+msgstr "&Etiket:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextStatus)
+#: gui/partpropswidgetbase.ui:148
+#, kde-format
+msgctxt "@label"
+msgid "Status:"
+msgstr "Durum:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextUuid)
+#: gui/partpropswidgetbase.ui:165
+#, kde-format
+msgctxt "@label"
+msgid "UUID:"
+msgstr "Kullanıcı Kimliği:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextCapacity)
+#: gui/partpropswidgetbase.ui:195
+#, kde-format
+msgctxt "@label"
+msgid "Size:"
+msgstr "Boyut:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextAvailable)
+#: gui/partpropswidgetbase.ui:218
+#, kde-format
+msgctxt "@label partition capacity available"
+msgid "Available:"
+msgstr "Kullanılabilir:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextUsed)
+#: gui/partpropswidgetbase.ui:235
+#, kde-format
+msgctxt "@label partition capacity used"
+msgid "Used:"
+msgstr "Kullanılan:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextFirstSector)
+#: gui/partpropswidgetbase.ui:259
+#, kde-format
+msgctxt "@label"
+msgid "First sector:"
+msgstr "İlk dilim (sector):"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextLastSector)
+#: gui/partpropswidgetbase.ui:276
+#, kde-format
+msgctxt "@label"
+msgid "Last sector:"
+msgstr "Son dilim (sector):"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextNumSectors)
+#: gui/partpropswidgetbase.ui:293
+#, kde-format
+msgctxt "@label"
+msgid "Number of sectors:"
+msgstr "Dilim sayısı:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextFlags)
+#: gui/partpropswidgetbase.ui:317
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "Flags:"
+msgctxt "@label"
+msgid "&Flags:"
+msgstr "Bayraklar:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextPartitionLabel)
+#: gui/partpropswidgetbase.ui:362
+#, fuzzy, kde-format
+#| msgid "Partition table:"
+msgid "Partition Label:"
+msgstr "Disk bölümü tablosu:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextPartitionUuid)
+#: gui/partpropswidgetbase.ui:372
+#, fuzzy, kde-format
+#| msgid "Partition"
+msgid "Partition UUID:"
+msgstr "Disk Bölümü"
+
+#: gui/parttablewidget.cpp:26
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Please select a device."
+msgstr "Lüften bir aygıt seçin."
+
+#: gui/parttablewidget.cpp:54
+#, kde-kuit-format
+msgctxt "@info"
+msgid "No valid partition table was found on this device."
+msgstr "Bu aygıt üzerinde geçerli bir disk bölümlendirme tablosu bulunamadı."
+
+#: gui/resizedialog.cpp:42
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Resize/move partition: <filename>%1</filename>"
+msgstr "Disk bölümünü yeniden boyutlandır/taşı: <filename>%1</filename>"
+
+#: gui/resizedialog.cpp:91
+#, kde-format
+msgctxt "%2 is either empty or says Invalid passphrase."
+msgid "%2Enter passphrase for %1:"
+msgstr ""
+
+#: gui/resizedialog.cpp:100
+#, kde-format
+msgctxt "Part of %2Enter passphrase for %1:"
+msgid "Invalid passphrase. "
+msgstr ""
+
+#: gui/resizevolumegroupdialog.cpp:39
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Resize Volume Group"
+msgstr "Birim Grubunu Boyutlandır"
+
+#: gui/scanprogressdialog.cpp:17
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Scanning devices..."
+msgstr "Aygıtlar taranıyor..."
+
+#: gui/scanprogressdialog.cpp:32
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Scanning..."
+msgstr "Taranıyor..."
+
+#: gui/scanprogressdialog.cpp:34
+#, kde-kuit-format
+msgctxt "@label"
+msgid "Scanning device: <filename>%1</filename>"
+msgstr "Aygıt taranıyor: <filename>%1</filename>"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: gui/sizedetailswidgetbase.ui:66
+#, kde-format
+msgctxt "@label:listbox"
+msgid "First sector:"
+msgstr "İlk dilim (sector):"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: gui/sizedetailswidgetbase.ui:101
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Last sector:"
+msgstr "Son dilim (sector):"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckAlign)
+#: gui/sizedetailswidgetbase.ui:124
+#, kde-format
+msgid "Align partition"
+msgstr "Disk bölümünü yerleştir"
+
+#: gui/sizedialogbase.cpp:66
+#, kde-kuit-format
+msgctxt "@action:button advanced settings button"
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+#: gui/sizedialogbase.cpp:180
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "&Advanced"
+msgstr "&Gelişmiş"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelFreeBefore)
+#: gui/sizedialogwidgetbase.ui:30
+#, kde-format
+msgctxt "@label:listbox"
+msgid "F&ree space before:"
+msgstr "Öncesinde bırakılacak boş alan:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelFileSystem)
+#: gui/sizedialogwidgetbase.ui:75
+#, kde-format
+msgctxt "@label:listbox"
+msgid "File system:"
+msgstr "Dosya sistemi:"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, m_CheckBoxEncrypt)
+#: gui/sizedialogwidgetbase.ui:88
+#, kde-format
+msgid ""
+"Set up encryption for this filesystem with LUKS. You will be asked to "
+"provide a passphrase."
+msgstr ""
+"LUKS ile bu dosya sistemi için şifrelemeyi ayarlayın. Bir şifre deyimi "
+"vermeniz istenecektir."
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_CheckBoxEncrypt)
+#: gui/sizedialogwidgetbase.ui:91
+#, kde-format
+msgid "Encrypt with LUKS"
+msgstr "LUKS ile şifrele"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: gui/sizedialogwidgetbase.ui:104
+#, kde-format
+msgctxt "@label"
+msgid "Maximum size:"
+msgstr "En büyük boyut:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioPrimary)
+#: gui/sizedialogwidgetbase.ui:123
+#, kde-format
+msgid "Primar&y"
+msgstr "&Birincil"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioExtended)
+#: gui/sizedialogwidgetbase.ui:130
+#, kde-format
+msgid "E&xtended"
+msgstr "&Uzatılmış"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_RadioLogical)
+#: gui/sizedialogwidgetbase.ui:137
+#, kde-format
+msgid "&Logical"
+msgstr "&Mantıksal"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelRole)
+#: gui/sizedialogwidgetbase.ui:192
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Partition &type:"
+msgstr "Disk bölümü &türü:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextLabel)
+#: gui/sizedialogwidgetbase.ui:205
+#, kde-format
+msgctxt "@label"
+msgid "Label:"
+msgstr "Etiket:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: gui/sizedialogwidgetbase.ui:224
+#, kde-format
+msgctxt "@label"
+msgid "Minimum size:"
+msgstr "En küçük boyut:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: gui/sizedialogwidgetbase.ui:256
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Si&ze:"
+msgstr "Bo&yut:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelFreeAfter)
+#: gui/sizedialogwidgetbase.ui:275
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Free space after:"
+msgstr "Sonrasında bırakılacak boş alan:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextLVName)
+#: gui/sizedialogwidgetbase.ui:324
+#, kde-format
+msgid "Logical Volume Name:"
+msgstr "Mantıksal Birim Adı:"
+
+#: gui/smartdialog.cpp:54
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "SMART Properties: <filename>%1</filename>"
+msgstr "SMART Özellikleri: <filename>%1</filename>"
+
+#: gui/smartdialog.cpp:58
+#, kde-kuit-format
+msgctxt "@action:button"
+msgid "Save SMART Report"
+msgstr "SMART Raporunu Kaydet"
+
+#: gui/smartdialog.cpp:96 gui/smartdialog.cpp:153
+#, kde-format, kde-kuit-format
+msgctxt "@label SMART number of bad sectors"
+msgid "none"
+msgstr "hiçbiri"
+
+#: gui/smartdialog.cpp:115 gui/smartdialog.cpp:181
+#, kde-kuit-format
+msgctxt "@item:intable"
+msgid "Pre-Failure"
+msgstr "Başarısızlık Öncesi"
+
+#: gui/smartdialog.cpp:115 gui/smartdialog.cpp:181
+#, kde-kuit-format
+msgctxt "@item:intable"
+msgid "Old-Age"
+msgstr "Yaşlılık"
+
+#: gui/smartdialog.cpp:116 gui/smartdialog.cpp:182
+#, kde-kuit-format
+msgctxt "@item:intable"
+msgid "Online"
+msgstr "Çevrimiçi"
+
+#: gui/smartdialog.cpp:116 gui/smartdialog.cpp:182
+#, kde-kuit-format
+msgctxt "@item:intable"
+msgid "Offline"
+msgstr "Çevrimdışı"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartModelName)
+#: gui/smartdialog.cpp:155 gui/smartdialogwidgetbase.ui:68
+#, kde-format
+msgid "Model:"
+msgstr "Model:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartSerialNumber)
+#: gui/smartdialog.cpp:156 gui/smartdialogwidgetbase.ui:97
+#, kde-format
+msgid "Serial number:"
+msgstr "Seri numarası:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartFirmware)
+#: gui/smartdialog.cpp:157 gui/smartdialogwidgetbase.ui:126
+#, kde-format
+msgid "Firmware revision:"
+msgstr "Firmware sürümü:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartTemperature)
+#: gui/smartdialog.cpp:158 gui/smartdialogwidgetbase.ui:155
+#, kde-format
+msgid "Temperature:"
+msgstr "Sıcaklık:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartBadSectors)
+#: gui/smartdialog.cpp:159 gui/smartdialogwidgetbase.ui:184
+#, kde-format
+msgid "Bad sectors:"
+msgstr "Kötü dilimler:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartPoweredOn)
+#: gui/smartdialog.cpp:160 gui/smartdialogwidgetbase.ui:213
+#, kde-format
+msgid "Powered on for:"
+msgstr "Açılma nedeni:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartPowerCycles)
+#: gui/smartdialog.cpp:161 gui/smartdialogwidgetbase.ui:242
+#, kde-format
+msgid "Power cycles:"
+msgstr "Güç döngüleri:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartSelfTests)
+#: gui/smartdialog.cpp:162 gui/smartdialogwidgetbase.ui:412
+#, kde-format
+msgid "Self tests:"
+msgstr "Kendi kendine yapılan testler:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextSmartOverallAssessment)
+#: gui/smartdialog.cpp:163 gui/smartdialogwidgetbase.ui:383
+#, kde-format
+msgid "Overall assessment:"
+msgstr "Tüm değerlendirme:"
+
+#: gui/smartdialog.cpp:227
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Could Not Save SMART Report."
+msgstr "SMART Raporu kaydedilemedi."
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:294
+#, kde-format
+msgid "Id"
+msgstr "Kimlik"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:299
+#, kde-format
+msgid "Attribute"
+msgstr "Öznitelik"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:304
+#, kde-format
+msgid "Failure Type"
+msgstr "Hata Türü"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:309
+#, kde-format
+msgid "Update Type"
+msgstr "Güncelleme Türü"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:314
+#, kde-format
+msgid "Worst"
+msgstr "En Kötü"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:319
+#, kde-format
+msgid "Current"
+msgstr "Şimdiki"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:324
+#, kde-format
+msgid "Threshold"
+msgstr "Eşik"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:329
+#, kde-format
+msgid "Raw"
+msgstr "Ham"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:334
+#, kde-format
+msgid "Assessment"
+msgstr "Değerlendirme"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeSmartAttributes)
+#: gui/smartdialogwidgetbase.ui:339
+#, kde-format
+msgid "Value"
+msgstr "Değer"
+
+#: gui/treelog.cpp:110
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Could not create temporary output file to save <filename>%1</filename>."
+msgstr ""
+"<filename>%1</filename> ögesini yazmak için geçici çıktı dosyası "
+"oluşturulamadı."
+
+#: gui/treelog.cpp:110
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Error Saving Log File"
+msgstr "Günlük Dosyası Kaydedilemedi"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeLog)
+#: gui/treelogbase.ui:59
+#, kde-format
+msgctxt ""
+"@title:column Severity of a log entry / log level. Text must be very short."
+msgid "Sev."
+msgstr "Önem"
+
+#. i18n: ectx: property (toolTip), widget (QTreeWidget, m_TreeLog)
+#: gui/treelogbase.ui:62
+#, kde-format
+msgid "Severity"
+msgstr "Önem"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeLog)
+#: gui/treelogbase.ui:67
+#, kde-format
+msgctxt "@title:column a time stamp of a log entry"
+msgid "Time"
+msgstr "Süre"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_TreeLog)
+#: gui/treelogbase.ui:72
+#, kde-format
+msgctxt "@title:column the text message of a log entry"
+msgid "Message"
+msgstr "İleti"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextVGName)
+#: gui/volumegroupwidgetbase.ui:34
+#, kde-format
+msgid "Volume Group Name: "
+msgstr "Birim Grubu Adı:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextPESize)
+#: gui/volumegroupwidgetbase.ui:47
+#, kde-format
+msgid "Physical Extent Size: "
+msgstr "Fiziksel Uzantı Boyutu:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTotalSectors)
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTotalLV)
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTotalSize)
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTotalUsedSize)
+#: gui/volumegroupwidgetbase.ui:60 gui/volumegroupwidgetbase.ui:120
+#: gui/volumegroupwidgetbase.ui:166 gui/volumegroupwidgetbase.ui:176
+#, kde-format
+msgid "---"
+msgstr "---"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, m_SpinPESize)
+#: gui/volumegroupwidgetbase.ui:79
+#, kde-format
+msgid " MiB"
+msgstr " MiB"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextTotalLV)
+#: gui/volumegroupwidgetbase.ui:107
+#, kde-format
+msgid "Total LV: "
+msgstr "Toplam LV:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextVolumeType)
+#: gui/volumegroupwidgetbase.ui:130
+#, kde-format
+msgid "Volume Group Type: "
+msgstr "Birim Grubu Türü:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextTotalSize)
+#: gui/volumegroupwidgetbase.ui:140
+#, kde-format
+msgid "Total Size: "
+msgstr "Toplam Boyut:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextTotalSectors)
+#: gui/volumegroupwidgetbase.ui:153
+#, kde-format
+msgid "Total Sectors: "
+msgstr "Toplam Dilim Sayısı: "
+
+#. i18n: ectx: property (text), widget (QLabel, m_LabelTextTotalUsedSize)
+#: gui/volumegroupwidgetbase.ui:186
+#, kde-format
+msgid "Used Size: "
+msgstr "Kullanılan Boyut: "
+
+#: main.cpp:36
+#, kde-kuit-format
+msgctxt "@title"
+msgid "<application>KDE Partition Manager</application>"
+msgstr "<application>KDE Disk Bölümü Yöneticisi</application>"
+
+#: main.cpp:38
+#, kde-kuit-format
+msgctxt "@title"
+msgid "Manage your disks, partitions and file systems"
+msgstr "Disklerinizi, disk bölümlerinizi ve dosya sistemlerinizi yönetin"
+
+#: main.cpp:40
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:credit"
+#| msgid ""
+#| "© 2008-2013 Volker Lanz\n"
+#| "© 2012-2017 Andrius Štikonas"
+msgctxt "@info:credit"
+msgid ""
+"© 2008-2013 Volker Lanz\n"
+"© 2012-2020 Andrius Štikonas"
+msgstr ""
+"© 2008-2013 Volker Lanz\n"
+"© 2012-2017 Andrius Štikonas"
+
+#: main.cpp:44
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Volker Lanz"
+msgstr "Volker Lanz"
+
+#: main.cpp:44
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Former maintainer"
+msgstr "Önceki geliştirici"
+
+#: main.cpp:45
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Andrius Štikonas"
+msgstr "Andrius Štikonas"
+
+#: main.cpp:45
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Maintainer"
+msgstr "Projeyi yürüten"
+
+#: main.cpp:46
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Teo Mrnjavac"
+msgstr "Teo Mrnjavac"
+
+#: main.cpp:46
+#, kde-format
+msgctxt "@info:credit"
+msgid "Former Calamares maintainer"
+msgstr "Eski Calamares geliştiricisi"
+
+#: main.cpp:47
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Chantara Tith"
+msgstr "Chantara Tith"
+
+#: main.cpp:47
+#, kde-format
+msgctxt "@info:credit"
+msgid "LVM support"
+msgstr "LVM desteği"
+
+#: main.cpp:48
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Pali Rohár"
+msgstr "Pali Rohár"
+
+#: main.cpp:48
+#, kde-format
+msgctxt "@info:credit"
+msgid "UDF support"
+msgstr "UDF desteği"
+
+#: main.cpp:49
+#, kde-format
+msgid "Hugo Pereira Da Costa"
+msgstr "Hugo Pereira Da Costa"
+
+#: main.cpp:49
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Partition Widget Design"
+msgstr "Disk Bölümü Parçacığının Tasarımı"
+
+#: main.cpp:50
+#, kde-kuit-format
+msgctxt "@info:credit"
+msgid "Caio Jordão Carvalho"
+msgstr ""
+
+#: main.cpp:50
+#, fuzzy, kde-format
+#| msgctxt "@action:button"
+#| msgid "Save SMART Report"
+msgctxt "@info:credit"
+msgid "Improved SMART support"
+msgstr "SMART Raporunu Kaydet"
+
+#. i18n: ectx: label, entry (firstRun), group (KDE Partition Manager)
+#: partitionmanager.kcfg:45
+#, kde-format
+msgctxt "@label"
+msgid "Is this the first time KDE Partition Manager is being run?"
+msgstr "KDE Disk Bölümü Yöneticisi'ni ilk çalıştırmanız mı?"
+
+#. i18n: ectx: label, entry (minLogLevel), group (KDE Partition Manager)
+#: partitionmanager.kcfg:49
+#, kde-format
+msgctxt "@label"
+msgid "Hide log messages below"
+msgstr "Aşağıdaki günlük iletilerini gizle"
+
+#. i18n: ectx: label, entry (sectorAlignment), group (KDE Partition Manager)
+#: partitionmanager.kcfg:53
+#, kde-format
+msgctxt "@label"
+msgid "Partition sector alignment"
+msgstr "Disk bölümü dilim yerleşimi"
+
+#. i18n: ectx: label, entry (useCylinderAlignment), group (KDE Partition Manager)
+#: partitionmanager.kcfg:57
+#, kde-format
+msgctxt "@label"
+msgid "Use cylinder based alignment (Windows XP compatible)"
+msgstr "Silindir tabanlı hizalama kullan (Windows XP uyumlu)"
+
+#. i18n: ectx: label, entry (alignDefault), group (KDE Partition Manager)
+#: partitionmanager.kcfg:61
+#, kde-format
+msgctxt "@label"
+msgid "Align partitions per default"
+msgstr "Öntanımlılar için birimleri hizala"
+
+#. i18n: ectx: label, entry, group (KDE Partition Manager)
+#: partitionmanager.kcfg:65
+#, kde-format
+msgctxt "@label"
+msgid "File system colors"
+msgstr "Dosya sistemi renkleri"
+
+#. i18n: ectx: label, entry, group (KDE Partition Manager)
+#: partitionmanager.kcfg:141
+#, kde-format
+msgctxt "@label"
+msgid "Show the application's menu bar"
+msgstr "Uygulamanın menü çubuğunu göster"
+
+#. i18n: ectx: label, entry, group (KDE Partition Manager)
+#: partitionmanager.kcfg:145
+#, kde-format
+msgctxt "@label"
+msgid "Backend plugin"
+msgstr "Arka uç eklentisi"
+
+#. i18n: ectx: label, entry, group (KDE Partition Manager)
+#: partitionmanager.kcfg:151
+#, kde-format
+msgctxt "@label"
+msgid "Preferred unit:"
+msgstr "Tercih edilen birim:"
+
+#: util/guihelpers.cpp:50
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>The configured backend plugin \"%1\" could not be loaded.</"
+"para><para>Loading the default backend plugin \"%2\" instead.</para>"
+msgstr ""
+"<para>Yapılandırılmış \"%1\" arka uç eklentisi yüklenemedi.</para><para>Onun "
+"yerine öntanımlı \"%2\" arka uç eklentisi yükleniyor.</para>"
+
+#: util/guihelpers.cpp:53 util/guihelpers.cpp:60
+#, kde-kuit-format
+msgctxt "@title:window"
+msgid "Error: Could Not Load Backend Plugin"
+msgstr "Hata: Arka Uç Eklentisi Yüklenemedi"
+
+#: util/guihelpers.cpp:57
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>Neither the configured (\"%1\") nor the default (\"%2\") backend "
+"plugin could be loaded.</para><para>Please check your installation.</para>"
+msgstr ""
+"<para>Ne yapılandırılmış (\"%1\") ne de öntanımlı (\"%2\") arka uç "
+"eklentileri yüklenemedi.</para><para>Lütfen kurulumunuzu kontrol edin.</para>"
+
+#: util/guihelpers.cpp:75
+#, kde-kuit-format
+msgctxt "@title:menu"
+msgid "Columns"
+msgstr "Sütunlar"
+
+#~ msgctxt "@info"
+#~ msgid ""
+#~ "The configured external browser could not be run. Please check your "
+#~ "settings."
+#~ msgstr ""
+#~ "Yapılandırılmış olan dış tarayıcı çalıştırılamadı. Lütfen ayarlarınızı "
+#~ "kontrol edin."
+
+#~ msgctxt "@title:menu turn on and off edit toolbar"
+#~ msgid "Edit Toolbar"
+#~ msgstr "Düzenleme Araç Çubuğu"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Device Toolbar"
+#~ msgstr "Aygıt Araç Çubuğu"
+
+#~ msgid "Permissions"
+#~ msgstr "İzinler"
+
+#~ msgid "Allow applying operations without administrator privileges"
+#~ msgstr "Yönetici yetkileri olmadan işlemleri uygulamaya izin ver"
+
+#~ msgctxt "@label"
+#~ msgid "1 Sector"
+#~ msgid_plural "%1 Sectors"
+#~ msgstr[0] "1 Dilim"
+#~ msgstr[1] "%1 Dilim"
+
+#~ msgid "Cylinders/Heads/Sectors:"
+#~ msgstr "Silindirler/Kafalar/Dilimler:"
+
+#~ msgid "Cylinder size:"
+#~ msgstr "Silindir boyutu:"
+
+#~ msgctxt "@info:shell"
+#~ msgid "Do not try to gain super user privileges"
+#~ msgstr "Yetkili kullanıcı haklarını almayı deneme"
+
+#~ msgctxt "@label"
+#~ msgid "Allow applying operations without administrator privileges"
+#~ msgstr "Yönetici yetkileri olmadan işlemleri uygulamaya izin ver"
+
+#~ msgctxt "@info"
+#~ msgid ""
+#~ "<para><warning>You do not have administrative privileges.</warning></"
+#~ "para><para>It is possible to run <application>%1</application> without "
+#~ "these privileges. You will, however, <emphasis>not</emphasis> be allowed "
+#~ "to apply operations.</para><para>Do you want to continue running "
+#~ "<application>%1</application>?</para><para><note>If administrator login "
+#~ "is disabled and your password is not accepted, then check <command>kdesu</"
+#~ "command> <link url='https://wiki.archlinux.org/index.php/"
+#~ "sudo#kdesu'>configuration</link>.</note></para>"
+#~ msgstr ""
+#~ "<para><warning>Yönetici yetkilerinizyok.</warning></"
+#~ "para><para><application>%1</application> uygulamasını yönetici "
+#~ "yetkileriniz olmadan da çalıştırabilirsiniz. Ancak seçtiğiniz işlemleri "
+#~ "<emphasis>uygulayamayacaksınız</emphasis>. </para><para><application>%1</"
+#~ "application> uygulamasını çalıştırmaya devam etmek istiyor musunuz?</"
+#~ "para><para><note>Yönetici girişi kapalı ve parolanız kabul olmuyorsa, "
+#~ "<command>kdesu</command><link url='https://wiki.archlinux.org/index.php/"
+#~ "sudo#kdesu'>yapılandırmasını</link>kontrol edin.</note></para>"
+
+#~ msgctxt "@title:window"
+#~ msgid "No administrative privileges"
+#~ msgstr "Yönetici yetkileri yok"
+
+#~ msgctxt "@action:button"
+#~ msgid "Run without administrative privileges"
+#~ msgstr "Yönetici yetkileri olmadan çalıştır"
+
+#~ msgctxt "@info"
+#~ msgid "Do you want to overwrite the existing file <filename>%1</filename>?"
+#~ msgstr ""
+#~ "Varolan <filename>%1</filename> dosyasının üzerine gerçekten yazmak "
+#~ "istiyor musunuz?"
+
+#~ msgctxt "@title:window"
+#~ msgid "Overwrite Existing File?"
+#~ msgstr "Varolan Dosyanın Üzerine Yazılsın mı?"
+
+#~ msgctxt "@action:button"
+#~ msgid "Overwrite File"
+#~ msgstr "Dosyanın Üzerine Yaz"
+
+#~ msgctxt "@info:shell"
+#~ msgid "Show advanced tab in configuration dialog"
+#~ msgstr "Yapılandırma penceresinde gelişmiş sekmesini göster"
+
+#~ msgctxt "@info:shell"
+#~ msgid "Device(s) to manage"
+#~ msgstr "Yönetilecek aygıtlar"
+
+#~ msgctxt "@item:intable Encrypted file systems, e.g. btrfs[luks]"
+#~ msgid "%1 [%2]"
+#~ msgstr "%1 [%2]"
+
+#~ msgid "luks:"
+#~ msgstr "luks:"
+
+#~ msgid "ntfs:"
+#~ msgstr "ntfs:"
+
+#~ msgid "fat16:"
+#~ msgstr "fat16:"
+
+#~ msgid "fat32:"
+#~ msgstr "fat32:"
+
+#~ msgid "zfs:"
+#~ msgstr "zfs:"
+
+#~ msgid "reiserfs:"
+#~ msgstr "reiserfs:"
+
+#~ msgid "hpfs:"
+#~ msgstr "hpfs:"
+
+#~ msgid "jfs"
+#~ msgstr "jfs"
+
+#~ msgid "hfs:"
+#~ msgstr "hfs:"
+
+#~ msgid "hfsplus:"
+#~ msgstr "hfsplus:"
+
+#~ msgid "ufs:"
+#~ msgstr "ufs:"
+
+#~ msgid "xfs:"
+#~ msgstr "xfs:"
+
+#~ msgid "ocfs2:"
+#~ msgstr "ocfs2:"
+
+#~ msgid "exfat:"
+#~ msgstr "exfat:"
+
+#~ msgid "nilfs2:"
+#~ msgstr "nilfs2:"
+
+#~ msgid "lvm2 pv:"
+#~ msgstr "lvm2 pv:"
+
+#~ msgid "f2fs:"
+#~ msgstr "f2fs:"
+
+#~ msgid "udf:"
+#~ msgstr "udf:"
+
+#~ msgctxt "@label device"
+#~ msgid "Heads:"
+#~ msgstr "Kafalar:"
+
+#~ msgctxt "@label device"
+#~ msgid "Cylinders:"
+#~ msgstr "Silindirler:"
+
+#~ msgctxt "@label device"
+#~ msgid "Sectors:"
+#~ msgstr "Dilimler:"
+
+#~ msgctxt "@label device"
+#~ msgid "Cylinder size:"
+#~ msgstr "Silindir boyutu:"
+
+#~ msgctxt "@info"
+#~ msgid "Could not open mount point file <filename>%1</filename>."
+#~ msgstr "<filename>%1</filename> bağlanma noktası dosyası açılamadı."
+
+#~ msgctxt "@title:window"
+#~ msgid "Error while reading mount points"
+#~ msgstr "Bağlanma noktaları okunamadı"
+
+#, fuzzy
+#~| msgctxt "@info/plain"
+#~| msgid ""
+#~| "Could not open partition <filename>%1</filename> while trying to resize "
+#~| "the file system."
+#~ msgctxt "@info"
+#~ msgid ""
+#~ "Could not remove <filename>%1</filename>. There are still Logical Volumes "
+#~ "on the Volume Group."
+#~ msgstr ""
+#~ "Dosya sistemi boyutlandırılırken <filename>%1</filename> birimi açılamadı."
+
+#, fuzzy
+#~| msgctxt "@action:inmenu"
+#~| msgid "Resize/Move"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Resize Volume"
+#~ msgstr "Yeniden Boyutlandır/Taşı"
+
+#, fuzzy
+#~| msgctxt "@info"
+#~| msgid "Please select a device."
+#~ msgctxt "@info:tooltip"
+#~ msgid "Resize selected Volume device"
+#~ msgstr "Lüften bir aygıt seçin."
+
+#, fuzzy
+#~| msgctxt "@info"
+#~| msgid "Please select a device."
+#~ msgctxt "@info:status"
+#~ msgid "Resize selected Volume device"
+#~ msgstr "Lüften bir aygıt seçin."
+
+#~ msgctxt "@title:menu"
+#~ msgid "View"
+#~ msgstr "Görünüm"
+
+#~ msgctxt "@item:button advanced settings button"
+#~ msgid "Advanced"
+#~ msgstr "Gelişmiş"
+
+#~ msgid "Unknown Device"
+#~ msgstr "Bilinmeyen Aygıt"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Deleting a partition just created: Undoing the operation to create the "
+#~ "partition."
+#~ msgstr ""
+#~ "Henüz oluşturulmuş bir bölüm siliniyor: Bölümü oluşturmak için işlem geri "
+#~ "alınıyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resizing a partition just created: Updating start and end in existing "
+#~ "operation."
+#~ msgstr ""
+#~ "Henüz oluşturulmuş bir bölüm boyutlandırılıyor: Başlangıç ve bitişi "
+#~ "mevcut işlemde güncelliyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Copying a new partition: Creating a new partition instead."
+#~ msgstr ""
+#~ "Yeni bir disk bölümünün kopyalanması: Bu işlem yerine yeni bir disk "
+#~ "bölümü oluşturuluyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Changing label for a new partition: No new operation required."
+#~ msgstr ""
+#~ "Yeni bir disk bölümünün etiketinin değiştirilmesi: Yeni işlem gerekmiyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Changing file system for a new partition: No new operation required."
+#~ msgstr ""
+#~ "Yeni disk bölümü üzeründeki dosya sistemi değiştiriliyor: Yeni işlem "
+#~ "yapmak gerekmiyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Checking file systems is automatically done when creating them: No new "
+#~ "operation required."
+#~ msgstr ""
+#~ "Dosya sisteminin otomatik olarak oluşturulup oluşturulmadığı kontrol "
+#~ "ediliyor: Yeni işlem yapmak gerekmiyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Deleting a partition just copied: Removing the copy."
+#~ msgstr "Henüz kopyalanan bir bölüm siliniyor: Kopya kaldırılıyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Deleting a partition just copied over an existing partition: Removing the "
+#~ "copy and deleting the existing partition."
+#~ msgstr ""
+#~ "Mevcut bir birimin üzerinden henüz kopyalanan bir bölüm siliniyor: Kopya "
+#~ "kaldırılıyor ve mevcut bölüm siliniyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Copying a partition that is itself a copy: Copying the original source "
+#~ "partition instead."
+#~ msgstr ""
+#~ "Kendisi bir kopya olan bir bölüm kopyalanıyor: Bunun yerine özgün bölüm "
+#~ "kopyalanıyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Deleting a partition just restored: Removing the restore operation."
+#~ msgstr ""
+#~ "Henüz geri yüklenen bölüm siliniyor: Geri yükleme işlemi kaldırılıyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Deleting a partition just restored to an existing partition: Removing the "
+#~ "restore operation and deleting the existing partition."
+#~ msgstr ""
+#~ "Henüz mevcut bir disk bölümüne kurtarılan bir disk bölümü siliniyor. Geri "
+#~ "yükleme işlemi kaldırılıyor ve mevcut birim siliniyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Changing flags again for the same partition: Removing old operation."
+#~ msgstr ""
+#~ "Aynı birim için bayraklar tekrar değiştiriliyor: Eski işlem kaldırılıyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Changing label again for the same partition: Removing old operation."
+#~ msgstr ""
+#~ "Aynı birim için etiketler tekrar değiştiriliyor: Eski işlem kaldırılıyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Creating new partition table, discarding previous operation on device."
+#~ msgstr ""
+#~ "Yeni bir disk bölümlendirme tablosu oluşturuluyor, önceki işlemler iptal "
+#~ "ediliyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Add operation: %1"
+#~ msgstr "İşlem ekle: %1"
+
+#~ msgctxt "@item partition name"
+#~ msgid "New Partition"
+#~ msgstr "Yeni Disk Bölümü"
+
+#~ msgctxt "@item partition name"
+#~ msgid "Restored Partition"
+#~ msgstr "Geri Yüklenmiş Disk Bölümü"
+
+#~ msgctxt "@item partition name"
+#~ msgid "Copy of %1"
+#~ msgstr "%1 ögesinin kopyası"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Partition <filename>%1</filename> is not properly aligned (first sector: "
+#~ "%2, modulo: %3)."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümü doğru bir şekilde yerleştirilmemiş "
+#~ "(ilk dilim: %2, bölme işleminden kalan: %3)."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Partition <filename>%1</filename> is not properly aligned (last sector: "
+#~ "%2, modulo: %3)."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümü doğru bir şekilde yerleştirilmemiş "
+#~ "(son dilim: %2, bölme işleminden kalan: %3)."
+
+#~ msgctxt "@item partition role"
+#~ msgid "unallocated"
+#~ msgstr "ayrılmamış"
+
+#~ msgctxt "@item partition role"
+#~ msgid "logical"
+#~ msgstr "mantıksal"
+
+#~ msgctxt "@item partition role"
+#~ msgid "extended"
+#~ msgstr "uzatılmış"
+
+#~ msgctxt "@item partition role"
+#~ msgid "primary"
+#~ msgstr "birincil"
+
+#~ msgctxt "@item partition role"
+#~ msgid "none"
+#~ msgstr "hiçbiri"
+
+#~ msgctxt "@item partition flag"
+#~ msgid "boot"
+#~ msgstr "boot"
+
+#~ msgctxt "@item partition flag"
+#~ msgid "root"
+#~ msgstr "root"
+
+#~ msgctxt "@item partition flag"
+#~ msgid "swap"
+#~ msgstr "swap"
+
+#~ msgctxt "@item partition flag"
+#~ msgid "hidden"
+#~ msgstr "gizli"
+
+#~ msgctxt "@item partition flag"
+#~ msgid "raid"
+#~ msgstr "raid"
+
+#~ msgctxt "@item partition flag"
+#~ msgid "lvm"
+#~ msgstr "lvm"
+
+#~ msgctxt "@item partition flag"
+#~ msgid "lba"
+#~ msgstr "lba"
+
+#~ msgctxt "@item partition flag"
+#~ msgid "hpservice"
+#~ msgstr "hpservice"
+
+#~ msgctxt "@item partition flag"
+#~ msgid "palo"
+#~ msgstr "palo"
+
+#~ msgctxt "@item partition flag"
+#~ msgid "prep"
+#~ msgstr "prep"
+
+#~ msgctxt "@item partition flag"
+#~ msgid "msft-reserved"
+#~ msgstr "msft-reserved"
+
+#~ msgctxt "@item partition table name"
+#~ msgid "unknown"
+#~ msgstr "bilinmeyen"
+
+#~ msgctxt "@item:intable"
+#~ msgid "failing"
+#~ msgstr "başarısız oluyor"
+
+#~ msgctxt "@item:intable"
+#~ msgid "has failed"
+#~ msgstr "başarısız oldu"
+
+#~ msgctxt "@item:intable"
+#~ msgid "warning"
+#~ msgstr "uyarı"
+
+#~ msgctxt "@item:intable"
+#~ msgid "good"
+#~ msgstr "iyi"
+
+#~ msgctxt "@item:intable not applicable"
+#~ msgid "N/A"
+#~ msgstr "N/A"
+
+#~ msgctxt "@item:intable"
+#~ msgid "%1 sector"
+#~ msgid_plural "%1 sectors"
+#~ msgstr[0] "%1 dilim"
+#~ msgstr[1] "%1 dilim"
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Read Error Rate"
+#~ msgstr "Okuma Hatası Oranı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Rate of hardware read errors while reading data from the disk surface."
+#~ msgstr "Disk yüzeyinden veri okunurken oluşan donanım okuma hata oranı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Throughput Performance"
+#~ msgstr "Çıktı Başarımı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Overall (general) throughput performance of a hard disk drive. If the "
+#~ "value of this attribute is decreasing there is a high probability that "
+#~ "there is a problem with the disk."
+#~ msgstr ""
+#~ "Sabit disk sürücüsünün toplam (genel) çıktı performansı. Eğer bu "
+#~ "niteliğin değeri düşüyorsa, diskte bir sorun olma ihtimali yüksektir."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Spin-Up Time"
+#~ msgstr "Dönme Süresi"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Average time of spindle spin up from zero RPM to fully operational."
+#~ msgstr ""
+#~ "Sıfır RPM (Dakikadaki devir) hızından, tam işlevsel hızını alma ortalama "
+#~ "süresi."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Start/Stop Count"
+#~ msgstr "Başlama/Bitme Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "A tally of spindle start/stop cycles."
+#~ msgstr "Milin başla/dur çevrimlerinin listesi."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Reallocated Sectors Count"
+#~ msgstr "Yeniden Ayrılan Sektör Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Count of reallocated sectors. When the hard drive finds a read/write/"
+#~ "verification error, it marks this sector as &quot;reallocated&quot; and "
+#~ "transfers data to a special reserved area (spare area)."
+#~ msgstr ""
+#~ "Yeniden ayrılan sektör sayısı. Sabit disk bir okuma/yazma/doğrulama "
+#~ "hatası bulduğunda bu sektörü &quot;yeniden ayrılan&quot olarak işaretler "
+#~ "ve veriyi özel ayrılmış bir alana aktarır (yedek alana)."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Read Channel Margin"
+#~ msgstr "Okuma Kanalı Sınırı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Margin of a channel while reading data. The function of this attribute is "
+#~ "not specified."
+#~ msgstr ""
+#~ "Veri okurken bir kanalın kenar boşluğu. Bu özniteliğin işlevi "
+#~ "belirtilmemiş."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Seek Error Rate"
+#~ msgstr "Arama Hata Oranı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Rate of seek errors of the magnetic heads. If there is a partial failure "
+#~ "in the mechanical positioning system, then seek errors will arise."
+#~ msgstr ""
+#~ "Manyetik kafaların hata arama oranı. Mekanik konumlandırmalı sistemin "
+#~ "özel bir başarısızlığı varsa hata arama hatası meydana gelecektir."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Seek Time Performance"
+#~ msgstr "Arama Zaman Performansı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Average performance of seek operations of the magnetic heads. If this "
+#~ "attribute is decreasing, it is a sign of problems in the mechanical "
+#~ "subsystem."
+#~ msgstr ""
+#~ "Manyetik kafaların arama işlemlerindeki ortalama performansı. Eğer bu "
+#~ "öznitelik azalıyorsa mekanik alt sistemlerde bir problem var demektir."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Power-On Hours"
+#~ msgstr "Güç Bağlı Saatler"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Count of hours in power-on state."
+#~ msgstr "Açık durumda geçen saat sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Spin Retry Count"
+#~ msgstr "Dönme Yeniden Deneme Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Count of retry of spin start attempts if the first attempt was "
+#~ "unsuccessful. An increase of this attribute value is a sign of problems "
+#~ "in the hard disk mechanical subsystem."
+#~ msgstr ""
+#~ "İlk deneme başarısız olduğunda dönme yeniden deneme sayısı. Bu öznitelik "
+#~ "artıyorsa mekanik alt sistemlerde bir problem var demektir."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Recalibration Retries"
+#~ msgstr "Yeniden Denemelerin Tekrar Ayarlanması"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Count of recalibrations requested if the first attempt was unsuccessful. "
+#~ "An increase of this attribute value is a sign of problems in the hard "
+#~ "disk mechanical subsystem."
+#~ msgstr ""
+#~ "İlk deneme başarısız olduğunda tekrarlanan yeniden düzenlemelerin sayısı. "
+#~ "Bu özniteliğin artması sabit disk mekanik alt sisteminde hatalar "
+#~ "olduğunun işareti olabilir."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Power Cycle Count"
+#~ msgstr "Güç Döngü Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Count of full hard disk power on/off cycles."
+#~ msgstr "Sabit disk güç açma/kapatma döngü sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Soft Read Error Rate"
+#~ msgstr "Yazılım Okuma Hata Oranı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Uncorrected read errors reported to the operating system."
+#~ msgstr ""
+#~ "İşletim sistemi tarafından bildirilen düzeltilemeyen okuma hataları."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "SATA Downshift Error Count"
+#~ msgstr "SATA Hata Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Western Digital and Samsung attribute."
+#~ msgstr "Western Digital ve Samsung özniteliği."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "End-to-End Error"
+#~ msgstr "Uçtan-Uca Hata"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Part of HP's SMART IV technology: After transferring through the cache "
+#~ "RAM data buffer the parity data between the host and the hard drive did "
+#~ "not match."
+#~ msgstr ""
+#~ "HP'nin SMART IV teknolojisinin parçası: Önbellek RAM veri yoluyla "
+#~ "aktarıldıktan sonra eşlik verisi istemci ve sabit disk arasında "
+#~ "uyuşmadığında oluşur."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Head Stability"
+#~ msgstr "Kafa Sağlamlığı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Western Digital attribute."
+#~ msgstr "Western Digital özniteliği."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Induced Op-Vibration Detection"
+#~ msgstr "Titreşim Kaynaklı Algılama"
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Reported Uncorrectable Errors"
+#~ msgstr "Bildirilen Düzeltilemeyen Hatalar"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Count of errors that could not be recovered using hardware ECC."
+#~ msgstr "Donanım ECC kullanarak düzeltilemeyen hataların sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Command Timeout"
+#~ msgstr "Komut Zamanaşımı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Count of aborted operations due to HDD timeout."
+#~ msgstr "HDD zaman aşımı yüzünden iptal edilen işlemlerin sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "High Fly Writes"
+#~ msgstr "Yüksek Uçuş Yazmaları"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Count of fly height errors detected."
+#~ msgstr "Algılanan yüksek uçuş yazmaları sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Temperature Difference From 100"
+#~ msgstr "Sıcaklığın 100'den Farkı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Value is equal to (100 &ndash; temp. °C), allowing manufacturer to set a "
+#~ "minimum threshold which corresponds to a maximum temperature."
+#~ msgstr ""
+#~ "Üreticinin en yüksek sıcaklığa karşılık gelen en düşük eşik değer "
+#~ "ayarlayabilmesi için değer (100 &ndash; derece. °C) alınmıştır."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "G-sense Error Rate"
+#~ msgstr "G-sense Hata Oranı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Count of errors resulting from externally-induced shock and vibration."
+#~ msgstr "Harici şok ve titreşim kaynaklı hata sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Power Off Retract Count"
+#~ msgstr "Kapanma Geri Çekilme Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Count of power-off or emergency retract cycles"
+#~ msgstr "Kapanma veya acil geri çekme döngüsü sayısı"
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Load Cycle Count"
+#~ msgstr "Yükleme Döngü Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Count of load/unload cycles into head landing zone position."
+#~ msgstr "Kafa yerleştirme alanı konumuna yükleme/kaldırma döngü sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Temperature"
+#~ msgstr "Sıcaklık"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Current internal temperature."
+#~ msgstr "Mevcut dahili sıcaklık."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Hardware ECC Recovered"
+#~ msgstr "Kurtarılan Donanım ECC"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Count of errors that could be recovered using hardware ECC."
+#~ msgstr "Donanım ECC kullanarak düzeltilebilen hataların sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Reallocation Event Count"
+#~ msgstr "Yeniden Konumlandırma Olay Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Count of remap operations. The raw value of this attribute shows the "
+#~ "total number of attempts to transfer data from reallocated sectors to a "
+#~ "spare area."
+#~ msgstr ""
+#~ "Tekrar eşleme işlemleri sayısı. Bu özniteliğin ham değeri yeniden ayrılan "
+#~ "sektörlerden yedek bir alana veri aktarmak için girişimlerin toplam "
+#~ "sayısını gösterir."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Current Pending Sector Count"
+#~ msgstr "Mevcut Bekleyen Sektör Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Number of &quot;unstable&quot; sectors (waiting to be remapped, because "
+#~ "of read errors)."
+#~ msgstr ""
+#~ "&quot;kararsız&quot; sektör sayısı (okuma hatası nedeniyle tekrar eşleme "
+#~ "bekleyen)."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Uncorrectable Sector Count"
+#~ msgstr "Düzeltilemeyen Sektör Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Count of uncorrectable errors when reading/writing a sector."
+#~ msgstr ""
+#~ "Bir sektöre okuma/yazma yapılırken oluşan düzeltilemeyen hataların sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "UltraDMA CRC Error Count"
+#~ msgstr "UltraDMA CRC Hata Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Count of errors in data transfer via the interface cable as determined by "
+#~ "ICRC."
+#~ msgstr ""
+#~ "Arayüz kablosu üzerinden veri iletiminde ICRC tarafından tespit edilen "
+#~ "hata sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Multi-Zone Error Rate<br/>Write Error Rate"
+#~ msgstr "Çoklu Bölgeli Hata Oranı<br/>Yazma Hata Oranı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "The total number of errors when writing a sector."
+#~ msgstr "Bir sektöre yazarken karşılaşılan toplam hata sayısı."
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Number of off-track errors."
+#~ msgstr "İz dışı hata sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Data Address Mark Errors"
+#~ msgstr "Veri Adresi İşaret Hataları"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Number of Data Address Mark errors (or vendor-specific)."
+#~ msgstr "Veri Adresi İşaret hataları (veya üreticiye özgü) sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Run Out Cancel"
+#~ msgstr "İptal Bitmesi"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Number of ECC errors"
+#~ msgstr "ECC hataları sayısı"
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Soft ECC Correction"
+#~ msgstr "Yazılım ECC Düzeltmesi"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Number of errors corrected by software ECC"
+#~ msgstr "Yazılım ECC tarafından düzeltilmiş hata sayısı"
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Thermal Asperity Rate"
+#~ msgstr "Termal Sertlik Oranı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Number of errors due to high temperature."
+#~ msgstr "Yüksek sıcaklık yüzünden oluşan hata sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Flying Height"
+#~ msgstr "Uçma Yüksekliği"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Height of heads above the disk surface. A flying height that is too low "
+#~ "increases the chances of a head crash while a flying height that is too "
+#~ "high increases the chances of a read/write error."
+#~ msgstr ""
+#~ "Kafaların disk yüzeyinden yüksekliği. Çok düşük yükseklik miktarı kafanın "
+#~ "çarpma riskini getirirken, çok fazla olması da okuma/yazma hatalarının "
+#~ "oluşma oranını arttırır."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Spin High Current"
+#~ msgstr "Dönme Yüksek Akımı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Amount of surge current used to spin up the drive."
+#~ msgstr "Sürücü dönüşünü sağlamak için kullanılan yüksek akım miktarı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Spin Buzz"
+#~ msgstr "Dönme Buzz"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Number of buzz routines needed to spin up the drive due to insufficient "
+#~ "power."
+#~ msgstr ""
+#~ "Yetersiz güç yüzünden sürücüyü döndürmeye gereken buzz yordamlarının "
+#~ "sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Offline Seek Performance"
+#~ msgstr "Çevirim Dışı Arama Performansı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Drive's seek performance during its internal tests."
+#~ msgstr "Dahili testlerde sürücünün arama performansı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Vibration During Write"
+#~ msgstr "Yazma Süresince Titreşim"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Vibration During Write"
+#~ msgstr "Yazma Süresince Titreşim"
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Shock During Write"
+#~ msgstr "Yazma Süresince Şok"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Shock During Write"
+#~ msgstr "Yazma Süresince Şok"
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Disk Shift"
+#~ msgstr "Disk Kayması"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Distance the disk has shifted relative to the spindle (usually due to "
+#~ "shock or temperature)."
+#~ msgstr ""
+#~ "Diskin mile göre bağıl kayma mesafesi (genellikle şok veya sıcaklık "
+#~ "kaynaklı)."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "G-Sense Error Rate"
+#~ msgstr "G-sense Hata Oranı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "The number of errors resulting from externally-induced shock and "
+#~ "vibration."
+#~ msgstr "Harici şok ve titreşimden kaynaklanan hataların sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Loaded Hours"
+#~ msgstr "Yüklenme Saatleri"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Time spent operating under data load."
+#~ msgstr "Veri yükü altında harcanan işletme zamanı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Load/Unload Retry Count"
+#~ msgstr "Yükleme/Kaldırma Tekrar Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Number of times head changes position."
+#~ msgstr "Kafanın konum değiştirme sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Load Friction"
+#~ msgstr "Yük Sürtünmesi"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Resistance caused by friction in mechanical parts while operating."
+#~ msgstr ""
+#~ "İşletme sırasında mekanik parçaların sürtünmesinin yol açtığı direnç."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Load/Unload Cycle Count"
+#~ msgstr "Yükleme/Geri Yükleme Döngü Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Total number of load cycles."
+#~ msgstr "Yük döngüsünün toplam sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Load-In Time"
+#~ msgstr "Yük Altında"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Total time of loading on the magnetic heads actuator (time not spent in "
+#~ "parking area)."
+#~ msgstr ""
+#~ "Manyetik kafa işletici üzerinde toplam yükleme zamanı (park alanında "
+#~ "harcanmayan zaman)."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Torque Amplification Count"
+#~ msgstr "Tork Amplifikasyon Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Number of attempts to compensate for platter speed variations."
+#~ msgstr ""
+#~ "Plakaların hız değişikliklerini dengelemek için yapılan deneme sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Power-Off Retract Cycle"
+#~ msgstr "Kapanma Geri Çekilme Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "The number of times the magnetic armature was retracted automatically as "
+#~ "a result of cutting power."
+#~ msgstr ""
+#~ "Manyetik armatürün gücün kesilmesi sonucu otomatik olarak geri çekilme "
+#~ "sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "GMR Head Amplitude"
+#~ msgstr "GMR Kafa Genişliği"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Amplitude of &quot;thrashing&quot; (distance of repetitive forward/"
+#~ "reverse head motion)"
+#~ msgstr ""
+#~ "&quot;darbe&quot genişliği; (tekrarlı ileri/geri kafa hareketinin "
+#~ "mesafesi)"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Drive Temperature"
+#~ msgstr "Sürücü Sıcaklığı"
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Endurance Remaining"
+#~ msgstr "Kalan Dayanıklılık"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Count of physical erase cycles completed on the drive as a percentage of "
+#~ "the maximum physical erase cycles the drive supports"
+#~ msgstr ""
+#~ "Sürücünün desteklediği azami silme döngüleri yüzdesi olarak tamamlanan "
+#~ "fiziksel silme döngüsü sayısı"
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Power-On Seconds"
+#~ msgstr "Güçte Zamanı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Time elapsed in the power-on state"
+#~ msgstr "Güç bağlandığı zamanlarda geçen zaman"
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Unrecoverable ECC Count"
+#~ msgstr "Kurtarılamayan ECC Sayısı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Count of unrecoverable ECC errors"
+#~ msgstr "Kurtarılamayan ECC hatalarının sayısı"
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Good Block Rate"
+#~ msgstr "İyi Blok Oranı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Count of available reserved blocks as percentage of the total number of "
+#~ "reserved blocks"
+#~ msgstr "Kullanılabilir ayrılmış blokların toplam ayrılmış bloklara oranı"
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Head Flying Hours<br/>or Transfer Error Rate (Fujitsu)"
+#~ msgstr "Kafa Uçuş Saatleri<br/>veya Aktarma Hata Oranı (Fujitsu)"
+
+#~ msgctxt "SMART attr description"
+#~ msgid ""
+#~ "Time while head is positioning<br/>or counts the number of times the link "
+#~ "is reset during a data transfer."
+#~ msgstr ""
+#~ "Kafa konumlanırken geçen zaman<br/>veya bir veri aktarımı sırasında "
+#~ "bağlantının sıfırlanma sayısı."
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Total LBAs Written"
+#~ msgstr "Yazılan LBA Toplamı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Total LBAs Written"
+#~ msgstr "Yazılan LBA Toplamı"
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Total LBAs Read"
+#~ msgstr "Okunan LBA Toplamı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Total LBAs Read"
+#~ msgstr "Okunan LBA Toplamı"
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Read Error Retry Rate"
+#~ msgstr "Okuma Hatası Tekrar Oranı"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Number of errors while reading from a disk"
+#~ msgstr "Bir diskten okuma yapılırken alınan hataların sayısı"
+
+#~ msgctxt "SMART attr name"
+#~ msgid "Free Fall Protection"
+#~ msgstr "Serbest Düşme Koruması"
+
+#~ msgctxt "SMART attr description"
+#~ msgid "Number of &quot;Free Fall Events&quot; detected"
+#~ msgstr "Algılanan &quot;Serbest Düşme Olayları&quot; sayısı"
+
+#~ msgctxt "@item:intable degrees in Celsius and Fahrenheit"
+#~ msgid "%1° C / %2° F"
+#~ msgstr "%1° C / %2° F"
+
+#~ msgctxt "@item"
+#~ msgid "Aborted"
+#~ msgstr "İptal edildi"
+
+#~ msgctxt "@item"
+#~ msgid "Interrupted"
+#~ msgstr "Kesintiye uğradı"
+
+#~ msgctxt "@item"
+#~ msgid "Fatal error"
+#~ msgstr "Sonlandırıcı Hata"
+
+#~ msgctxt "@item"
+#~ msgid "Unknown error"
+#~ msgstr "Bilinmeyen hata"
+
+#~ msgctxt "@item"
+#~ msgid "Electrical error"
+#~ msgstr "Elektriksel hata"
+
+#~ msgctxt "@item"
+#~ msgid "Servo error"
+#~ msgstr "Servo hatası"
+
+#~ msgctxt "@item"
+#~ msgid "Read error"
+#~ msgstr "Okuma hatası"
+
+#~ msgctxt "@item"
+#~ msgid "Handling error"
+#~ msgstr "Kullanım hatası"
+
+#~ msgctxt "@item"
+#~ msgid "Self test in progress"
+#~ msgstr "Kendi kendine test devam ediyor"
+
+#~ msgctxt "@item"
+#~ msgid "Success"
+#~ msgstr "Başarılı"
+
+#~ msgctxt "@item"
+#~ msgid "Healthy"
+#~ msgstr "Sağlıklı"
+
+#~ msgctxt "@item"
+#~ msgid "Has been used outside of its design parameters in the past."
+#~ msgstr "Geçmişte, tasarım parametrelerinin dışında kullanılmış."
+
+#~ msgctxt "@item"
+#~ msgid "Has some bad sectors."
+#~ msgstr "Kötü/hatalı dilimler var."
+
+#~ msgctxt "@item"
+#~ msgid "Is being used outside of its design parameters right now."
+#~ msgstr "Şu anda tasarım parametrelerinin dışında kullanılıyor."
+
+#~ msgctxt "@item"
+#~ msgid "Has many bad sectors."
+#~ msgstr "Çok fazla kötü/hatalı dilim var."
+
+#~ msgctxt "@item"
+#~ msgid "Disk failure is imminent. Backup all data!"
+#~ msgstr "Disk arızalanmak üzere. Tüm verilerinizi yedekleyin!"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resizing Btrfs file system on partition <filename>%1</filename> failed: "
+#~ "Could not create temp dir."
+#~ msgstr ""
+#~ "<filename>%1</filename> üzerindeki Btrfs dosya sistemi yeniden "
+#~ "boyutlandırılamadı: tmp dizini oluşturulamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resizing Btrfs file system on partition <filename>%1</filename> failed: "
+#~ "btrfs file system resize failed."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümü üzerindeki Btrfs dosya sistemi "
+#~ "yeniden boyutlandırılamadı: btrfs dosya sistemi boyutlandırma başarısız."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Warning: Resizing Btrfs file system on partition <filename>%1</filename>: "
+#~ "Unmount failed."
+#~ msgstr ""
+#~ "Uyarı: <filename>%1</filename> üzerindeki Btrfs dosya sisteminin yeniden "
+#~ "boyutlandırılması: Bölümü ayırma işlemi başarısız oldu."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resizing Btrfs file system on partition <filename>%1</filename> failed: "
+#~ "Initial mount failed."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümü üzerindeki Btrfs dosya sistemi "
+#~ "yeniden boyutlandırılamadı: İlk bağlama işlemi başarısız oldu."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Setting label for partition <filename>%1</filename> to %2"
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünün etiketi %2 olarak ayarlanıyor"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "unknown"
+#~ msgstr "bilinmeyen"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "extended"
+#~ msgstr "uzatılmış"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "ext2"
+#~ msgstr "ext2"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "ext3"
+#~ msgstr "ext3"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "ext4"
+#~ msgstr "ext4"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "linuxswap"
+#~ msgstr "linuxswap"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "fat16"
+#~ msgstr "fat16"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "fat32"
+#~ msgstr "fat32"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "ntfs"
+#~ msgstr "ntfs"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "reiser"
+#~ msgstr "reiser"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "reiser4"
+#~ msgstr "reiser4"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "xfs"
+#~ msgstr "xfs"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "jfs"
+#~ msgstr "jfs"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "hfs"
+#~ msgstr "hfs"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "hfsplus"
+#~ msgstr "hfsplus"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "ufs"
+#~ msgstr "ufs"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "unformatted"
+#~ msgstr "biçimlendirilmemiş"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "btrfs"
+#~ msgstr "btrfs"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "hpfs"
+#~ msgstr "hpfs"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "luks"
+#~ msgstr "luks"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "ocfs2"
+#~ msgstr "ocfs2"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "zfs"
+#~ msgstr "zfs"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "exfat"
+#~ msgstr "exfat"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "nilfs2"
+#~ msgstr "nilfs2"
+
+#~ msgctxt "@item filesystem name"
+#~ msgid "lvm2 pv"
+#~ msgstr "lvm2 pv"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Mount"
+#~ msgstr "Bağla"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Unmount"
+#~ msgstr "Ayır"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resizing JFS file system on partition <filename>%1</filename> failed: "
+#~ "Could not create temp dir."
+#~ msgstr ""
+#~ "<filename>%1</filename> üzerindeki JFS dosya sistemi yeniden "
+#~ "boyutlandırılamadı: tmp dizini oluşturulamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resizing JFS file system on partition <filename>%1</filename> failed: "
+#~ "Remount failed."
+#~ msgstr ""
+#~ "<filename>%1</filename>disk bölümü üzerindeki JFS dosya sistemi yeniden "
+#~ "boyutlandırılamadı: Yeniden bağlama işlemi başarısız oldu."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Warning: Resizing JFS file system on partition <filename>%1</filename>: "
+#~ "Unmount failed."
+#~ msgstr ""
+#~ "Uyarı: <filename>%1</filename> üzerindeki JFS dosya sisteminin yeniden "
+#~ "boyutlandırılması: Bölümü ayırma işlemi başarısız oldu."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resizing JFS file system on partition <filename>%1</filename> failed: "
+#~ "Initial mount failed."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümü üzerindeki JFS dosya sistemi yeniden "
+#~ "boyutlandırılamadı: İlk bağlama işlemi başarısız oldu."
+
+#~ msgctxt "@title:menu"
+#~ msgid "Activate swap"
+#~ msgstr "Takas alanını etkinleştir"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Deactivate swap"
+#~ msgstr "Takas alanını devre dışı bırak"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resizing NILFS2 file system on partition <filename>%1</filename> failed: "
+#~ "Could not create temp dir."
+#~ msgstr ""
+#~ "<filename>%1</filename> üzerindeki NILFS2 dosya sistemi yeniden "
+#~ "boyutlandırılamadı: tmp dizini oluşturulamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resizing NILFS2 file system on partition <filename>%1</filename> failed: "
+#~ "NILFS2 file system resize failed."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümü üzerindeki NILFS2 dosya sistemi "
+#~ "yeniden boyutlandırılamadı: NILFS2 dosya sistemi boyutlandırması "
+#~ "başarısız oldu."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Warning: Resizing NILFS2 file system on partition <filename>%1</"
+#~ "filename>: Unmount failed."
+#~ msgstr ""
+#~ "Uyarı: <filename>%1</filename> üzerindeki NILFS2 dosya sisteminin yeniden "
+#~ "boyutlandırılması: Bölümü ayırma işlemi başarısız oldu."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resizing NILFS2 file system on partition <filename>%1</filename> failed: "
+#~ "Initial mount failed."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümü üzerindeki NILFS2 dosya sistemi "
+#~ "yeniden boyutlandırılamadı: İlk bağlama işlemi başarısız oldu."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Updating boot sector for NTFS file system on partition <filename>%1</"
+#~ "filename>."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümü için NTFS açılış dilimi güncelleniyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open partition <filename>%1</filename> for writing when trying "
+#~ "to update the NTFS boot sector."
+#~ msgstr ""
+#~ "NTFS açılış dilimini yazmak için <filename>%1</filename> disk bölümü "
+#~ "açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not seek to position 0x1c on partition <filename>%1</filename> when "
+#~ "trying to update the NTFS boot sector."
+#~ msgstr ""
+#~ "NTFS açılış dilimi güncellenmeye çalışılırken <filename>%1</filename> "
+#~ "disk bölümü üzerinde  0x1c konumu bulunamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not write new start sector to partition <filename>%1</filename> "
+#~ "when trying to update the NTFS boot sector."
+#~ msgstr ""
+#~ "NTFS açılış dilimi güncellenmeye çalışılırken <filename>%1</filename> "
+#~ "disk bölümü üzerine yeni başlangıç dilimi yazılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Updated NTFS boot sector for partition <filename>%1</filename> "
+#~ "successfully."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümü için NTFS açılış dilimi başarılı bir "
+#~ "şekilde güncellendi."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resizing XFS file system on partition <filename>%1</filename> failed: "
+#~ "Could not create temp dir."
+#~ msgstr ""
+#~ "<filename>%1</filename> üzerindeki XFS dosya sistemi yeniden "
+#~ "boyutlandırılamadı: tmp dizini oluşturulamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resizing XFS file system on partition <filename>%1</filename> failed: "
+#~ "xfs_growfs failed."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümü üzerindeki JFS dosya sistemi yeniden "
+#~ "boyutlandırılamadı: xfs_growfs başarısız oldu."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Warning: Resizing XFS file system on partition <filename>%1</filename>: "
+#~ "Unmount failed."
+#~ msgstr ""
+#~ "Uyarı: <filename>%1</filename> üzerindeki XFS dosya sisteminin yeniden "
+#~ "boyutlandırılması: Bölümü ayırma işlemi başarısız oldu."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resizing XFS file system on partition <filename>%1</filename> failed: "
+#~ "Initial mount failed."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümü üzerindeki XFS dosya sistemi yeniden "
+#~ "boyutlandırılamadı: İlk bağlama işlemi başarısız oldu."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open file system on source partition <filename>%1</filename> "
+#~ "for backup."
+#~ msgstr ""
+#~ "<filename>%1</filename> kaynak birimindeki dosya sistemi yedeklenmek "
+#~ "üzere açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Could not create backup file <filename>%1</filename>."
+#~ msgstr "<filename>%1</filename> yedekleme dosyası oluşturulamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Back up file system on partition <filename>%1</filename> to <filename>%2</"
+#~ "filename>"
+#~ msgstr ""
+#~ "<filename>%1</filename> birimi üzerindeki dosya sistemini <filename>%2</"
+#~ "filename> birimine yedekle"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Check file system on partition <filename>%1</filename>"
+#~ msgstr ""
+#~ "Disk bölümü <filename>%1</filename> üzerindeki dosya sistemini denetle"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Cannot copy file system: File system on target partition <filename>%1</"
+#~ "filename> is smaller than the file system on source partition <filename>"
+#~ "%2</filename>."
+#~ msgstr ""
+#~ "Dosya sistemi kopyalanamıyor: Hedef disk bölümü <filename>%1</filename> "
+#~ "üzerindeki dosya sistemi kaynak disk bölümü <filename>%2</filename> "
+#~ "üzerindekinden küçük."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open file system on source partition <filename>%1</filename> "
+#~ "for copying."
+#~ msgstr ""
+#~ "Kaynak disk bölümü <filename>%1</filename> üzerindeki dosya sistemi "
+#~ "kopyalama işlemi için açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open file system on target partition <filename>%1</filename> "
+#~ "for copying."
+#~ msgstr ""
+#~ "Hedef disk bölümü <filename>%1</filename> üzerindeki dosya sistemi "
+#~ "kopyalama işlemi için açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Closing device. This may take a while, especially on slow devices like "
+#~ "Memory Sticks."
+#~ msgstr ""
+#~ "Aygıt kapatılıyor. Bu işlem özellikle Bellek Çubuğu gibi aygıtlarda biraz "
+#~ "zaman alabilir."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Copy file system on partition <filename>%1</filename> to partition "
+#~ "<filename>%2</filename>"
+#~ msgstr ""
+#~ "<filename>%1</filename> üzerindeki dosya sistemini <filename>%2</"
+#~ "filename> disk bölümüne kopyala"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Failed to set the system type for the file system on partition <filename>"
+#~ "%1</filename>."
+#~ msgstr ""
+#~ "<filename>%1</filename> birimi üzerindeki dosya sisteminin türü "
+#~ "ayarlanamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open partition table on device <filename>%1</filename> to set "
+#~ "the system type for partition <filename>%2</filename>."
+#~ msgstr ""
+#~ "<filename>%1</filename> aygıtı üzerindeki bölümleme tablosu <filename>%2</"
+#~ "filename> disk bölümünün türünü ayarlamak için açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open device <filename>%1</filename> to set the system type for "
+#~ "partition <filename>%2</filename>."
+#~ msgstr ""
+#~ "Sistem türü ayarlamak üzere <filename>%2</filename> aygıtı üzerinde "
+#~ "<filename>%1</filename> birimi açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Create file system <filename>%1</filename> on partition <filename>%2</"
+#~ "filename>"
+#~ msgstr ""
+#~ "<filename>%1</filename> dosya sistemini <filename>%2</filename> bölümünde "
+#~ "oluştur"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Failed to add partition <filename>%1</filename> to device <filename>%2</"
+#~ "filename>."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümü <filename>%2</filename> aygıtına "
+#~ "eklenemedi."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open partition table on device <filename>%1</filename> to "
+#~ "create new partition <filename>%2</filename>."
+#~ msgstr ""
+#~ "<filename>%1</filename> aygıtı üzerindeki bölümleme tablosu <filename>%2</"
+#~ "filename> yeni disk bölümü oluşturmak için açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open device <filename>%1</filename> to create new partition "
+#~ "<filename>%2</filename>."
+#~ msgstr ""
+#~ "<filename>%1</filename> aygıtı <filename>%2</filename>disk bölümünü "
+#~ "oluşturmak için açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Create new partition <filename>%1</filename>"
+#~ msgstr "Yeni disk bölümü oluştur <filename>%1</filename>"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Create new partition on device <filename>%1</filename>"
+#~ msgstr "Bu aygıt üzerinde yeni disk bölümü oluştur <filename>%1</filename>"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Creating partition table failed: Could not open device <filename>%1</"
+#~ "filename>."
+#~ msgstr ""
+#~ "Disk bölümü oluşturulamadı: <filename>%1</filename> aygıtı açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Create new partition table on device <filename>%1</filename>"
+#~ msgstr ""
+#~ "<filename>%1</filename> aygıtı üzerinde yeni disk bölümü tablosu oluştur"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Could not delete file system on <filename>%1</filename>."
+#~ msgstr "<filename>%1</filename> üzerindeki dosya sistemi silinemiyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open partition table on device <filename>%1</filename> to "
+#~ "delete file system on <filename>%2</filename>."
+#~ msgstr ""
+#~ "<filename>%1</filename> aygıtı üzerindeki bölümleme tablosu <filename>%2</"
+#~ "filename> dosya sistemini silmek için açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not delete file system signature for partition <filename>%1</"
+#~ "filename>: Failed to open device <filename>%2</filename>."
+#~ msgstr ""
+#~ "<filename>%1</filename> birimi için dosya sistemi imzası silinemedi: "
+#~ "<filename>%2</filename> aygıtı açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Delete file system on <filename>%1</filename>"
+#~ msgstr "<filename>%1</filename> üzerindeki dosya sistemini sil"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Could not delete partition <filename>%1</filename>."
+#~ msgstr "<filename>%1</filename> disk bölümü silinemedi."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open partition table on device <filename>%1</filename> to "
+#~ "delete partition <filename>%2</filename>."
+#~ msgstr ""
+#~ "<filename>%1</filename> aygıtı üzerindeki bölümleme tablosu <filename>%2</"
+#~ "filename> disk bölümünü silmek için açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Deleting partition failed: Could not open device <filename>%1</filename>."
+#~ msgstr "Disk bölümü silinemedi: <filename>%1</filename> aygıtı açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Delete the partition <filename>%1</filename>"
+#~ msgstr "<filename>%1</filename> disk bölümünü sil"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "The logical sector sizes in the source and target for copying are not the "
+#~ "same. This is currently unsupported."
+#~ msgstr ""
+#~ "Kopyalama için kullanılacak kaynak ve hedefteki mantıksal sektör sayıları "
+#~ "eşit değil. Bu şimdilik desteklenmiyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Copying %1 blocks (%2 sectors) from %3 to %4, direction: %5."
+#~ msgstr "%1 blok (%2 dilim) %3 konumundan %4 konumuna kopyalanıyor, yön: %5."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Copying %1 MiB/second, estimated time left: %2"
+#~ msgstr "%1 MB/sn ile kopyalanıyor, tahmini kalan süre: %2"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Copying remainder of block size %1 from %2 to %3."
+#~ msgstr "%2 biriminden %3 birimine, kalan blok boyutu %1 kopyalanıyor."
+
+#~ msgid "1 sector"
+#~ msgid_plural "%1 sectors"
+#~ msgstr[0] "1 dilim"
+#~ msgstr[1] "%1 dilim"
+
+#~ msgctxt ""
+#~ "@info/plain argument 2 is a string such as 7 sectors (localized "
+#~ "accordingly)"
+#~ msgid "Copying 1 block (%2) finished."
+#~ msgid_plural "Copying %1 blocks (%2) finished."
+#~ msgstr[0] "1 blok (%2) kopyalama işlemi tamamlandı."
+#~ msgstr[1] "%1 blok (%2) kopyalama işlemi tamamlandı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Source and target for copying do not overlap: Rollback is not required."
+#~ msgstr ""
+#~ "Kopyalamak için kaynak ve hedef üst üste değil: Gerekli alma gerekmiyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Rollback from: First sector: %1, last sector: %2."
+#~ msgstr "Şuradan geri al: İlk dilim: %1, son dilim: %2."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Rollback to: First sector: %1, last sector: %2."
+#~ msgstr "Şuraya geri al: İlk dilim: %1, son dilim: %2."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Could not open device <filename>%1</filename> to rollback copying."
+#~ msgstr ""
+#~ "Geri alma kopyalaması için  <filename>%1</filename> aygıtı açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Rollback failed: Source or target are not devices."
+#~ msgstr "Geri alma başarısız: Kaynak ve hedef aygıt değil."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Job: %1"
+#~ msgstr "Görev: %1"
+
+#~ msgctxt "@info/plain job status (error, warning, ...)"
+#~ msgid "%1: %2"
+#~ msgstr "%1: %2"
+
+#~ msgctxt "@info:progress job"
+#~ msgid "Pending"
+#~ msgstr "Bekleyen"
+
+#~ msgctxt "@info:progress job"
+#~ msgid "Success"
+#~ msgstr "Başarılı"
+
+#~ msgctxt "@info:progress job"
+#~ msgid "Error"
+#~ msgstr "Hata"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open file system on partition <filename>%1</filename> for "
+#~ "moving."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümündeki dosya sistemi taşımak için "
+#~ "açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not create target for moving file system on partition <filename>%1</"
+#~ "filename>."
+#~ msgstr ""
+#~ "<filename>%1</filename> birimi üzerindeki dosya sistemi taşınmak için bir "
+#~ "hedef oluşturulamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Rollback for file system on partition <filename>%1</filename> failed."
+#~ msgstr ""
+#~ "<filename>%1</filename> birimindeki dosya sistemi geri alma işlemi "
+#~ "başarısız."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Closing device. This may take a few seconds."
+#~ msgstr "Aygıt kapatılıyor. Bu işlem birkaç saniye sürebilir."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Move the file system on partition <filename>%1</filename> to sector %2"
+#~ msgstr ""
+#~ "<filename>%1</filename> birimindeki dosya sistemini %2 dilimine taşı"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "The file system on partition <filename>%2</filename> already has the "
+#~ "requested length of 1 sector."
+#~ msgid_plural ""
+#~ "The file system on partition <filename>%2</filename> already has the "
+#~ "requested length of %1 sectors."
+#~ msgstr[0] ""
+#~ "<filename>%2</filename> birim üzerindeki dosya sistemi zaten istenen %1 "
+#~ "dilime sahip."
+#~ msgstr[1] ""
+#~ "<filename>%2</filename> birim üzerindeki dosya sistemi zaten istenen %1 "
+#~ "dilime sahip."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Resizing file system from %1 to %2 sectors."
+#~ msgstr "Dosya sistemi %1 dilimden %2 dilimine yeniden boyutlandırılıyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Resizing a %1 file system using internal backend functions."
+#~ msgstr ""
+#~ "Dahili arka uç işlevleri kullanılarak bir %1 dosya sistemi yeniden "
+#~ "boyutlandırılıyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "The file system on partition <filename>%1</filename> cannot be resized "
+#~ "because there is no support for it."
+#~ msgstr ""
+#~ "<filename>%1</filename> birimi üzerindeki dosya sistemi, destek "
+#~ "sağlanamadığı için yeniden boyutlandırılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Successfully resized file system using internal backend functions."
+#~ msgstr ""
+#~ "Dosya sistemi, iç arka uç işlevleri kullanılarak başarılı bir şekilde "
+#~ "yeniden boyutlandırıldı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not read geometry for partition <filename>%1</filename> while "
+#~ "trying to resize the file system."
+#~ msgstr ""
+#~ "Dosya sistemi boyutlandırılırken <filename>%1</filename> birimi "
+#~ "geometrisi okunamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Maximize file system on <filename>%1</filename> to fill the partition"
+#~ msgstr ""
+#~ "Birimi doldurmak için <filename>%1</filename> üzerindeki dosya sistemini "
+#~ "azami yap"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Resize file system on partition <filename>%2</filename> to 1 sector"
+#~ msgid_plural ""
+#~ "Resize file system on partition <filename>%2</filename> to %1 sectors"
+#~ msgstr[0] ""
+#~ "<filename>%2</filename> üzerindeki dosya sistemini %1 dilime (sektör) "
+#~ "boyutlandır"
+#~ msgstr[1] ""
+#~ "<filename>%2</filename> üzerindeki dosya sistemini %1 dilime (sektör) "
+#~ "boyutlandır"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Could not open backup file <filename>%1</filename> to restore from."
+#~ msgstr "Geri yüklenecek <filename>%1</filename> yedek dosyası açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open target partition <filename>%1</filename> to restore to."
+#~ msgstr "Geri yüklenecek <filename>%1</filename> hedef birimi açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Restore the file system from file <filename>%1</filename> to partition "
+#~ "<filename>%2</filename>"
+#~ msgstr ""
+#~ "Dosya sistemini <filename>%1</filename> dosyasından <filename>%2</"
+#~ "filename> birimine geri yükle"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "File system on partition <filename>%1</filename> does not support setting "
+#~ "labels. Job ignored."
+#~ msgstr ""
+#~ "<filename>%1</filename> üzerindeki dosya sistemi etiket ayarlama işlemini "
+#~ "desteklemiyor. Görev yoksayıldı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Set the file system label on partition <filename>%1</filename> to \"%2\""
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünün etiketini \"%2\" olarak ayarla"
+
+#~ msgctxt "@info/plain flag turned on, active"
+#~ msgid "on"
+#~ msgstr "açık"
+
+#~ msgctxt "@info/plain flag turned off, inactive"
+#~ msgid "off"
+#~ msgstr "kapalı"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "There was an error setting flag %1 for partition <filename>%2</filename> "
+#~ "to state %3."
+#~ msgstr ""
+#~ "%1 bayrağı <filename>%2</filename> disk birimi için %3 durumuna "
+#~ "ayarlanırken bir hata oluştu."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not find partition <filename>%1</filename> on device <filename>%2</"
+#~ "filename> to set partition flags."
+#~ msgstr ""
+#~ "Birim bayrakları ayarlamak üzere <filename>%2</filename> aygıtı üzerinde "
+#~ "<filename>%1</filename> birimi bulunamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open partition table on device <filename>%1</filename> to set "
+#~ "partition flags for partition <filename>%2</filename>."
+#~ msgstr ""
+#~ "<filename>%1</filename> aygıtı üzerindeki bölümleme tablosu <filename>%2</"
+#~ "filename> disk bölümünün bayraklarını ayarlamak için açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open device <filename>%1</filename> to set partition flags for "
+#~ "partition <filename>%2</filename>."
+#~ msgstr ""
+#~ "Birim bayrakları ayarlamak üzere <filename>%2</filename> aygıtı üzerinde "
+#~ "<filename>%1</filename> birimi açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Clear flags for partition <filename>%1</filename>"
+#~ msgstr "<filename>%1</filename> disk bölümünün bayraklarını temizle"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Set the flags for partition <filename>%1</filename> to \"%2\""
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünün bayraklarını \"%2\" olarak ayarla"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open device <filename>%1</filename> while trying to resize/move "
+#~ "partition <filename>%2</filename>."
+#~ msgstr ""
+#~ "<filename>%2</filename> birimi boyutlandırılırken/taşınırken <filename>"
+#~ "%1</filename> aygıtı açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Set geometry of partition <filename>%1</filename>: Start sector: %2, "
+#~ "length: %3"
+#~ msgstr ""
+#~ "<filename>%1</filename> birimi geometrisini ayarla: Başlama dilimi: %2, "
+#~ "uzunluk: %3"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Could not open random data source to overwrite file system."
+#~ msgstr ""
+#~ "Dosya sisteminin üzerine yazmakta kullanmak için rasgele veri kaynağı "
+#~ "açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Shred the file system on <filename>%1</filename>"
+#~ msgstr ""
+#~ "<filename>%1</filename> üzerindeki dosya sistemini daha fazla parçaya böl"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Backup partition <filename>%1</filename> (%2, %3) to <filename>%4</"
+#~ "filename>"
+#~ msgstr ""
+#~ "<filename>%1</filename> (%2, %3) disk bölümünü  <filename>%4</filename> "
+#~ "konumuna yedekle"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Check and repair partition <filename>%1</filename> (%2, %3)"
+#~ msgstr "<filename>%1</filename> (%2, %3) disk bölümünü denetle ve onar"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Warning: Maximizing file system on target partition <filename>%1</"
+#~ "filename> to the size of the partition failed."
+#~ msgstr ""
+#~ "Uyarı: Hedef disk birimi <filename>%1</filename> üzerindeki dosya "
+#~ "sistemini disk bölümü boyutuna büyütme başarısız."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Checking target partition <filename>%1</filename> after copy failed."
+#~ msgstr ""
+#~ "Kopyalamadan sonra <filename>%1</filename> hedef bölüm denetlemesi "
+#~ "başarısız."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Copying source to target partition failed."
+#~ msgstr "Kaynak disk bölümü hedefe taşınamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Creating target partition for copying failed."
+#~ msgstr "Kopyalama için hedef bölüm oluşturma başarısız."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Checking source partition <filename>%1</filename> failed."
+#~ msgstr ""
+#~ "<filename>%1</filename> kaynak disk bölümünün denetimi başarısız oldu."
+
+#~ msgctxt "@info/plain status (success, error, warning...) of operation"
+#~ msgid "%1: %2"
+#~ msgstr "%1: %2"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Copy partition <filename>%1</filename> (%2, %3) to <filename>%4</"
+#~ "filename> (%5, %6)"
+#~ msgstr ""
+#~ "<filename>%1</filename> (%2, %3) disk bölümünü <filename>%4</filename> "
+#~ "(%5, %6) konumuna kopyala"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Copy partition <filename>%1</filename> (%2, %3) to <filename>%4</"
+#~ "filename> (%5, %6) and grow it to %7"
+#~ msgstr ""
+#~ "<filename>%1</filename> (%2, %3) disk bölümünü <filename>%4</filename> "
+#~ "(%5, %6) olarak kopyala ve %7 boyutuna büyüt"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Copy partition <filename>%1</filename> (%2, %3) to unallocated space "
+#~ "(starting at %4) on <filename>%5</filename>"
+#~ msgstr ""
+#~ "<filename>%1</filename> (%2, %3) disk bölümünü <filename>%5</filename> "
+#~ "üzerindeki (%4 konumundan başlayan) ayrılmamış alana kopyala"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Copy partition <filename>%1</filename> (%2, %3) to unallocated space "
+#~ "(starting at %4) on <filename>%5</filename> and grow it to %6"
+#~ msgstr ""
+#~ "<filename>%1</filename> (%2, %3) disk bölümünü <filename>%5</filename> "
+#~ "üzerindeki (%4 konumundan başlayan) ayrılmamış alana kopyala ve %6 "
+#~ "boyutuna büyüt"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Create filesystem %1 on partition <filename>%2</filename>"
+#~ msgstr ""
+#~ "<filename>%2</filename> disk bölümü üzerinde %1 dosya sistemi oluştur"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Create a new partition table (type: %1) on <filename>%2</filename>"
+#~ msgstr ""
+#~ "<filename>%2</filename> üzerinde yeni bir disk bölümü (tip: %1) oluştur"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Shred partition <filename>%1</filename> (%2, %3)"
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünü daha fazla parçaya böl (%2, %3)"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Delete partition <filename>%1</filename> (%2, %3)"
+#~ msgstr "<filename>%1</filename> (%2, %3) disk bölümünü sil"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Create a new partition (%1, %2) on <filename>%3</filename>"
+#~ msgstr ""
+#~ "<filename>%3</filename> üzerinde yeni bir disk bölümü (%1, %2) oluştur"
+
+#~ msgctxt "@info:progress operation"
+#~ msgid "None"
+#~ msgstr "Hiçbiri"
+
+#~ msgctxt "@info:progress operation"
+#~ msgid "Pending"
+#~ msgstr "Bekleyen"
+
+#~ msgctxt "@info:progress operation"
+#~ msgid "Running"
+#~ msgstr "Çalışan"
+
+#~ msgctxt "@info:progress operation"
+#~ msgid "Success"
+#~ msgstr "Başarılı"
+
+#~ msgctxt "@info:progress operation"
+#~ msgid "Warning"
+#~ msgstr "Uyarı"
+
+#~ msgctxt "@info:progress operation"
+#~ msgid "Error"
+#~ msgstr "Hata"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Moving extended partition <filename>%1</filename> failed."
+#~ msgstr "Uzatılmış disk bölümü <filename>%1</filename> taşınamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Checking partition <filename>%1</filename> after resize/move failed."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümü başarısız olan yeniden boyutlandırma/"
+#~ "taşıma işlemi sonrasında denetleniyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Resizing/moving partition <filename>%1</filename> failed."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünü yeniden boyutlandırma/taşıma işlemi "
+#~ "başarısız oldu."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Checking partition <filename>%1</filename> before resize/move failed."
+#~ msgstr ""
+#~ "Boyutlandırma/Taşıma öncesi <filename>%1</filename> bölümünün denetlemesi "
+#~ "başarısız."
+
+#~ msgctxt "@info/plain describe resize/move action"
+#~ msgid "Move partition <filename>%1</filename> to the left by %2"
+#~ msgstr "<filename>%1</filename> disk bölümünü %2 sola taşı"
+
+#~ msgctxt "@info/plain describe resize/move action"
+#~ msgid "Move partition <filename>%1</filename> to the right by %2"
+#~ msgstr "<filename>%1</filename> disk bölümünü %2 sağa taşı"
+
+#~ msgctxt "@info/plain describe resize/move action"
+#~ msgid "Grow partition <filename>%1</filename> from %2 to %3"
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünü %2 boyutundan %3 boyutuna büyüt"
+
+#~ msgctxt "@info/plain describe resize/move action"
+#~ msgid "Shrink partition <filename>%1</filename> from %2 to %3"
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünü %2 boyutundan %3 boyutuna küçült"
+
+#~ msgctxt "@info/plain describe resize/move action"
+#~ msgid ""
+#~ "Move partition <filename>%1</filename> to the left by %2 and grow it from "
+#~ "%3 to %4"
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünü %2 sola taşı ve %3 boyutundan %4 "
+#~ "boyutuna genişlet"
+
+#~ msgctxt "@info/plain describe resize/move action"
+#~ msgid ""
+#~ "Move partition <filename>%1</filename> to the right by %2 and grow it "
+#~ "from %3 to %4"
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünü %2 sağa taşı ve %3 boyutundan %4 "
+#~ "boyutuna genişlet"
+
+#~ msgctxt "@info/plain describe resize/move action"
+#~ msgid ""
+#~ "Move partition <filename>%1</filename> to the left by %2 and shrink it "
+#~ "from %3 to %4"
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünü %2 sola taşı ve %3 boyutundan %4 "
+#~ "boyutuna daralt"
+
+#~ msgctxt "@info/plain describe resize/move action"
+#~ msgid ""
+#~ "Move partition <filename>%1</filename> to the right by %2 and shrink it "
+#~ "from %3 to %4"
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünü %2 sağa taşı ve %3 boyutundan %4 "
+#~ "boyutuna daralt"
+
+#~ msgctxt "@info/plain describe resize/move action"
+#~ msgid "Unknown resize/move action."
+#~ msgstr "Bilinmeyen yeniden boyutlandır/taşı eylemi."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resize/move failed: Could not resize file system to shrink partition "
+#~ "<filename>%1</filename>."
+#~ msgstr ""
+#~ "Boyutlandırma/taşıma başarısız: Dosya sistemi <filename>%1</filename> "
+#~ "bölümünü daraltmak için boyutlandırılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resize/move failed: Could not shrink partition <filename>%1</filename>."
+#~ msgstr ""
+#~ "Boyutlandırma/taşıma başarısız: Dosya sistemi <filename>%1</filename> "
+#~ "bölümü daraltılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Moving partition <filename>%1</filename> failed."
+#~ msgstr "<filename>%1</filename> disk bölümü taşınamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Moving the filesystem for partition <filename>%1</filename> failed. "
+#~ "Rolling back."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünün dosya sistemi taşıması başarısız. "
+#~ "Geri alınıyor."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Moving back partition <filename>%1</filename> to its original position "
+#~ "failed."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünün özgün konumuna taşınması başarısız."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resize/move failed: Could not grow partition <filename>%1</filename>."
+#~ msgstr ""
+#~ "Yeniden boyutlandırma/taşıma işlemi başarısız oldu: <filename>%1</"
+#~ "filename> disk bölümü oluşturulamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Resize/move failed: Could not resize the file system on partition "
+#~ "<filename>%1</filename>"
+#~ msgstr ""
+#~ "Boyutlandırma/taşıma başarısız: Dosya sistemi <filename>%1</filename> "
+#~ "bölümünde boyutlandırılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not restore old partition size for partition <filename>%1</"
+#~ "filename>."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümü için eski bölüm boyutu geri alınamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Checking target file system on partition <filename>%1</filename> after "
+#~ "the restore failed."
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümündeki hedef dosya sistemini geri "
+#~ "dönüşümden sonra denetleme başarısız."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Restoring file system failed."
+#~ msgstr "Dosya sisteminin geri yüklenmesi işlemi başarısız oldu."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Creating the destination partition to restore to failed."
+#~ msgstr "Geri yüklemek için hedef birim oluşturma başarısız."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Restore partition from <filename>%1</filename> to <filename>%2</filename>"
+#~ msgstr ""
+#~ "Disk bölümünü <filename>%1</filename> içinden <filename>%2</filename> "
+#~ "olarak geri yükle"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Restore partition on <filename>%1</filename> at %2 from <filename>%3</"
+#~ "filename>"
+#~ msgstr ""
+#~ "<filename>%1</filename> üzerindeki %2 içindeki disk bölümünü <filename>"
+#~ "%3</filename> dosyasından geri yükle"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Set label for partition <filename>%1</filename> to \"%2\""
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünün etiketini \"%2\" olarak ayarla"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Set label for partition <filename>%1</filename> from \"%2\" to \"%3\""
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünün \"%2\" olan etiketini \"%3\" "
+#~ "olarak ayarla"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Set flags for partition <filename>%1</filename> to \"%2\""
+#~ msgstr ""
+#~ "<filename>%1</filename> disk bölümünün bayraklarını \"%2\" olarak ayarla"
+
+#~ msgctxt "@info/plain"
+#~ msgid "LibParted Exception: %1"
+#~ msgstr "LibParted İstisnası: %1"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Could not access device <filename>%1</filename>"
+#~ msgstr "<filename>%1</filename> aygıtına erişilemedi"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Device found: %1"
+#~ msgstr "Bulunan aygıt: %1"
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Creating partition table failed: Could not retrieve partition table type "
+#~ "\"%1\" for <filename>%2</filename>."
+#~ msgstr ""
+#~ "Birim tablosu oluşturma başarısız: <filename>%2</filename> için \"%1\" "
+#~ "birim tablo türü alınamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Creating partition table failed: Could not open backend device <filename>"
+#~ "%1</filename>."
+#~ msgstr ""
+#~ "Disk blümlendirme tablosu oluşturulamadı: <filename>%1</filename> arka uç "
+#~ "aygıtı açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Creating partition table failed: Could not create a new partition table "
+#~ "in the backend for device <filename>%1</filename>."
+#~ msgstr ""
+#~ "Disk bölümlendirme tablosu oluşturulamadı: <filename>%1</filename> arka "
+#~ "uç aygıtı üzerinde yeni disk bölümü oluşturulamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid "The flag \"%1\" is not available on the partition's partition table."
+#~ msgstr ""
+#~ "Bu disk bölümünün disk bölümlendirme tablosuna göre \"%1\" bayrağı "
+#~ "kullanılamaz."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Unknown partition role for new partition <filename>%1</filename> (roles: "
+#~ "%2)"
+#~ msgstr ""
+#~ "Yeni disk bölümü <filename>%1</filename> için bilinmeyen rol (roller: %2)"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Failed to create new partition <filename>%1</filename>."
+#~ msgstr "<filename>%1</filename> yeni disk bölümü oluşturulamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Failed to create a new partition: could not get geometry for constraint."
+#~ msgstr "Yeni bir birim oluşturma başarısız: sınır için geometri alınamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Deleting partition failed: Partition to delete (<filename>%1</filename>) "
+#~ "not found on disk."
+#~ msgstr ""
+#~ "Disk bölümü silinemedi: Silinecek disk bölümü (<filename>%1</filename>) "
+#~ "diskte bulunamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not set geometry for partition <filename>%1</filename> while trying "
+#~ "to resize/move it."
+#~ msgstr ""
+#~ "Boyutlandırılırken/taşınırken <filename>%1</filename> birimi geometrisi "
+#~ "ayarlanamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not get constraint for partition <filename>%1</filename> while "
+#~ "trying to resize/move it."
+#~ msgstr ""
+#~ "Boyutlandırılırken/taşınırken <filename>%1</filename> birimi sınırları "
+#~ "alınamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not get geometry for partition <filename>%1</filename> while trying "
+#~ "to resize/move it."
+#~ msgstr ""
+#~ "Boyutlandırılırken/taşınırken <filename>%1</filename> birimi geometrisi "
+#~ "alınamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not open partition <filename>%1</filename> while trying to resize/"
+#~ "move it."
+#~ msgstr ""
+#~ "Boyutlandırılırken/taşınırken <filename>%1</filename> birimi açılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Failed to erase filesystem signature on partition <filename>%1</filename>."
+#~ msgstr ""
+#~ "Disk bölümü <filename>%1</filename> üzerindeki dosya sistemi imzası "
+#~ "silinemedi."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not delete file system on partition <filename>%1</filename>: Failed "
+#~ "to get partition."
+#~ msgstr ""
+#~ "<filename>%1</filename> birimindeki dosya sistemi silinemedi: Birim "
+#~ "alınamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid "Could not resize file system on partition <filename>%1</filename>."
+#~ msgstr ""
+#~ "<filename>%1</filename> üzerindeki dosya sistemi yeniden "
+#~ "boyutlandırılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not get geometry for resized partition <filename>%1</filename> "
+#~ "while trying to resize the file system."
+#~ msgstr ""
+#~ "Dosya sistemi boyutlandırılmaya çalışılırken boyutlandırılmış <filename>"
+#~ "%1</filename> birimi için geometri alınamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not determine file system of partition at sector %1 on device "
+#~ "<filename>%2</filename>."
+#~ msgstr ""
+#~ "<filename>%2</filename> aygıtının %1 dilimindeki bölümün dosya sistemi "
+#~ "anlaşılamadı."
+
+#~ msgctxt "@info/plain"
+#~ msgid ""
+#~ "Could not update the system type for partition <filename>%1</filename>."
+#~ msgstr ""
+#~ "<filename>%1</filename> üzerindeki dosya sistemi türü güncellenemedi."
+
+#~ msgctxt "@info/plain"
+#~ msgid "No file system defined."
+#~ msgstr "Dosya sistemi tanımlanmamış."
+
+#~ msgctxt "@info/plain"
+#~ msgid "No partition found at sector %1."
+#~ msgstr "%1 sektöründe disk bölümü yok."
+
+#~ msgctxt "@info/plain unit"
+#~ msgid "Byte"
+#~ msgid_plural "Bytes"
+#~ msgstr[0] "Bayt"
+#~ msgstr[1] "Bayt"
+
+#~ msgctxt "@info/plain unit"
+#~ msgid "KiB"
+#~ msgstr "KB"
+
+#~ msgctxt "@info/plain unit"
+#~ msgid "MiB"
+#~ msgstr "MB"
+
+#~ msgctxt "@info/plain unit"
+#~ msgid "GiB"
+#~ msgstr "GB"
+
+#~ msgctxt "@info/plain unit"
+#~ msgid "TiB"
+#~ msgstr "TB"
+
+#~ msgctxt "@info/plain unit"
+#~ msgid "PiB"
+#~ msgstr "PB"
+
+#~ msgctxt "@info/plain unit"
+#~ msgid "EiB"
+#~ msgstr "EB"
+
+#~ msgctxt "@info/plain unit"
+#~ msgid "ZiB"
+#~ msgstr "ZB"
+
+#~ msgctxt "@info/plain unit"
+#~ msgid "YiB"
+#~ msgstr "YB"
+
+#~ msgctxt "@info/plain unit"
+#~ msgid "(unknown unit)"
+#~ msgstr "(bilinmeyen birim)"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Command: %1"
+#~ msgstr "Komut: %1"
+
+#~ msgctxt "@info/plain"
+#~ msgid "(Command timeout while starting \"%1\")"
+#~ msgstr "(\"%1\" başlatılırken zaman aşımına uğradı)"
+
+#~ msgctxt "@info/plain"
+#~ msgid "(Command timeout while running \"%1\")"
+#~ msgstr "(\"%1\" çalıştırılırken zaman aşımına uğradı)"
+
+#~ msgid "%1: SMART Status Report"
+#~ msgstr "%1: SMART Durum Raporu"
+
+#~ msgid "Date:"
+#~ msgstr "Tarih:"
+
+#~ msgid "Program version:"
+#~ msgstr "Uygulama sürümü:"
+
+#~ msgid "Backend:"
+#~ msgstr "Arka uç:"
+
+#~ msgid "KDE Frameworks version:"
+#~ msgstr "KDE Frameworks sürümü:"
+
+#~ msgid "Machine:"
+#~ msgstr "Makine:"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Decrypt"
+#~ msgstr "Şifrelemeyi Aç"
+
+#~ msgctxt "@title:window"
+#~ msgid "Decrypt LUKS partition on <filename>%1</filename>"
+#~ msgstr "<filename>%1</filename> üzerindeki LUKS disk bölümü şifresini çöz"
+
+#~ msgctxt "@action:button"
+#~ msgid "&Decrypt"
+#~ msgstr "&Şifrelemeyi Aç"
+
+#~ msgid "&Name:"
+#~ msgstr "&İsim:"
+
+#~ msgid "&Passphrase:"
+#~ msgstr "&Parola ifadesi:"
+
+#~ msgctxt "@label:listbox"
+#~ msgid "Size:"
+#~ msgstr "Boyut:"
+
+#~ msgctxt "@info:credit"
+#~ msgid "Developer"
+#~ msgstr "Geliştirici"
+
+#~ msgctxt "@title"
+#~ msgid "Dummy Backend Plugin"
+#~ msgstr "Sahte Arka Uç Eklentisi"
+
+#~ msgid "KDE Partition Manager dummy backend."
+#~ msgstr "KDE Disk Bölümü Yöneticisi sahte arka ucu."
+
+#~ msgid "Copyright 2010 Volker Lanz"
+#~ msgstr "Copyright 2010 Volker Lanz"
+
+#~ msgctxt "@title"
+#~ msgid "LibParted Backend Plugin"
+#~ msgstr "LibParted Arka Uç Eklentisi"
+
+#~ msgid "KDE Partition Manager backend for libparted."
+#~ msgstr "KDE Disk Bölümü Yöneticisi libparted arka ucu."
+
+#~ msgid "Copyright 2008,2009,2010 Volker Lanz"
+#~ msgstr "Telif hakları 2008,2009,2010 Volker Lanz"
+
+#~ msgctxt "@item/plain filesystem name"
+#~ msgid "unknown"
+#~ msgstr "bilinmeyen"
+
+#~ msgctxt "@item/plain filesystem name"
+#~ msgid "extended"
+#~ msgstr "uzatılmış"
+
+#~ msgctxt "@item/plain filesystem name"
+#~ msgid "jfs"
+#~ msgstr "jfs"
+
+#~ msgctxt "@info/plain"
+#~ msgid "Create file system %1 on partition <filename>%2</filename>"
+#~ msgstr ""
+#~ "Disk bölümü <filename>%2</filename> üzerinde %1 dosya sistemi oluştur"
+
+#~ msgctxt "@info:credit"
+#~ msgid "(c) 2008, 2009, 2010, 2011 Volker Lanz"
+#~ msgstr "(c) 2008, 2009, 2010, 2011 Volker Lanz"
+
+#~ msgctxt "@title:window"
+#~ msgid "Error: No Usable Devices Found"
+#~ msgstr "Hata: Kullanılabilir Bir Aygıt Bulunamadı"

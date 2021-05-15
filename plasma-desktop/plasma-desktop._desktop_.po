@@ -1,0 +1,1905 @@
+# translation of desktop_kdebase.po to Turkish
+# translation of desktop_kdebase.po to
+# Kdesktop Turkish translation file
+# Copyright (C) 2000, 2003, 2004, 2005, 2008 Free Software Foundation, Inc.
+# Onur Soysal <e116511@ceng.metu.edu.tr>, 2000.
+# Ömer Fadıl USTA <omer_fad@hotmail.com>,1999-2002.
+# Görkem Çetin <gorkem@kde.org>, 2002, 2003, 2004.
+# Adil Yıldız <adil_yildiztr@yahoo.com>, 2004.
+# Adem Alp Yıldız <ademalp@linux-sevenler.org>, 2004.
+# Adil Yıldız <adil@linux-sevenler.org>, 2004.
+# Görkem Çetin <gorkem@kde.org.tr>, 2005.
+# Adil Yıldız <adil@kde.org.tr>, 2005.
+# Cemil MUTLU <mawilos@gmail.com>, 2005.
+# Serdar Soytetir <tulliana@gmail.com>, 2008, 2009, 2010.
+# Gökçen Eraslan <gokcen@pardus.org.tr>, 2010.
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2010, 2011.
+# Serdar SOYTETİR <tulliana@gmail.com>, 2010, 2012.
+# Muhammet Kara <muhammet.k@gmail.com>, 2011.
+# Ozan Çağlayan <ozan@pardus.org.tr>, 2011.
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014, 2015, 2017, 2021.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-13 00:27+0000\n"
+"PO-Revision-Date: 2021-02-15 14:07+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.08.2\n"
+
+#: applets/icontasks/metadata.desktop:2
+msgctxt "Name"
+msgid "Icons-only Task Manager"
+msgstr "Sadece-Simge Görev Yöneticisi"
+
+#: applets/icontasks/metadata.desktop:55
+msgctxt "Comment"
+msgid "Switch between running applications"
+msgstr "Çalışan uygulamalar arasında gezin"
+
+#: applets/keyboardlayout/metadata.desktop:2
+msgctxt "Name"
+msgid "Keyboard Layout"
+msgstr "Klavye Düzeni"
+
+#: applets/keyboardlayout/metadata.desktop:82
+msgctxt "Comment"
+msgid "Show/switch keyboard layout"
+msgstr "Klavye düzenlerini görüntüle/geçiş yap"
+
+#: applets/kicker/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Application Menu"
+msgstr "Uygulama Menüsü"
+
+#: applets/kicker/package/metadata.desktop:57
+msgctxt "Comment"
+msgid "A launcher based on cascading popup menus"
+msgstr "Basamaklı açılan menü tabanlı bir başlatıcı"
+
+#: applets/kickoff/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Application Launcher"
+msgstr "Uygulama Başlatıcısı"
+
+#: applets/kickoff/package/metadata.desktop:89
+msgctxt "Comment"
+msgid "Launcher to start applications"
+msgstr "Uygulamaları başlatmak için çalıştırıcı"
+
+#: applets/kimpanel/backend/ibus/emojier/app/org.kde.plasma.emojier.desktop:3
+msgctxt "Name"
+msgid "Emoji Selector"
+msgstr "Emoji Seçici"
+
+#: applets/kimpanel/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Input Method Panel"
+msgstr "Giriş Yöntemi Paneli"
+
+#: applets/kimpanel/package/metadata.desktop:49
+msgctxt "Comment"
+msgid "A generic input method panel"
+msgstr "Genel bir giriş yöntemi paneli"
+
+#: applets/kimpanel/package/metadata.desktop:94
+msgctxt "Keywords"
+msgid "Input;IM;"
+msgstr "Giriş;IM;"
+
+#: applets/margins-separator/metadata.desktop:2
+msgctxt "Name"
+msgid "Margins Separator"
+msgstr "Kenar Boşlukları Ayırıcı"
+
+#: applets/margins-separator/metadata.desktop:31
+msgctxt "Comment"
+msgid ""
+"To be used as a separator between margin areas in themes that support them"
+msgstr ""
+"Destekleyen temalarda kenar boşlukları arasında ayırıcı olarak kullanılmak "
+"üzere"
+
+#: applets/margins-separator/metadata.desktop:63
+msgctxt "Keywords"
+msgid "separator"
+msgstr "ayırıcı"
+
+#: applets/minimizeall/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Minimize all Windows"
+msgstr "Tüm Pencereleri Küçült"
+
+#: applets/minimizeall/package/metadata.desktop:41
+msgctxt "Comment"
+msgid "Shows the desktop by minimizing all windows"
+msgstr "Bütün pencereleri küçülterek masaüstünü göster"
+
+#: applets/pager/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Pager"
+msgstr "Sayfalayıcı"
+
+#: applets/pager/package/metadata.desktop:86
+msgctxt "Comment"
+msgid "Switch between virtual desktops"
+msgstr "Sanal masaüstleri arasında gezin"
+
+#: applets/showActivityManager/package/metadata.desktop:2
+#: kcms/activities/kcm_activities.desktop:14
+msgctxt "Name"
+msgid "Activities"
+msgstr "Etkinlikler"
+
+#: applets/showActivityManager/package/metadata.desktop:64
+msgctxt "Comment"
+msgid "Shows the activity manager"
+msgstr "Etkinlik yöneticisini gösterir"
+
+#: applets/showdesktop/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Show Desktop"
+msgstr "Masaüstünü Göster"
+
+#: applets/showdesktop/package/metadata.desktop:42
+msgctxt "Comment"
+msgid "Shows the desktop by moving windows aside"
+msgstr "Pencereleri yana kaydırarak masaüstünü gösterir"
+
+#: applets/taskmanager/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Task Manager"
+msgstr "Görev Yöneticisi"
+
+#: applets/taskmanager/package/metadata.desktop:85
+msgctxt "Comment"
+msgid "Switch between tasks"
+msgstr "Görevler arasında gezin"
+
+#: applets/trash/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Trashcan"
+msgstr "Çöp Kutusu"
+
+#: applets/trash/package/metadata.desktop:83
+msgctxt "Comment"
+msgid "Provides access to the files sent to trash"
+msgstr "Çöp Kutusuna gönderilen dosyalara erişim sağlar"
+
+#: applets/window-list/metadata.desktop:2
+msgctxt "Name"
+msgid "Window list"
+msgstr "Pencere listesi"
+
+#: applets/window-list/metadata.desktop:57
+msgctxt "Comment"
+msgid "Plasmoid to show list of opened windows."
+msgstr "Açık pencerelerin listesini gösteren plazmid."
+
+#: containments/desktop/package/metadata.desktop:2
+#: desktoppackage/metadata.desktop:49
+msgctxt "Name"
+msgid "Desktop"
+msgstr "Masaüstü"
+
+#: containments/desktop/package/metadata.desktop:92
+msgctxt "Comment"
+msgid "A clean and simple layout"
+msgstr "Temiz ve basit bir yerleşim"
+
+#: containments/folder/metadata.desktop:2
+msgctxt "Name"
+msgid "Folder View"
+msgstr "Klasör Görünümü"
+
+#: containments/folder/metadata.desktop:52
+msgctxt "Comment"
+msgid "Display the contents of folders"
+msgstr "Klasörün içeriklerini görüntüle"
+
+#: containments/panel/metadata.desktop:3
+msgctxt "Name"
+msgid "Panel"
+msgstr "Panel"
+
+#: containments/panel/plasma-containment-panel.desktop:2
+#: layout-templates/org.kde.plasma.desktop.emptyPanel/metadata.desktop:2
+msgctxt "Name"
+msgid "Empty Panel"
+msgstr "Boş Panel"
+
+#: containments/panel/plasma-containment-panel.desktop:58
+msgctxt "Comment"
+msgid "A simple linear panel"
+msgstr "Basit bir doğrusal panel"
+
+#: desktoppackage/metadata.desktop:2
+msgctxt "Comment"
+msgid "Desktop view furniture"
+msgstr "Masaüstü mobilya görünümü"
+
+#: kaccess/kaccess.desktop:3 kcms/access/kcm_access.desktop:13
+#: kcms/access/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Accessibility"
+msgstr "Erişilebilirlik"
+
+#: kaccess/kaccess.notifyrc:3
+msgctxt "Comment"
+msgid "Accessibility"
+msgstr "Erişilebilirlik"
+
+#: kaccess/kaccess.notifyrc:97
+msgctxt "Name"
+msgid "A modifier key has become active"
+msgstr "Bir değiştirici tuş etkinleştirildi"
+
+#: kaccess/kaccess.notifyrc:176
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has changed its state and is now active"
+msgstr ""
+"Bir değiştirici tuşun (Shift veya Ctrl gibi) durumu değiştirildi ve "
+"etkinleştirildi"
+
+#: kaccess/kaccess.notifyrc:256
+msgctxt "Name"
+msgid "A modifier key has become inactive"
+msgstr "Bir değiştirici tuş devre dışı bırakıldı"
+
+#: kaccess/kaccess.notifyrc:335
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has changed its state and is now inactive"
+msgstr ""
+"Bir değiştirici tuşun (Shift veya Ctrl gibi) durumu değiştirildi ve devre "
+"dışı bırakıldı"
+
+#: kaccess/kaccess.notifyrc:415
+msgctxt "Name"
+msgid "A modifier key has been locked"
+msgstr "Bir değiştirici tuş kilitlendi"
+
+#: kaccess/kaccess.notifyrc:495
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has been locked and is now active for "
+"all of the following keypresses"
+msgstr ""
+"Bir değiştirici tuş (Shift ya da Ctrl gibi) kilitlendi ve bundan sonraki tüm "
+"tuş basma eylemleri için etkinleştirildi"
+
+#: kaccess/kaccess.notifyrc:575
+msgctxt "Name"
+msgid "A lock key has been activated"
+msgstr "Bir kilitleme tuşu etkinleştirildi"
+
+#: kaccess/kaccess.notifyrc:656
+msgctxt "Comment"
+msgid ""
+"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
+"active"
+msgstr ""
+"Bir kilitleme tuşunun (Caps Lock ya da Num Lock gibi.) durumu değiştirildi "
+"ve etkinleştirildi"
+
+#: kaccess/kaccess.notifyrc:736
+msgctxt "Name"
+msgid "A lock key has been deactivated"
+msgstr "Bir kilitleme tuşu devre dışı bırakıldı"
+
+#: kaccess/kaccess.notifyrc:817
+msgctxt "Comment"
+msgid ""
+"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
+"inactive"
+msgstr ""
+"Bir kilitleme tuşunun (Caps Lock ya da Num Lock gibi.) durumu değiştirildi "
+"ve devre dışı bırakıldı"
+
+#: kaccess/kaccess.notifyrc:897
+msgctxt "Name"
+msgid "Sticky keys has been enabled or disabled"
+msgstr "Yapışkan tuşlar etkinleştirildi ya da devre dışı bırakıldı"
+
+#: kaccess/kaccess.notifyrc:974
+msgctxt "Comment"
+msgid "Sticky keys has been enabled or disabled"
+msgstr "Yapışkan tuşlar etkinleştirildi ya da devre dışı bırakıldı"
+
+#: kaccess/kaccess.notifyrc:1056
+msgctxt "Name"
+msgid "Slow keys has been enabled or disabled"
+msgstr "Yavaş tuşlar etkinleştirildi ya da devre dışı bırakıldı"
+
+#: kaccess/kaccess.notifyrc:1132
+msgctxt "Comment"
+msgid "Slow keys has been enabled or disabled"
+msgstr "Yavaş tuşlar etkinleştirildi ya da devre dışı bırakıldı"
+
+#: kaccess/kaccess.notifyrc:1213
+msgctxt "Name"
+msgid "Bounce keys has been enabled or disabled"
+msgstr "Sıçrama tuşları etkinleştirildi ya da devre dışı bırakıldı"
+
+#: kaccess/kaccess.notifyrc:1289
+msgctxt "Comment"
+msgid "Bounce keys has been enabled or disabled"
+msgstr "Sıçrama tuşları etkinleştirildi ya da devre dışı bırakıldı"
+
+#: kaccess/kaccess.notifyrc:1370
+msgctxt "Name"
+msgid "Mouse keys has been enabled or disabled"
+msgstr "Fare tuşları etkinleştirildi ya da devre dışı bırakıldı"
+
+#: kaccess/kaccess.notifyrc:1447
+msgctxt "Comment"
+msgid "Mouse keys has been enabled or disabled"
+msgstr "Fare tuşları etkinleştirildi ya da devre dışı bırakıldı"
+
+#: kcms/access/kcm_access.desktop:108 kcms/access/package/metadata.desktop:96
+msgctxt "Comment"
+msgid "Configure Accessibility Options"
+msgstr "Erişilebilirlik Seçeneklerini Ayarla"
+
+#: kcms/access/kcm_access.desktop:140
+msgctxt "X-KDE-Keywords"
+msgid ""
+"access,accessibility,deaf,impaired,hearing,hearing loss,bell,audible bell,"
+"visible bell,visual bell,Keyboard,keys,sticky keys,bounce keys,slow keys,"
+"mouse navigation,num pad,numpad,activation gestures,gestures,sticky,modifier "
+"keys,modifier,locking keys"
+msgstr ""
+"erişim,erişebilirlik,sağır,bozukluk,işitme,kayıp,zil,işitilebilir zil,"
+"görünen zil,klavye,tuşlar,yapışkan tuşlar,sıçrama tuşları,yavaş tuşlar,fare "
+"gezinmesi,rakamlar klavyesi,jestler,yapışkan,hızlandırma tuşları,"
+"hızlandırıcı,kilitleme tuşları"
+
+#: kcms/activities/kcm_activities.desktop:76
+msgctxt "Comment"
+msgid "Activities help you to focus on a specific task"
+msgstr "Etkinlikler belirli bir göreve odaklanmanıza yardımcı olur"
+
+#: kcms/baloo/kcm_baloofile.desktop:14
+msgctxt "Name"
+msgid "File Search"
+msgstr "Dosya Araması"
+
+#: kcms/baloo/kcm_baloofile.desktop:65
+msgctxt "Comment"
+msgid "Configure File Search"
+msgstr "Dosya Aramasını Yapılandır"
+
+#: kcms/baloo/kcm_baloofile.desktop:116
+msgctxt "X-KDE-Keywords"
+msgid "Search, File, Baloo"
+msgstr "Ara, Dosya, Baloo"
+
+#: kcms/baloo/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Search"
+msgstr "Ara"
+
+#: kcms/baloo/package/metadata.desktop:40
+msgctxt "Comment"
+msgid "Configure the File Indexer"
+msgstr "Dosya Dizinleyiciyi Yapılandır"
+
+#: kcms/componentchooser/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Default Applications"
+msgstr "Öntanımlı Uygulamalar"
+
+#: kcms/componentchooser/package/metadata.desktop:88
+msgctxt "Comment"
+msgid "Choose default Applications"
+msgstr "Öntanımlı Uygulamaları Seç"
+
+#: kcms/componentchooser/package/metadata.desktop:129
+msgctxt "X-KDE-Keywords"
+msgid ""
+"default applications,components,component chooser,resources,web browser,"
+"browser,internet,file manager,dolphin,email,e-mail,email client,terminal,"
+"terminal emulator,konsole"
+msgstr ""
+"varsayılan uygulamalar,bileşenler,bileşen seçici,kaynaklar,web tarayıcısı,"
+"tarayıcı,internet,dosya yöneticisi,dolphin, eposta,e-posta,e-posta istemcisi,"
+"uçbirim,uçbirim emülatörü, konsole"
+
+#: kcms/dateandtime/clock.desktop:15
+msgctxt "Name"
+msgid "Date & Time"
+msgstr "Tarih ve Saat"
+
+#: kcms/dateandtime/clock.desktop:109
+msgctxt "Comment"
+msgid "Date and Time"
+msgstr "Tarih ve Saat"
+
+#: kcms/dateandtime/clock.desktop:164
+msgctxt "X-KDE-Keywords"
+msgid ""
+"clock,date,time,time zone,ntp,synchronize,calendar,local time,region time"
+msgstr ""
+"saat,tarih,zaman,zaman dilimi,ntp,eşzamanlama,takvim,yerel saat,bölge saati"
+
+#: kcms/dateandtime/kcmclock_actions.actions:2
+msgctxt "Name"
+msgid "Date and Time Control Module"
+msgstr "Tarih ve Saat Denetim Modülü"
+
+#: kcms/dateandtime/kcmclock_actions.actions:75
+msgctxt "Name"
+msgid "Save the date/time settings"
+msgstr "Tarih ve saat ayarlarını kaydet"
+
+#: kcms/dateandtime/kcmclock_actions.actions:145
+msgctxt "Description"
+msgid "System policies prevent you from saving the date/time settings."
+msgstr "Sistem politikaları tarih saat ayarlarını kaydetmenizi engelliyor."
+
+#: kcms/desktoppaths/desktoppath.desktop:12
+msgctxt "Name"
+msgid "Locations"
+msgstr "Konumlar"
+
+#: kcms/desktoppaths/desktoppath.desktop:62
+msgctxt "Comment"
+msgid "Location for Personal Files"
+msgstr "Kişisel Dosyaların Konumu"
+
+#: kcms/desktoppaths/desktoppath.desktop:109
+msgctxt "X-KDE-Keywords"
+msgid ""
+"konqueror,dolphin,files,filemanager,path, paths,desktop,directories,"
+"downloads,music,documents,movies,pictures"
+msgstr ""
+"konqueror,dolphin,dosyalar,dosya yöneticisi,yol, yollar,masaüstü,dizinler,"
+"indirmeler,müzik,belgeler,filmler,resimler"
+
+#: kcms/input/mouse.desktop:15 kcms/mouse/mouse.desktop:15
+msgctxt "Name"
+msgid "Mouse"
+msgstr "Fare"
+
+#: kcms/input/mouse.desktop:109 kcms/mouse/mouse.desktop:109
+msgctxt "Comment"
+msgid "Mouse Controls"
+msgstr "Fare Kontrolleri"
+
+#: kcms/input/mouse.desktop:161
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Mouse,Mouse acceleration,Mouse threshold,Mouse buttons,Selection,Cursor "
+"Shape,Input Devices,Button Mapping,Click,icons,feedback,Pointers,Drag,Double "
+"Click,Single Click,mapping,right handed,left handed,Pointer Device,Mouse "
+"Wheel,Mouse Emulation,Mouse Navigation,Mouse Drag and Drop,Mouse Scrolling,"
+"Mouse Sensitivity,Move Mouse with Num Pad,Mouse Num Pad Emulation"
+msgstr ""
+"Fare,Fare Hızlandırma,Fare Eşiği,Fare Düğmeleri,Seçim,İşaretçi Şekli,Girdi "
+"Aygıtları,Düğme Haritalama,Tıklama,simgeler,geri bildirim,İşaretçiler,"
+"Sürükle,Çift Tıklama,Tek Tıklama,haritalama,sağlak,solak,İşaretçi Aygıtı,"
+"Fare Tekeri,Fare Benzetimi,Fare Gezinmesi,Fare Sürükle Bırak,Fare Kaydırması,"
+"Fare Hassasiyeti,Fareyi Sayısal Tuşlarla Hareket Ettir,Fare Sayısal Tuş "
+"Benzetimi"
+
+#: kcms/joystick/joystick.desktop:15
+msgctxt "Comment"
+msgid "Calibrate Game Controller"
+msgstr "Oyun Denetleyicisini Yapılandır"
+
+#: kcms/joystick/joystick.desktop:51
+msgctxt "Name"
+msgid "Game Controller"
+msgstr "Oyun Denetleyicisi"
+
+#: kcms/joystick/joystick.desktop:89
+msgctxt "X-KDE-Keywords"
+msgid "joystick,gamepad,controller"
+msgstr "oyun çubuğu, denetleyici,joystick, oyun oynama kolu"
+
+#: kcms/kded/kcmkded.desktop:13 kcms/kded/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Background Services"
+msgstr "Arkaplan Servisleri"
+
+#: kcms/kded/kcmkded.desktop:63 kcms/kded/package/metadata.desktop:52
+msgctxt "Comment"
+msgid "Configure background services"
+msgstr "Arkaplan servislerini yapılandır"
+
+#: kcms/kded/kcmkded.desktop:99
+msgctxt "X-KDE-Keywords"
+msgid "KDED,Daemon,Services"
+msgstr "KDED,Servis,Servisler"
+
+#: kcms/keyboard/kcm_keyboard.desktop:16
+msgctxt "Name"
+msgid "Keyboard"
+msgstr "Klavye"
+
+#: kcms/keyboard/kcm_keyboard.desktop:109
+msgctxt "Comment"
+msgid "Keyboard Hardware and Layout"
+msgstr "Klavye Donanımı ve Yerleşimi"
+
+#: kcms/keyboard/kcm_keyboard.desktop:161
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Keyboard,Keyboard repeat,Click volume,Input Devices,repeat,volume,NumLock,"
+"NumPad,Keyboard type,Keyboard model,Keyboard layout,Key layout,Language,"
+"Alternate Keyboard,Keyboard switching,Ctrl Key,Caps Lock,Esperanto,"
+"Circumflex,Kill X Server,LED Keyboard,Compose Key"
+msgstr ""
+"Klavye,Klavye tekrarlaması,Tıklama sesi,Girdi Aygıtları,tekrarla,ses,NumLock,"
+"Sayısal Tuşlar,Klavye türü,Klavye modeli,Klavye düzeni,Tuş düzeni,Dil,"
+"Klavyeyi Değiştir,Klavye Seçimi,Ctrl Tuşu,Caps Lock,Esperanto,İnceltme "
+"İşareti,X Sunucuyu Sonlandır,LED Klavye,Tuş Düzeni Oluştur"
+
+#: kcms/keyboard/keyboard.desktop:11
+msgctxt "Name"
+msgid "Keyboard Daemon"
+msgstr "Klavye Servisi"
+
+#: kcms/keyboard/keyboard.desktop:76
+msgctxt "Comment"
+msgid "Enables switching keyboard layout through shortcuts or system tray"
+msgstr ""
+"Klavye yerleşimini kısayollar veya sistem çekmecesinden değiştirmeyi "
+"etkinleştirir"
+
+#: kcms/keys/kcm_keys.desktop:13 kcms/keys/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Shortcuts"
+msgstr "Kısayollar"
+
+#: kcms/keys/kcm_keys.desktop:50 kcms/keys/package/metadata.desktop:39
+msgctxt "Comment"
+msgid "Configure Keyboard Shortcuts"
+msgstr "Klavye Kısayollarını Yapılandır"
+
+#: kcms/keys/kcm_keys.desktop:86
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
+"shortcuts,global shortcuts"
+msgstr ""
+"Tuşlar,Genel kısayollar,Klavye şeması,Klavye Kısayolları,kısayollar,uygulama "
+"kısayolları,genel kısayollar, kısayol tuşları"
+
+#: kcms/ksmserver/package/metadata.desktop:12
+msgctxt "Name"
+msgid "Desktop Session"
+msgstr "Masaüstü Oturumu"
+
+#: kcms/ksmserver/package/metadata.desktop:64
+msgctxt "Comment"
+msgid "Desktop Session Login and Logout"
+msgstr "Masaüstü Oturum Açma ve Çıkış"
+
+#: kcms/ksmserver/package/metadata.desktop:113
+msgctxt "X-KDE-Keywords"
+msgid "ksmserver,session,logout,confirmation,save,restore,efi,uefi,bios"
+msgstr "ksmserver,oturum,çıkış,onaylama,kaydet,yeniden yükle,efi,uefi,bios"
+
+#: kcms/ksplash/kcm_splashscreen.desktop:14
+#: kcms/ksplash/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Splash Screen"
+msgstr "Açılış Ekranı"
+
+#: kcms/ksplash/kcm_splashscreen.desktop:65
+#: kcms/ksplash/package/metadata.desktop:53
+msgctxt "Comment"
+msgid "Choose splash screen theme"
+msgstr "Açılış ekranı temasını seç"
+
+#: kcms/ksplash/kcm_splashscreen.desktop:104
+msgctxt "X-KDE-Keywords"
+msgid "splash screen,splash theme,startup"
+msgstr "açılış ekranı,açılış ekranı teması,açılış"
+
+#: kcms/ksplash/ksplash.knsrc:2
+msgctxt "Name"
+msgid "Splash Screens"
+msgstr "Açılış Ekranları"
+
+#: kcms/landingpage/kcm_landingpage.desktop:11
+#: kcms/landingpage/package/metadata.desktop:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Joystick settings"
+msgctxt "Name"
+msgid "Quick Settings"
+msgstr "Oyun çubuğu ayarları"
+
+#: kcms/landingpage/kcm_landingpage.desktop:38
+msgctxt "Comment"
+msgid "Landing page with some basic settings"
+msgstr ""
+
+#: kcms/landingpage/package/metadata.desktop:29
+msgctxt "Comment"
+msgid "Quickly change basic settings"
+msgstr ""
+
+#: kcms/launch/kcm_launchfeedback.desktop:13
+#: kcms/launch/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Launch Feedback"
+msgstr "Başlatma Geribildirimi"
+
+#: kcms/launch/kcm_launchfeedback.desktop:101
+#: kcms/launch/package/metadata.desktop:90
+msgctxt "Comment"
+msgid "Application Launch Feedback"
+msgstr "Uygulama Başlatıcısı Geri Beslemesi"
+
+#: kcms/launch/kcm_launchfeedback.desktop:154
+msgctxt "X-KDE-Keywords"
+msgid ""
+"application,start,launch,busy,cursor,feedback,mouse,pointer,bouncing,"
+"rotating,spinning,disk,startup,program,report,taskbar"
+msgstr ""
+"uygulama,başlat,çalıştır,meşgul,imleç,geri bildirim,fare,işaretçi,zıplayan,"
+"dönen,yuvarlanan,disk,başlangıç,uygulama,rapor,görev çubuğu"
+
+#: kcms/mouse/mouse.desktop:161
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Mouse,Mouse acceleration,Mouse threshold,Mouse buttons,Selection,Cursor "
+"Shape,Input Devices,Button Mapping,Click,icons,feedback,Pointers,Drag,"
+"mapping,right handed,left handed,Pointer Device,Mouse Wheel,Mouse Emulation,"
+"Mouse Navigation,Mouse Drag and Drop,Mouse Scrolling,Mouse Sensitivity,Move "
+"Mouse with Num Pad,Mouse Num Pad Emulation"
+msgstr ""
+"Fare,Fare Hızlandırma,Fare Eşiği,Fare Düğmeleri,Seçim,İşaretçi Şekli,Girdi "
+"Aygıtları,Düğme Haritalama,Tıklama,simgeler,geri bildirim,İşaretçiler,"
+"Sürükle,Çift Tıklama,Tek Tıklama,haritalama,sağlak,solak,İşaretçi Aygıtı,"
+"Fare Tekeri,Fare Benzetimi,Fare Gezinmesi,Fare Sürükle Bırak,Fare Kaydırması,"
+"Fare Hassasiyeti,Fareyi Sayısal Tuşlarla Hareket Ettir,Fare Sayısal Tuş "
+"Benzetimi"
+
+#: kcms/qtquicksettings/qtquicksettings.desktop:11
+msgctxt "Name"
+msgid "Plasma Renderer"
+msgstr "Plasma Biçimleyicisi"
+
+#: kcms/runners/kcm_plasmasearch.desktop:12
+msgctxt "Name"
+msgid "KRunner"
+msgstr "KRunner"
+
+#: kcms/runners/kcm_plasmasearch.desktop:51
+msgctxt "Comment"
+msgid "Configure Search Bar"
+msgstr "Arama Çubuğunu Yapılandır"
+
+#: kcms/runners/kcm_plasmasearch.desktop:94
+msgctxt "X-KDE-Keywords"
+msgid "Search, File, Baloo, Runner, krunner"
+msgstr "Arama, Dosya, Baloo, Çalıştırıcı, krunner"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:2
+msgctxt "Name"
+msgid "Charge Percent"
+msgstr "Şarj Yüzdesi"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:76
+msgctxt "Name"
+msgid "Charge State"
+msgstr "Şarj Durumu"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:149
+msgctxt "Name|battery plugged in"
+msgid "Plugged"
+msgstr "Fişe takılı"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:204
+msgctxt "Name"
+msgid "Rechargeable"
+msgstr "Yeniden şarj edilebilir"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:274
+msgctxt "Name"
+msgid "Type"
+msgstr "Tür"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:351
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:216
+#: kcms/solid_actions/device-actions/solid-device-Camera.desktop:150
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:880
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:665
+#: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:150
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:289
+#: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:148
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:369
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:443
+msgctxt "Name"
+msgid "Solid Device"
+msgstr "Solid Aygıtı"
+
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:2
+msgctxt "Name"
+msgid "Device"
+msgstr "Aygıt"
+
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:77
+msgctxt "Name"
+msgid "Major"
+msgstr "Büyük"
+
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:146
+msgctxt "Name"
+msgid "Minor"
+msgstr "Küçük"
+
+#: kcms/solid_actions/device-actions/solid-device-Camera.desktop:2
+#: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:2
+msgctxt "Name"
+msgid "Supported Drivers"
+msgstr "Desteklenen Sürücüler"
+
+#: kcms/solid_actions/device-actions/solid-device-Camera.desktop:76
+#: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:76
+msgctxt "Name"
+msgid "Supported Protocols"
+msgstr "Desteklenen Protokoller"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:2
+msgctxt "Name"
+msgid "Appendable"
+msgstr "Eklenebilir"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:73
+msgctxt "Name"
+msgid "Available Content"
+msgstr "Kullanılabilir İçerik"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:147
+msgctxt "Name"
+msgid "Blank"
+msgstr "Boş"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:219
+msgctxt "Name"
+msgid "Capacity"
+msgstr "Kapasite"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:293
+msgctxt "Name"
+msgid "Disc Type"
+msgstr "Disk Türü"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:367
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:2
+msgctxt "Name"
+msgid "Fs Type"
+msgstr "Dosya Sistemi Türü"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:440
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:75
+msgctxt "Name"
+msgid "Ignored"
+msgstr "Yoksayılmış"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:512
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:147
+msgctxt "Name"
+msgid "Label"
+msgstr "Etiket"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:585
+msgctxt "Name"
+msgid "Rewritable"
+msgstr "Yeniden yazılabilir"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:657
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:366
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:293
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:220
+msgctxt "Name"
+msgid "Size"
+msgstr "Boyut"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:732
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:295
+msgctxt "Name"
+msgid "Usage"
+msgstr "Kullanım"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:806
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:369
+msgctxt "Name"
+msgid "Uuid"
+msgstr "Uuid"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:2
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:2
+msgctxt "Name"
+msgid "Bus"
+msgstr "Yol"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:77
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:77
+msgctxt "Name"
+msgid "Drive Type"
+msgstr "Sürücü Türü"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:151
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:151
+msgctxt "Name"
+msgid "Hotpluggable"
+msgstr "Çıkarılıp takılabilir"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:219
+msgctxt "Name"
+msgid "Read Speed"
+msgstr "Okuma hızı"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:292
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:219
+msgctxt "Name"
+msgid "Removable"
+msgstr "Çıkarılabilir"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:441
+msgctxt "Name"
+msgid "Supported Media"
+msgstr "Desteklenen Ortam"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:514
+msgctxt "Name"
+msgid "Write Speed"
+msgstr "Yazma Hızı"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:589
+msgctxt "Name"
+msgid "Write Speeds"
+msgstr "yazma Hızları"
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:2
+msgctxt "Name"
+msgid "Can Change Frequency"
+msgstr "Frekansı Değiştirilebilir"
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:72
+msgctxt "Name"
+msgid "Instruction Sets"
+msgstr "Yönerge Ayarları"
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:141
+msgctxt "Name"
+msgid "Max Speed"
+msgstr "En Yüksek Hız"
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:215
+msgctxt "Name"
+msgid "Number"
+msgstr "Numara"
+
+#: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:2
+msgctxt "Name"
+msgid "Accessible"
+msgstr "Erişilebilir"
+
+#: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:74
+msgctxt "Name"
+msgid "File Path"
+msgstr "Dosya Yolu"
+
+#: kcms/solid_actions/solid-actions.desktop:12
+msgctxt "Name"
+msgid "Device Actions"
+msgstr "Aygıt Eylemleri"
+
+#: kcms/solid_actions/solid-actions.desktop:84
+msgctxt "Comment"
+msgid "Manage actions available to the user when connecting new devices"
+msgstr ""
+"Bilgisayara yeni bir aygıt takıldığında kullanıcı tarafından "
+"kullanılabilecek eylemleri yönet"
+
+#: kcms/solid_actions/solid-actions.desktop:138
+msgctxt "X-KDE-Keywords"
+msgid "Solid Devices Actions"
+msgstr "Solid Aygıt Eylemleri"
+
+#: kcms/solid_actions/solid-device-type.desktop:4
+msgctxt "Name"
+msgid "Solid Device Type"
+msgstr "Solid Aygıtı Türü"
+
+#: kcms/spellchecking/spellchecking.desktop:13
+msgctxt "Name"
+msgid "Spell Check"
+msgstr "Yazım Denetimi"
+
+#: kcms/spellchecking/spellchecking.desktop:67
+msgctxt "Comment"
+msgid "Spell Checker Dictionaries and Options"
+msgstr "Yazım Denetimi Sözlükleri ve Seçenekleri"
+
+#: kcms/spellchecking/spellchecking.desktop:118
+msgctxt "X-KDE-Keywords"
+msgid "Spell"
+msgstr "Denetle"
+
+#: kcms/touchpad/applet/plasma-dataengine-touchpad.desktop:2
+msgctxt "Name"
+msgid "Touchpad DataEngine"
+msgstr "Dokunmatik Yüzey Veri Motoru"
+
+#: kcms/touchpad/applet/qml/metadata.desktop:2
+msgctxt "Comment"
+msgid "Shows current touchpad state"
+msgstr "Dokunmatik yüzeyin durumunu gösterir"
+
+#: kcms/touchpad/applet/qml/metadata.desktop:51
+msgctxt "Keywords"
+msgid "Touchpad"
+msgstr "Dokunmatik yüzey"
+
+#: kcms/touchpad/applet/qml/metadata.desktop:98
+#: kcms/touchpad/kcm/kcm_touchpad.desktop:15
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:2
+#: kcms/touchpad/kded/kded_touchpad.desktop:9
+msgctxt "Name"
+msgid "Touchpad"
+msgstr "Dokunmatik yüzey"
+
+#: kcms/touchpad/kcm/kcm_touchpad.desktop:64
+msgctxt "Comment"
+msgid "Touchpad settings"
+msgstr "Dokunmatik yüzey ayarları"
+
+#: kcms/touchpad/kcm/kcm_touchpad.desktop:112
+msgctxt "X-KDE-Keywords"
+msgid "Touchpad,Synaptics"
+msgstr "Dokunmatik yüzey, İşaretleme aygıtı"
+
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:52
+msgctxt "Comment"
+msgid "Touchpad"
+msgstr "Dokunmatik yüzey"
+
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:102
+msgctxt "Name"
+msgid "Touchpad was disabled"
+msgstr "Dokunmatik yüzey kapalı"
+
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:149
+msgctxt "Comment"
+msgid "Touchpad was disabled because mouse is detected"
+msgstr "Fare algılandığından dokunmatik yüzey kapalı"
+
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:199
+msgctxt "Name"
+msgid "Touchpad was enabled"
+msgstr "Dokunmatik yüzey etkin"
+
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:246
+msgctxt "Comment"
+msgid "Touchpad was enabled because the mouse was unplugged"
+msgstr "Fare çıkartıldığından dokunmatik yüzey etkinleştirildi"
+
+#: kcms/touchpad/kded/kded_touchpad.desktop:58
+msgctxt "Comment"
+msgid "Enables or disables touchpad"
+msgstr "Dokunmatik yüzeyi etkinleştirir veya kapatır"
+
+#: kcms/users/kcm_users.desktop:9
+msgctxt "Name"
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: kcms/users/kcm_users.desktop:46
+msgctxt "Comment"
+msgid "Manage user accounts"
+msgstr "Kullanıcı hesaplarını yönet"
+
+#: kcms/users/kcm_users.desktop:81
+msgctxt "X-KDE-Keywords"
+msgid "user,account"
+msgstr "kullanıcı,hesap"
+
+#: kcms/users/package/metadata.desktop:2
+msgctxt "Name"
+msgid "User Accounts"
+msgstr "Kullanıcı Hesapları"
+
+#: kcms/users/package/metadata.desktop:38
+msgctxt "Comment"
+msgid "Manage users"
+msgstr "Kullanıcıları yönet"
+
+#: kcms/workspaceoptions/kcm_workspace.desktop:10
+#: kcms/workspaceoptions/package/metadata.desktop:2
+msgctxt "Name"
+msgid "General Behavior"
+msgstr "Genel Davranış"
+
+#: kcms/workspaceoptions/kcm_workspace.desktop:50
+#: kcms/workspaceoptions/package/metadata.desktop:42
+msgctxt "Comment"
+msgid "Configure general workspace behavior"
+msgstr "Çalışma alanının genel davranışını yapılandır"
+
+#: kcms/workspaceoptions/kcm_workspace.desktop:88
+msgctxt "X-KDE-Keywords"
+msgid ""
+"plasma,workspace,shell,formfactor,dashboard,tooltips,informational tips,"
+"tooltips,click,single click,double click,animation speed"
+msgstr ""
+"plasma,çalışma alanı,kabuk,form oranı,pano,araç ipuçları,bilgi ipuçları,püf "
+"noktaları"
+
+#: knetattach/org.kde.knetattach.desktop:2
+msgctxt "Name"
+msgid "KNetAttach"
+msgstr "KNetAttach"
+
+#: knetattach/org.kde.knetattach.desktop:91
+msgctxt "GenericName"
+msgid "Network Folder Wizard"
+msgstr "Ağ Dizini Sihirbazı"
+
+#: layout-templates/org.kde.plasma.desktop.appmenubar/metadata.desktop:2
+msgctxt "Name"
+msgid "Application Menu Bar"
+msgstr "Uygulama Menü Çubuğu"
+
+#: layout-templates/org.kde.plasma.desktop.appmenubar/metadata.desktop:47
+msgctxt "Comment"
+msgid "Panel containing the global menu applet"
+msgstr "Evrensel menü gerecini barındıran panel"
+
+#: layout-templates/org.kde.plasma.desktop.defaultPanel/metadata.desktop:2
+msgctxt "Name"
+msgid "Default Panel"
+msgstr "Öntanımlı Pano"
+
+#: layout-templates/org.kde.plasma.desktop.defaultPanel/metadata.desktop:54
+msgctxt "Comment"
+msgid ""
+"Default panel featuring application launcher, task manager and system tray"
+msgstr ""
+"Varsayılan panel uygulama başlatıcısını, görev yöneticisini ve sistem "
+"çekmecesini sunar"
+
+#: layout-templates/org.kde.plasma.desktop.emptyPanel/metadata.desktop:58
+msgctxt "Comment"
+msgid "Empty panel"
+msgstr "Boş Panel"
+
+#: runners/kwin/plasma-runner-kwin.desktop:2
+msgctxt "Name"
+msgid "KWin"
+msgstr "KWin"
+
+#: runners/kwin/plasma-runner-kwin.desktop:46
+msgctxt "Comment"
+msgid "Interact with the Plasma Compositor"
+msgstr "Plasma Dizgicisi ile Etileşim"
+
+#: runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:2
+msgctxt "Name"
+msgid "Plasma Desktop Shell"
+msgstr "Plasma Masaüstü Kabuğu"
+
+#: runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:69
+msgctxt "Comment"
+msgid "Interact with the Plasma desktop shell"
+msgstr "Plasma Masaüstü Kabuğu ile etkileş"
+
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:8
+msgctxt "X-KDE-Keywords"
+msgid "Mount,Removable,Devices,Automatic"
+msgstr "Bağla,Çıkarılabilir,Aygıtlar,Otomatik"
+
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:52
+msgctxt "Name"
+msgid "Removable Devices"
+msgstr "Çıkarılabilir Aygıtlar"
+
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:99
+msgctxt "Comment"
+msgid "Configure automatic handling of removable storage media"
+msgstr "Çıkarılabilir depolama ortamlarının otomatik yönetimini yapılandır"
+
+#: solid-device-automounter/kded/device_automounter.desktop:10
+msgctxt "Name"
+msgid "Removable Device Automounter"
+msgstr "Çıkarılabilir Aygıt Otomatik Bağlayıcı"
+
+#: solid-device-automounter/kded/device_automounter.desktop:54
+msgctxt "Comment"
+msgid "Automatically mounts devices as needed"
+msgstr "Aygıtları gerektiğinde otomatik olarak bağlar"
+
+#: toolboxes/desktoptoolbox/metadata.desktop:2
+msgctxt "Name"
+msgid "Declarative Toolbox"
+msgstr "Bildirim Araç Kutusu"
+
+#: toolboxes/desktoptoolbox/metadata.desktop:49
+msgctxt "Comment"
+msgid "Manage Plasma"
+msgstr "Plasma'yı Yönet"
+
+#: toolboxes/paneltoolbox/metadata.desktop:2
+msgctxt "Name"
+msgid "Panel Toolbox"
+msgstr "Panel Araç Kutusu"
+
+#: toolboxes/paneltoolbox/metadata.desktop:54
+msgctxt "Comment"
+msgid "Manage Plasma panel"
+msgstr "Plasma panelini yönet"
+
+#: toolboxes/plasma-toolbox-paneltoolbox.desktop:2
+msgctxt "Comment"
+msgid "Default panel toolbox for the Plasma desktop shell"
+msgstr "Plasma masaüstü kabuğu için öntanımlı panel araç kutusu"
+
+#: toolboxes/plasma-toolbox-paneltoolbox.desktop:62
+msgctxt "Name"
+msgid "Panel toolbox"
+msgstr "Panel araç kutusu"
+
+#~ msgctxt "Name"
+#~ msgid "Formats"
+#~ msgstr "Biçimler"
+
+#~ msgctxt "Comment"
+#~ msgid "Numeric, Currency and Time Formats"
+#~ msgstr "Sayısal, Para Birimi ve Zaman Biçimleri"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "language,translation,number format,locale,Country,charsets,character sets,"
+#~ "Decimal symbol,Thousands separator,symbol,separator,sign,positive,"
+#~ "negative,currency,money,fractional digits,calendar,time,date,formats,week,"
+#~ "week start,first,paper,size,letter,A4,measure,metric,English,Imperial"
+#~ msgstr ""
+#~ "dil,çeviri,sayısal biçim,yerel,Ülke,karakter seti,karakter setleri,"
+#~ "Ondalık sembolü,binler basamağı ayırıcı,sembol,ayırıcı,işaret,pozitif,"
+#~ "negatif,para birimi,para,kesir,takvim,saat,tarih,biçimler,hafta,hafta "
+#~ "başı,ilk,kağıt,boyut,A4,mektup,ölçü,metrik,İngiliz"
+
+#~ msgctxt "Name"
+#~ msgid "Night Color"
+#~ msgstr "Gece Rengi"
+
+#~ msgctxt "Comment"
+#~ msgid "Adjust color temperature at night to reduce eye strain"
+#~ msgstr "Geceleri gözünüzü yormaması için renk sıcaklığını ayarlayın"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "kwin,window,manager,night,colors,redshift,eyes"
+#~ msgstr "kwin, pencere,yönetici,gece,renkler,redshift,gözler"
+
+#~ msgctxt "Name"
+#~ msgid "Notifications"
+#~ msgstr "Bildirimler"
+
+#~ msgctxt "Comment"
+#~ msgid "Event Notifications and Actions"
+#~ msgstr "Olay Bildirimleri ve Eylemler"
+
+#~ msgctxt "Name"
+#~ msgid "Autostart"
+#~ msgstr "Otomatik Başlat"
+
+#~ msgctxt "Comment"
+#~ msgid "Automatically Started Applications"
+#~ msgstr "Otomatik Başlatılan Uygulamalar"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Autostart Manager,autostart,startup,system startup,plasma start,cron"
+#~ msgstr ""
+#~ "Otomatik Başlatma Yöneticisi, otomatik,başlatma,sistem başlangıcı,plasma "
+#~ "başlangıcı,görevler,cron"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Interact with the Plasma desktop shell"
+#~ msgctxt "Comment"
+#~ msgid "Show the Plasma desktop"
+#~ msgstr "Plasma Masaüstü Kabuğu ile etkileş"
+
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Web Browser"
+#~ msgstr "Web Tarayıcı"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Here you can configure your default web browser. All KDE applications in "
+#~ "which you can select hyperlinks should honor this setting."
+#~ msgstr ""
+#~ "Burada öntanımlı web tarayıcınızı yapılandırabilirsiniz. Tüm KDE "
+#~ "uygulamalarında bulunan bağlantılar bu seçenek kullanılarak açılacaktır."
+
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "File Manager"
+#~ msgstr "Dosya Yöneticisi"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Here you can configure your default file manager. The entries in the K "
+#~ "menu and all KDE applications in which you can open folders will use this "
+#~ "file manager."
+#~ msgstr ""
+#~ "Buradan öntanımlı dosya yöneticinizi yapılandırabilirsiniz. K menüsünde "
+#~ "ve KDE uygulamalarında bulunan tüm dizinleri açan uygulamalar için bu "
+#~ "uygulama kullanılacaktır."
+
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Email Client"
+#~ msgstr "E-posta İstemcisi"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "This service allows you to configure your default email client. All KDE "
+#~ "applications which need access to an email client application should "
+#~ "honor this setting."
+#~ msgstr "Bu servis öntanımlı e-posta istemcinizi seçmenize yardımcı olur."
+
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Terminal Emulator"
+#~ msgstr "Uçbirim Öykünücü"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "This service allows you to configure your default terminal emulator. All "
+#~ "KDE applications which invoke a terminal emulator application should "
+#~ "honor this setting."
+#~ msgstr "Bu servis öntanımlı uçbirim uygulamasını seçmenize yardımcı olur."
+
+#~ msgctxt "Name"
+#~ msgid "KDE Accessibility Tool"
+#~ msgstr "KDE Erişilebilirlik Aracı"
+
+#~ msgctxt "Name"
+#~ msgid "Color Schemes"
+#~ msgstr "Renk Şemaları"
+
+#~ msgctxt "GenericName"
+#~ msgid "Color scheme editor"
+#~ msgstr "Renk şema düzenleyicisi"
+
+#~ msgctxt "Name"
+#~ msgid "KColorSchemeEditor"
+#~ msgstr "KColorSchemeEditor"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma color scheme editor"
+#~ msgstr "Plasma renk şeması düzenleyicisi"
+
+#~ msgctxt "Name"
+#~ msgid "Colors"
+#~ msgstr "Renkler"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Test Look and Feel package"
+#~ msgctxt "Comment"
+#~ msgid "Choose color scheme"
+#~ msgstr "Görünüm ve Duyum paketini dene"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,"
+#~ "color theme"
+#~ msgstr ""
+#~ "renkler,renk,şema,karşıtlık,kontrast,Gereç renkleri,RenkŞeması,renk "
+#~ "biçemi,renk teması,renk biçimi"
+
+#~ msgctxt "Name"
+#~ msgid "Cursors"
+#~ msgstr "İmleçler"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Customize the mouse cursor appearance"
+#~ msgctxt "Comment"
+#~ msgid "Choose mouse cursor theme"
+#~ msgstr "Fare işaretçisi görünümünü özelleştir"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse "
+#~ "Theme,Mouse Appearance,Mouse Skins,Pointer Colors,Pointer Appearance"
+#~ msgstr ""
+#~ "Fare,İşaretçi,Tema,İşaretçi Görünümü,İşaretçi Rengi,İşaretçi Teması,Fare "
+#~ "Teması,Fare Görünümü,Fare Kabuğu,İşaretçi Renkleri,İşaretçi Görünümü"
+
+#~ msgctxt "Name"
+#~ msgid "Fonts"
+#~ msgstr "Yazı Tipleri"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Manage system-wide fonts."
+#~ msgctxt "Comment"
+#~ msgid "Configure user interface fonts"
+#~ msgstr "Sistem geneli için yazı tiplerini yönet."
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "fonts,font size,styles,charsets,character sets,panel,control panel,"
+#~ "desktops,FileManager,Toolbars,Menu,Window Title,Title,DPI,anti-aliasing,"
+#~ "desktop fonts,toolbar fonts,character,general fonts"
+#~ msgstr ""
+#~ "yazı tipi,yazı tipi boyutu,karakterler,karakter setleri,panel,denetim "
+#~ "paneli,masaüstleri,Dosya Yöneticisi,Araç Çubukları,Menü,Pencere Başlığı,"
+#~ "Başlık,DPI,yumuşatma,anti-aliasing,masaüstü yazı tipleri,araç çubuğu yazı "
+#~ "tipleri,karakter,genel yazı tipleri,biçemler"
+
+#~ msgctxt "Name"
+#~ msgid "Install..."
+#~ msgstr "Yükle..."
+
+#~ msgctxt "Name"
+#~ msgid "KFontView"
+#~ msgstr "KFontView"
+
+#~ msgctxt "GenericName"
+#~ msgid "Font Viewer"
+#~ msgstr "Yazı Tipi Görüntüleyici"
+
+#~ msgctxt "Name"
+#~ msgid "Font Installer"
+#~ msgstr "Yazı Tipi Kurucu"
+
+#~ msgctxt "Name"
+#~ msgid "Manage system-wide fonts."
+#~ msgstr "Sistem geneli için yazı tiplerini yönet."
+
+#~ msgctxt "Description"
+#~ msgid "Modifying the system-wide font configuration requires privileges."
+#~ msgstr ""
+#~ "Sistem geneli için yazı tipi yapılandırması yapabilmek için ayrıcalıklar "
+#~ "gerekiyor."
+
+#~ msgctxt "Name"
+#~ msgid "Font Management"
+#~ msgstr "Yazı Tipi Yönetimi"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Install, manage, and preview fonts"
+#~ msgctxt "Comment"
+#~ msgid "Install, manage and preview fonts"
+#~ msgstr "Yazı tiplerini kur, yönet ve ön izle"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "font,fonts,installer,truetype,type1,bitmap"
+#~ msgstr "yazı tipi,yazı tipleri,yükleyici,kurucu,trueytpe,type1,resim"
+
+#~ msgctxt "Name"
+#~ msgid "Font Files"
+#~ msgstr "Yazı Tipi Dosyaları"
+
+#~ msgctxt "Name"
+#~ msgid "Font Viewer"
+#~ msgstr "Yazı Tipi Gösterici"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Plasma Themes"
+#~ msgctxt "Name"
+#~msgid "Global Theme"
+#~msgstr "Plasma Temaları"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Test Look and Feel package"
+#~ msgctxt "Comment"
+#~ msgid "Choose global look and feel"
+#~ msgstr "Görünüm ve Duyum paketini dene"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "theme, look, feel"
+#~ msgstr "tema, görünüm, duyum"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Plasma Themes"
+#~ msgctxt "Name"
+#~msgid "Global Themes"
+#~msgstr "Plasma Temaları"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Application Menu"
+#~ msgctxt "Name"
+#~ msgid "GNOME/GTK Application Styles"
+#~ msgstr "Uygulama Menüsü"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Application Menu"
+#~ msgctxt "Name"
+#~ msgid "Application Style"
+#~ msgstr "Uygulama Menüsü"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Widget Style and Behavior"
+#~ msgctxt "Comment"
+#~ msgid "Configure application style and behavior"
+#~ msgstr "Gereç Biçemi ve Davranışı"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE "
+#~ "applications,theme,plasma,menu,global menu"
+#~ msgstr ""
+#~ "biçim,biçimler,görünüm,parçacık,simgeler,araç çubukları,metin,vurgulama,"
+#~ "uygulamalar,KDE uygulamaları,tema,plasmamenüsü,genel menü"
+
+#~ msgctxt "Name"
+#~ msgid "Standard Shortcuts"
+#~ msgstr "Standart Kısayollar"
+
+#~ msgctxt "Comment"
+#~ msgid "Standard Keyboard Shortcuts for Applications"
+#~ msgstr "Uygulamalar için Standart Klavye Kısayolları"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
+#~ "shortcuts"
+#~ msgstr ""
+#~ "Tuşlar,Global tuş birleşimleri,Tuş şeması,Tuş kombinasyonları,kısayollar,"
+#~ "uygulama kısayolları"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Plasma Search"
+#~ msgctxt "Name"
+#~ msgid "Plasma Style"
+#~ msgstr "Plasma Araması"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Test Look and Feel package"
+#~ msgctxt "Comment"
+#~ msgid "Choose Plasma style"
+#~ msgstr "Görünüm ve Duyum paketini dene"
+
+#, fuzzy
+#~| msgctxt "X-KDE-Keywords"
+#~| msgid "Desktop Theme"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Desktop Theme,Plasma Theme"
+#~ msgstr "Masaüstü Teması"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Test Look and Feel package"
+#~ msgctxt "Comment"
+#~ msgid "Choose Plasma theme"
+#~ msgstr "Görünüm ve Duyum paketini dene"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Plasma Search"
+#~ msgctxt "Name"
+#~ msgid "Plasma Styles"
+#~ msgstr "Plasma Araması"
+
+#~ msgctxt "Name"
+#~ msgid "Icons"
+#~ msgstr "Simgeler"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Test Look and Feel package"
+#~ msgctxt "Comment"
+#~ msgid "Choose icon theme"
+#~ msgstr "Görünüm ve Duyum paketini dene"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "icons,effects,size,hicolor,locolor"
+#~ msgstr "simgeler,efektler,boyut,yüksekrenk,düşükrenk"
+
+#~ msgctxt "Name"
+#~ msgid "Emoticons"
+#~ msgstr "Duygu Simgeleri"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Customize the mouse cursor appearance"
+#~ msgctxt "Comment"
+#~ msgid "Choose emoticon theme"
+#~ msgstr "Fare işaretçisi görünümünü özelleştir"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Emoticons"
+#~ msgstr "Duygu Simgeleri"
+
+#~ msgctxt "Name"
+#~ msgid "DataEngine for Kimpanel"
+#~ msgstr "Kimpanel için DataEngine"
+
+#~ msgctxt "Comment"
+#~ msgid "DataEngine for Kimpanel"
+#~ msgstr "Kimpanel için DataEngine"
+
+#~ msgctxt "Name"
+#~ msgid "A nice name you have chosen for your interface"
+#~ msgstr "Arayüzünüz için seçtiğiniz güzel isim"
+
+#~ msgctxt "Comment"
+#~ msgid "A helpful description of the interface for the top right info box"
+#~ msgstr "Sağ üst bilgi kutucuğu için arayüzün açıklayıcı tanımı"
+
+#~ msgctxt "Name"
+#~ msgid "Audio and Video"
+#~ msgstr "Ses ve Video"
+
+#~ msgctxt "Comment"
+#~ msgid "Phonon Audio and Video"
+#~ msgstr "Phonon Ses ve Görüntü"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "Sound,Phonon,Audio,Video,Output,Device,Notification,Music,Communication,"
+#~ "Media,NMM,GStreamer,Xine"
+#~ msgstr ""
+#~ "Ses,Phonon,Ses,Video,Çıkış,Aygıt,Bildirim,Müzik,İletişim,Ortam,NMM,"
+#~ "GStreamer,Xine"
+
+#~ msgctxt "Name"
+#~ msgid "Look and Feel"
+#~ msgstr "Bak ve Hisset"
+
+#~ msgctxt "Name"
+#~ msgid "Workspace"
+#~ msgstr "Çalışma Alanı"
+
+#~ msgctxt "Comment"
+#~ msgid "Joystick"
+#~ msgstr "Oyun Çubuğu"
+
+#~ msgctxt "Name"
+#~ msgid "Joystick"
+#~ msgstr "Oyun Çubuğu"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "System sounds,Audio,Sound,Notify,Alerts,Notification,popups"
+#~ msgstr "Sistem sesleri,Ses,Uyarı,Uyarılar,Bildirimler"
+
+#~ msgctxt "Name"
+#~ msgid "Widget Style"
+#~ msgstr "Gereç Biçemi"
+
+#~ msgctxt "Comment"
+#~ msgid "Emoticon Theme"
+#~ msgstr "Duygu Teması"
+
+#~ msgctxt "Comment"
+#~ msgid "Icon Theme"
+#~ msgstr "Simge Teması"
+
+#~ msgctxt "Comment"
+#~ msgid "Font Installation, Preview and Removal"
+#~ msgstr "Yazı Tipi Kurulumu, Önizlemesi ve Kaldırılması"
+
+#~ msgctxt "Comment"
+#~ msgid "Fonts"
+#~ msgstr "Yazı Tipleri"
+
+#~ msgctxt "Comment"
+#~ msgid "Application Color Scheme"
+#~ msgstr "Uygulama Renk Şeması"
+
+#~ msgctxt "Name"
+#~ msgid "Cursor Theme"
+#~ msgstr "İmleç Teması"
+
+#~ msgctxt "Comment"
+#~ msgid "Mouse Cursor Theme"
+#~ msgstr "Fare İmleç Teması"
+
+#~ msgctxt "Comment"
+#~ msgid "Splash Screen Theme"
+#~ msgstr "Açılış Ekranı Teması"
+
+#~ msgctxt "Name"
+#~ msgid "Desktop Theme"
+#~ msgstr "Masaüstü Teması"
+
+#~ msgctxt "Comment"
+#~ msgid "Desktop Theme"
+#~ msgstr "Masaüstü Teması"
+
+#~ msgctxt "Name"
+#~ msgid "Look And Feel"
+#~ msgstr "Görünüm ve Duyum"
+
+#~ msgctxt "Comment"
+#~ msgid "Look And Feel"
+#~ msgstr "Görünüm ve Duyum"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure The Look And feel of the Desktop"
+#~ msgstr "Masaüstünün Görünüm ve Duyum ayarlarını yapılandır"
+
+#~ msgctxt "Name"
+#~ msgid "Language"
+#~ msgstr "Dil"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Application Color Scheme"
+#~ msgctxt "Comment"
+#~ msgid "Workspace and Application Colors"
+#~ msgstr "Uygulama Renk Şeması"
+
+#~ msgctxt "Name"
+#~ msgid "Menubar manager"
+#~ msgstr "Menü çubuğu yöneticisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Menubar exporter"
+#~ msgstr "Menü çubuğu aktarıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Menubar changed"
+#~ msgstr "Menü çubuğu değiştirildi"
+
+#~ msgctxt "Comment"
+#~ msgid "Settings changes will take effect only on application restart"
+#~ msgstr ""
+#~ "Ayar değişiklikleri sadece uygulama yeniden başlatıldıktan sonra "
+#~ "uygulanacaktır"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "password,email,name,organization,realname,login image,face,echo mode"
+#~ msgstr ""
+#~ "parola,e-posta,isim,kurum,gerçek isim,giriş resmi,fotoğraf,yazma kipi"
+
+#~ msgctxt "Comment"
+#~ msgid "User information such as password, name and email"
+#~ msgstr "Parola, isim ve e-posta gibi kullanıcı bilgileri"
+
+#~ msgctxt "Name"
+#~ msgid "Application Keyboard Shortcuts"
+#~ msgstr "Uygulama Klavye Kısayolları"
+
+#~ msgctxt "Name"
+#~ msgid "Translations"
+#~ msgstr "Çeviriler"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Icons-only Task Manager"
+#~ msgctxt "Name"
+#~ msgid "Icons-only Task Manager (Old backend)"
+#~ msgstr "Sadece-Simge Görev Yöneticisi"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Task Manager"
+#~ msgctxt "Name"
+#~ msgid "Task Manager (Old backend)"
+#~ msgstr "Görev Yöneticisi"
+
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Window Manager"
+#~ msgstr "Pencere Yöneticisi"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Here you can select the window manager to be run in your KDE session."
+#~ msgstr ""
+#~ "Buradan KDE oturumunuzda çalıştırmak istediğiniz pencere yöneticisini "
+#~ "seçebilirsiniz."
+
+#~ msgctxt "Name"
+#~ msgid ""
+#~ "Compiz custom (create wrapper script 'compiz-kde-launcher' to launch it)"
+#~ msgstr ""
+#~ "Compiz özel (çalıştırmak için sarıcı betik 'compiz-kde-launcher' oluştur)"
+
+#~ msgctxt "Name"
+#~ msgid "Compiz"
+#~ msgstr "Compiz"
+
+#~ msgctxt "Name"
+#~ msgid "Metacity (GNOME)"
+#~ msgstr "Metacity (GNOME)"
+
+#~ msgctxt "Name"
+#~ msgid "Openbox"
+#~ msgstr "Openbox"
+
+#~ msgctxt "Name"
+#~ msgid "Test"
+#~ msgstr "Test"
+
+#~ msgctxt "Name"
+#~ msgid "System Bell"
+#~ msgstr "Sistem Zili"
+
+#~ msgctxt "Comment"
+#~ msgid "System Bell"
+#~ msgstr "Sistem Zili"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "Bell,Audio,Sound,Volume,Pitch,Duration,PC Speaker,Internal Speaker,"
+#~ "Speaker,System Bell,System Speaker,Internal PC Speaker"
+#~ msgstr ""
+#~ "Zil,Ses,Ses Düzeyi,Akort,Süre,PC Hoparlörü,İç Hoparlör,Hoparlör,Sistem "
+#~ "Zili,Sistem Hoparlörü,Dahili PC Hoparlörü"
+
+#~ msgctxt "Name"
+#~ msgid "KDE TouchPad Enabler Daemon"
+#~ msgstr "KDE İmleçsürer Etkinleştirici Araç"
+
+#~ msgctxt "Comment"
+#~ msgid "Toggles the enable status of the TouchPad"
+#~ msgstr "İmleçsürer etkinlik durumunu değiştirir"
+
+#~ msgctxt "Name"
+#~ msgid "Paths"
+#~ msgstr "Yollar"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Improve accessibility for disabled persons"
+#~ msgctxt "Comment"
+#~ msgid "Accessibility Improvements for Disabled Persons"
+#~ msgstr "Görme sorunu olanlar için erişilebilirlik seçenekleri"
+
+#~ msgctxt "Name"
+#~ msgid "Bookmark Toolbar"
+#~ msgstr "Yer İmleri Araç Çubuğu"
+
+#~ msgctxt "Comment"
+#~ msgid "Drag-and-drop plugin for the Konqueror Popup Menu."
+#~ msgstr "Konqueror Açılır menüsü için Sürükle ve Bırak eklentisi."
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for the Konqueror Popup Menu"
+#~ msgstr "Konqueror Açılır Menüsü için eklenti"
+
+#~ msgctxt "Name"
+#~ msgid "Has State"
+#~ msgstr "Duruma Sahip"
+
+#~ msgctxt "Name"
+#~ msgid "State Value"
+#~ msgstr "Durum Değeri"
+
+#~ msgctxt "Comment"
+#~ msgid "Manage Social Desktop Providers"
+#~ msgstr "Sosyal Masaüstü Hizmetlerini Yönet"
+
+#~ msgctxt "Name"
+#~ msgid "Style"
+#~ msgstr "Biçim"
+
+#~ msgctxt "Name"
+#~ msgid "Display"
+#~ msgstr "Ekran"
+
+#~ msgctxt "Comment"
+#~ msgid "Manage which programs start up automatically with KDE."
+#~ msgstr ""
+#~ "Hangi programların KDE açılırken otomatik olarak başlatılacağını yönetin."
+
+#~ msgctxt "Comment"
+#~ msgid "System Bell Configuration"
+#~ msgstr "Sistem Zili Yapılandırması"
+
+#~ msgctxt "Comment"
+#~ msgid "Change the colors used in applications"
+#~ msgstr "Uygulamalarda kullanılacak renkleri yapılandır"
+
+#~ msgctxt "Comment"
+#~ msgid "Choose the default components for various services"
+#~ msgstr "Çeşitli servisler için öntanımlı bileşenleri seçin"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure date and time settings"
+#~ msgstr "Tarih ve saat ayarlarını yapılandır"
+
+#~ msgctxt "Comment"
+#~ msgid "Change the location important files are stored"
+#~ msgstr "Önemli dosyaların kaydedildiği yerleri düzenle"
+
+#~ msgctxt "Comment"
+#~ msgid "Customize the desktop theme"
+#~ msgstr "Masaüstü temasını özelleştir"
+
+#~ msgctxt "Comment"
+#~ msgid "Font settings"
+#~ msgstr "Yazı tipi ayarları"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Language, numeric, and time settings for your particular region"
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Numeric, currency and time formatting settings for your particular region"
+#~ msgstr "Bölgenize özgü dil, sayı ve zaman ayarları"
+
+#~ msgctxt "Comment"
+#~ msgid "Display Settings"
+#~ msgstr "Ekran Ayarları"
+
+#~ msgctxt "Comment"
+#~ msgid "Customize KDE Icons"
+#~ msgstr "KDE Simgelerini Özelleştir"
+
+#~ msgctxt "Name"
+#~ msgid "Service Manager"
+#~ msgstr "Servis Yöneticisi"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Services Configuration"
+#~ msgstr "KDE Servis Yapılandırması"
+
+#~ msgctxt "Comment"
+#~ msgid "Keyboard settings"
+#~ msgstr "Klavye ayarları"
+
+#~ msgctxt "Comment"
+#~ msgid "Configuration of keybindings"
+#~ msgstr "Tuş bağıntılarının yapılandırılması"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Font Management"
+#~ msgctxt "Name"
+#~ msgid "Session Management"
+#~ msgstr "Yazı Tipi Yönetimi"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure date and time settings"
+#~ msgctxt "Comment"
+#~ msgid "Configure the session manager and logout settings"
+#~ msgstr "Tarih ve saat ayarlarını yapılandır"
+
+#~ msgctxt "Comment"
+#~ msgid "Choose application-launch feedback style"
+#~ msgstr "Uygulama başlatıcı geri bildirim biçemini seç"
+
+#~ msgctxt "Comment"
+#~ msgid "Settings for the Phonon multimedia framework"
+#~ msgstr "Phonon çoklu ortam çalışma çerçevesi için ayarlar"
+
+#~ msgctxt "Comment"
+#~ msgid "Configuration of standard keybindings"
+#~ msgstr "Standart tuş bağıntıları yapılandırılması"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Allows the manipulation of widget behavior and changing the Style for KDE"
+#~ msgstr ""
+#~ "KDE için parçacıkların davranışlarını ve biçimini değiştirmeyi sağlar"
+
+#~ msgctxt "Comment"
+#~ msgid "Global options for the Plasma Workspace"
+#~ msgstr "Plasma Çalışma alanı için genel seçenekler"
+
+#~ msgctxt "Name"
+#~ msgid "Country/Region & Language"
+#~ msgstr "Ülke/Bölge ve Dil"
+
+#~ msgctxt "Comment"
+#~ msgid "Testing background settings in Plasma Quick Containments"
+#~ msgstr "Plasma Hızlı Barındırmasında arkaplan ayarlarını sınama"

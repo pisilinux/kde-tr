@@ -1,0 +1,493 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-multimedia-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-26 02:28+0100\n"
+"PO-Revision-Date: 2017-06-05 09:25+0000\n"
+"Last-Translator: Mesutcan <mesutcank@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/extragear-"
+"multimedia-k-tr/language/tr/)\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Volkan Gezer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "volkangezer@gmail.com"
+
+#. i18n: ectx: label, entry (saveUrl), group (General)
+#. i18n: ectx: label, entry (saveVideos), group (General)
+#: src/kamosoSettings.kcfg:11 src/kamosoSettings.kcfg:15
+#, kde-format
+msgid "Where the photos are saved."
+msgstr "Fotoğrafların kaydedileceği konum."
+
+#. i18n: ectx: label, entry (mirrored), group (WebcamSettings)
+#: src/kamosoSettings.kcfg:22
+#, kde-format
+msgid "Vertically mirror the camera view."
+msgstr ""
+
+#. i18n: ectx: label, entry (DeviceObjectId), group (WebcamSettings)
+#: src/kamosoSettings.kcfg:25
+#, kde-format
+msgid "Points to the last used webcam."
+msgstr "Son kullanılan web kamerasına işaret eder."
+
+#: src/main.cpp:35 src/qml/Main.qml:31
+#, kde-format
+msgid "Kamoso"
+msgstr "Kamoso"
+
+#: src/main.cpp:35
+#, kde-format
+msgid "Utility for taking photos and videos using a webcam"
+msgstr "Web kamerasını kullanarak fotoğraf ve video çekmek için bir araç"
+
+#: src/main.cpp:36
+#, kde-format
+msgid "(C) 2008-2015 Alex Fiestas and Aleix Pol"
+msgstr "(C) 2008-2015 Alex Fiestas ve Aleix Pol"
+
+#: src/main.cpp:38
+#, kde-format
+msgid "Aleix Pol Gonzalez"
+msgstr "Aleix Pol Gonzalez"
+
+#: src/main.cpp:38
+#, kde-format
+msgid "Semaphore hacker"
+msgstr "Bayrak korsanı"
+
+#: src/main.cpp:39
+#, kde-format
+msgid "Alex Fiestas"
+msgstr "Alex Fiestas"
+
+#: src/main.cpp:39
+#, kde-format
+msgid "Coffee drinker"
+msgstr "Kahvekolik"
+
+#: src/main.cpp:40
+#, kde-format
+msgid "caseymoura"
+msgstr ""
+
+#: src/main.cpp:40
+#, kde-format
+msgid ""
+"Uploaded the shutter sound: https://freesound.org/people/caseymoura/"
+"sounds/445482/"
+msgstr ""
+
+#: src/qml/ImagesView.qml:54
+#, fuzzy, kde-format
+#| msgid "Share..."
+msgid "Share"
+msgstr "Paylaş..."
+
+#: src/qml/ImagesView.qml:121 src/qml/ImagesView.qml:166
+#: src/qml/ImagesView.qml:320
+#, kde-format
+msgid "Back"
+msgstr "Geri"
+
+#: src/qml/ImagesView.qml:160
+#, kde-format
+msgid "Media now exported"
+msgstr "Medya dışa aktarıldı"
+
+#: src/qml/ImagesView.qml:187
+#, kde-format
+msgid "Configure Kamoso"
+msgstr ""
+
+#: src/qml/ImagesView.qml:195
+#, kde-format
+msgid "Save Locations"
+msgstr ""
+
+#: src/qml/ImagesView.qml:202
+#, fuzzy, kde-format
+#| msgid "Take pictures"
+msgid "Pictures:"
+msgstr "Resim çek"
+
+#: src/qml/ImagesView.qml:217 src/qml/ImagesView.qml:230
+#, kde-format
+msgid "Choose the folder where Kamoso will save pictures"
+msgstr ""
+
+#: src/qml/ImagesView.qml:248
+#, fuzzy, kde-format
+#| msgid "Videos: %1"
+msgid "Videos:"
+msgstr "Videolar: %1"
+
+#: src/qml/ImagesView.qml:263 src/qml/ImagesView.qml:277
+#, kde-format
+msgid "Choose the folder where Kamoso will save videos"
+msgstr ""
+
+#: src/qml/ImagesView.qml:292
+#, fuzzy, kde-format
+#| msgid "Camera Settings"
+msgid "Cameras"
+msgstr "Kamera Ayarları"
+
+#: src/qml/ImagesView.qml:308
+#, kde-format
+msgid "Mirror camera"
+msgstr ""
+
+#: src/qml/ImagesView.qml:347
+#, kde-kuit-format
+msgctxt "@info"
+msgid "There are no images in <filename>%1</filename>"
+msgstr ""
+
+#: src/qml/ImagesView.qml:359
+#, fuzzy, kde-format
+#| msgid "Share..."
+msgid "Share %1 Item..."
+msgid_plural "Share %1 Items..."
+msgstr[0] "Paylaş..."
+msgstr[1] "Paylaş..."
+
+#: src/qml/ImagesView.qml:359
+#, fuzzy, kde-format
+#| msgid "Share..."
+msgid "Share Item..."
+msgstr "Paylaş..."
+
+#: src/qml/ImagesView.qml:367
+#, fuzzy, kde-format
+#| msgid "Move to trash..."
+msgid "Move %1 Item to Trash"
+msgid_plural "Move %1 Items to Trash"
+msgstr[0] "Çöpe taşı..."
+msgstr[1] "Çöpe taşı..."
+
+#: src/qml/ImagesView.qml:367
+#, fuzzy, kde-format
+#| msgid "Move to trash..."
+msgid "Move Item to Trash"
+msgstr "Çöpe taşı..."
+
+#: src/qml/ImagesView.qml:376
+#, fuzzy, kde-format
+#| msgid "Open Folder..."
+msgid "Open Pictures Folder"
+msgstr "Klasör Aç..."
+
+#: src/qml/ImagesView.qml:383
+#, kde-format
+msgid "Configure Kamoso..."
+msgstr ""
+
+#: src/qml/Main.qml:94
+#, fuzzy, kde-format
+#| msgid "Take pictures"
+msgid "Take a Picture"
+msgstr "Resim çek"
+
+#: src/qml/Main.qml:119
+#, fuzzy, kde-format
+#| msgid "Burst"
+msgid "End Burst"
+msgstr "Şipşak"
+
+#: src/qml/Main.qml:119
+#, fuzzy, kde-format
+#| msgid "Captures directory"
+msgid "Capture a Burst"
+msgstr "Ekran görüntüsü yakalama dizini"
+
+#: src/qml/Main.qml:121
+#, fuzzy, kde-format
+#| msgid "1 photo"
+#| msgid_plural "%1 photos"
+msgid "1 photo taken"
+msgid_plural "%1 photos taken"
+msgstr[0] "1 fotoğraf"
+msgstr[1] "%1 fotoğraf"
+
+#: src/qml/Main.qml:144
+#, fuzzy, kde-format
+#| msgid "Record"
+msgid "Stop Recording"
+msgstr "Kayıt"
+
+#: src/qml/Main.qml:144
+#, fuzzy, kde-format
+#| msgid "Take a video"
+msgid "Record a Video"
+msgstr "Video Al"
+
+#: src/qml/Main.qml:199
+#, fuzzy, kde-format
+#| msgid "Kamoso Gallery"
+msgid "Effects Gallery"
+msgstr "Kamoso Galerisi"
+
+#: src/video/webcamcontrol.cpp:362
+#, fuzzy, kde-format
+#| msgid "1 photo"
+#| msgid_plural "%1 photos"
+msgid "Photo taken"
+msgstr "1 fotoğraf"
+
+#: src/video/webcamcontrol.cpp:362
+#, kde-format
+msgid "Saved in %1"
+msgstr ""
+
+#~ msgid "Save to..."
+#~ msgstr "Şuraya kaydet..."
+
+#~ msgid "Select a directory where to save your pictures"
+#~ msgstr "Resimlerinizi kaydedeceğiniz dizini seçin"
+
+#~ msgid "Select a directory where to save your videos"
+#~ msgstr "Videolarınız kaydedeceğiniz dizini seçin"
+
+#~ msgid "Move to trash... (%1)"
+#~ msgstr "Çöpe taşı... (%1)"
+
+#~ msgid "Are you sure you want to remove %1 file?"
+#~ msgid_plural "Are you sure you want to remove %1 files?"
+#~ msgstr[0] "%1 dosyayı silmek istediğinize emin misiniz?"
+#~ msgstr[1] "%1 dosyayı silmek istediğinize emin misiniz?"
+
+#~ msgid "Share... (%1)"
+#~ msgstr "Paylaş... (%1)"
+
+#~ msgid "Shoot"
+#~ msgstr "Çek"
+
+#~ msgid "Places"
+#~ msgstr "Konumlar"
+
+#~ msgid "Photos: %1"
+#~ msgstr "Fotoğraflar: %1"
+
+#~ msgid "Use flash"
+#~ msgstr "Flaş kullan"
+
+#~ msgid "On screen information"
+#~ msgstr "Ekran üzeri bilgisi"
+
+#~ msgid "Brightness:"
+#~ msgstr "Parlaklık:"
+
+#~ msgid "Hue:"
+#~ msgstr "Renk Tonu:"
+
+#~ msgid "Contrast:"
+#~ msgstr "Karşıtlık:"
+
+#~ msgid "Saturation:"
+#~ msgstr "Doygunluk:"
+
+#~ msgid "Gamma:"
+#~ msgstr "Gama:"
+
+#~ msgid "Reset"
+#~ msgstr "Sıfırla"
+
+#~ msgid "%1 selected"
+#~ msgstr "%1 seçili"
+
+#~ msgid "The URL was just shared"
+#~ msgstr "Adres henüz paylaşıldı"
+
+#~ msgid "Run"
+#~ msgstr "Çalıştır"
+
+#~ msgid "Cancel"
+#~ msgstr "İptal"
+
+#~ msgid "Switch to '%1' mode"
+#~ msgstr "'%1' kipine geçiş yap"
+
+#~ msgid "Show gallery..."
+#~ msgstr "Galeriyi göster..."
+
+#~ msgid "Show settings..."
+#~ msgstr "Ayarları göster..."
+
+#~ msgid "Open..."
+#~ msgstr "Aç..."
+
+#~ msgid "Open Directory..."
+#~ msgstr "Dizini Aç..."
+
+#~ msgid "Action!"
+#~ msgstr "Eylem!"
+
+#~ msgid "Play a sound when a photo is taken."
+#~ msgstr "Fotoğraf çekildiğinde bir ses çal."
+
+#~ msgid "How much seconds kamoso waits before make the picture."
+#~ msgstr "Fotoğraf çekilmeden önce Kamoso kaç saniye beklemeli."
+
+#~ msgid "Webcam picture retriever"
+#~ msgstr "Web kamerası resim alıcı"
+
+#~ msgid "Smile! :)"
+#~ msgstr "Gülümseyin! :)"
+
+#~ msgid "Dummy export Output: "
+#~ msgstr "Sahte dışa aktarma çıktısı: "
+
+#~ msgid "Video Information:"
+#~ msgstr "Video Bilgisi:"
+
+#~ msgid "Title"
+#~ msgstr "Başlık"
+
+#~ msgid "Tags:"
+#~ msgstr "Etiketler:"
+
+#~ msgid "Kamoso, KDE"
+#~ msgstr "Kamoso, KDE"
+
+#~ msgid "Description"
+#~ msgstr "Açıklama"
+
+#~ msgid ""
+#~ "You need to supply a username and a password to be able to upload videos "
+#~ "to YouTube"
+#~ msgstr ""
+#~ "YouTube'a video yüklemek için kullanıcı adı ve şifre girmeniz gerekiyor"
+
+#~ msgid "Server:"
+#~ msgstr "Sunucu:"
+
+#~ msgid "Authentication for YouTube"
+#~ msgstr "YouTube için Kimlik Doğrulama"
+
+#~ msgid "Title:"
+#~ msgstr "Başlık:"
+
+#~ msgid "Enter a title for the video..."
+#~ msgstr "Video için bir başlık girin..."
+
+#~ msgid "KDE, Kamoso"
+#~ msgstr "KDE, Kamoso"
+
+#~ msgid "Description:"
+#~ msgstr "Tanımlama:"
+
+#~ msgid "Share Tool"
+#~ msgstr "Aracı Paylaş"
+
+#~ msgid "Implementation"
+#~ msgstr "Uygulama"
+
+#~ msgid "Files to share"
+#~ msgstr "Paylaşılacak dosyalar"
+
+#~ msgid "Data tuple to initialize the process with"
+#~ msgstr "Süreci başlatacak veri demeti"
+
+#~ msgid "Must specify some files to share"
+#~ msgstr "Paylaşılacak bazı dosyalar belirtilmeli"
+
+#~ msgid "Error in the data argument formatting: %1 at %2"
+#~ msgstr "Veri bağımsız değişkeni biçimlendirme hatası: %2 üzerinde %1"
+
+#~ msgid "Error in the data argument type, it should be a json object."
+#~ msgstr "Veri bağımsız değişkeni tür hatası, bir json nesnesi olmalıydı."
+
+#~ msgid "Use"
+#~ msgstr "Kullan"
+
+#~ msgid "Directory where kamoso saves the photos"
+#~ msgstr "Kamoso resim kayıt dizini"
+
+#~ msgid "General"
+#~ msgstr "Genel"
+
+#~ msgid "Photo Settings"
+#~ msgstr "Fotoğraf Ayarları"
+
+#~ msgid "Video Settings"
+#~ msgstr "Video Ayarları"
+
+#~ msgid "Trash"
+#~ msgstr "Çöp"
+
+#~ msgctxt "Used to join urls"
+#~ msgid ", "
+#~ msgstr ", "
+
+#~ msgid "Done: %1"
+#~ msgstr "Tamamlandı: %1"
+
+#~ msgid "(C) 2008-2010 Alex Fiestas and Aleix Pol"
+#~ msgstr "(C) 2008-2010 Alex Fiestas ve Aleix Pol"
+
+#~ msgid "No webcam was found."
+#~ msgstr "Web kamerası bulunamadı."
+
+#~ msgid "Choose the webcam to use:"
+#~ msgstr "Kullanılacak web kamerası seçin:"
+
+#~ msgid "<"
+#~ msgstr "<"
+
+#~ msgid ">"
+#~ msgstr ">"
+
+#~ msgid "Time until the photo is taken:"
+#~ msgstr "Fotoğrafların çekileceği süre:"
+
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgid "Uploads files to YouTube"
+#~ msgstr "Dosyaları YouTube'a yükle"
+
+#~ msgid "Video information:"
+#~ msgstr "Video bilgisi:"
+
+#~ msgid "Kamoso %1"
+#~ msgstr "Kamoso %1"
+
+#~ msgid ""
+#~ "This video has been recorded using Kamoso, a KDE software to play with "
+#~ "webcams!"
+#~ msgstr ""
+#~ "Bu video, web kamerası ile oynamak için bir KDE yazılımı olan Kamoso ile "
+#~ "kaydedildi!"
+
+#~ msgid "Brightness"
+#~ msgstr "Parlaklık"
+
+#~ msgid "Hue"
+#~ msgstr "Ton"
+
+#~ msgid "Contrast"
+#~ msgstr "Karşıtlık"
+
+#~ msgid "Saturation"
+#~ msgstr "Doygunluk"
+
+#~ msgid "Gamma"
+#~ msgstr "Gama"

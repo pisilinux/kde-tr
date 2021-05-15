@@ -1,0 +1,149 @@
+# translation of kcmlaunch.po to Türkçe
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Görkem Çetin, <gorkem@gelecek.com.tr>, 2000.
+# Görkem Çetin <gorkem@kde.org>, 2003.
+# Serdar Soytetir <tulliana@gmail.com>, 2009.
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2010.
+# Volkan Gezer <volkangezer@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmlaunch\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-15 02:24+0200\n"
+"PO-Revision-Date: 2021-04-20 15:08+0200\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.08.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Hasan Kıran"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sunder67@hotmail.com"
+
+#: launchfeedback.cpp:40
+#, kde-format
+msgid "Configure application launch feedback"
+msgstr "Uygulama başlatma geri bildirimini yapılandırma"
+
+#. i18n: ectx: label, entry (cursorTimeout), group (BusyCursorSettings)
+#. i18n: ectx: label, entry (taskbarTimeout), group (TaskbarButtonSettings)
+#: launchfeedbacksettingsbase.kcfg:15 launchfeedbacksettingsbase.kcfg:29
+#, kde-format
+msgid "Timeout in seconds"
+msgstr "Saniye cinsinden zaman aşımı"
+
+#: package/contents/ui/main.qml:29
+#, kde-format
+msgid "Launch Feedback"
+msgstr "Başlatma Geri Bildirimi"
+
+#: package/contents/ui/main.qml:45
+#, kde-format
+msgid "Cursor:"
+msgstr "İmleç:"
+
+#: package/contents/ui/main.qml:46
+#, kde-format
+msgid "No Feedback"
+msgstr "Geri Bildirim Yok"
+
+#: package/contents/ui/main.qml:61
+#, kde-format
+msgid "Static"
+msgstr "Sabit"
+
+#: package/contents/ui/main.qml:76
+#, kde-format
+msgid "Blinking"
+msgstr "Titreyen"
+
+#: package/contents/ui/main.qml:91
+#, kde-format
+msgid "Bouncing"
+msgstr "Sıçrayan"
+
+#: package/contents/ui/main.qml:105
+#, kde-format
+msgid "Task Manager:"
+msgstr "Görev Yöneticisi:"
+
+#: package/contents/ui/main.qml:107
+#, kde-format
+msgid "Enable animation"
+msgstr "Animasyonu etkinleştir"
+
+#: package/contents/ui/main.qml:121
+#, kde-format
+msgid "Stop animation after:"
+msgstr "Animasyonu durdurduktan sonra:"
+
+#: package/contents/ui/main.qml:132
+#, kde-format
+msgid "%1 sec"
+msgid_plural "%1 secs"
+msgstr[0] "%1 sn"
+msgstr[1] "%1 sn"
+
+#~ msgid ""
+#~ "<h1>Launch Feedback</h1> You can configure the application-launch "
+#~ "feedback here."
+#~ msgstr ""
+#~ "<h1>Geri Bildirimi Çalıştır</h1>Buradan uygulama çalıştırma geri "
+#~ "bildirimlerini ayarlayabilirsiniz."
+
+#~ msgid ""
+#~ "<h1>Busy Cursor</h1>\n"
+#~ "KDE offers a busy cursor for application startup notification.\n"
+#~ "To enable the busy cursor, select one kind of visual feedback\n"
+#~ "from the combobox.\n"
+#~ "It may occur, that some applications are not aware of this startup\n"
+#~ "notification. In this case, the cursor stops blinking after the time\n"
+#~ "given in the section 'Startup indication timeout'"
+#~ msgstr ""
+#~ "<h1>Meşgul İmleç</h1>\n"
+#~ "Bir uygulama çalıştığı zaman KDE meşgul bir imleç gösterebilir.\n"
+#~ "Meşgul imleci etkinleştirmek için 'Meşgul imleci etkinleştir'\n"
+#~ "düğmesine tıklayın.\n"
+#~ "Bazı uygulamalar bu başlatma bildiriminden haberdar olmayabilirler\n"
+#~ "Bu durumda imleç 'Başlangıç göstergesi zaman aşımı' bölümünde\n"
+#~ "belirtilen zamandan sonra yanıp sönmeyi bırakır"
+
+#~ msgid "No Busy Cursor"
+#~ msgstr "Meşgul İmleci yok"
+
+#~ msgid "Passive Busy Cursor"
+#~ msgstr "Pasif Meşgul İmleci"
+
+#~ msgid "Taskbar &Notification"
+#~ msgstr "&Görev Çubuğu Bildirimi"
+
+#~ msgid ""
+#~ "<H1>Taskbar Notification</H1>\n"
+#~ "You can enable a second method of startup notification which is\n"
+#~ "used by the taskbar where a button with a rotating hourglass appears,\n"
+#~ "symbolizing that your started application is loading.\n"
+#~ "It may occur, that some applications are not aware of this startup\n"
+#~ "notification. In this case, the button disappears after the time\n"
+#~ "given in the section 'Startup indication timeout'"
+#~ msgstr ""
+#~ "<H1>Görev Çubuğu Bildirimi</H1>\n"
+#~ "Başlattığınız bir uygulamanın yüklendiğini gösterecek, görev çubuğunda\n"
+#~ "dönen bir kum saati olarak görünen başlangıç bildirimi için ikinci bir "
+#~ "yöntemi\n"
+#~ "etkinleştirebilirsiniz. Bazı uygulamaların bu\n"
+#~ "başlangıç bildiriminden haberleri olmayabilir. Bu durumda düğme\n"
+#~ "'Başlangıç göstergesi zaman aşımı' kısmında verilen\n"
+#~ "zaman kadar sonra kaybolacaktır"
+
+#~ msgid "Start&up indication timeout:"
+#~ msgstr "&Başlangıç gösterici zaman aşımı: "

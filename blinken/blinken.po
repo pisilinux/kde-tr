@@ -1,0 +1,285 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Görkem Çetin <gorkem@kde.org.tr>, 2005
+# İsmail Şimşek <simsek@kde.org.tr>, 2005
+# kaya oğuz <kaya@kuzeykutbu.org>, 2005
+# Kaya Oğuz <kaya@kuzeykutbu.org>, 2005
+# Muhammet Kara <muhammetk@gmail.com>, 2009
+# Necmettin Begiter <necmettin.begiter@gmail.com>, 2008
+# obsoleteman <tulliana@gmail.com>, 2007-2008,2012
+# Volkan Gezer <volkangezer@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeedu-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-01-03 02:13+0100\n"
+"PO-Revision-Date: 2014-06-08 13:57+0000\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/kdeedu-k-tr/"
+"language/tr/)\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Görkem Çetin, İsmail Şimşek, Kaya Oğuz, Necmettin Begiter"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+"gorkem@kde.org, simsek@kde.org.tr, kaya@kuzeykutbu.org, necmettin@begiter."
+"gen.tr"
+
+#: blinken.cpp:70
+#, kde-format
+msgctxt ""
+"If the Steve font that is used by Blinken by default to show status messages "
+"does not support any of the characters of your language, please translate "
+"that message to 1 and KDE standard font will be used to show the texts, if "
+"not translate it to 0"
+msgid "0"
+msgstr "0"
+
+#: blinken.cpp:182
+#, kde-format
+msgid "Sounds"
+msgstr "Sesler"
+
+#: blinken.cpp:183
+#, kde-format
+msgid "Font"
+msgstr "Yazı tipi"
+
+#: blinken.cpp:225
+#, kde-format
+msgctxt "@action:button Start a new game"
+msgid "Start"
+msgstr "Başlat"
+
+#: blinken.cpp:237
+#, kde-format
+msgid "Restart"
+msgstr "Yeniden Başla"
+
+#: blinken.cpp:415
+#, kde-format
+msgid "Enter Your Name"
+msgstr "İsminizi Giriniz"
+
+#: blinken.cpp:415
+#, kde-format
+msgctxt "@label:textbox refers to the user's name"
+msgid "Name:"
+msgstr "İsim:"
+
+#: blinken.cpp:691
+#, kde-format
+msgid "Restart the game"
+msgstr "Oyunu yeniden başlat"
+
+#: blinken.cpp:693
+#, kde-format
+msgid "Quit Blinken"
+msgstr "Blinken'den Çık"
+
+#: blinken.cpp:694
+#, kde-format
+msgid "View Highscore Table"
+msgstr "Yüksek Puanlar Tablosunu Aç"
+
+#: blinken.cpp:699
+#, kde-format
+msgid "Show Settings"
+msgstr "Ayarları Göster"
+
+#: blinken.cpp:700
+#, kde-format
+msgid "Hide Settings"
+msgstr "Ayarları Gizle"
+
+#: blinken.cpp:703
+#, kde-format
+msgid "2nd Level"
+msgstr "2 nci Seviye"
+
+#: blinken.cpp:704
+#, kde-format
+msgid "1st Level"
+msgstr "1 nci Seviye"
+
+#: blinken.cpp:705
+#, kde-format
+msgid "Random Level"
+msgstr "Rasgele Seviye"
+
+#: blinken.cpp:706
+#, kde-format
+msgid "Press the key for this button"
+msgstr "Bu düğmeye atanacak tuşa basın"
+
+#: blinken.cpp:707
+#, kde-format
+msgid "Click any button to change its key"
+msgstr "Tuşunu değiştirmek istediğiniz düğmeye basın"
+
+#: blinken.cpp:713
+#, kde-format
+msgid "Press Start to begin"
+msgstr "Başlamak için Başla'ya basın"
+
+#: blinken.cpp:717
+#, kde-format
+msgid "Set the Difficulty Level..."
+msgstr "Zorluk Seviyesini Ayarla..."
+
+#: blinken.cpp:727
+#, kde-format
+msgid "Next sequence in 3..."
+msgstr "Sonraki diziye 3..."
+
+#: blinken.cpp:740
+#, kde-format
+msgid "Next sequence in 3, 2..."
+msgstr "Sonraki diziye 3, 2..."
+
+#: blinken.cpp:744
+#, kde-format
+msgid "Next sequence in 2..."
+msgstr "Sonraki diziye 2..."
+
+#: blinken.cpp:758
+#, kde-format
+msgid "Next sequence in 3, 2, 1..."
+msgstr "Sonraki diziye 3, 2, 1..."
+
+#: blinken.cpp:762
+#, kde-format
+msgid "Next sequence in 2, 1..."
+msgstr "Sonraki diziye 2,1..."
+
+#: blinken.cpp:774
+#, kde-format
+msgid "Remember this sequence..."
+msgstr "Bu diziyi hatırla..."
+
+#: blinken.cpp:785
+#, kde-format
+msgid "Repeat the sequence"
+msgstr "Diziyi tekrarla"
+
+#: blinken.cpp:802
+#, kde-format
+msgid "2"
+msgstr "2"
+
+#: blinken.cpp:803
+#, kde-format
+msgid "1"
+msgstr "1"
+
+#: blinken.cpp:804
+#, kde-format
+msgid "?"
+msgstr "?"
+
+#: blinken.cpp:808
+#, kde-format
+msgctxt "@label:chooser which level is currently being played"
+msgid "Level"
+msgstr "Seviye"
+
+#. i18n: ectx: label, entry (playSounds), group (general)
+#: blinken.kcfg:9
+#, kde-format
+msgid "Play sounds"
+msgstr "Sesleri çal"
+
+#. i18n: ectx: label, entry (customFont), group (general)
+#: blinken.kcfg:13
+#, kde-format
+msgid "Use custom font for status text"
+msgstr "Durum metni için özel yazı tipi kullan"
+
+#: highscoredialog.cpp:138
+#, kde-format
+msgctxt "@title:window the highest scores for each level are shown"
+msgid "Highscores"
+msgstr "Yüksek Puanlar"
+
+#: highscoredialog.cpp:149
+#, kde-format
+msgctxt "@title:group High scores Level 1 tab title"
+msgid "Level 1"
+msgstr "Düzey 1"
+
+#: highscoredialog.cpp:150
+#, kde-format
+msgctxt "@title:group High scores Level 2 tab title"
+msgid "Level 2"
+msgstr "Seviye 2"
+
+#: highscoredialog.cpp:151
+#, kde-format
+msgctxt "@title:group High scores Level ? tab tible"
+msgid "Level ?"
+msgstr "Seviye ?"
+
+#: main.cpp:29
+#, kde-format
+msgid "Blinken"
+msgstr "Blinken"
+
+#: main.cpp:29
+#, kde-format
+msgid "A memory enhancement game"
+msgstr "Bir hafıza geliştirme oyunu"
+
+#: main.cpp:29
+#, fuzzy, kde-format
+#| msgid ""
+#| "© 2005-2007 Albert Astals Cid\n"
+#| "© 2005-2007 Danny Allen"
+msgid ""
+"© 2005-2007 Albert Astals Cid\n"
+"SPDX-FileCopyrightText: 2005-2007 Danny Allen "
+msgstr ""
+"© 2005-2007 Albert Astals Cid\n"
+"© 2005-2007 Danny Allen"
+
+#: main.cpp:30
+#, kde-format
+msgid "Albert Astals Cid"
+msgstr "Albert Astals Cid"
+
+#: main.cpp:30
+#, kde-format
+msgid "Coding"
+msgstr "Kodlama"
+
+#: main.cpp:31
+#, kde-format
+msgid "Danny Allen"
+msgstr "Danny Allen"
+
+#: main.cpp:31
+#, kde-format
+msgid "Design, Graphics and Sounds"
+msgstr "Tasarım, Grafik ve Sesler"
+
+#: main.cpp:32
+#, kde-format
+msgid "Steve Jordi"
+msgstr "Steve Jordi"
+
+#: main.cpp:32
+#, kde-format
+msgid "GPL'ed his 'Steve' font so that we could use it"
+msgstr "Kullanabilelim diye 'Steve' yazı tipini GPL lisansıyla yayınladı"

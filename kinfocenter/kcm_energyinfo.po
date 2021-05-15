@@ -1,0 +1,408 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Volkan Gezer <volkangezer@gmail.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-04-26 00:20+0000\n"
+"PO-Revision-Date: 2017-04-24 16:26+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Volkan Gezer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "volkangezer@gmail.com"
+
+#: kcm.cpp:56
+#, kde-format
+msgid "Energy Consumption Statistics"
+msgstr "Güç Tüketimi İstatistikleri"
+
+#: kcm.cpp:58
+#, kde-format
+msgid "Kai Uwe Broulik"
+msgstr "Kai Uwe Broulik"
+
+#: package/contents/ui/main.qml:35
+#, kde-format
+msgid "This module lets you see energy information and statistics."
+msgstr ""
+
+#: package/contents/ui/main.qml:63
+#, kde-format
+msgid "Battery"
+msgstr "Pil"
+
+#: package/contents/ui/main.qml:65
+#, kde-format
+msgid "Rechargeable"
+msgstr "Şarj edilebilir"
+
+#: package/contents/ui/main.qml:66
+#, kde-format
+msgid "Charge state"
+msgstr "Şarj durumu"
+
+#: package/contents/ui/main.qml:67
+#, fuzzy, kde-format
+#| msgid "Current"
+msgid "Current charge"
+msgstr "Akım"
+
+#: package/contents/ui/main.qml:67 package/contents/ui/main.qml:68
+#, kde-format
+msgid "%"
+msgstr "%"
+
+#: package/contents/ui/main.qml:68
+#, kde-format
+msgid "Health"
+msgstr ""
+
+#: package/contents/ui/main.qml:69
+#, kde-format
+msgid "Vendor"
+msgstr "Tedarikçi"
+
+#: package/contents/ui/main.qml:70
+#, kde-format
+msgid "Model"
+msgstr "Model"
+
+#: package/contents/ui/main.qml:71
+#, kde-format
+msgid "Serial Number"
+msgstr "Seri Numarası"
+
+#: package/contents/ui/main.qml:72
+#, kde-format
+msgid "Technology"
+msgstr ""
+
+#: package/contents/ui/main.qml:76
+#, kde-format
+msgid "Energy"
+msgstr "Enerji"
+
+#: package/contents/ui/main.qml:78
+#, kde-format
+msgctxt "current power draw from the battery in W"
+msgid "Consumption"
+msgstr "Tüketim"
+
+#: package/contents/ui/main.qml:78
+#, kde-format
+msgctxt "Watt"
+msgid "W"
+msgstr "W"
+
+#: package/contents/ui/main.qml:79
+#, kde-format
+msgid "Voltage"
+msgstr "Gerilim"
+
+#: package/contents/ui/main.qml:79
+#, kde-format
+msgctxt "Volt"
+msgid "V"
+msgstr "V"
+
+#: package/contents/ui/main.qml:80
+#, kde-format
+msgid "Remaining energy"
+msgstr ""
+
+#: package/contents/ui/main.qml:80 package/contents/ui/main.qml:81
+#: package/contents/ui/main.qml:82
+#, kde-format
+msgctxt "Watt-hours"
+msgid "Wh"
+msgstr "Wh"
+
+#: package/contents/ui/main.qml:81
+#, fuzzy, kde-format
+#| msgid "Last full"
+msgid "Last full charge"
+msgstr "Son dolum"
+
+#: package/contents/ui/main.qml:82
+#, kde-format
+msgid "Original charge capacity"
+msgstr ""
+
+#: package/contents/ui/main.qml:86
+#, kde-format
+msgid "Environment"
+msgstr "Çevre"
+
+#: package/contents/ui/main.qml:88
+#, kde-format
+msgid "Temperature"
+msgstr "Sıcaklık"
+
+#: package/contents/ui/main.qml:88
+#, kde-format
+msgctxt "Degree Celsius"
+msgid "°C"
+msgstr "°C"
+
+#: package/contents/ui/main.qml:95
+#, kde-format
+msgid "Not charging"
+msgstr "Şarj olmuyor"
+
+#: package/contents/ui/main.qml:96
+#, kde-format
+msgid "Charging"
+msgstr "Şarj oluyor"
+
+#: package/contents/ui/main.qml:97
+#, kde-format
+msgid "Discharging"
+msgstr "Şarj tüketiliyor"
+
+#: package/contents/ui/main.qml:98
+#, kde-format
+msgid "Fully charged"
+msgstr "Tam dolu"
+
+#: package/contents/ui/main.qml:104
+#, kde-format
+msgid "Lithium ion"
+msgstr ""
+
+#: package/contents/ui/main.qml:105
+#, kde-format
+msgid "Lithium polymer"
+msgstr ""
+
+#: package/contents/ui/main.qml:106
+#, kde-format
+msgid "Lithium iron phosphate"
+msgstr ""
+
+#: package/contents/ui/main.qml:107
+#, kde-format
+msgid "Lead acid"
+msgstr ""
+
+#: package/contents/ui/main.qml:108
+#, kde-format
+msgid "Nickel cadmium"
+msgstr ""
+
+#: package/contents/ui/main.qml:109
+#, kde-format
+msgid "Nickel metal hydride"
+msgstr ""
+
+#: package/contents/ui/main.qml:110
+#, kde-format
+msgid "Unknown technology"
+msgstr ""
+
+#: package/contents/ui/main.qml:117
+#, kde-format
+msgid "Last hour"
+msgstr "Son saat"
+
+#: package/contents/ui/main.qml:117
+#, kde-format
+msgid "Last 2 hours"
+msgstr "Son 2 saat"
+
+#: package/contents/ui/main.qml:117
+#, kde-format
+msgid "Last 12 hours"
+msgstr "Son 12 saat"
+
+#: package/contents/ui/main.qml:117
+#, kde-format
+msgid "Last 24 hours"
+msgstr "Son 24 saat"
+
+#: package/contents/ui/main.qml:117
+#, kde-format
+msgid "Last 48 hours"
+msgstr "Son 48 saat"
+
+#: package/contents/ui/main.qml:117
+#, kde-format
+msgid "Last 7 days"
+msgstr "Son 7 gün"
+
+#: package/contents/ui/main.qml:183
+#, kde-format
+msgid "Internal battery"
+msgstr ""
+
+#: package/contents/ui/main.qml:184
+#, fuzzy, kde-format
+#| msgid "Battery"
+msgid "UPS battery"
+msgstr "Pil"
+
+#: package/contents/ui/main.qml:185
+#, kde-format
+msgid "Monitor battery"
+msgstr ""
+
+#: package/contents/ui/main.qml:186
+#, fuzzy, kde-format
+#| msgid "Battery"
+msgid "Mouse battery"
+msgstr "Pil"
+
+#: package/contents/ui/main.qml:187
+#, kde-format
+msgid "Keyboard battery"
+msgstr ""
+
+#: package/contents/ui/main.qml:188
+#, fuzzy, kde-format
+#| msgid "Battery"
+msgid "PDA battery"
+msgstr "Pil"
+
+#: package/contents/ui/main.qml:189
+#, fuzzy, kde-format
+#| msgid "Battery"
+msgid "Phone battery"
+msgstr "Pil"
+
+#: package/contents/ui/main.qml:190
+#, kde-format
+msgid "Unknown battery"
+msgstr ""
+
+#: package/contents/ui/main.qml:208
+#, fuzzy, kde-format
+#| msgid "Charging"
+msgctxt "Battery charge percentage"
+msgid "%1% (Charging)"
+msgstr "Şarj oluyor"
+
+#: package/contents/ui/main.qml:209
+#, fuzzy, kde-format
+#| msgctxt "%1 is value, %2 is unit"
+#| msgid "%1 %2"
+msgctxt "Battery charge percentage"
+msgid "%1%"
+msgstr "%1 %2"
+
+#: package/contents/ui/main.qml:231
+#, kde-format
+msgid "Charge Percentage"
+msgstr "Şarj Yüzdesi"
+
+#: package/contents/ui/main.qml:241
+#, kde-format
+msgid "Energy Consumption"
+msgstr "Güç Tüketimi"
+
+#: package/contents/ui/main.qml:256
+#, kde-format
+msgid "Timespan"
+msgstr "Zaman aralığı"
+
+#: package/contents/ui/main.qml:257
+#, kde-format
+msgid "Timespan of data to display"
+msgstr "Görüntülenilecek veri basamakları"
+
+#: package/contents/ui/main.qml:263
+#, kde-format
+msgid "Refresh"
+msgstr "Yenile"
+
+#: package/contents/ui/main.qml:305
+#, kde-format
+msgctxt "Shorthand for Watts"
+msgid "W"
+msgstr "W"
+
+#: package/contents/ui/main.qml:305
+#, kde-format
+msgctxt "literal percent sign"
+msgid "%"
+msgstr "%"
+
+#: package/contents/ui/main.qml:325
+#, kde-format
+msgid "This type of history is currently not available for this device."
+msgstr "Bu tür bir geçmiş şu anda bu cihaz için mevcut değil."
+
+#: package/contents/ui/main.qml:341
+#, kde-format
+msgid "Application Energy Consumption"
+msgstr "Uygulama Güç Tüketimi"
+
+#: package/contents/ui/main.qml:366
+#, kde-format
+msgid "Path: %1"
+msgstr "Yol: %1"
+
+#: package/contents/ui/main.qml:369
+#, kde-format
+msgid "PID: %1"
+msgstr "PID: %1"
+
+#: package/contents/ui/main.qml:372
+#, kde-format
+msgid "Wakeups per second: %1 (%2%)"
+msgstr "Saniyedeki uyanma sayısı: %1 (% %2)"
+
+#: package/contents/ui/main.qml:374
+#, kde-format
+msgid "Details: %1"
+msgstr "Ayrıntılar: %1"
+
+#: package/contents/ui/main.qml:477
+#, kde-format
+msgid "%1:"
+msgstr "%1:"
+
+#: package/contents/ui/main.qml:488
+#, kde-format
+msgid "Yes"
+msgstr "Evet"
+
+#: package/contents/ui/main.qml:490
+#, kde-format
+msgid "No"
+msgstr "Hayır"
+
+#: package/contents/ui/main.qml:508
+#, kde-format
+msgctxt "%1 is value, %2 is unit"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#~ msgid "Manufacturer"
+#~ msgstr "Üretici firma"
+
+#~ msgid "Full design"
+#~ msgstr "Tam tasarım"
+
+#~ msgid "System"
+#~ msgstr "Sistem"
+
+#~ msgid "Has power supply"
+#~ msgstr "Güç kaynağı var"
+
+#~ msgid "Capacity"
+#~ msgstr "Kapasite"

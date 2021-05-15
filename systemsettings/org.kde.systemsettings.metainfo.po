@@ -1,0 +1,33 @@
+# Volkan Gezer <volkangezer@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-08-22 03:13+0200\n"
+"PO-Revision-Date: 2021-02-15 14:19+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.08.2\n"
+
+#. (itstool) path: component/name
+#: org.kde.systemsettings.metainfo.xml:3
+msgid "System Settings"
+msgstr "Sistem Ayarları"
+
+#. (itstool) path: component/summary
+#: org.kde.systemsettings.metainfo.xml:4
+msgid "Configuration tools for your computer"
+msgstr "Bilgisayarınız için yapılandırma araçları"
+
+#. (itstool) path: description/p
+#: org.kde.systemsettings.metainfo.xml:17
+msgid ""
+"System Settings allows you to configure and tweak your KDE Plasma desktop to "
+"make it better meet your needs."
+msgstr ""
+"Sistem Ayarları, ihtiyaçlarınızı daha iyi karşılaması için KDE Plasma "
+"masaüstünüzü yapılandırmanıza ve ince ayar yapmanıza olanak tanır."

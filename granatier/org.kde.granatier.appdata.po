@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.granatier.appdata\n"
+"POT-Creation-Date: 2021-02-16 02:23+0100\n"
+"PO-Revision-Date: 2017-07-07 13:54+0000\n"
+"Last-Translator: Mete <metebilgin48@gmail.com>\n"
+"Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. (itstool) path: component/name
+#: org.kde.granatier.appdata.xml:6
+msgid "Granatier"
+msgstr "Granatier"
+
+#. (itstool) path: component/summary
+#: org.kde.granatier.appdata.xml:7
+msgid "Bomberman clone"
+msgstr "Bomberman klonu"
+
+#. (itstool) path: description/p
+#: org.kde.granatier.appdata.xml:9
+msgid ""
+"Granatier is a clone of the classic Bomberman game, inspired by the work of "
+"the Clanbomber clone."
+msgstr ""
+"Granatie, klasik Bomberman oyununun bir klonudur, Clancomber klonun "
+"çalışmasından esinlenmiştir."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.granatier.appdata.xml:19
+#, fuzzy
+#| msgid "Granatier"
+msgid "Playing Granatier"
+msgstr "Granatier"

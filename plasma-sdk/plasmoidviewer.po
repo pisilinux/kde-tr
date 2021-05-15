@@ -1,0 +1,188 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2011
+# Ozan Çağlayan <ozan@pardus.org.tr>, 2011
+# obsoleteman <tulliana@gmail.com>, 2008-2009,2011-2012
+# Volkan Gezer <volkangezer@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-sdk-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-04-06 00:20+0000\n"
+"PO-Revision-Date: 2017-05-10 07:55+0000\n"
+"Last-Translator: Necdet <necdetyucel@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/extragear-sdk-k-"
+"tr/language/tr/)\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Serdar Soytetir"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "tulliana@gmail.com"
+
+#: main.cpp:33
+#, fuzzy, kde-format
+#| msgid "Plasma Widget Viewer"
+msgid "Plasmoidviewer"
+msgstr "Plasma Gereci Gösterici"
+
+#: main.cpp:40
+#, kde-format
+msgid "Run Plasma widgets in their own window"
+msgstr "Plasma gereçlerini kendi pencerelerinde çalıştır"
+
+#: main.cpp:43
+#, kde-format
+msgid "The name of the containment plugin"
+msgstr "Kapsayıcı eklentisinin adı"
+
+#: main.cpp:47
+#, kde-format
+msgid "The name of the applet plugin"
+msgstr "Kapsayıcı eklentisinin adı"
+
+#: main.cpp:49
+#, kde-format
+msgid ""
+"The formfactor to use (horizontal, vertical, mediacenter, planar or "
+"application)"
+msgstr ""
+"Kullanılacak biçim etmeni (yatay, dikey, ortalanmış, düzlemsel veya uygulama)"
+
+#: main.cpp:54
+#, kde-format
+msgid ""
+"The location constraint to start the Containment with (floating, desktop, "
+"fullscreen, topedge, bottomedge, leftedge, rightedge)"
+msgstr ""
+"İçericinin başlangıç sınırının konumu (yüzen, masaüstü, tam ekran, üst, alt, "
+"sol, sağ)"
+
+#: main.cpp:59
+#, kde-format
+msgid "Set the x position of the plasmoidviewer on the Plasma desktop"
+msgstr "Plasma masaüstünde plasmoidviewer'ın x konumunu ayarla"
+
+#: main.cpp:62
+#, kde-format
+msgid "Set the y position of the plasmoidviewer on the Plasma desktop"
+msgstr "Plasma masaüstünde plasmoidviewer'ın y konumunu ayarla"
+
+#: main.cpp:65
+#, kde-format
+msgid "Set the window size of the plasmoidview"
+msgstr "Plasmoidview için pencere boyutunu ayarlayın"
+
+#: main.cpp:68
+#, kde-format
+msgid "The size in kB to set the pixmap cache to"
+msgstr "Pixmap önbelleği için ayarlanacak KB cinsinden boyut"
+
+#: main.cpp:71
+#, kde-format
+msgid "The name of the theme which the shell will use"
+msgstr "Kabuğun kullanacağı temanın adı"
+
+#: main.cpp:74
+#, kde-format
+msgid "Data that should be passed to the applet as 'externalData' event"
+msgstr "Veri uygulamaya 'externalData' olayı olarak geçirilmelidir"
+
+#: view.cpp:121
+#, no-c-format, kde-format
+msgid "Applet %1 does not exist."
+msgstr "%1 uygulaması mevcut değil."
+
+#: view.cpp:138
+#, no-c-format, kde-format
+msgid "Containment %1 does not exist."
+msgstr "%1 içericisi mevcut değil."
+
+#: view.cpp:315
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Screenshot"
+msgstr "Ekran Görüntüsünü Kaydet"
+
+#~ msgid "No description available"
+#~ msgstr "Açıklama yok"
+
+#~ msgid "2007-2008, Frerich Raabe"
+#~ msgstr "2007-2008, Frerich Raabe"
+
+#~ msgid "Frerich Raabe"
+#~ msgstr "Frerich Raabe"
+
+#~ msgid "Original author"
+#~ msgstr "Asıl yazar"
+
+#~ msgid "Displays a list of known applets"
+#~ msgstr "Bilinen programcıkların listesini göster"
+
+#~ msgid "Displays a list of known wallpapers"
+#~ msgstr "Bilinen duvar kağıtlarının listesini gösterir"
+
+#~ msgid "Displays a list of known containments"
+#~ msgstr "Bilinen kapsayıcıların listesini gösterir"
+
+#~ msgid "Displays a list of known themes"
+#~ msgstr "Bilinen temaların listesini gösterir"
+
+#~ msgid "Disables save and restore of the config between runs"
+#~ msgstr ""
+#~ "Çalıştırmalar arasında yapılandırmanın kaydını ve geri alınmasını devre "
+#~ "dışı bırakır."
+
+#~ msgid ""
+#~ "Takes a screenshot of the widget and saves it the working directory as "
+#~ "<pluginname>.png"
+#~ msgstr ""
+#~ "Plasma gerecinin ekran görüntüsünü çalışma dizinine <eklentiadı.png> "
+#~ "olarak kaydeder."
+
+#~ msgid ""
+#~ "Takes a screenshot of each widget and saves it the working directory as "
+#~ "<pluginname>.png"
+#~ msgstr ""
+#~ "Her Plasma gerecinin ekran görüntüsünü çalışma dizinine <eklentiadı.png> "
+#~ "olarak kaydeder."
+
+#~ msgid "Desktop SVG theme to use"
+#~ msgstr "Kullanılacak SVG Masaüstü teması"
+
+#~ msgid "Initial size"
+#~ msgstr "Başlangıç boyutu"
+
+#~ msgid ""
+#~ "Name of the wallpaper plugin. Requires a containment plugin to be "
+#~ "specified."
+#~ msgstr ""
+#~ "Duvar kağıdı eklentisinin adı. Belirtilmesi için bir kapsayıcı eklentisi "
+#~ "gerektirir."
+
+#~ msgid ""
+#~ "Name of applet to view; may refer to the plugin name or be a path "
+#~ "(absolute or relative) to a package. If not provided, then an attempt is "
+#~ "made to load a package from the current directory."
+#~ msgstr ""
+#~ "Gösterilecek programcığın adı; bir paketin yolu (tam yol veya göreli yol) "
+#~ "veya eklentinin adı yerine kullanılabilir. Eğer sağlanmazsa bir paketi "
+#~ "geçerli dizine yükleme denemesi yapılır."
+
+#~ msgid "Optional arguments of the applet to add"
+#~ msgstr "Programcığı eklemek için seçimlik argümanlar"
+
+#~ msgid "List zeroconf announced remote widgets"
+#~ msgstr "Zeroconf tarafından bildirilen uzak gereçlerin listele"

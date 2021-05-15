@@ -1,0 +1,388 @@
+# translation of desktop_kdebase.po to Turkish
+# translation of desktop_kdebase.po to
+# Kdesktop Turkish translation file
+# Copyright (C) 2000, 2003, 2004, 2005, 2008 Free Software Foundation, Inc.
+# Onur Soysal <e116511@ceng.metu.edu.tr>, 2000.
+# Ömer Fadıl USTA <omer_fad@hotmail.com>,1999-2002.
+# Görkem Çetin <gorkem@kde.org>, 2002, 2003, 2004.
+# Adil Yıldız <adil_yildiztr@yahoo.com>, 2004.
+# Adem Alp Yıldız <ademalp@linux-sevenler.org>, 2004.
+# Adil Yıldız <adil@linux-sevenler.org>, 2004.
+# Görkem Çetin <gorkem@kde.org.tr>, 2005.
+# Adil Yıldız <adil@kde.org.tr>, 2005.
+# Cemil MUTLU <mawilos@gmail.com>, 2005.
+# Serdar Soytetir <tulliana@gmail.com>, 2008, 2009, 2010.
+# Gökçen Eraslan <gokcen@pardus.org.tr>, 2010.
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2010, 2011.
+# Serdar SOYTETİR <tulliana@gmail.com>, 2010, 2012.
+# Muhammet Kara <muhammet.k@gmail.com>, 2011.
+# Ozan Çağlayan <ozan@pardus.org.tr>, 2011.
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014, 2017, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-01 00:27+0000\n"
+"PO-Revision-Date: 2021-02-15 14:19+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.08.2\n"
+
+#: app/kdesystemsettings.desktop:8
+msgctxt "GenericName"
+msgid "KDE System Settings"
+msgstr "KDE Sistem Ayarları"
+
+#: app/kdesystemsettings.desktop:69
+msgctxt "Name"
+msgid "KDE System Settings"
+msgstr "KDE Sistem Ayarları"
+
+#: app/kdesystemsettings.desktop:130 app/systemsettings.desktop:183
+msgctxt "Comment"
+msgid "Configuration tools for your computer"
+msgstr "Bilgisayarınız için yapılandırma araçları"
+
+#: app/systemsettings.desktop:11
+msgctxt "GenericName"
+msgid "System Settings"
+msgstr "Sistem Ayarları"
+
+#: app/systemsettings.desktop:95
+msgctxt "Name"
+msgid "System Settings"
+msgstr "Sistem Ayarları"
+
+#: app/systemsettings.desktop:234
+msgctxt "Name"
+msgid "Global Theme"
+msgstr "Genel Tema"
+
+#: app/systemsettings.desktop:273
+msgctxt "Name"
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: app/systemsettings.desktop:312
+msgctxt "Name"
+msgid "Screen Locking"
+msgstr "Ekran Kilidi"
+
+#: app/systemsettings.desktop:350
+msgctxt "Name"
+msgid "Energy Saving"
+msgstr "Enerji Tasarrufu"
+
+#: app/systemsettings.desktop:389
+msgctxt "Name"
+msgid "Display Configuration"
+msgstr "Görüntü Yapılandırması"
+
+#: categories/hidden.desktop:7
+msgctxt "Name"
+msgid "Hidden"
+msgstr "Gizli"
+
+#: categories/old/settings-account-details.desktop:8
+#: categories/settings-personalization-accountdetails.desktop:9
+msgctxt "Name"
+msgid "Account Details"
+msgstr "Hesap Detayları"
+
+#: categories/old/settings-application-and-system-notifications.desktop:8
+msgctxt "Name"
+msgid "Application and System Notifications"
+msgstr "Uygulama ve Sistem Bildirimleri"
+
+#: categories/old/settings-application-appearance.desktop:8
+msgctxt "Name"
+msgid "Application Appearance"
+msgstr "Uygulama Görünümü"
+
+#: categories/old/settings-audio-and-video.desktop:9
+#: categories/settings-hardware-multimedia.desktop:9
+msgctxt "Name"
+msgid "Multimedia"
+msgstr "Çoklu Ortam"
+
+#: categories/old/settings-bluetooth.desktop:8
+#: categories/settings-network-bluetooth.desktop:9
+msgctxt "Name"
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: categories/old/settings-desktop-appearance.desktop:9
+msgctxt "Name"
+msgid "Workspace Appearance"
+msgstr "Çalışma Alanı Görünümü"
+
+#: categories/old/settings-desktop-appearance.desktop:76
+msgctxt "Comment"
+msgid "Customize the appearance of your desktop"
+msgstr "Masaüstünüzün görünümünü özelleştirin"
+
+#: categories/old/settings-display.desktop:8
+#: categories/settings-hardware-display.desktop:9
+msgctxt "Name"
+msgid "Display and Monitor"
+msgstr "Görüntü ve Ekran"
+
+#: categories/old/settings-display.desktop:74
+#: categories/settings-hardware-display.desktop:75
+msgctxt "Comment"
+msgid "Display Settings"
+msgstr "Ekran Ayarları"
+
+#: categories/old/settings-hardware.desktop:9
+#: categories/settings-hardware.desktop:9
+msgctxt "Name"
+msgid "Hardware"
+msgstr "Donanım"
+
+#: categories/old/settings-input-devices.desktop:8
+#: categories/settings-hardware-input.desktop:9
+msgctxt "Name"
+msgid "Input Devices"
+msgstr "Girdi Aygıtları"
+
+#: categories/old/settings-locale.desktop:8
+msgctxt "Name"
+msgid "Locale"
+msgstr "Yerel"
+
+#: categories/old/settings-lost-and-found.desktop:9
+msgctxt "Name"
+msgid "Lost and Found"
+msgstr "Kayıp ve Bulunanlar"
+
+#: categories/old/settings-network-and-connectivity.desktop:8
+msgctxt "Name"
+msgid "Network and Connectivity"
+msgstr "Ağ ve Bağlanabilirlik"
+
+#: categories/old/settings-network-settings.desktop:8
+msgctxt "Name"
+msgid "Network Settings"
+msgstr "Ağ Ayarları"
+
+#: categories/old/settings-permissions.desktop:8
+msgctxt "Name"
+msgid "Permissions"
+msgstr "Yetkiler"
+
+#: categories/old/settings-personal-information.desktop:8
+msgctxt "Name"
+msgid "Personal Information"
+msgstr "Kişisel Bilgi"
+
+#: categories/old/settings-power-management.desktop:8
+#: categories/settings-hardware-powermanagement.desktop:9
+msgctxt "Name"
+msgid "Power Management"
+msgstr "Güç Yönetimi"
+
+#: categories/old/settings-sharing.desktop:8
+msgctxt "Name"
+msgid "Sharing"
+msgstr "Paylaşım"
+
+#: categories/old/settings-shortcuts-and-gestures.desktop:8
+msgctxt "Name"
+msgid "Shortcuts and Gestures"
+msgstr "Kısayollar ve Hareketler"
+
+#: categories/old/settings-startup-and-shutdown.desktop:8
+#: categories/settings-workspace-session.desktop:9
+msgctxt "Name"
+msgid "Startup and Shutdown"
+msgstr "Başlatma ve Kapatma"
+
+#: categories/old/settings-window-behaviour.desktop:8
+msgctxt "Name"
+msgid "Window Behavior"
+msgstr "Pencere Davranışı"
+
+#: categories/old/settings-workspace-appearance-and-behavior.desktop:9
+msgctxt "Name"
+msgid "Workspace Appearance and Behavior"
+msgstr "Çalışma Alanı Görünümü ve Davranışı"
+
+#: categories/old/settings-workspace-behavior.desktop:8
+#: categories/settings-workspace-desktopbehavior.desktop:9
+msgctxt "Name"
+msgid "Workspace Behavior"
+msgstr "Çalışma Alanı Davranışı"
+
+#: categories/settings-appearance-color.desktop:9
+msgctxt "Name"
+msgid "Colors"
+msgstr "Renkler"
+
+#: categories/settings-appearance.desktop:11
+msgctxt "Name"
+msgid "Appearance"
+msgstr "Görünüm"
+
+#: categories/settings-appearance-font.desktop:9
+msgctxt "Name"
+msgid "Fonts"
+msgstr "Yazı Tipleri"
+
+#: categories/settings-appearance-icons.desktop:9
+msgctxt "Name"
+msgid "Icons"
+msgstr "Simgeler"
+
+#: categories/settings-hardware-peripherals.desktop:9
+msgctxt "Name"
+msgid "Peripherals"
+msgstr "Çevre Birimleri"
+
+#: categories/settings-hardware-removable-storage.desktop:8
+msgctxt "Name"
+msgid "Removable Storage"
+msgstr "Çıkarılabilir Depolama"
+
+#: categories/settings-network-connectivity.desktop:9
+msgctxt "Name"
+msgid "Connectivity"
+msgstr "Bağlanabilirlik"
+
+#: categories/settings-network.desktop:8
+msgctxt "Name"
+msgid "Network"
+msgstr "Ağ"
+
+#: categories/settings-network-networksettings.desktop:9
+msgctxt "Name"
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: categories/settings-personalization-accessibility.desktop:8
+msgctxt "Name"
+msgid "Accessibility"
+msgstr "Erişilebilirlik"
+
+#: categories/settings-personalization-applications.desktop:9
+msgctxt "Name"
+msgid "Applications"
+msgstr "Uygulamalar"
+
+#: categories/settings-personalization.desktop:9
+msgctxt "Name"
+msgid "Personalization"
+msgstr "Kişiselleştirme"
+
+#: categories/settings-personalization-notification.desktop:9
+msgctxt "Name"
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: categories/settings-personalization-regionalsettings.desktop:9
+msgctxt "Name"
+msgid "Regional Settings"
+msgstr "Bölgesel Ayarlar"
+
+#: categories/settings-root-category.desktop:9
+msgctxt "Name"
+msgid "Root"
+msgstr "Kök"
+
+#: categories/settings-system-administration.desktop:9
+msgctxt "Name"
+msgid "System Administration"
+msgstr "Sistem Yönetimi"
+
+#: categories/settings-workspace.desktop:9
+msgctxt "Name"
+msgid "Workspace"
+msgstr "Çalışma Alanı"
+
+#: categories/settings-workspace-search.desktop:9
+msgctxt "Name"
+msgid "Search..."
+msgstr "Arama"
+
+#: categories/settings-workspace-shortcuts.desktop:9
+msgctxt "Name"
+msgid "Shortcuts"
+msgstr "Kısayollar"
+
+#: categories/settings-workspace-windowmanagement.desktop:9
+msgctxt "Name"
+msgid "Window Management"
+msgstr "Pencere Yönetimi"
+
+#: categories/systemsettingscategory.desktop:4
+msgctxt "Name"
+msgid "System Settings Category"
+msgstr "Sistem Ayarları Kategorisi"
+
+#: core/systemsettingsexternalapp.desktop:4
+msgctxt "Name"
+msgid "System Settings External Application"
+msgstr "Sistem Ayarları Dış Uygulaması"
+
+#: core/systemsettingsview.desktop:4
+msgctxt "Name"
+msgid "System Settings View"
+msgstr "Sistem Ayarları Görünümü"
+
+#: icons/settings-icon-view.desktop:6 sidebar/settings-sidebar-view.desktop:6
+msgctxt "X-KDE-Keywords"
+msgid "System Settings"
+msgstr "Sistem Ayarları"
+
+#: icons/settings-icon-view.desktop:68
+msgctxt "Name"
+msgid "Icon View"
+msgstr "Simge Görünümü"
+
+#: icons/settings-icon-view.desktop:148
+msgctxt "Comment"
+msgid "The KDE 4 icon view style"
+msgstr "KDE4 simge görünümü biçimi"
+
+#: sidebar/package/metadata.desktop:2 sidebar/settings-sidebar-view.desktop:68
+msgctxt "Name"
+msgid "Sidebar View"
+msgstr "Yan Çubuk Görünümü"
+
+#: sidebar/package/metadata.desktop:50
+#: sidebar/settings-sidebar-view.desktop:116
+msgctxt "Comment"
+msgid "Categorized sidebar style"
+msgstr "Sınıflandırılmış yan çubuk biçimi"
+
+#~ msgctxt "Name"
+#~ msgid "Application Style"
+#~ msgstr "Uygulama Biçemi"
+
+#~ msgctxt "Name"
+#~ msgid "Tree View"
+#~ msgstr "Ağaç Görünümü"
+
+#~ msgctxt "Comment"
+#~ msgid "A Classic KDE 3 KControl style system settings view."
+#~ msgstr "Klasik KDE3 KControl biçimi sistem ayarları görünümü."
+
+#~ msgctxt "Name"
+#~ msgid "Workspace Theme"
+#~ msgstr "Çalışma Alanı Teması"
+
+#~ msgctxt "Name"
+#~ msgid "Desktop Behavior"
+#~ msgstr "Çalışma Alanı Davranışı"
+
+#~ msgctxt "Name"
+#~ msgid "Human Input Devices"
+#~ msgstr "İnsan Girdi Aygıtları"
+
+#~ msgctxt "Name"
+#~ msgid "Common Appearance and Behavior"
+#~ msgstr "Genel Görünüm ve Davranış"

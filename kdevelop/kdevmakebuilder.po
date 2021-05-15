@@ -1,0 +1,169 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# obsoleteman <tulliana@gmail.com>, 2008,2011.
+# Volkan Gezer <volkangezer@gmail.com>, 2014, 2015.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-kdevelop-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-17 07:46+0200\n"
+"PO-Revision-Date: 2017-05-15 15:03+0000\n"
+"Last-Translator: İşbaran <isbaran@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: makebuilderpreferences.cpp:84
+#, fuzzy, kde-format
+#| msgid "Make"
+msgctxt "@title:tab"
+msgid "Make"
+msgstr "Make"
+
+#: makebuilderpreferences.cpp:89
+#, fuzzy, kde-format
+#| msgid "Configure Make settings"
+msgctxt "@title:tab"
+msgid "Configure Make Settings"
+msgstr "Make ayarlarını yapılandır"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: makeconfig.ui:32
+#, fuzzy, kde-format
+#| msgid "&Abort on first error:"
+msgctxt "@option:check"
+msgid "&Abort on first error:"
+msgstr "&İlk hatada sonlandır:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: makeconfig.ui:52
+#, fuzzy, kde-format
+#| msgid "&Display commands but do not execute them:"
+msgctxt "@option:check"
+msgid "&Display commands but do not execute them:"
+msgstr "&Komutları göster ama çalıştırma:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_31)
+#: makeconfig.ui:72
+#, fuzzy, kde-format
+#| msgid "Insta&ll as root:"
+msgctxt "@option:check"
+msgid "Insta&ll as root:"
+msgstr "Root olarak &yükle:"
+
+#. i18n: ectx: property (text), widget (QLabel, rootinstallationcommandLabel)
+#: makeconfig.ui:95
+#, fuzzy, kde-format
+#| msgid "Root installation &command:"
+msgctxt "@label:listbox"
+msgid "Root installation &command:"
+msgstr "Root olarak yükleme &komutu:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: makeconfig.ui:133
+#, fuzzy, kde-format
+#| msgid "&Number of simultaneous jobs:"
+msgctxt "@label:spinbox"
+msgid "&Number of simultaneous jobs:"
+msgstr "&Eşzamanlı görevlerin sayısı:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: makeconfig.ui:156
+#, fuzzy, kde-format
+#| msgid "&Make executable:"
+msgctxt "@label:chooser"
+msgid "&Make executable:"
+msgstr "&Make çalıştırılabilir dosyası:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: makeconfig.ui:179
+#, fuzzy, kde-format
+#| msgid "Default make &target:"
+msgctxt "@label:textbox"
+msgid "Default make &target:"
+msgstr "&Öntanımlı make hedefi:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: makeconfig.ui:199
+#, fuzzy, kde-format
+#| msgid "Additional ma&ke options:"
+msgctxt "@label:textbox"
+msgid "Additional ma&ke options:"
+msgstr "Ek &make seçenekleri:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: makeconfig.ui:219
+#, fuzzy, kde-format
+#| msgid "Active environment &profile:"
+msgctxt "@label:chooser"
+msgid "Active environment &profile:"
+msgstr "Etkin çevre &profili:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: makeconfig.ui:263
+#, fuzzy, kde-format
+#| msgid "Override number of &jobs:"
+msgctxt "@option:check"
+msgid "Override number of &jobs:"
+msgstr "&İş sayısının üstüne yaz:"
+
+#: makejob.cpp:93
+#, kde-format
+msgid "Make (%1): %2"
+msgstr "Make (%1): %2"
+
+#: makejob.cpp:95
+#, kde-format
+msgid "Make (%1)"
+msgstr "Make (%1)"
+
+#: makejob.cpp:97
+#, kde-format
+msgid "Make"
+msgstr "Make"
+
+#: makejob.cpp:111
+#, kde-format
+msgid "Build item no longer available"
+msgstr "Oluşturma nesnesi artık kullanılabilir değil"
+
+#: makejob.cpp:118
+#, kde-format
+msgid "Internal error: cannot build a file item"
+msgstr "Dahili hata: dosya ögesi oluşturulamadı"
+
+#~ msgid "kdesu"
+#~ msgstr "kdesu"
+
+#~ msgid "kdesudo"
+#~ msgstr "kdesudo"
+
+#~ msgid "gksu"
+#~ msgstr "gksu"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Serdar Soytetir"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "tulliana@gmail.com"
+
+#~ msgid "View"
+#~ msgstr "Görünüm"
+
+#~ msgid "sudo"
+#~ msgstr "sudo"
+
+#~ msgid "Make Builder"
+#~ msgstr "Make İnşa Aracı"
+
+#~ msgid "Support for building Make projects"
+#~ msgstr "Make projelerini inşa etme desteği"

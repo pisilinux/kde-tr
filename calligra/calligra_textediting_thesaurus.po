@@ -1,0 +1,426 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Görkem Çetin <gorkem@kde.org>, 2002
+# obsoleteman <tulliana@gmail.com>, 2008,2012
+msgid ""
+msgstr ""
+"Project-Id-Version: calligra-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:40+0200\n"
+"PO-Revision-Date: 2014-06-08 13:44+0000\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/calligra-k-tr/"
+"language/tr/)\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: Thesaurus.cpp:94
+#, kde-format
+msgid "(No match)"
+msgstr "(Eşleşme yok)"
+
+#: Thesaurus.cpp:104
+#, kde-format
+msgid "&Search for:"
+msgstr "&Ara:"
+
+#: Thesaurus.cpp:107
+#, kde-format
+msgid "S&earch"
+msgstr "&Ara"
+
+#: Thesaurus.cpp:114
+#, kde-format
+msgctxt "@action:button Go back to the previous word in history"
+msgid "Back"
+msgstr "Geri"
+
+#: Thesaurus.cpp:118
+#, kde-format
+msgctxt "@action:button Go forward to the next word in history"
+msgid "Forward"
+msgstr "İleri"
+
+#: Thesaurus.cpp:121
+#, kde-format
+msgid "Change Language..."
+msgstr "Dili Değiştir..."
+
+#: Thesaurus.cpp:135
+#, kde-format
+msgid "&Thesaurus"
+msgstr "&Kavramlar Dizini"
+
+#: Thesaurus.cpp:139
+#, kde-format
+msgid "Synonyms"
+msgstr "Eş Anlamlılar"
+
+#: Thesaurus.cpp:146
+#, kde-format
+msgid "More General Words"
+msgstr "Daha Genel Kelimeler"
+
+#: Thesaurus.cpp:153
+#, kde-format
+msgid "More Specific Words"
+msgstr "Daha Özel Kelimeler"
+
+#: Thesaurus.cpp:183
+#, kde-format
+msgid "&Wordnet"
+msgstr "&Wordnet"
+
+#: Thesaurus.cpp:205
+#, kde-format
+msgid "&Replace with:"
+msgstr "&Değiştir:"
+
+#: Thesaurus.cpp:268
+#, kde-format
+msgid "&Replace"
+msgstr "&Değiştir"
+
+#: Thesaurus.cpp:280
+#, kde-format
+msgid "Replace Word"
+msgstr "Sözcüğü Değiştir"
+
+#: Thesaurus.cpp:308
+#, kde-format
+msgid "Related Words - %1"
+msgstr "İlgili Kelimeler - %1"
+
+#: Thesaurus.cpp:422
+#, kde-format
+msgid ""
+"The thesaurus file '%1' was not found. Please use 'Change Language...' to "
+"select a thesaurus file."
+msgstr ""
+"Eşanlamlılar dosyası '%1' bulunamadı. Lütfen 'Dili Değiştir'i kullanarak "
+"yeni bir eşanlamlılar dosyası seçin."
+
+#: Thesaurus.cpp:442
+#, kde-format
+msgid "<b>Error:</b> Failed to execute grep."
+msgstr "<b>Hata:</b> grep çalıştırılamadı."
+
+#: Thesaurus.cpp:594
+#, kde-format
+msgid "Synonyms/Hypernyms - Ordered by Frequency"
+msgstr "Eşanlamlılar/- Sıklığa Göre Sıralanmış"
+
+#: Thesaurus.cpp:595
+#, kde-format
+msgid "Synonyms - Ordered by Similarity of Meaning (verbs only)"
+msgstr "Eş Anlamlılar - Anlam Yakınlığına Göre Dizilmiş (sadece fiiller)"
+
+#: Thesaurus.cpp:596
+#, kde-format
+msgid "Antonyms - Words with Opposite Meanings"
+msgstr "Karşıt Anlamlı Kelimeler"
+
+#: Thesaurus.cpp:597
+#, kde-format
+msgid "Hyponyms - ... is a (kind of) %1"
+msgstr "Eşsesliler - ... %1 gibi "
+
+#: Thesaurus.cpp:598
+#, kde-format
+msgid "Meronyms - %1 has a ..."
+msgstr "Tamlayan - %1 şuna sahip..."
+
+#: Thesaurus.cpp:600
+#, kde-format
+msgid "Holonyms - ... has a %1"
+msgstr "Tamlanan - %1 ' sahip"
+
+#: Thesaurus.cpp:601
+#, kde-format
+msgid "Attributes"
+msgstr "Öznitelikler"
+
+#: Thesaurus.cpp:602
+#, kde-format
+msgid "Cause To (for some verbs only)"
+msgstr "Sebep Olmak (sadece bazı fiiller için)"
+
+#: Thesaurus.cpp:603
+#, kde-format
+msgid "Verb Entailment (for some verbs only)"
+msgstr "Fiil Gerektirimi (sadece bazı fiiller için)"
+
+#: Thesaurus.cpp:604
+#, kde-format
+msgid "Familiarity & Polysemy Count"
+msgstr "Yakınlık & Çokseslilik Sayısı"
+
+#: Thesaurus.cpp:606
+#, kde-format
+msgid "Verb Frames (examples of use)"
+msgstr "Fiil Kalıpları (kullanım örnekleri )"
+
+#: Thesaurus.cpp:607
+#, kde-format
+msgid "List of Compound Words"
+msgstr "Birleşik Kelimeler Listesi"
+
+#: Thesaurus.cpp:608
+#, kde-format
+msgid "Overview of Senses"
+msgstr "Duyuların Açıklaması"
+
+#: Thesaurus.cpp:636
+#, kde-format
+msgid ""
+"<b>Error:</b> Failed to execute WordNet program 'wn'. WordNet has to be "
+"installed on your computer if you want to use it, and 'wn' has to be in your "
+"PATH. You can get WordNet at <a href=\"http://wordnet.princeton.edu/"
+"\">http://wordnet.princeton.edu/</a>. Note that WordNet only supports the "
+"English language."
+msgstr ""
+"<b>Hata:</b> WordNet programı 'wn' başlatılamadı. Eğer WordNet'i kullanmak "
+"istiyorsanız bilgisayarınıza kurulu ve 'wn' komutu PATH içerisinde "
+"olmalıdır. WordNet'i <a href=\"http://www.cogsci.princeton.edu/~wn/\">http://"
+"www.cogsci.princeton.edu/~wn/</a> adresinden edinebilirsiniz. Unutmayın "
+"WordNet sadece İngilizce dilini desteklemektedir."
+
+#: Thesaurus.cpp:648
+#, kde-format
+msgid "No match for '%1'."
+msgstr "'%1' için eşleşme bulunamadı."
+
+#~ msgctxt "@action:button Close thesaurus dialog"
+#~ msgid "&Close"
+#~ msgstr "&Kapat"
+
+#, fuzzy
+#~| msgid "(No match)"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "(No match)"
+#~ msgstr "(Eşleşme yok)"
+
+#, fuzzy
+#~| msgid "&Search for:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Search for:"
+#~ msgstr "&Ara:"
+
+#, fuzzy
+#~| msgid "S&earch"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "S&earch"
+#~ msgstr "&Ara"
+
+#, fuzzy
+#~| msgctxt "@action:button Go back to the previous word in history"
+#~| msgid "Back"
+#~ msgctxt ""
+#~ "(qtundo-format) @action:button Go back to the previous word in history"
+#~ msgid "Back"
+#~ msgstr "Geri"
+
+#, fuzzy
+#~| msgctxt "@action:button Go forward to the next word in history"
+#~| msgid "Forward"
+#~ msgctxt ""
+#~ "(qtundo-format) @action:button Go forward to the next word in history"
+#~ msgid "Forward"
+#~ msgstr "İleri"
+
+#, fuzzy
+#~| msgid "Change Language..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Change Language..."
+#~ msgstr "Dili Değiştir..."
+
+#, fuzzy
+#~| msgid "&Thesaurus"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Thesaurus"
+#~ msgstr "&Kavramlar Dizini"
+
+#, fuzzy
+#~| msgid "Synonyms"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Synonyms"
+#~ msgstr "Eş Anlamlılar"
+
+#, fuzzy
+#~| msgid "More General Words"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "More General Words"
+#~ msgstr "Daha Genel Kelimeler"
+
+#, fuzzy
+#~| msgid "More Specific Words"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "More Specific Words"
+#~ msgstr "Daha Özel Kelimeler"
+
+#, fuzzy
+#~| msgid "&Wordnet"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Wordnet"
+#~ msgstr "&Wordnet"
+
+#, fuzzy
+#~| msgid "&Replace with:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Replace with:"
+#~ msgstr "&Değiştir:"
+
+#, fuzzy
+#~| msgctxt "@action:button Close thesaurus dialog"
+#~| msgid "&Close"
+#~ msgctxt "(qtundo-format) @action:button Close thesaurus dialog"
+#~ msgid "&Close"
+#~ msgstr "&Kapat"
+
+#, fuzzy
+#~| msgid "&Replace"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "&Replace"
+#~ msgstr "&Değiştir"
+
+#, fuzzy
+#~| msgid "Replace Word"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Replace Word"
+#~ msgstr "Sözcüğü Değiştir"
+
+#, fuzzy
+#~| msgid "Related Words - %1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Related Words - %1"
+#~ msgstr "İlgili Kelimeler - %1"
+
+#, fuzzy
+#~| msgid ""
+#~| "The thesaurus file '%1' was not found. Please use 'Change Language...' "
+#~| "to select a thesaurus file."
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "The thesaurus file '%1' was not found. Please use 'Change Language...' to "
+#~ "select a thesaurus file."
+#~ msgstr ""
+#~ "Eşanlamlılar dosyası '%1' bulunamadı. Lütfen 'Dili Değiştir'i kullanarak "
+#~ "yeni bir eşanlamlılar dosyası seçin."
+
+#, fuzzy
+#~| msgid "<b>Error:</b> Failed to execute grep."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "<b>Error:</b> Failed to execute grep."
+#~ msgstr "<b>Hata:</b> grep çalıştırılamadı."
+
+#, fuzzy
+#~| msgid "Synonyms/Hypernyms - Ordered by Frequency"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Synonyms/Hypernyms - Ordered by Frequency"
+#~ msgstr "Eşanlamlılar/- Sıklığa Göre Sıralanmış"
+
+#, fuzzy
+#~| msgid "Synonyms - Ordered by Similarity of Meaning (verbs only)"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Synonyms - Ordered by Similarity of Meaning (verbs only)"
+#~ msgstr "Eş Anlamlılar - Anlam Yakınlığına Göre Dizilmiş (sadece fiiller)"
+
+#, fuzzy
+#~| msgid "Antonyms - Words with Opposite Meanings"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Antonyms - Words with Opposite Meanings"
+#~ msgstr "Karşıt Anlamlı Kelimeler"
+
+#, fuzzy
+#~| msgid "Hyponyms - ... is a (kind of) %1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Hyponyms - ... is a (kind of) %1"
+#~ msgstr "Eşsesliler - ... %1 gibi "
+
+#, fuzzy
+#~| msgid "Meronyms - %1 has a ..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Meronyms - %1 has a ..."
+#~ msgstr "Tamlayan - %1 şuna sahip..."
+
+#, fuzzy
+#~| msgid "Holonyms - ... has a %1"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Holonyms - ... has a %1"
+#~ msgstr "Tamlanan - %1 ' sahip"
+
+#, fuzzy
+#~| msgid "Attributes"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Attributes"
+#~ msgstr "Öznitelikler"
+
+#, fuzzy
+#~| msgid "Cause To (for some verbs only)"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Cause To (for some verbs only)"
+#~ msgstr "Sebep Olmak (sadece bazı fiiller için)"
+
+#, fuzzy
+#~| msgid "Verb Entailment (for some verbs only)"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Verb Entailment (for some verbs only)"
+#~ msgstr "Fiil Gerektirimi (sadece bazı fiiller için)"
+
+#, fuzzy
+#~| msgid "Familiarity & Polysemy Count"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Familiarity & Polysemy Count"
+#~ msgstr "Yakınlık & Çokseslilik Sayısı"
+
+#, fuzzy
+#~| msgid "Verb Frames (examples of use)"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Verb Frames (examples of use)"
+#~ msgstr "Fiil Kalıpları (kullanım örnekleri )"
+
+#, fuzzy
+#~| msgid "List of Compound Words"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "List of Compound Words"
+#~ msgstr "Birleşik Kelimeler Listesi"
+
+#, fuzzy
+#~| msgid "Overview of Senses"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Overview of Senses"
+#~ msgstr "Duyuların Açıklaması"
+
+#, fuzzy
+#~| msgid ""
+#~| "<b>Error:</b> Failed to execute WordNet program 'wn'. WordNet has to be "
+#~| "installed on your computer if you want to use it, and 'wn' has to be in "
+#~| "your PATH. You can get WordNet at <a href=\"http://wordnet.princeton.edu/"
+#~| "\">http://wordnet.princeton.edu/</a>. Note that WordNet only supports "
+#~| "the English language."
+#~ msgctxt "(qtundo-format)"
+#~ msgid ""
+#~ "<b>Error:</b> Failed to execute WordNet program 'wn'. WordNet has to be "
+#~ "installed on your computer if you want to use it, and 'wn' has to be in "
+#~ "your PATH. You can get WordNet at <a href=\"http://wordnet.princeton.edu/"
+#~ "\">http://wordnet.princeton.edu/</a>. Note that WordNet only supports the "
+#~ "English language."
+#~ msgstr ""
+#~ "<b>Hata:</b> WordNet programı 'wn' başlatılamadı. Eğer WordNet'i "
+#~ "kullanmak istiyorsanız bilgisayarınıza kurulu ve 'wn' komutu PATH "
+#~ "içerisinde olmalıdır. WordNet'i <a href=\"http://www.cogsci.princeton.edu/"
+#~ "~wn/\">http://www.cogsci.princeton.edu/~wn/</a> adresinden "
+#~ "edinebilirsiniz. Unutmayın WordNet sadece İngilizce dilini "
+#~ "desteklemektedir."
+
+#, fuzzy
+#~| msgid "No match for '%1'."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "No match for '%1'."
+#~ msgstr "'%1' için eşleşme bulunamadı."

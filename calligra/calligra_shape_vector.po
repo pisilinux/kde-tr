@@ -1,0 +1,68 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: calligra-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-03-31 02:41+0200\n"
+"PO-Revision-Date: 2015-02-08 13:29+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: ChangeVectorDataCommand.cpp:39
+msgctxt "(qtundo-format)"
+msgid "Change Vector Data"
+msgstr "Vektör Verisini Değiştir"
+
+#: VectorShapeFactory.cpp:40
+#, kde-format
+msgid "Vector image"
+msgstr "Vektör kalıbı"
+
+#: VectorShapeFactory.cpp:42
+#, kde-format
+msgid "A shape that shows a vector image (EMF/WMF/SVM)"
+msgstr "Vektör kalıbını gösteren bir şekil (EMF/WMF/SVM)"
+
+#: VectorTool.cpp:77
+#, kde-format
+msgid "Open Vector Image (EMF/WMF/SVM)"
+msgstr "Vektör Kalıbını Aç (EMF/WMF/SVM)"
+
+#: VectorToolFactory.cpp:33
+#, kde-format
+msgid "Vector Image (EMF/WMF/SVM/SVG) tool"
+msgstr "Vektör Resmi (EMF/WMF/SVM/SVG) aracı"
+
+#, fuzzy
+#~| msgid "Vector image"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Vector image"
+#~ msgstr "Vektör kalıbı"
+
+#, fuzzy
+#~| msgid "A shape that shows a vector image (EMF/WMF/SVM)"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "A shape that shows a vector image (EMF/WMF/SVM)"
+#~ msgstr "Vektör kalıbını gösteren bir şekil (EMF/WMF/SVM)"
+
+#, fuzzy
+#~| msgid "Open Vector Image (EMF/WMF/SVM)"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Open Vector Image (EMF/WMF/SVM)"
+#~ msgstr "Vektör Kalıbını Aç (EMF/WMF/SVM)"
+
+#, fuzzy
+#~| msgid "Vector Image (EMF/WMF/SVM/SVG) tool"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Vector Image (EMF/WMF/SVM/SVG) tool"
+#~ msgstr "Vektör Resmi (EMF/WMF/SVM/SVG) aracı"

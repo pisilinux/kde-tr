@@ -1,0 +1,1255 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Görkem Çetin <gorkem@kde.org>, 2002
+# Özer Kavak <ozerkavak@gmail.com>, 2008
+# Serdar Cevher <scevher@gsl.gsu.edu.tr>, 2002
+# obsoleteman <tulliana@gmail.com>, 2008-2009
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014
+msgid ""
+msgstr ""
+"Project-Id-Version: calligra-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:40+0200\n"
+"PO-Revision-Date: 2014-06-08 13:44+0000\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/calligra-k-tr/"
+"language/tr/)\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: BlendEffect.cpp:31 BlendEffectFactory.cpp:27
+#, kde-format
+msgid "Blend"
+msgstr "Harmanlama"
+
+#: BlendEffectConfigWidget.cpp:35
+#, kde-format
+msgid "Blend mode"
+msgstr "Harmanlama kipi"
+
+#: BlendEffectConfigWidget.cpp:37
+#, kde-format
+msgid "Normal"
+msgstr "Normal"
+
+#: BlendEffectConfigWidget.cpp:38
+#, kde-format
+msgid "Multiply"
+msgstr "Çarp"
+
+#: BlendEffectConfigWidget.cpp:39
+#, kde-format
+msgid "Screen"
+msgstr "Ekran"
+
+#: BlendEffectConfigWidget.cpp:40
+#, kde-format
+msgid "Darken"
+msgstr "Koyulaştır"
+
+#: BlendEffectConfigWidget.cpp:41
+#, kde-format
+msgid "Lighten"
+msgstr "Aydınlat"
+
+#: BlurEffect.cpp:276 BlurEffectFactory.cpp:27
+#, kde-format
+msgid "Gaussian blur"
+msgstr "Gaussian bulanıklığı"
+
+#: BlurEffectConfigWidget.cpp:35
+#, kde-format
+msgid "Radius"
+msgstr "Yarıçap"
+
+#: ColorMatrixEffect.cpp:35
+#, kde-format
+msgid "Color Matrix"
+msgstr "Renk Matrisi"
+
+#: ColorMatrixEffectConfigWidget.cpp:41
+#, kde-format
+msgid "Apply color matrix"
+msgstr "Renk matrisi uygula"
+
+#: ColorMatrixEffectConfigWidget.cpp:42
+#, kde-format
+msgid "Saturate colors"
+msgstr "Renkleri doygunlaştır"
+
+#: ColorMatrixEffectConfigWidget.cpp:43
+#, kde-format
+msgid "Rotate hue"
+msgstr "Tonu döndür"
+
+#: ColorMatrixEffectConfigWidget.cpp:44
+#, kde-format
+msgid "Luminance to alpha"
+msgstr "Alfa'ya Aydınlık"
+
+#: ColorMatrixEffectConfigWidget.cpp:63
+#, kde-format
+msgid "Saturate value"
+msgstr "Doygunluk değeri"
+
+#: ColorMatrixEffectConfigWidget.cpp:74
+#, kde-format
+msgid "Angle"
+msgstr "Açı"
+
+#: ColorMatrixEffectFactory.cpp:27
+#, kde-format
+msgid "Color matrix"
+msgstr "Renk matrisi"
+
+#: ComponentTransferEffect.cpp:31 ComponentTransferEffectFactory.cpp:27
+#, kde-format
+msgid "Component transfer"
+msgstr "Bileşen aktarımı"
+
+#: ComponentTransferEffectConfigWidget.cpp:58
+#, kde-format
+msgid "Function"
+msgstr "İşlev"
+
+#: ComponentTransferEffectConfigWidget.cpp:60
+#, kde-format
+msgid "Identity"
+msgstr "Kimlik"
+
+#: ComponentTransferEffectConfigWidget.cpp:61
+#, kde-format
+msgid "Table"
+msgstr "Tablo"
+
+#: ComponentTransferEffectConfigWidget.cpp:62
+#, kde-format
+msgid "Discrete"
+msgstr "Kesikli"
+
+#: ComponentTransferEffectConfigWidget.cpp:63
+#, kde-format
+msgid "Linear"
+msgstr "Doğrusal"
+
+#: ComponentTransferEffectConfigWidget.cpp:64
+#, kde-format
+msgid "Gamma"
+msgstr "Gama"
+
+#: ComponentTransferEffectConfigWidget.cpp:77
+#: ComponentTransferEffectConfigWidget.cpp:87
+#, kde-format
+msgid "Values"
+msgstr "Değerler"
+
+#: ComponentTransferEffectConfigWidget.cpp:97
+#, kde-format
+msgid "Slope"
+msgstr "Eğimli"
+
+#: ComponentTransferEffectConfigWidget.cpp:102
+#, kde-format
+msgid "Intercept"
+msgstr "Kesiştir"
+
+#: ComponentTransferEffectConfigWidget.cpp:114
+#, kde-format
+msgid "Amplitude"
+msgstr "Genlik"
+
+#: ComponentTransferEffectConfigWidget.cpp:119
+#, kde-format
+msgid "Exponent"
+msgstr "Üs"
+
+#: ComponentTransferEffectConfigWidget.cpp:124 OffsetEffect.cpp:30
+#: OffsetEffectFactory.cpp:26
+#, kde-format
+msgid "Offset"
+msgstr "Yerleşim"
+
+#: CompositeEffect.cpp:32 CompositeEffectFactory.cpp:27
+#, kde-format
+msgid "Composite"
+msgstr "Bileşik"
+
+#: CompositeEffectConfigWidget.cpp:36
+#, kde-format
+msgid "Operation"
+msgstr "İşlem"
+
+#: ConvolveMatrixEffect.cpp:35 ConvolveMatrixEffectFactory.cpp:27
+#, kde-format
+msgid "Convolve Matrix"
+msgstr "Matrisi Evriştir"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:45
+#, kde-format
+msgid "Duplicate"
+msgstr "Çoğalt"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:46
+#, kde-format
+msgid "Wrap"
+msgstr "Kaydır"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:47
+#, kde-format
+msgid "None"
+msgstr "Hiçbiri"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:48
+#, kde-format
+msgid "Edge mode:"
+msgstr "Kenar kipi:"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:55
+#, kde-format
+msgid "Kernel size:"
+msgstr "Çekirdek boyutu:"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:64
+#, kde-format
+msgid "Target point:"
+msgstr "Hedef noktası:"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:71
+#, kde-format
+msgid "Divisor:"
+msgstr "Bölen:"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:73
+#, kde-format
+msgid "Bias:"
+msgstr "Meyil:"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:76
+#, kde-format
+msgid "Preserve alpha"
+msgstr "Alfayı koru"
+
+#: ConvolveMatrixEffectConfigWidget.cpp:79
+#, kde-format
+msgid "Edit kernel"
+msgstr "Çekirdeği düzenle"
+
+#: FloodEffect.cpp:29 FloodEffectFactory.cpp:27
+#, kde-format
+msgid "Flood fill"
+msgstr "Akıcı doldur"
+
+#: FloodEffectConfigWidget.cpp:37
+#, kde-format
+msgid "Flood color"
+msgstr "Taşma rengi"
+
+#: ImageEffect.cpp:38 ImageEffectFactory.cpp:26
+#, kde-format
+msgid "Image"
+msgstr "Resim"
+
+#: ImageEffectConfigWidget.cpp:40
+#, kde-format
+msgid "Select image..."
+msgstr "Resim seç..."
+
+#: ImageEffectConfigWidget.cpp:67
+#, kde-format
+msgid "Select image"
+msgstr "Resim seç"
+
+#: MergeEffect.cpp:29 MergeEffectFactory.cpp:27
+#, kde-format
+msgid "Merge"
+msgstr "Birleştir"
+
+#: MorphologyEffect.cpp:32 MorphologyEffectFactory.cpp:27
+#, kde-format
+msgid "Morphology"
+msgstr "Biçimbilim"
+
+#: MorphologyEffectConfigWidget.cpp:38
+#, kde-format
+msgid "Erode"
+msgstr "Aşındır"
+
+#: MorphologyEffectConfigWidget.cpp:39
+#, kde-format
+msgid "Dilate"
+msgstr "Genişlet"
+
+#: MorphologyEffectConfigWidget.cpp:42
+#, kde-format
+msgid "Operator:"
+msgstr "İşleç:"
+
+#: MorphologyEffectConfigWidget.cpp:46
+#, kde-format
+msgid "Radius x:"
+msgstr "Çap x:"
+
+#: MorphologyEffectConfigWidget.cpp:52
+#, kde-format
+msgid "Radius y:"
+msgstr "Çap y:"
+
+#: OffsetEffectConfigWidget.cpp:35
+#, kde-format
+msgid "dx"
+msgstr "dx"
+
+#: OffsetEffectConfigWidget.cpp:41
+#, kde-format
+msgid "dy"
+msgstr "dy"
+
+#, fuzzy
+#~| msgid "Blend"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Blend"
+#~ msgstr "Harmanlama"
+
+#, fuzzy
+#~| msgid "Blend mode"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Blend mode"
+#~ msgstr "Harmanlama kipi"
+
+#, fuzzy
+#~| msgid "Normal"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#, fuzzy
+#~| msgid "Multiply"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Multiply"
+#~ msgstr "Çarp"
+
+#, fuzzy
+#~| msgid "Screen"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Screen"
+#~ msgstr "Ekran"
+
+#, fuzzy
+#~| msgid "Darken"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Darken"
+#~ msgstr "Koyulaştır"
+
+#, fuzzy
+#~| msgid "Lighten"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Lighten"
+#~ msgstr "Aydınlat"
+
+#, fuzzy
+#~| msgid "Gaussian blur"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Gaussian blur"
+#~ msgstr "Gaussian bulanıklığı"
+
+#, fuzzy
+#~| msgid "Radius"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Radius"
+#~ msgstr "Yarıçap"
+
+#, fuzzy
+#~| msgid "Color Matrix"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Color Matrix"
+#~ msgstr "Renk Matrisi"
+
+#, fuzzy
+#~| msgid "Apply color matrix"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Apply color matrix"
+#~ msgstr "Renk matrisi uygula"
+
+#, fuzzy
+#~| msgid "Saturate colors"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Saturate colors"
+#~ msgstr "Renkleri doygunlaştır"
+
+#, fuzzy
+#~| msgid "Rotate hue"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Rotate hue"
+#~ msgstr "Tonu döndür"
+
+#, fuzzy
+#~| msgid "Luminance to alpha"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Luminance to alpha"
+#~ msgstr "Alfa'ya Aydınlık"
+
+#, fuzzy
+#~| msgid "Saturate value"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Saturate value"
+#~ msgstr "Doygunluk değeri"
+
+#, fuzzy
+#~| msgid "Angle"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Angle"
+#~ msgstr "Açı"
+
+#, fuzzy
+#~| msgid "Color matrix"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Color matrix"
+#~ msgstr "Renk matrisi"
+
+#, fuzzy
+#~| msgid "Component transfer"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Component transfer"
+#~ msgstr "Bileşen aktarımı"
+
+#, fuzzy
+#~| msgid "Function"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Function"
+#~ msgstr "İşlev"
+
+#, fuzzy
+#~| msgid "Identity"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Identity"
+#~ msgstr "Kimlik"
+
+#, fuzzy
+#~| msgid "Table"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Table"
+#~ msgstr "Tablo"
+
+#, fuzzy
+#~| msgid "Discrete"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Discrete"
+#~ msgstr "Kesikli"
+
+#, fuzzy
+#~| msgid "Linear"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Linear"
+#~ msgstr "Doğrusal"
+
+#, fuzzy
+#~| msgid "Gamma"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Gamma"
+#~ msgstr "Gama"
+
+#, fuzzy
+#~| msgid "Values"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Values"
+#~ msgstr "Değerler"
+
+#, fuzzy
+#~| msgid "Slope"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Slope"
+#~ msgstr "Eğimli"
+
+#, fuzzy
+#~| msgid "Intercept"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Intercept"
+#~ msgstr "Kesiştir"
+
+#, fuzzy
+#~| msgid "Amplitude"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Amplitude"
+#~ msgstr "Genlik"
+
+#, fuzzy
+#~| msgid "Exponent"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Exponent"
+#~ msgstr "Üs"
+
+#, fuzzy
+#~| msgid "Offset"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Offset"
+#~ msgstr "Yerleşim"
+
+#, fuzzy
+#~| msgid "Composite"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Composite"
+#~ msgstr "Bileşik"
+
+#, fuzzy
+#~| msgid "Operation"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Operation"
+#~ msgstr "İşlem"
+
+#, fuzzy
+#~| msgid "Convolve Matrix"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Convolve Matrix"
+#~ msgstr "Matrisi Evriştir"
+
+#, fuzzy
+#~| msgid "Duplicate"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Duplicate"
+#~ msgstr "Çoğalt"
+
+#, fuzzy
+#~| msgid "Wrap"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Wrap"
+#~ msgstr "Kaydır"
+
+#, fuzzy
+#~| msgid "None"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "None"
+#~ msgstr "Hiçbiri"
+
+#, fuzzy
+#~| msgid "Edge mode:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Edge mode:"
+#~ msgstr "Kenar kipi:"
+
+#, fuzzy
+#~| msgid "Kernel size:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Kernel size:"
+#~ msgstr "Çekirdek boyutu:"
+
+#, fuzzy
+#~| msgid "Target point:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Target point:"
+#~ msgstr "Hedef noktası:"
+
+#, fuzzy
+#~| msgid "Divisor:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Divisor:"
+#~ msgstr "Bölen:"
+
+#, fuzzy
+#~| msgid "Bias:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Bias:"
+#~ msgstr "Meyil:"
+
+#, fuzzy
+#~| msgid "Preserve alpha"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Preserve alpha"
+#~ msgstr "Alfayı koru"
+
+#, fuzzy
+#~| msgid "Edit kernel"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Edit kernel"
+#~ msgstr "Çekirdeği düzenle"
+
+#, fuzzy
+#~| msgid "Flood fill"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Flood fill"
+#~ msgstr "Akıcı doldur"
+
+#, fuzzy
+#~| msgid "Flood color"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Flood color"
+#~ msgstr "Taşma rengi"
+
+#, fuzzy
+#~| msgid "Image"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Image"
+#~ msgstr "Resim"
+
+#, fuzzy
+#~| msgid "Select image..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Select image..."
+#~ msgstr "Resim seç..."
+
+#, fuzzy
+#~| msgid "Select image"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Select image"
+#~ msgstr "Resim seç"
+
+#, fuzzy
+#~| msgid "Merge"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Merge"
+#~ msgstr "Birleştir"
+
+#, fuzzy
+#~| msgid "Morphology"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Morphology"
+#~ msgstr "Biçimbilim"
+
+#, fuzzy
+#~| msgid "Erode"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Erode"
+#~ msgstr "Aşındır"
+
+#, fuzzy
+#~| msgid "Dilate"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Dilate"
+#~ msgstr "Genişlet"
+
+#, fuzzy
+#~| msgid "Operator:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Operator:"
+#~ msgstr "İşleç:"
+
+#, fuzzy
+#~| msgid "Radius x:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Radius x:"
+#~ msgstr "Çap x:"
+
+#, fuzzy
+#~| msgid "Radius y:"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Radius y:"
+#~ msgstr "Çap y:"
+
+#, fuzzy
+#~| msgid "dx"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "dx"
+#~ msgstr "dx"
+
+#, fuzzy
+#~| msgid "dy"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "dy"
+#~ msgstr "dy"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Serdar Soytetir, Volkan Gezer"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "tulliana@gmail.com, volkangezer@gmail.com"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Boolean Operation"
+#~ msgstr "Mantıksal İşlemi"
+
+#~ msgid "&Order"
+#~ msgstr "&Sıralama"
+
+#~ msgid "&Align"
+#~ msgstr "&Hizalama"
+
+#~ msgid "&File"
+#~ msgstr "&Dosya"
+
+#~ msgid "&Edit"
+#~ msgstr "Dü&zen"
+
+#~ msgid "&View"
+#~ msgstr "&Görünüm"
+
+#~ msgid "&Object"
+#~ msgstr "&Nesne"
+
+#~ msgid "&Distribute"
+#~ msgstr "&Dağıt"
+
+#~ msgid "&Path"
+#~ msgstr "&Yol"
+
+#~ msgid "Effe&cts"
+#~ msgstr "Et&kiler"
+
+#~ msgid "&Settings"
+#~ msgstr "&Ayarlar"
+
+#~ msgid "Edit"
+#~ msgstr "Düzenle"
+
+#~ msgid "Object"
+#~ msgstr "Nesne"
+
+#~ msgid "Align"
+#~ msgstr "Hizalama"
+
+#~ msgid "Effects"
+#~ msgstr "Etkiler"
+
+#~ msgid "View"
+#~ msgstr "Görünüm"
+
+#~ msgid "&Flatten Path..."
+#~ msgstr "&Yolu Düzleştir..."
+
+#~ msgid "Flatten Path"
+#~ msgstr "Yolu Düzleştir"
+
+#~ msgid "Properties"
+#~ msgstr "Özellikler"
+
+#~ msgid "Flatness:"
+#~ msgstr "Yassılık:"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Flatten path"
+#~ msgstr "Yolu düzleştir"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Refine path"
+#~ msgstr "Yolunu daralt"
+
+#~ msgid "&Refine Path..."
+#~ msgstr "&Yolu İyileştir..."
+
+#~ msgid "Refine Path"
+#~ msgstr "Yolu İyileştir"
+
+#~ msgid "Subdivisions:"
+#~ msgstr "Alt bölümler:"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Round Corners"
+#~ msgstr "Köşeleri Yuvarla"
+
+#~ msgid "&Round Corners..."
+#~ msgstr "&Köşeleri Yuvarla..."
+
+#~ msgid "Round Corners"
+#~ msgstr "Köşeleri Yuvarla"
+
+#~ msgid "Radius:"
+#~ msgstr "Yarıçap:"
+
+#, fuzzy
+#~| msgid "View"
+#~ msgid "List View"
+#~ msgstr "Görünüm"
+
+#, fuzzy
+#~| msgid "View"
+#~ msgid "Icon View"
+#~ msgstr "Görünüm"
+
+#, fuzzy
+#~| msgctxt "(qtundo-format)"
+#~| msgid "Reparent shapes"
+#~ msgid "More shapes"
+#~ msgstr "Şekiller yeniden bağlantılandır"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Whirl & pinch"
+#~ msgstr "Döndür & tut"
+
+#~ msgid "&Whirl/Pinch..."
+#~ msgstr "&Burgaç Etkisi..."
+
+#~ msgid "Whirl Pinch"
+#~ msgstr "Burgaç Etkisi"
+
+#~ msgid "Info"
+#~ msgstr "Bilgi"
+
+#~ msgid ""
+#~ "The result of the Whirlpinch effect can be improved by refining the path "
+#~ "shape beforehand."
+#~ msgstr ""
+#~ "Burgaç etkisini arttırmak için, etki verilmeden önce şekle ait yol "
+#~ "iyileştirilebilir."
+
+#~ msgid "Angle:"
+#~ msgstr "Dönme Açısı:"
+
+#~ msgid "Pinch:"
+#~ msgstr "Etki Miktarı:"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Raise Layer"
+#~ msgstr "Katmanı Yükselt"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Lower Layer"
+#~ msgstr "Katmanı Alçalt"
+
+#~ msgid "Configure"
+#~ msgstr "Yapılandır"
+
+#~ msgid "Interface"
+#~ msgstr "Arayüz"
+
+#~ msgid "Misc"
+#~ msgstr "Çeşitli"
+
+#~ msgid "Grid"
+#~ msgstr "Izgara"
+
+#~ msgctxt "@title:tab Document settings page"
+#~ msgid "Document"
+#~ msgstr "Belge"
+
+#~ msgid "Document Settings"
+#~ msgstr "Belge Ayarları"
+
+#~ msgctxt "@title:tab Author page"
+#~ msgid "Author"
+#~ msgstr "Yazar"
+
+#~ msgid "Author"
+#~ msgstr "Yazar"
+
+#~ msgid "Layer view"
+#~ msgstr "Katman görünümü"
+
+#~ msgid "Add a new layer"
+#~ msgstr "Yeni bir katman ekle"
+
+#~ msgid "Delete selected objects"
+#~ msgstr "Seçilen nesneleri sil"
+
+#~ msgid "Raise selected objects"
+#~ msgstr "Seçilen nesneleri yükselt"
+
+#~ msgid "Lower selected objects"
+#~ msgstr "Seçilen nesneleri alçalt"
+
+#~ msgid "Minimal View"
+#~ msgstr "En Küçük Görünüm"
+
+#~ msgid "Detailed View"
+#~ msgstr "Ayrıntılı Görünüm"
+
+#~ msgid "Thumbnail View"
+#~ msgstr "Küçük Resim Görünümü"
+
+#~ msgid "View mode"
+#~ msgstr "Görünüm kipi"
+
+#~ msgid "New Layer"
+#~ msgstr "Yeni Katman"
+
+#~ msgid "Enter the name of the new layer:"
+#~ msgstr "Yeni katmanın adı:"
+
+#~ msgid "New layer"
+#~ msgstr "Yeni katman"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Create Layer"
+#~ msgstr "Katman Oluştur"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Delete Layer"
+#~ msgstr "Katmanı Sil"
+
+#~ msgid "Could not delete all layers. At least one layer is required."
+#~ msgstr "Katmanlar silinemedi. Silme işlemi için en az bir katman gerekir."
+
+#~ msgid "Error deleting layers"
+#~ msgstr "Katmanlar silinirken hata"
+
+#~ msgid "Layer"
+#~ msgstr "Katman"
+
+#~ msgctxt "A group of shapes"
+#~ msgid "Group"
+#~ msgstr "Gruplandır"
+
+#~ msgid "Shape"
+#~ msgstr "Şekil"
+
+#~ msgctxt "Visibility state of the shape"
+#~ msgid "Visible"
+#~ msgstr "Görünür"
+
+#~ msgctxt "Lock state of the shape"
+#~ msgid "Locked"
+#~ msgstr "Kilitli"
+
+#~ msgctxt "The z-index of the shape"
+#~ msgid "zIndex"
+#~ msgstr "zDizini"
+
+#~ msgctxt "The opacity of the shape"
+#~ msgid "Opacity"
+#~ msgstr "Matlık"
+
+#~ msgctxt "Clipped state of the shape"
+#~ msgid "Clipped"
+#~ msgstr "Kırpılmış"
+
+#~ msgid "no"
+#~ msgstr "hayır"
+
+#~ msgid "yes"
+#~ msgstr "evet"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Reparent shapes"
+#~ msgstr "Şekiller yeniden bağlantılandır"
+
+#~ msgid "Karbon"
+#~ msgstr "Karbon"
+
+#~ msgid "A Vector Graphics Drawing Application."
+#~ msgstr "Bir Vektörel Grafik Çizim Aracı."
+
+#~ msgid "(c) 2001-2013, The Karbon Developers"
+#~ msgstr "(c) 2001-2013, Karbon Geliştiricileri"
+
+#~ msgid "You are invited to participate in any way."
+#~ msgstr "Her şekilde katılmaya davetlisiniz."
+
+#~ msgid "Rob Buis"
+#~ msgstr "Rob Buis"
+
+#~ msgid "Tomislav Lukman"
+#~ msgstr "Tomislav Lukman"
+
+#~ msgid "Benoît Vautrin"
+#~ msgstr "Benoît Vautrin"
+
+#~ msgid "Jan Hambrecht"
+#~ msgstr "Jan Hambrecht"
+
+#~ msgid "Bug fixes and improvements"
+#~ msgstr "Hata düzeltmeleri ve geliştirmeler"
+
+#~ msgid "Peter Simonsson"
+#~ msgstr "Peter Simonsson"
+
+#~ msgid "Tim Beaulen"
+#~ msgstr "Tim Beaulen"
+
+#~ msgid "Boudewijn Rempt"
+#~ msgstr "Boudewijn Rempt"
+
+#~ msgid "Pierre Stirnweiss"
+#~ msgstr "Pierre Stirnweiss"
+
+#~ msgid "Inge Wallin"
+#~ msgstr "Inge Wallin"
+
+#~ msgid "Bug fixes"
+#~ msgstr "Hata düzeltmeleri"
+
+#~ msgid "Alan Horkan"
+#~ msgstr "Alan Horkan"
+
+#~ msgid "Helpful patches and advice"
+#~ msgstr "Faydalı yamalar ve öneriler"
+
+#~ msgid "Invalid OASIS document. No office:body tag found."
+#~ msgstr "Geçersiz OASIS belgesi. Office:body etiketi bulunamadı."
+
+#~ msgid "Invalid OASIS document. No office:drawing tag found."
+#~ msgstr "Geçersiz OASIS belgesi. Office:drawing etiketi bulunamadı."
+
+#~ msgid "Invalid OASIS document. No draw:page tag found."
+#~ msgstr "Geçersiz OASIS belgesi. Draw:page etiketi bulunamadı."
+
+#~ msgid "Master Page"
+#~ msgstr "Ana Sayfa"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Insert graphics"
+#~ msgstr "Grafik ekle"
+
+#~ msgid "Choose Graphic to Add"
+#~ msgstr "Eklenecek Grafiği Seçin"
+
+#~ msgid "Could not load image."
+#~ msgstr "Resim yüklenemedi."
+
+#~ msgid "Import graphic"
+#~ msgstr "İçeriye grafik aktar..."
+
+#~ msgid "Could not create image shape."
+#~ msgstr "Resim şekli oluşturulamadı."
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Mirror Horizontally"
+#~ msgstr "Yatay Çevir"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Mirror Vertically"
+#~ msgstr "Dikey Çevir"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Mirror Horizontally and Vertically"
+#~ msgstr "Yatay ve Dikey Çevir"
+
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Separate paths"
+#~ msgstr "Yolları ayır"
+
+#~ msgid "Outline &Mode"
+#~ msgstr "Dış Hat &Kipi"
+
+#~ msgid "Show Page Margins"
+#~ msgstr "Sayfanın Kenar Boşluklarını Göster"
+
+#~ msgid "&Import Graphic..."
+#~ msgstr "İçeriye Grafik &Aktar..."
+
+#~ msgid "D&elete"
+#~ msgstr "&Sil"
+
+#~ msgid "Edit Guides"
+#~ msgstr "Kılavuzları Düzenle"
+
+#~ msgctxt "Duplicate selection"
+#~ msgid "&Duplicate"
+#~ msgstr "Çoğal&t"
+
+#~ msgid "Distribute Center (Horizontal)"
+#~ msgstr "Ortayı Dağıt (Yatay)"
+
+#~ msgid "Distribute Gaps (Horizontal)"
+#~ msgstr "Boşlukları Dağıt (Yatay)"
+
+#~ msgid "Distribute Left Borders"
+#~ msgstr "Sol Kenarlıkları Dağıt"
+
+#~ msgid "Distribute Right Borders"
+#~ msgstr "Sağ Kenarlıkları Dağıt"
+
+#~ msgid "Distribute Center (Vertical)"
+#~ msgstr "Ortayı Dağıt (Dikey)"
+
+#~ msgid "Distribute Gaps (Vertical)"
+#~ msgstr "Boşlukları Dağıt (Dikey)"
+
+#~ msgid "Distribute Bottom Borders"
+#~ msgstr "Alt Kenarlıkları Dağıt"
+
+#~ msgid "Distribute Top Borders"
+#~ msgstr "Üst Kenarlıkları &Dağıt"
+
+#~ msgid "Show Rulers"
+#~ msgstr "Kılavuzları Göster"
+
+#~ msgid "Shows or hides rulers"
+#~ msgstr "Cetveli saklar ya da gösterir"
+
+#~ msgid "Show Color Palette"
+#~ msgstr "Renk Paletini Göster"
+
+#~ msgid "Show or hide color palette"
+#~ msgstr "Renk paletini göster veya gizle"
+
+#~ msgid "Snap to Grid"
+#~ msgstr "Izgaraya Uydur"
+
+#~ msgid "Snaps to grid"
+#~ msgstr "Izgaraya uydurur"
+
+#~ msgid "&Clip Object"
+#~ msgstr "&Nesneyi Kırp"
+
+#~ msgid "&Unclip Objects"
+#~ msgstr "&Nesneleri Sök"
+
+#~ msgid "Mirror Vertically"
+#~ msgstr "Dikey Döndür"
+
+#~ msgid "Mirror Horizontally"
+#~ msgstr "Yatay Çevir"
+
+#~ msgid "&Close Path"
+#~ msgstr "&Yolu Kapat"
+
+#~ msgid "Com&bine Path"
+#~ msgstr "Yolu &Birleştir"
+
+#~ msgid "Se&parate Path"
+#~ msgstr "Yolu &Ayır"
+
+#~ msgid "Re&verse Path"
+#~ msgstr "Yolu &Tersine Çevir"
+
+#~ msgid "Intersect Paths"
+#~ msgstr "Yolları Kesiştir"
+
+#~ msgid "Subtract Paths"
+#~ msgstr "Yolları Çıkar"
+
+#~ msgid "Unite Paths"
+#~ msgstr "Yolları Birleştir"
+
+#~ msgid "Exclude Paths"
+#~ msgstr "Yolları Hariç Tut"
+
+#~ msgid "Snap Path to Grid"
+#~ msgstr "Yolu Izgaraya Tuttur"
+
+#~ msgid "Configure Karbon..."
+#~ msgstr "Karbon Uygulamasını Yapılandır..."
+
+#~ msgid "Page &Layout..."
+#~ msgstr "&Sayfa Düzeni..."
+
+#~ msgid "Zoom to Selection"
+#~ msgstr "Seçimi Büyüt"
+
+#~ msgid "Zoom to Drawing"
+#~ msgstr "Çizime Sığdır"
+
+#~ msgid "Zoom"
+#~ msgstr "Büyüt"
+
+#~ msgid "Show status bar:"
+#~ msgstr "Durum çubuğunu göster:"
+
+#~ msgid "Number of recent files:"
+#~ msgstr "Son kullanılan dosyaların sayısı:"
+
+#~ msgid "Palette font size:"
+#~ msgstr "Palet yazı tipi boyutu:"
+
+#~ msgid "Canvas color:"
+#~ msgstr "Tuval rengi:"
+
+#~ msgid "Select palette"
+#~ msgstr "Palet seç"
+
+#~ msgid "Press to apply fill to selection"
+#~ msgstr "Seçimi doldurmak için basın"
+
+#~ msgctxt "The style has no fill"
+#~ msgid "None"
+#~ msgstr "Hiçbiri"
+
+#~ msgid "Press to apply stroke to selection"
+#~ msgstr "Seçime kontur uygulamak için basın"
+
+#~ msgctxt "The style has a custom stroking"
+#~ msgid "Custom"
+#~ msgstr "Özel"
+
+#~ msgctxt "The style has no stroking"
+#~ msgid "None"
+#~ msgstr "Hiçbiri"
+
+#~ msgid "Stroke:"
+#~ msgstr "Darbe:"
+
+#~ msgid "Fill:"
+#~ msgstr "Doldur:"
+
+#~ msgid "File to open"
+#~ msgstr "Açılacak dosya"
+
+#~ msgid "Target:"
+#~ msgstr "Hedef:"
+
+#~ msgid "Line"
+#~ msgstr "Çizgi"
+
+#~ msgid "Fill"
+#~ msgstr "Doldur"
+
+#~ msgid "Type:"
+#~ msgstr "Tür:"
+
+#~ msgctxt "Linear gradient type"
+#~ msgid "Linear"
+#~ msgstr "Doğrusal"
+
+#~ msgctxt "Radial gradient type"
+#~ msgid "Radial"
+#~ msgstr "Merkezden çevreye"
+
+#~ msgctxt "Conical gradient type"
+#~ msgid "Conical"
+#~ msgstr "Konik"
+
+#~ msgid "Repeat:"
+#~ msgstr "Tekrarla:"
+
+#~ msgctxt "No gradient spread"
+#~ msgid "None"
+#~ msgstr "Hiçbiri"
+
+#~ msgid "Reflect"
+#~ msgstr "Yansıt"
+
+#~ msgid "Repeat"
+#~ msgstr "Tekrarla"
+
+#~ msgid "Overall opacity:"
+#~ msgstr "Baştan başa matlık:"
+
+#~ msgid "Color stop:"
+#~ msgstr "Durma rengi:"
+
+#~ msgid "Stop color."
+#~ msgstr "Durma rengi."
+
+#~ msgid "&Add to Predefined Gradients"
+#~ msgstr "Önt&anımlı Eğimlere Ekle"
+
+#~ msgid "Original"
+#~ msgstr "Özgün"
+
+#~ msgid "Tiled"
+#~ msgstr "Döşenmiş"
+
+#~ msgid "Stretched"
+#~ msgstr "Gergin"
+
+#~ msgid "Top Left"
+#~ msgstr "Üst Sol"
+
+#~ msgid "Top"
+#~ msgstr "Üst"
+
+#~ msgid "Top Right"
+#~ msgstr "Üst Sağ"
+
+#~ msgid "Left"
+#~ msgstr "Sol"
+
+#~ msgid "Center"
+#~ msgstr "Merkez"
+
+#~ msgid "Right"
+#~ msgstr "Sağ"
+
+#~ msgid "Bottom Left"
+#~ msgstr "Alt Sol"
+
+#~ msgid "Bottom"
+#~ msgstr "Alt"
+
+#~ msgid "Bottom Right"
+#~ msgstr "Alt Sağ"

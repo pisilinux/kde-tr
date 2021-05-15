@@ -1,0 +1,165 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# obsoleteman <tulliana@gmail.com>, 2008-2009,2011.
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-kdevelop-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-17 07:46+0200\n"
+"PO-Revision-Date: 2017-05-16 06:58+0000\n"
+"Last-Translator: Mete <metebilgin48@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: outputwidget.cpp:67
+#, fuzzy, kde-format
+#| msgid "Output View"
+msgctxt "@title:window"
+msgid "Output View"
+msgstr "Çıktı Görünümü"
+
+#: outputwidget.cpp:78
+#, fuzzy, kde-format
+#| msgid "Close the currently active output view"
+msgctxt "@info:tooltip"
+msgid "Close the currently active output view"
+msgstr "Geçerli etkin çıktı görünümünü kapat"
+
+#: outputwidget.cpp:84
+#, fuzzy, kde-format
+#| msgid "Close all other output views"
+msgctxt "@info:tooltip"
+msgid "Close all other output views"
+msgstr "Tüm diğer çıktı görünümlerini kapat"
+
+#: outputwidget.cpp:95
+#, fuzzy, kde-format
+#| msgid "Previous Output"
+msgctxt "@action"
+msgid "Previous Output"
+msgstr "Önceki Çıktı"
+
+#: outputwidget.cpp:98
+#, fuzzy, kde-format
+#| msgid "Next Output"
+msgctxt "@action"
+msgid "Next Output"
+msgstr "Sonraki Çıktı"
+
+#: outputwidget.cpp:103
+#, fuzzy, kde-format
+#| msgid "Select activated Item"
+msgctxt "@action"
+msgid "Select Activated Item"
+msgstr "Etkinleştirilmiş Ögeyi Seç"
+
+#: outputwidget.cpp:105
+#, fuzzy, kde-format
+#| msgid "Focus when selecting Item"
+msgctxt "@action"
+msgid "Focus when Selecting Item"
+msgstr "Ögeyi seçerken odakla"
+
+#: outputwidget.cpp:119
+#, fuzzy, kde-format
+#| msgid "First Item"
+msgctxt "@action"
+msgid "First Item"
+msgstr "İlk Öge"
+
+#: outputwidget.cpp:123
+#, fuzzy, kde-format
+#| msgid "Previous Item"
+msgctxt "@action"
+msgid "Previous Item"
+msgstr "Önceki Öge"
+
+#: outputwidget.cpp:127
+#, fuzzy, kde-format
+#| msgid "Next Item"
+msgctxt "@action"
+msgid "Next Item"
+msgstr "Sonraki Öge"
+
+#: outputwidget.cpp:131
+#, fuzzy, kde-format
+#| msgid "Last Item"
+msgctxt "@action"
+msgid "Last Item"
+msgstr "Son Öge"
+
+#: outputwidget.cpp:144
+#, fuzzy, kde-format
+#| msgid "Clear"
+msgctxt "@action"
+msgid "Clear"
+msgstr "Temizle"
+
+#: outputwidget.cpp:155
+#, fuzzy, kde-format
+#| msgid "Search..."
+msgctxt "@info:placeholder"
+msgid "Search..."
+msgstr "Ara..."
+
+#: outputwidget.cpp:157
+#, fuzzy, kde-format
+#| msgid "Enter a wild card string to filter the output view"
+msgctxt "@info:tooltip"
+msgid "Enter a wild card string to filter the output view"
+msgstr "Çıktı görünümünü filtrelemek için bir joker karakter dizgesi girin"
+
+#: standardoutputview.cpp:115
+#, kde-format
+msgctxt "@title:window"
+msgid "Build"
+msgstr "İnşa Et"
+
+#: standardoutputview.cpp:120
+#, kde-format
+msgctxt "@title:window"
+msgid "Run"
+msgstr "Çalıştır"
+
+#: standardoutputview.cpp:125
+#, kde-format
+msgctxt "@title:window"
+msgid "Debug"
+msgstr "Hata Ayıkla"
+
+#: standardoutputview.cpp:130
+#, kde-format
+msgctxt "@title:window"
+msgid "Test"
+msgstr "Test et"
+
+#: standardoutputview.cpp:135
+#, kde-format
+msgctxt "@title:window"
+msgid "Version Control"
+msgstr "Sürüm Kontrolü"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Navigation"
+#~ msgstr "Gezinti"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Serdar Soytetir"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "tulliana@gmail.com"
+
+#~ msgid "Provides toolviews for presenting the output of running apps"
+#~ msgstr ""
+#~ "Çalışan uygulamaların çıktılarını göstermek için araç görünümü sağlar"

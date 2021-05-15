@@ -1,0 +1,994 @@
+#
+# Translators:
+# Görkem Çetin <gorkem@gorkemcetin.com>, 2005.
+# Kaya Oğuz <kaya@kuzeykutbu.org>, 2005.
+# obsoleteman <tulliana@gmail.com>, 2008-2009,2011.
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-kdevelop-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-27 06:26+0000\n"
+"PO-Revision-Date: 2017-10-03 14:05+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: app/kdevelop.notifyrc:4
+msgctxt "Comment"
+msgid "KDevelop"
+msgstr "KDevelop"
+
+#: app/kdevelop.notifyrc:55
+msgctxt "Name"
+msgid "Process successful"
+msgstr "İşlem başarılı"
+
+#: app/kdevelop.notifyrc:102
+msgctxt "Comment"
+msgid "Process finished successfully"
+msgstr "İşlem başarıyla bitti"
+
+#: app/kdevelop.notifyrc:151
+msgctxt "Name"
+msgid "Process error"
+msgstr "İşlem hatası"
+
+#: app/kdevelop.notifyrc:199
+msgctxt "Comment"
+msgid "Process finished with errors"
+msgstr "İşlem hatalarla bitti"
+
+#: app/kdevelop.notifyrc:250
+msgctxt "Name"
+msgid "Loading Project"
+msgstr "Proje Yükleniyor"
+
+#: app/kdevelop.notifyrc:289
+msgctxt "Comment"
+msgid "A project loading process has just started"
+msgstr "Bir proje yükleme süreci başladı"
+
+#: app/kdevelop.notifyrc:330
+msgctxt "Name"
+msgid "Project Loaded Successfully"
+msgstr "Proje Başarılı Bir Şekilde Yüklendi"
+
+#: app/kdevelop.notifyrc:369
+msgctxt "Comment"
+msgid "A project has been loaded successfully"
+msgstr "Bir proje başarıyla yüklendi"
+
+#: app/kdevelop.notifyrc:410
+msgctxt "Name"
+msgid "Debugger"
+msgstr "Hata Ayıklayıcı"
+
+#: app/kdevelop.notifyrc:452
+msgctxt "Name"
+msgid "Breakpoint Hit"
+msgstr "Kesme Noktasına Gelindi"
+
+#: app/kdevelop.notifyrc:490
+msgctxt "Comment"
+msgid "A Breakpoint has been hit by the debugger"
+msgstr "Hata ayıklayıcı tarafından bir kesme noktasına gelindi"
+
+#: app/kdevelop.notifyrc:531
+msgctxt "Name"
+msgid "Watchpoint Hit"
+msgstr "İzleme Noktasına Gelindi"
+
+#: app/kdevelop.notifyrc:569
+msgctxt "Comment"
+msgid "A Watchpoint has been hit by the debugger"
+msgstr "Hata ayıklayıcı tarafından bir izleme noktasına gelindi"
+
+#: app/org.kde.kdevelop.desktop:10 app/org.kde.kdevelop_kdev4.desktop:7
+msgctxt "Name"
+msgid "KDevelop"
+msgstr "KDevelop"
+
+#: app/org.kde.kdevelop.desktop:37 app/org.kde.kdevelop_kdev4.desktop:34
+#: plugins/bazaar/org.kde.kdevelop_bzr.desktop:27
+#: plugins/git/org.kde.kdevelop_git.desktop:27
+#: plugins/subversion/org.kde.kdevelop_svn.desktop:27
+msgctxt "GenericName"
+msgid "Integrated Development Environment"
+msgstr "Bütünleşik Geliştirme Ortamı"
+
+#: app/org.kde.kdevelop.desktop:81
+msgctxt "Name"
+msgid "Open a Session"
+msgstr ""
+
+#: app/org.kde.kdevelop_ps.desktop:7
+msgctxt "Name"
+msgid "KDevelop (Pick Session)"
+msgstr "KDevelop (Oturum Seçin)"
+
+#: app/org.kde.kdevelop_ps.desktop:33
+msgctxt "GenericName"
+msgid "Integrated Development Environment (Pick Session to start with)"
+msgstr "Tümleşik Geliştirme Ortamı (Başlamak için oturum seçin)"
+
+#: app/plasma/applet/package/metadata.desktop:2
+#: app/plasma/runner/kdevelopsessions.desktop:2
+msgctxt "Name"
+msgid "KDevelop Sessions"
+msgstr "KDevelop Oturumları"
+
+#: app/plasma/applet/package/metadata.desktop:40
+msgctxt "Comment"
+msgid "List and launch KDevelop sessions"
+msgstr "KDevelop oturumlarını listele ve başlat"
+
+#: app/plasma/runner/kdevelopsessions.desktop:40
+msgctxt "Comment"
+msgid "Matches KDevelop Sessions"
+msgstr "KDevelop Oturumlarını Eşleştirir"
+
+#: app_templates/c/CMake/cmake_plainc/cmake_plainc.kdevtemplate:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "CMake C++"
+msgctxt "Name"
+msgid "CMake C"
+msgstr "CMake C++"
+
+#: app_templates/c/CMake/cmake_plainc/cmake_plainc.kdevtemplate:24
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Simple CMake-based C++ application"
+msgctxt "Comment"
+msgid "Simple CMake-based C application"
+msgstr "Basit bir CMake tabanlı C++ uygulaması"
+
+#: app_templates/cpp/CMake/cmake_kdevplugin/cmake_kdevplugin.kdevtemplate:3
+msgctxt "Name"
+msgid "Simple KDevelop Plugin"
+msgstr "Basit KDevelop Eklentisi"
+
+#: app_templates/cpp/CMake/cmake_kdevplugin/cmake_kdevplugin.kdevtemplate:27
+msgctxt "Comment"
+msgid "Generate a general KDevelop plugin, using CMake and C++"
+msgstr "CMake ve C++ kullanan genel bir KDevelop eklentisi oluştur"
+
+#: app_templates/cpp/CMake/cmake_plaincpp/cmake_plaincpp.kdevtemplate:3
+msgctxt "Name"
+msgid "CMake C++"
+msgstr "CMake C++"
+
+#: app_templates/cpp/CMake/cmake_plaincpp/cmake_plaincpp.kdevtemplate:37
+msgctxt "Comment"
+msgid "Simple CMake-based C++ application"
+msgstr "Basit bir CMake tabanlı C++ uygulaması"
+
+#: app_templates/cpp/CMake/cmake_qt5guiapp/cmake_qt5guiapp.kdevtemplate:3
+msgctxt "Name"
+msgid "CMake Qt5 - C++"
+msgstr "CMake Qt5 - C++"
+
+#: app_templates/cpp/CMake/cmake_qt5guiapp/cmake_qt5guiapp.kdevtemplate:28
+msgctxt "Comment"
+msgid ""
+"Qt5 CMake Gui application. Generate a CMake/Qt5 based GUI application "
+"(crossplatform compatible)"
+msgstr ""
+"Qt5 CMake Gui uygulaması. CMake/Qt5 tabanlı bir arayüz uygulaması oluştur "
+"(çapraz platform uyumlu)"
+
+#: app_templates/cpp/CMake/cmake_qt5-qml2/cmake_qt5-qml2.kdevtemplate:3
+#: app_templates/cpp/QMake/qt5-qml2/qt5-qml2.kdevtemplate:3
+msgctxt "Name"
+msgid "QtQuick 2 Application"
+msgstr "QtQuick 2 Uygulaması"
+
+#: app_templates/cpp/CMake/cmake_qt5-qml2/cmake_qt5-qml2.kdevtemplate:27
+msgctxt "Comment"
+msgid "A Qt5 and QtQuick2 basic application using CMake"
+msgstr "CMake kullanan basit Qt5 ve QtQuick2 uygulaması"
+
+#: app_templates/cpp/QMake/qmake_qt5guiapp/qmake_qt5guiapp.kdevtemplate:2
+msgctxt "Name"
+msgid "QMake Qt5 QWidgets GUI Application"
+msgstr "QMake Qt5 QWidgets Grafik Uygulaması"
+
+#: app_templates/cpp/QMake/qmake_qt5guiapp/qmake_qt5guiapp.kdevtemplate:25
+msgctxt "Comment"
+msgid "Generate a QMake/Qt5 based GUI application (crossplatform compatible)"
+msgstr ""
+"QMake/Qt5 tabanlı bir arayüz uygulaması oluştur (çapraz platform uyumlu)"
+
+#: app_templates/cpp/QMake/qt5-qml2/qt5-qml2.kdevtemplate:27
+msgctxt "Comment"
+msgid "A Qt5 and QML2 basic application using QMake"
+msgstr "QMake kullanan basit Qt5 ve QML2 uygulaması"
+
+#: app_templates/empty/empty.kdevtemplate:2
+msgctxt "Name"
+msgid "Empty"
+msgstr "Boş"
+
+#: app_templates/empty/empty.kdevtemplate:28
+msgctxt "Comment"
+msgid "A project to fill with your ideas"
+msgstr "Fikirlerinizle dolduracağınız bir proje"
+
+#: file_templates/classes/c_gobject/c_gobject.desktop:2
+msgctxt "Name"
+msgid "GObject"
+msgstr "GObject"
+
+#: file_templates/classes/c_gobject/c_gobject.desktop:36
+msgctxt "Comment"
+msgid "A simple GObject subclass"
+msgstr "Basit bir GObject alt sınıfı"
+
+#: file_templates/classes/c_gobject/c_gobject.desktop:68
+#: file_templates/classes/c_gobject_private/c_gobject_private.desktop:65
+#: file_templates/classes/c_gobject_properties/c_gobject_properties.desktop:65
+msgctxt "Language"
+msgid "C"
+msgstr "C"
+
+#: file_templates/classes/c_gobject/c_gobject.desktop:111
+#: file_templates/classes/c_gobject_private/c_gobject_private.desktop:108
+#: file_templates/classes/c_gobject_properties/c_gobject_properties.desktop:108
+#: file_templates/classes/cpp_basic/cpp_basic.desktop:113
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:89
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:93
+#: file_templates/testing/cpp_qtestlib/cpp_qtestlib.desktop:110
+#: file_templates/testing/cpp_qtestlib_kdevelop/cpp_qtestlib_kdevelop.desktop:109
+msgctxt "Name"
+msgid "Header"
+msgstr "Başlık"
+
+#: file_templates/classes/c_gobject/c_gobject.desktop:149
+#: file_templates/classes/c_gobject_private/c_gobject_private.desktop:146
+#: file_templates/classes/c_gobject_properties/c_gobject_properties.desktop:146
+#: file_templates/classes/cpp_basic/cpp_basic.desktop:151
+#: file_templates/classes/private_pointer/private_pointer.desktop:179
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:162
+#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:124
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:162
+#: file_templates/classes/qdialog/qdialog.desktop:123
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:166
+#: file_templates/classes/qobject/qobject.desktop:147
+#: file_templates/classes/qt_interface/qt_interface.desktop:127
+#: file_templates/classes/qt_shared/qt_shared.desktop:143
+#: file_templates/classes/qt_widget/qt_widget.desktop:144
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:157
+#: file_templates/testing/cpp_cpputest/cpp_cpputest.desktop:95
+#: file_templates/testing/cpp_gtest/cpp_gtest.desktop:95
+#: file_templates/testing/cpp_qtestlib/cpp_qtestlib.desktop:148
+#: file_templates/testing/cpp_qtestlib_kdevelop/cpp_qtestlib_kdevelop.desktop:147
+#: file_templates/testing/php_phpunit/php_phpunit.desktop:107
+#: file_templates/testing/python_pyunit/python_pyunit.desktop:112
+#: plugins/docker/dockerfile-template/dockerfile-template.desktop:77
+#: plugins/flatpak/flatpak-template/flatpak-builder-manifest.desktop:75
+msgctxt "Name"
+msgid "Implementation"
+msgstr "Gerçekleme"
+
+#: file_templates/classes/c_gobject_private/c_gobject_private.desktop:2
+msgctxt "Name"
+msgid "GObject with private pointer"
+msgstr "Özel işaretçili GObject"
+
+#: file_templates/classes/c_gobject_private/c_gobject_private.desktop:33
+msgctxt "Comment"
+msgid "A GObject subclass with a private pointer"
+msgstr "Özel bir işaretçi ile GObject alt sınıfı"
+
+#: file_templates/classes/c_gobject_properties/c_gobject_properties.desktop:2
+msgctxt "Name"
+msgid "GObject with properties"
+msgstr "Özellikler ile GObject"
+
+#: file_templates/classes/c_gobject_properties/c_gobject_properties.desktop:33
+msgctxt "Comment"
+msgid "A GObject subclass with a private pointer and properties"
+msgstr "Bir özel işaretçi ve özellikleri ile bir GObject alt sınıfı"
+
+#: file_templates/classes/cpp_basic/cpp_basic.desktop:2
+#: file_templates/classes/python_basic/python_basic.desktop:2
+msgctxt "Name"
+msgid "Basic"
+msgstr "Temel"
+
+#: file_templates/classes/cpp_basic/cpp_basic.desktop:37
+msgctxt "Comment"
+msgid "Basic C++ Class"
+msgstr "Temel C++ Sınıfı"
+
+#: file_templates/classes/cpp_basic/cpp_basic.desktop:70
+#: file_templates/classes/private_pointer/private_pointer.desktop:65
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:44
+#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:44
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:47
+#: file_templates/classes/qdialog/qdialog.desktop:43
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:49
+#: file_templates/classes/qobject/qobject.desktop:68
+#: file_templates/classes/qt_interface/qt_interface.desktop:48
+#: file_templates/classes/qt_shared/qt_shared.desktop:65
+#: file_templates/classes/qt_widget/qt_widget.desktop:65
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:43
+#: file_templates/testing/cpp_cpputest/cpp_cpputest.desktop:52
+#: file_templates/testing/cpp_gtest/cpp_gtest.desktop:52
+#: file_templates/testing/cpp_qtestlib/cpp_qtestlib.desktop:66
+#: file_templates/testing/cpp_qtestlib_kdevelop/cpp_qtestlib_kdevelop.desktop:65
+msgctxt "Language"
+msgid "C++"
+msgstr "C++"
+
+#: file_templates/classes/private_pointer/private_pointer.desktop:2
+msgctxt "Name"
+msgid "Private Pointer"
+msgstr "Özel İşaretçi"
+
+#: file_templates/classes/private_pointer/private_pointer.desktop:33
+msgctxt "Comment"
+msgid "C++ Class with a private D-pointer"
+msgstr "Bir özel D-işaretçili C++ Sınıfı"
+
+#: file_templates/classes/private_pointer/private_pointer.desktop:109
+#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:89
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:92
+#: file_templates/classes/qdialog/qdialog.desktop:88
+#: file_templates/classes/qobject/qobject.desktop:112
+#: file_templates/classes/qt_interface/qt_interface.desktop:92
+#: file_templates/classes/qt_shared/qt_shared.desktop:108
+#: file_templates/classes/qt_widget/qt_widget.desktop:109
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:87
+msgctxt "Name"
+msgid "Public Header"
+msgstr "Genel Başlık"
+
+#: file_templates/classes/private_pointer/private_pointer.desktop:144
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:127
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:127
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:131
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:122
+msgctxt "Name"
+msgid "Private Header"
+msgstr "Özel Başlık"
+
+#: file_templates/classes/python_basic/python_basic.desktop:37
+msgctxt "Comment"
+msgid "Basic Python Class"
+msgstr "Temel Python Sınıfı"
+
+#: file_templates/classes/python_basic/python_basic.desktop:70
+#: file_templates/testing/python_pyunit/python_pyunit.desktop:69
+msgctxt "Language"
+msgid "Python"
+msgstr "Python"
+
+#: file_templates/classes/python_basic/python_basic.desktop:113
+msgctxt "Name"
+msgid "Definition"
+msgstr "Tanım"
+
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "QObject pimpl subclass"
+msgctxt "Name"
+msgid "QAbstractItemModel pimpl subclass"
+msgstr "QObject pimpl alt sınıfı"
+
+#: file_templates/classes/qabstractitemmodel_pimpl/qabstractitemmodel_pimpl.desktop:23
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "QObject subclass with private implementation"
+msgctxt "Comment"
+msgid "QAbstractItemModel subclass with private implementation"
+msgstr "Gizli gerçeklemeli QObject alt sınıfı"
+
+#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "QObject pimpl subclass"
+msgctxt "Name"
+msgid "QAbstractItemModel subclass"
+msgstr "QObject pimpl alt sınıfı"
+
+#: file_templates/classes/qabstractitemmodel/qabstractitemmodel.desktop:23
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "QObject subclass with properties"
+msgctxt "Comment"
+msgid "QAbstractItemModel subclass with properties"
+msgstr "Özellikleriyle QObject alt sınıfı"
+
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:2
+msgctxt "Name"
+msgid "Dialog (pimpl) with a UI File"
+msgstr "UI dosyalı İletişim Penceresi (pimpl)"
+
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:24
+msgctxt "Comment"
+msgid ""
+"QDialog subclass with a separate Qt Designer file and private implementation"
+msgstr ""
+"Ayrı bir Qt Designer dosyasına ve özel uygulamasına sahip QDialog alt sınıfı"
+
+#: file_templates/classes/qdialog_pimpl/qdialog_pimpl.desktop:200
+#: file_templates/classes/qdialog/qdialog.desktop:161
+#: file_templates/classes/qt_widget/qt_widget.desktop:182
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:195
+msgctxt "Name"
+msgid "User Interface"
+msgstr "Kullanıcı arayüzü"
+
+#: file_templates/classes/qdialog/qdialog.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Dialog (pimpl) with a UI File"
+msgctxt "Name"
+msgid "Dialog with a UI File"
+msgstr "UI dosyalı İletişim Penceresi (pimpl)"
+
+#: file_templates/classes/qdialog/qdialog.desktop:22
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "QWidget subclass with a separate Qt Designer file"
+msgctxt "Comment"
+msgid "QDialog subclass with a separate Qt Designer file"
+msgstr "Ayrı bir Qt Designer dosyası olan QWidget alt sınıfı"
+
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:2
+msgctxt "Name"
+msgid "QObject pimpl subclass"
+msgstr "QObject pimpl alt sınıfı"
+
+#: file_templates/classes/qobject_pimpl/qobject_pimpl.desktop:26
+msgctxt "Comment"
+msgid "QObject subclass with private implementation"
+msgstr "Gizli gerçeklemeli QObject alt sınıfı"
+
+#: file_templates/classes/qobject/qobject.desktop:2
+msgctxt "Name"
+msgid "QObject subclass"
+msgstr "QObject alt sınıfı"
+
+#: file_templates/classes/qobject/qobject.desktop:35
+msgctxt "Comment"
+msgid "QObject subclass with properties"
+msgstr "Özellikleriyle QObject alt sınıfı"
+
+#: file_templates/classes/qt_interface/qt_interface.desktop:2
+msgctxt "Name"
+msgid "QObject interface class"
+msgstr "QObject arayüz sınıfı"
+
+#: file_templates/classes/qt_interface/qt_interface.desktop:25
+msgctxt "Comment"
+msgid "QObject interface class with properties"
+msgstr "Özellikleriyle QObject arayüzü alt sınıfı"
+
+#: file_templates/classes/qt_shared/qt_shared.desktop:2
+msgctxt "Name"
+msgid "Implicitly shared class"
+msgstr "Dolaylı olarak paylaşılan sınıf"
+
+#: file_templates/classes/qt_shared/qt_shared.desktop:33
+msgctxt "Comment"
+msgid "Class with a private QSharedData member"
+msgstr "Bir özel QSharedData üyeli sınıf"
+
+#: file_templates/classes/qt_widget/qt_widget.desktop:2
+msgctxt "Name"
+msgid "Widget with a UI File"
+msgstr "UI dosyalı programcık"
+
+#: file_templates/classes/qt_widget/qt_widget.desktop:33
+msgctxt "Comment"
+msgid "QWidget subclass with a separate Qt Designer file"
+msgstr "Ayrı bir Qt Designer dosyası olan QWidget alt sınıfı"
+
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Dialog (pimpl) with a UI File"
+msgctxt "Name"
+msgid "Widget (pimpl) with a UI File"
+msgstr "UI dosyalı İletişim Penceresi (pimpl)"
+
+#: file_templates/classes/qwidget_pimpl/qwidget_pimpl.desktop:22
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid ""
+#| "QDialog subclass with a separate Qt Designer file and private "
+#| "implementation"
+msgctxt "Comment"
+msgid ""
+"QWidget subclass with a separate Qt Designer file and private implementation"
+msgstr ""
+"Ayrı bir Qt Designer dosyasına ve özel uygulamasına sahip QDialog alt sınıfı"
+
+#: file_templates/other/cmake_module/cmake_module.desktop:2
+msgctxt "Name"
+msgid "CMake Module with pkg-config"
+msgstr "pkg-config ile CMake Modülü"
+
+#: file_templates/other/cmake_module/cmake_module.desktop:33
+msgctxt "Comment"
+msgid "CMake module for finding a library using pkg-config"
+msgstr "pkg-config kullanan bir kitaplık bulmak için CMake modülü"
+
+#: file_templates/other/cmake_module/cmake_module.desktop:65
+msgctxt "Language"
+msgid "CMake"
+msgstr "CMake"
+
+#: file_templates/other/cmake_module/cmake_module.desktop:109
+msgctxt "Name"
+msgid "Module"
+msgstr "Modül"
+
+#: file_templates/testing/cpp_cpputest/cpp_cpputest.desktop:2
+msgctxt "Name"
+msgid "CppUTest"
+msgstr "CppUTest"
+
+#: file_templates/testing/cpp_cpputest/cpp_cpputest.desktop:27
+msgctxt "Comment"
+msgid "A unit test using the CppUTest library"
+msgstr "CppUTest kitaplığını kullanan bir birim testi"
+
+#: file_templates/testing/cpp_gtest/cpp_gtest.desktop:2
+msgctxt "Name"
+msgid "Google Test"
+msgstr "Google Testi"
+
+#: file_templates/testing/cpp_gtest/cpp_gtest.desktop:27
+msgctxt "Comment"
+msgid "A unit test using the Google Test library"
+msgstr "Google Test kitaplığını kullanan birim testi"
+
+#: file_templates/testing/cpp_qtestlib/cpp_qtestlib.desktop:2
+msgctxt "Name"
+msgid "Test Suite"
+msgstr "Test Paketi"
+
+#: file_templates/testing/cpp_qtestlib/cpp_qtestlib.desktop:34
+msgctxt "Comment"
+msgid ""
+"A unit test suite using the QTest library without a graphical user interface"
+msgstr ""
+"Grafiksel kullanıcı arayüzü olmadan QTest kitaplığı kullanan birim test "
+"paketi"
+
+#: file_templates/testing/cpp_qtestlib_kdevelop/cpp_qtestlib_kdevelop.desktop:2
+msgctxt "Name"
+msgid "A test for KDevPlatform"
+msgstr "KDevPlatform için bir test"
+
+#: file_templates/testing/cpp_qtestlib_kdevelop/cpp_qtestlib_kdevelop.desktop:33
+msgctxt "Comment"
+msgid "A unit test using the QTest library with KDevPlatform test helpers"
+msgstr "KDevPlatform test yardımcılarıyla QTest kitaplığı kullanan birim testi"
+
+#: file_templates/testing/php_phpunit/php_phpunit.desktop:2
+msgctxt "Name"
+msgid "PHPUnit"
+msgstr "PHPUnit"
+
+#: file_templates/testing/php_phpunit/php_phpunit.desktop:36
+msgctxt "Comment"
+msgid "A unit test using the PHPUnit framework"
+msgstr "PHPUnit çatısı kullanan bir birim testi"
+
+#: file_templates/testing/php_phpunit/php_phpunit.desktop:68
+msgctxt "Language"
+msgid "Php"
+msgstr "Php"
+
+#: file_templates/testing/python_pyunit/python_pyunit.desktop:2
+msgctxt "Name"
+msgid "PyUnit"
+msgstr "PyUnit"
+
+#: file_templates/testing/python_pyunit/python_pyunit.desktop:37
+msgctxt "Comment"
+msgid "A unit test using the PyUnit framework"
+msgstr "PyUnit çatısı kullanan bir birim testi"
+
+#: kdevplatform/interfaces/kdevelopplugin.desktop:5
+msgctxt "Name"
+msgid "KDevelop Plugin"
+msgstr "KDevelop Eklentisi"
+
+#: plugins/appwizard/kdevappwizard.knsrc:2
+msgctxt "Name"
+msgid "Application Templates (SDK)"
+msgstr "Uygulama Şablonları (SDK)"
+
+#: plugins/bazaar/org.kde.kdevelop_bzr.desktop:7
+msgctxt "Name"
+msgid "KDevelop (Fetch Bazaar Project)"
+msgstr ""
+
+#: plugins/custom-buildsystem/kcm_kdevcustombuildsystem.desktop.cmake:12
+msgctxt "Name"
+msgid "Custom BuildSystem"
+msgstr "Özel Derleme Sistemi"
+
+#: plugins/custom-buildsystem/kcm_kdevcustombuildsystem.desktop.cmake:44
+msgctxt "Comment"
+msgid ""
+"Configure a projects custom build tool and includes/defines for the language "
+"support."
+msgstr ""
+"Bir projenin özel derleme aracını yapılandırır ve dil desteği için tanımları "
+"içerir."
+
+#: plugins/docker/dockerfile-template/dockerfile-template.desktop:2
+msgctxt "Name"
+msgid "Dockerfile"
+msgstr "Dockerfile"
+
+#: plugins/docker/dockerfile-template/dockerfile-template.desktop:25
+msgctxt "Comment"
+msgid ""
+"A Dockerfile is a text document that contains all the commands a user could "
+"call on the command line to assemble an image"
+msgstr ""
+"Dockerfile, kullanıcının bir imaj oluşturması için komut satırında "
+"ayarlayabileceği tüm komutları içiren bir metin belgesidir"
+
+#: plugins/docker/dockerfile-template/dockerfile-template.desktop:47
+#: plugins/flatpak/flatpak-template/flatpak-builder-manifest.desktop:45
+msgctxt "Language"
+msgid "JSON"
+msgstr "JSON"
+
+#: plugins/documentview/settings/kcm_documentview_settings.desktop:13
+msgctxt "Name"
+msgid "Document View"
+msgstr "Belge Görünümü"
+
+#: plugins/documentview/settings/kcm_documentview_settings.desktop:45
+msgctxt "Comment"
+msgid "Configure Document View settings"
+msgstr "Belge Görünümü Ayarlarını Yapılandır"
+
+#: plugins/filetemplates/kdevfiletemplates.knsrc:2
+msgctxt "Name"
+msgid "File Templates (SDK)"
+msgstr "Dosya Şablonları (SDK)"
+
+#: plugins/flatpak/flatpak-template/flatpak-builder-manifest.desktop:2
+msgctxt "Name"
+msgid "Flatpak Builder Manifest"
+msgstr "Flatpak Oluşturucu Bildirgesi"
+
+#: plugins/flatpak/flatpak-template/flatpak-builder-manifest.desktop:23
+msgctxt "Comment"
+msgid "A file to configure how a project is built by flatpak"
+msgstr ""
+"Bir projenin, flatpak tarafından nasıl yapılandırılacağını belirten dosya"
+
+#: plugins/git/org.kde.kdevelop_git.desktop:7
+msgctxt "Name"
+msgid "KDevelop (Fetch git Project)"
+msgstr ""
+
+#: plugins/qthelp/kdevelop-qthelp.knsrc:2
+msgctxt "Name"
+msgid "API Documentation (QtHelp)"
+msgstr "API Belgelendirmesi (QtYardım)"
+
+#: plugins/subversion/org.kde.kdevelop_svn.desktop:7
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDevelop (Pick Session)"
+msgctxt "Name"
+msgid "KDevelop (Fetch Subversion Project)"
+msgstr "KDevelop (Oturum Seçin)"
+
+#~ msgctxt "Name"
+#~ msgid "CMake QtCore C++"
+#~ msgstr "CMake QtCore C++"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Qt4 CMake Core application. Generate a CMake/Qt4 based application "
+#~ "(crossplatform compatible)"
+#~ msgstr ""
+#~ "Qt4 CMake çekirdek uygulaması. CMake/Qt4 tabanlı bir uygulama oluştur "
+#~ "(Çapraz platform uyumlu)"
+
+#~ msgctxt "Name"
+#~ msgid "CMake QtTest"
+#~ msgstr "CMake QtTest"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Qt4 CMake QTest Core application. Generate a CMake/Qt4 based application "
+#~ "(cross-platform)"
+#~ msgstr ""
+#~ "Qt4 CMake QTest Core uygulaması. CMake/Qt4 tabanlı bir uygulama oluştur "
+#~ "(çapraz platformlu)"
+
+#~ msgctxt "Name"
+#~ msgid "CMake Qt-C++"
+#~ msgstr "CMake Qt-C++"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Qt4 CMake Gui application. Generate a CMake/Qt4 based GUI application "
+#~ "(crossplatform compatible)"
+#~ msgstr ""
+#~ "Qt4 CMake Gui uygulaması. CMake/Qt4 tabanlı bir arayüz uygulaması oluştur "
+#~ "(çapraz platform uyumlu)"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Generate a QMake/Qt4 based application with graphical user interface "
+#~ "(crossplatform compatible)"
+#~ msgstr ""
+#~ "Grafik arayüz içeren bir QMake/Qt4 tabanlı bir uygulama oluştur (çapraz "
+#~ "platform uyumlu)"
+
+#~ msgctxt "Name"
+#~ msgid "QTestLib with KDE"
+#~ msgstr "QTestLib ve KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "A unit test using the QTest library with KDE extensions"
+#~ msgstr "QTest kitaplığını KDE eklentileriyle kullanan birim testi"
+
+#~ msgctxt "Name"
+#~ msgid "kde4app"
+#~ msgstr "kde4app"
+
+#~ msgctxt "GenericName"
+#~ msgid "A KDE4 Application"
+#~ msgstr "Bir KDE4 Uygulaması"
+
+#~ msgctxt "Name"
+#~ msgid "Okteta Integration"
+#~ msgstr "Okteta Bütünleştirmesi"
+
+#~ msgctxt "GenericName"
+#~ msgid "Hex Editor Integration"
+#~ msgstr "Altılık Dosya Düzenleyici Tümleştirmesi"
+
+#~ msgctxt "Comment"
+#~ msgid "KDevelop Hex Editor based on Okteta"
+#~ msgstr "Okteta temelli KDevelop Altılık Dosya Düzenleyici"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin provides QtHelp integration"
+#~ msgstr "Bu eklenti QtHelp bütünleşmesini sağlar"
+
+#~ msgctxt "GenericName"
+#~ msgid "Documentation Support"
+#~ msgstr "Belgelendirme Desteği"
+
+#~ msgctxt "Name"
+#~ msgid "KDevelop 4"
+#~ msgstr "KDevelop 4"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "This plugin provides a frontend for GDB, a source-level debugger for C, C+"
+#~ "+ and more."
+#~ msgstr ""
+#~ "Bu eklenti, C, C++ ve daha fazlası için bir kaynak-düzeyinde hata "
+#~ "ayıklayıcı olan GDB için bir önucu sağlar."
+
+#~ msgctxt "Name"
+#~ msgid "GDB Support"
+#~ msgstr "GDB Desteği"
+
+#~ msgctxt "GenericName"
+#~ msgid "Debugger Frontend"
+#~ msgstr "Hata Ayıklayıcı Önucu"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin provides Manual Pages integration"
+#~ msgstr "Bu eklenti Kılavuz Sayfaları bütünleşmesini sağlar"
+
+#~ msgctxt "Name"
+#~ msgid "Man Pages"
+#~ msgstr "Kılavuz Sayfaları"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "A plugin for formatting of sourcecode according to a specified set of "
+#~ "rules"
+#~ msgstr ""
+#~ "Belli kurallara göre kaynak kodları biçimlendirmeye yarayan bir eklenti"
+
+#~ msgctxt "Name"
+#~ msgid "AStyle Formatter Backend"
+#~ msgstr "Astyle Biçimleyici Arka Ucu"
+
+#~ msgctxt "GenericName"
+#~ msgid "Formatter Backend"
+#~ msgstr "Biçimleyici Arka Ucu"
+
+#~ msgctxt "Comment"
+#~ msgid "A plugin for formatting C files using custom scripts"
+#~ msgstr ""
+#~ "Özel betikler kullanarak C dosyalarını biçimlendirmek için bir eklenti"
+
+#~ msgctxt "Name"
+#~ msgid "Custom Script Formatter Backend"
+#~ msgstr "Özel Betik Biçimlendirici Arka Ucu"
+
+#~ msgctxt "Comment"
+#~ msgid "Lets you view a plasmoid"
+#~ msgstr "Bir plazmoid görüntülemenize imkan verir"
+
+#~ msgctxt "Name"
+#~ msgid "Plasmoid Launcher"
+#~ msgstr "Plazmoid Başlatıcı"
+
+#~ msgctxt "GenericName"
+#~ msgid "Plasmoid Launcher Support"
+#~ msgstr "Plazmoid Başlatıcı Desteği"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin helps to obtain KDE projects"
+#~ msgstr "Bu eklenti KDE projelerini edinmeye ayardım eder"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Provider"
+#~ msgstr "KDE Sağlayıcı"
+
+#~ msgctxt "GenericName"
+#~ msgid "KDE Provider"
+#~ msgstr "KDE Sağlayıcı"
+
+#~ msgctxt "Comment"
+#~ msgid "C/C++ Language Support"
+#~ msgstr "C/C++ Dil Desteği"
+
+#~ msgctxt "Name"
+#~ msgid "C++ Support"
+#~ msgstr "C++ Desteği"
+
+#~ msgctxt "GenericName"
+#~ msgid "Language Support"
+#~ msgstr "Dil Desteği"
+
+#~ msgctxt "Name"
+#~ msgid "Custom Defines And Includes Manager"
+#~ msgstr "Özel Tanımlamalar ve İçermeler Yöneticisi"
+
+#~ msgctxt "GenericName"
+#~ msgid "Custom Defines And Includes Manager"
+#~ msgstr "Özel Tanımlamalar ve İçermeler Yöneticisi"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Configure which macros and include directories/files will be added to the "
+#~ "parser during project parsing."
+#~ msgstr ""
+#~ "Proje ayrıştırması boyunca hangi makroların ve içerme dizinlerinin/"
+#~ "dosyalarının ayrıştırıcıya ekleneceğini yapılandırın."
+
+#~ msgctxt "Name"
+#~ msgid "CMake Project Builder"
+#~ msgstr "CMake Proje Oluşturucu"
+
+#~ msgctxt "GenericName"
+#~ msgid "Project Builder"
+#~ msgstr "Proje Oluşturucu"
+
+#~ msgctxt "Comment"
+#~ msgid "Builds CMake Projects"
+#~ msgstr "CMake Projelerini Derler"
+
+#~ msgctxt "Name"
+#~ msgid "Make Project Builder"
+#~ msgstr "Make Proje Oluşturucu"
+
+#~ msgctxt "Comment"
+#~ msgid "KDevelop Make Builder"
+#~ msgstr "KDevelop Make Builder"
+
+#~ msgctxt "Name"
+#~ msgid "Ninja Project Builder"
+#~ msgstr "Ninja Proje Derleyici"
+
+#~ msgctxt "Comment"
+#~ msgid "KDevelop Ninja Builder"
+#~ msgstr "KDevelop Ninja Derleyici"
+
+#~ msgctxt "Name"
+#~ msgid "CMake Documentation"
+#~ msgstr "CMake Belgelendirmesi"
+
+#~ msgctxt "Comment"
+#~ msgid "Allows KDevelop to provide CMake documentation"
+#~ msgstr "KDevelop uygulamasına CMake belgelendirmesi sağlar"
+
+#~ msgctxt "Name"
+#~ msgid "CMake Project Manager"
+#~ msgstr "CMake Proje Yönetici"
+
+#~ msgctxt "GenericName"
+#~ msgid "Project Manager"
+#~ msgstr "Proje Yönetici"
+
+#~ msgctxt "Comment"
+#~ msgid "Allows KDevelop to manage CMake-based projects"
+#~ msgstr ""
+#~ "KDevelop uygulamasının CMake temelli projeleri yönetmesine izin verir"
+
+#~ msgctxt "Comment"
+#~ msgid "Allows to use custom buildsystems for KDevelop projects"
+#~ msgstr ""
+#~ "KDevelop projeleri için özel derleme sistemleri kullanmaya izin verir"
+
+#~ msgctxt "Name"
+#~ msgid "Custom Makefile Project Manager"
+#~ msgstr "Özel Makefile Proje Yönetici"
+
+#~ msgctxt "Comment"
+#~ msgid "Imports and edits custom make projects"
+#~ msgstr "Özel make projelerini içeriye aktarır ve düzenler"
+
+#~ msgctxt "Comment"
+#~ msgid "This plugin helps to obtain projects from Github"
+#~ msgstr "Bu eklenti Github projelerini almanıza yardımcı olur"
+
+#~ msgctxt "Name"
+#~ msgid "Github Provider"
+#~ msgstr "Github Sağlayıcı"
+
+#~ msgctxt "GenericName"
+#~ msgid "Github Provider"
+#~ msgstr "Github Sağlayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Compiler Provider"
+#~ msgstr "Derleyici Sağlayıcı"
+
+#~ msgctxt "GenericName"
+#~ msgid "Compiler Provider"
+#~ msgstr "Derleyici Sağlayıcı"
+
+#~ msgctxt "Name"
+#~ msgid "QtHelp Documentation"
+#~ msgstr "QtHelp Belgelendirmesi"
+
+#~ msgctxt "Name"
+#~ msgid "Custom Defines And Includes"
+#~ msgstr "Özel Tanımlamalar ve İçermeler"
+
+#~ msgctxt "Name"
+#~ msgid "CMake"
+#~ msgstr "CMake"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure global CMake settings"
+#~ msgstr "Genel CMake ayarlarını yapılandır"
+
+#~ msgctxt "Name"
+#~ msgid "Make"
+#~ msgstr "Make"
+
+#~ msgctxt "Name"
+#~ msgid "Ninja"
+#~ msgstr "Ninja"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Ninja settings"
+#~ msgstr "Ninja ayarlarını yapılandır"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure CMake settings"
+#~ msgstr "CMake ayarlarını yapılandır"

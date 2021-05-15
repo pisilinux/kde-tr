@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-04 01:47+0000\n"
+"PO-Revision-Date: 2017-10-04 12:48+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: src/kcmplymouth_actions.actions:2
+msgctxt "Name"
+msgid "Plymouth Control Module"
+msgstr "Plymouth Kontrol Modülü"
+
+#: src/kcmplymouth_actions.actions:45
+msgctxt "Name"
+msgid "Save the Plymouth Theme"
+msgstr "Plymouth Temasını Kaydet"
+
+#: src/kcmplymouth_actions.actions:84
+msgctxt "Description"
+msgid "System policies prevent you from applying the Plymouth theme."
+msgstr "Sistem politikaları, Plymouth temasını eklemenizi engelliyor."
+
+#: src/kcmplymouth_actions.actions:126
+msgctxt "Name"
+msgid "Install a new Plymouth Theme"
+msgstr "Yeni bir Plymouth Teması kur"
+
+#: src/kcmplymouth_actions.actions:165
+msgctxt "Description"
+msgid "System policies prevent you from installing a Plymouth theme."
+msgstr "Sistem politikaları, Plymouth temasını kurmanızı engelliyor."
+
+#: src/kcmplymouth_actions.actions:207
+msgctxt "Name"
+msgid "Uninstall a new Plymouth Theme"
+msgstr "Plymouth Temasını kaldır"
+
+#: src/kcmplymouth_actions.actions:246
+msgctxt "Description"
+msgid "System policies prevent you from uninstalling a Plymouth theme."
+msgstr "Sistem politikaları, Plymouth temasını kaldırmanızı engelliyor."
+
+#: src/kcm_plymouth.desktop:13
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Plymouth Splash Screen"
+msgctxt "Name"
+msgid "Boot Splash Screen"
+msgstr "Plymouth Açılış Ekranı"
+
+#: src/kcm_plymouth.desktop:47
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Plymouth splash screen"
+msgctxt "Comment"
+msgid "Choose Plymouth boot splash screen"
+msgstr "Plymouth açılış ekranı"
+
+#: src/kcm_plymouth.desktop:81
+#, fuzzy
+#| msgctxt "X-KDE-Keywords"
+#| msgid "plymouth,splash,splash screen"
+msgctxt "X-KDE-Keywords"
+msgid "plymouth,splash,splash screen,boot splash"
+msgstr "plymouth,splash,splash screen,açılış ekranı"
+
+#: src/package/metadata.desktop:2
+msgctxt "Name"
+msgid "System Splash"
+msgstr "Sistem Açılış Ekranı"
+
+#: src/package/metadata.desktop:42
+msgctxt "Comment"
+msgid "Plymouth splash screen"
+msgstr "Plymouth açılış ekranı"
+
+#~ msgctxt "Name"
+#~ msgid "Boot Splash"
+#~ msgstr "Ön Yükleme Açılış Ekranı"

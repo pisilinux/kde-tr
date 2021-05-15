@@ -1,0 +1,147 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: calligra-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-03-31 02:41+0200\n"
+"PO-Revision-Date: 2015-02-08 13:25+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: ChangeVideoCommand.cpp:34
+msgctxt "(qtundo-format)"
+msgid "Change video"
+msgstr "Videoyu Değiştir"
+
+#. i18n: ectx: property (text), widget (QPushButton, btnVideoFile)
+#: forms/VideoToolWidget.ui:33
+#, kde-format
+msgid "Replace video..."
+msgstr "Videoyu değiştir..."
+
+#. i18n: ectx: property (text), widget (QPushButton, btnPlay)
+#: forms/VideoToolWidget.ui:40
+#, kde-format
+msgid "Play Video"
+msgstr "Video Oynat"
+
+#: FullScreenPlayer.cpp:67 VideoTool.cpp:47
+#, kde-format
+msgid "Play"
+msgstr "Oynat"
+
+#: FullScreenPlayer.cpp:72
+#, kde-format
+msgid "Pause"
+msgstr "Duraklat"
+
+#: FullScreenPlayer.cpp:77
+#, kde-format
+msgid "Stop"
+msgstr "Durdur"
+
+#: FullScreenPlayer.cpp:82
+#, kde-format
+msgid "Unmute"
+msgstr "Sesi aç"
+
+#: FullScreenPlayer.cpp:87
+#, kde-format
+msgid "Mute"
+msgstr "Sesi Kapat"
+
+#: SelectVideoWidget.cpp:40
+#, kde-format
+msgid "Save as part of document"
+msgstr "Belgenin bir parçası olarak kaydet"
+
+#: VideoShapeFactory.cpp:37
+#, kde-format
+msgid "Video"
+msgstr "Video"
+
+#: VideoShapeFactory.cpp:39
+#, kde-format
+msgid "Video, embedded or fullscreen"
+msgstr "Video, gömülü ya da tam ekran"
+
+#: VideoToolFactory.cpp:31
+#, kde-format
+msgid "Video handling"
+msgstr "Video işleme"
+
+#, fuzzy
+#~| msgid "Replace video..."
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Replace video..."
+#~ msgstr "Videoyu değiştir..."
+
+#, fuzzy
+#~| msgid "Play Video"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Play Video"
+#~ msgstr "Video Oynat"
+
+#, fuzzy
+#~| msgid "Play"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Play"
+#~ msgstr "Oynat"
+
+#, fuzzy
+#~| msgid "Pause"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Pause"
+#~ msgstr "Duraklat"
+
+#, fuzzy
+#~| msgid "Stop"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Stop"
+#~ msgstr "Durdur"
+
+#, fuzzy
+#~| msgid "Unmute"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Unmute"
+#~ msgstr "Sesi aç"
+
+#, fuzzy
+#~| msgid "Mute"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Mute"
+#~ msgstr "Sesi Kapat"
+
+#, fuzzy
+#~| msgid "Save as part of document"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Save as part of document"
+#~ msgstr "Belgenin bir parçası olarak kaydet"
+
+#, fuzzy
+#~| msgid "Video"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#, fuzzy
+#~| msgid "Video, embedded or fullscreen"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Video, embedded or fullscreen"
+#~ msgstr "Video, gömülü ya da tam ekran"
+
+#, fuzzy
+#~| msgid "Video handling"
+#~ msgctxt "(qtundo-format)"
+#~ msgid "Video handling"
+#~ msgstr "Video işleme"

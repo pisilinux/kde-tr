@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.krusader.appdata\n"
+"POT-Creation-Date: 2017-01-05 03:47+0100\n"
+"PO-Revision-Date: 2017-08-10 15:07+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. (itstool) path: component/name
+#: org.kde.krusader.appdata.xml:6
+msgid "Krusader"
+msgstr "Krusader"
+
+#. (itstool) path: component/summary
+#: org.kde.krusader.appdata.xml:7
+msgid "File Manager"
+msgstr "Dosya Yöneticisi"
+
+#. (itstool) path: description/p
+#: org.kde.krusader.appdata.xml:9
+msgid "Krusader is an advanced twin panel (commander style) file manager"
+msgstr ""
+"Krusader, gelişmiş bir ikiz panel (commander türünde) dosya yöneticisidir"
+
+#. (itstool) path: description/p
+#: org.kde.krusader.appdata.xml:10
+msgid "Features:"
+msgstr "Özellikler:"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:12
+msgid "Extensive archive handling"
+msgstr "Kapsamlı arşiv yönetimi"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:13
+msgid "Mounted filesystem support"
+msgstr "Bağlı dosya sistemi desteği"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:14
+msgid "FTP support"
+msgstr "FTP desteği"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:15
+msgid "Advanced search module"
+msgstr "Gelişmiş arama modülü"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:16
+msgid "Internal viewer/editor"
+msgstr "Dahili görüntüleyici/düzenleyici"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:17
+msgid "Folder synchronisation"
+msgstr "Klasör eşleştirme"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:18
+msgid "File content comparisons"
+msgstr "Dosya içeriği karşılaştırma"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:19
+msgid "Powerful batch renaming"
+msgstr "Güçlü toplu yeniden isimlendirme"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:20
+msgid ""
+"Support for a wide variety of archive formats and can handle other KIO "
+"slaves such as smb or fish."
+msgstr ""
+"Çok çeşitli arşiv biçimleri desteği ve smb veya fish gibi diğer KIO "
+"araçlarının yönetimi"
+
+#. (itstool) path: ul/li
+#: org.kde.krusader.appdata.xml:21
+msgid "Completely customizable and very user friendly"
+msgstr "Tamam kişiselleştirilebilir ve oldukça kullanıcı dostu"
